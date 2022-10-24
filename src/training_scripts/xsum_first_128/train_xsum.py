@@ -3,6 +3,8 @@ from datasets import load_dataset
 from rouge import Rouge
 
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
+import transformers
+from trainer import Trainer
 from torch.utils.data import DataLoader
 from pl_bolts.optimizers.lr_scheduler import LinearWarmupCosineAnnealingLR
 import wandb
@@ -38,7 +40,12 @@ def reset_metrics(metrics):
     return metrics
 
 def training_step(data, model, metrics, step, log = False, wandb = None, args = None):
-    out = model(input_ids = data['article']['input_ids'], labels = data['summary']['input_ids'], attention_mask = data['article']['attention_mask'])
+    data['article']['input_ids'] = data['article']['input_ids'].cuda()
+    data['article']['attention_mask'] = data['article']['attention_mask'].cuda()
+    data['summary']['input_ids'] = data['summary']['input_ids'].cuda()
+
+
+    out =  model(input_ids = data['article']['input_ids'], labels = data['summary']['input_ids'], attention_mask = data['article']['attention_mask'])
     metrics['loss'] += out['loss']
     if log:
         log_metrics(metrics, step, args, wandb = None, train = True)
@@ -46,21 +53,27 @@ def training_step(data, model, metrics, step, log = False, wandb = None, args = 
     return out['loss']
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None):
-    out = model(input_ids = data['article']['input_ids'], labels = data['summary']['input_ids'], attention_mask = data['article']['attention_mask'])
+    data['article']['input_ids'] = data['article']['input_ids'].cuda()
+    data['article']['attention_mask'] = data['article']['attention_mask'].cuda()
+    data['summary']['input_ids'] = data['summary']['input_ids'].cuda()
+
+    out = model(input_ids = data['article']['input_ids'].cuda(), labels = data['summary']['input_ids'].cuda(), attention_mask = data['article']['attention_mask'].cuda())
     generate_out = model.generate(input_ids = data['article']['input_ids'], attention_mask = data['article']['attention_mask'])
     model_out = dataset.tokenizer.batch_decode(generate_out)
-    metrics['loss'] += out['loss']
+
     rouge = Rouge()
     rouge_score = rouge.get_scores(model_out, list(data['summary_text']), avg = True)
+
+    metrics['loss'] += out['loss']
     metrics['rouge1_f'] += rouge_score['rouge-1']['f']
     metrics['rouge2_f'] += rouge_score['rouge-2']['f']
-    metrics['rougeL_f'] += rouge_score['rouge-L']['f']
+    metrics['rougeL_f'] += rouge_score['rouge-l']['f']
     metrics['rouge1_p'] += rouge_score['rouge-1']['p']
     metrics['rouge2_p'] += rouge_score['rouge-2']['p']
-    metrics['rougeL_p'] += rouge_score['rouge-L']['p']
+    metrics['rougeL_p'] += rouge_score['rouge-l']['p']
     metrics['rouge1_r'] += rouge_score['rouge-1']['r']
     metrics['rouge2_r'] += rouge_score['rouge-2']['r']
-    metrics['rougeL_r'] += rouge_score['rouge-L']['r']
+    metrics['rougeL_r'] += rouge_score['rouge-l']['r']
 
     if log:
         log_metrics(metrics, step, args, wandb = None, train = False)
@@ -100,7 +113,6 @@ if __name__ == '__main__':
     model = create_model(args.model_name, args.max_length)
 
     #create the trainer
-    from training_scripts.trainer import Trainer
     step = 0
 
     metrics = {}
@@ -118,7 +130,7 @@ if __name__ == '__main__':
     val_metrics['rouge2_r'] = 0
     val_metrics['rougeL_r'] = 0
 
-    optimizer = torch.optim.AdamW(model.parameters(), lr=1e-5)
+    optimizer =  torch.optim.AdamW(model.parameters(), lr = 1e-5, weight_decay = .0001)
     schedule = LinearWarmupCosineAnnealingLR(
                             optimizer,
                             warmup_epochs= args.warmup_steps,

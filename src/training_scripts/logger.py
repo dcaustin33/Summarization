@@ -12,8 +12,8 @@ def log_metrics(metrics: dict,
     if train:
         print(step, "Loss:", round(metrics['loss'].item(), 2))
 
-    print('In Logging', wandb, args.rank)
-    if wandb and args.rank == 0:
+    print('In Logging', wandb)
+    if wandb:
         if not train:
             new_metrics = {}
             for i in metrics:

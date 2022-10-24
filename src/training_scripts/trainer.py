@@ -46,6 +46,7 @@ class Trainer:
         if self.current_step: steps = self.current_step
         else: steps = 0
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+        #device = torch.device('cpu')
 
         self.model = self.model.to(device)
 
@@ -60,11 +61,12 @@ class Trainer:
             os.system('rm -r -f {path}'.format(path = check_path))
             os.mkdir(check_path)
         check_path = check_path + '/'
+        scaler = torch.cuda.amp.GradScaler()
 
         while steps < self.args.steps:
 
             for i, data in enumerate(self.dataloader):
-                print(i)
+
                 data['article'] = self.dataset.tokenizer(data['article_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
                 data['summary'] = self.dataset.tokenizer(data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
 
@@ -94,22 +96,23 @@ class Trainer:
                         'optimizer_state_dict': self.optimizer.state_dict(),
                         }, '{name}_checkpoint.pt'.format(name = check_path + self.args.name))
                 if steps % self.args.log_n_val_steps == 0:
+                    with torch.no_grad():
                     
-                    val_steps = 0
-                    while val_steps < self.args.val_steps:
+                        val_steps = 0
+                        while val_steps < self.args.val_steps:
 
-                        for k, val_data in enumerate(self.val_dataloader):
-                            val_data['article'] = self.dataset.tokenizer(val_data['article_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
-                            val_data['summary'] = self.dataset.tokenizer(val_data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
-                            
-                            if val_steps >= self.args.val_steps: 
-                                break
-                            if val_steps % self.args.log_n_val_steps == 0 and val_steps != 0:
-                                loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = True, wandb = self.wandb, args = self.args)
-                            else:
-                                loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = False, wandb = self.wandb, args = self.args)
-                            val_steps += 1
-                        print('out val')
+                            for k, val_data in enumerate(self.val_dataloader):
+                                val_data['article'] = self.dataset.tokenizer(val_data['article_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
+                                val_data['summary'] = self.dataset.tokenizer(val_data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
+                                
+                                if val_steps >= self.args.val_steps: 
+                                    break
+                                if val_steps % self.args.log_n_val_steps == 0 and val_steps != 0:
+                                    loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = True, wandb = self.wandb, args = self.args)
+                                else:
+                                    loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = False, wandb = self.wandb, args = self.args)
+                                val_steps += 1
+                            print('out val')
 
         torch.save({
                     'step': steps,
