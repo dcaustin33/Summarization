@@ -1,0 +1,50 @@
+Starting from step 0
+Training for 20000 steps
+10 9.71087646484375
+20 17.232624292373657
+30 24.7155179977417
+40 32.182212829589844
+50 39.56852149963379
+60 47.08671808242798
+70 54.54496192932129
+80 62.140856981277466
+90 69.57952427864075
+100 Loss: 310.2
+In Logging <wandb.sdk.wandb_run.Run object at 0x7f937d0e1f10>
+logging
+100 77.09561038017273
+/opt/conda/lib/python3.7/site-packages/transformers/generation_utils.py:1301: UserWarning: Neither `max_length` nor `max_new_tokens` has been set, `max_length` will default to 128 (`self.config.max_length`). Controlling `max_length` via the config is deprecated and `max_length` will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
+  UserWarning,
+out val
+110 93.38052892684937
+120 100.81649899482727
+130 108.42394828796387
+140 115.91112875938416
+Traceback (most recent call last):
+  File "train_xsum.py", line 179, in <module>
+    trainer.train()
+  File "/home/da2986/Summarization/src/training_scripts/trainer.py", line 80, in train
+    loss = self.training_step(data, self.model, self.metrics, steps, log = False, wandb = self.wandb, args = self.args)
+  File "train_xsum.py", line 48, in training_step
+    out =  model(input_ids = data['article']['input_ids'], labels = data['summary']['input_ids'], attention_mask = data['article']['attention_mask'])
+  File "/opt/conda/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1416, in forward
+    return_dict=return_dict,
+  File "/opt/conda/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1270, in forward
+    return_dict=return_dict,
+  File "/opt/conda/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1103, in forward
+    use_cache=use_cache,
+  File "/opt/conda/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 450, in forward
+    output_attentions=output_attentions,
+  File "/opt/conda/lib/python3.7/site-packages/torch/nn/modules/module.py", line 1130, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 286, in forward
+    attn_output = self.out_proj(attn_output)
+KeyboardInterrupt

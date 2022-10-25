@@ -107,9 +107,8 @@ class Trainer:
                                 val_data['summary'] = self.dataset.tokenizer(val_data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
                                 
                                 if val_steps >= self.args.val_steps: 
-                                    break
-                                if val_steps % self.args.log_n_val_steps == 0 and val_steps != 0:
                                     loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = True, wandb = self.wandb, args = self.args)
+                                    break
                                 else:
                                     loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = False, wandb = self.wandb, args = self.args)
                                 val_steps += 1

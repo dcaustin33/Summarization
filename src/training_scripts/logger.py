@@ -1,5 +1,3 @@
-logger
-
 import torchmetrics
 import torch
 from sklearn.metrics import roc_auc_score, roc_curve
@@ -19,9 +17,9 @@ def log_metrics(metrics: dict,
         if not train:
             new_metrics = {}
             for i in metrics:
-                if 'loss' in i or 'rouge' in i:
-                    new_metrics['Val ' + i] = metrics[i]
+                new_metrics['Val ' + i] = metrics[i]
             print('logging')
+            print(new_metrics)
             wandb.log(new_metrics, step = step)
         else:
             print('logging')

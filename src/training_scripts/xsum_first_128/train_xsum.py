@@ -64,6 +64,7 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
 
         rouge = Rouge()
         rouge_score = rouge.get_scores(model_out, list(data['summary_text']), avg = True)
+        print(wandb)
 
         metrics['loss'] += out['loss']
         metrics['rouge1_f'] += rouge_score['rouge-1']['f']

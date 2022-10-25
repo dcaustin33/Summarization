@@ -1,0 +1,47 @@
+Starting from step 0
+Training for 20000 steps
+10 9.557008266448975
+20 16.970685482025146
+30 24.333127737045288
+40 31.664864778518677
+50 39.07444763183594
+60 46.454716205596924
+70 54.028719663619995
+80 61.51143836975098
+90 68.82384538650513
+100 Loss: 301.75
+In Logging <wandb.sdk.wandb_run.Run object at 0x7f636b6b9210>
+logging
+100 76.33229446411133
+/opt/conda/lib/python3.7/site-packages/transformers/generation_utils.py:1301: UserWarning: Neither `max_length` nor `max_new_tokens` has been set, `max_length` will default to 128 (`self.config.max_length`). Controlling `max_length` via the config is deprecated and `max_length` will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
+  UserWarning,
+<wandb.sdk.wandb_run.Run object at 0x7f636b6b9210>
+<wandb.sdk.wandb_run.Run object at 0x7f636b6b9210>
+out val
+110 97.98260021209717
+120 105.54275465011597
+130 113.01709389686584
+140 120.46526670455933
+150 127.7959635257721
+160 135.3216097354889
+170 142.70480465888977
+180 150.11524510383606
+190 157.5645306110382
+Traceback (most recent call last):
+  File "train_xsum.py", line 180, in <module>
+    trainer.train()
+  File "/home/da2986/Summarization/src/training_scripts/trainer.py", line 84, in train
+    self.optimizer.step()
+  File "/opt/conda/lib/python3.7/site-packages/torch/optim/lr_scheduler.py", line 65, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/torch/optim/optimizer.py", line 113, in wrapper
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/torch/autograd/grad_mode.py", line 27, in decorate_context
+    return func(*args, **kwargs)
+  File "/opt/conda/lib/python3.7/site-packages/torch/optim/adamw.py", line 175, in step
+    capturable=group['capturable'])
+  File "/opt/conda/lib/python3.7/site-packages/torch/optim/adamw.py", line 231, in adamw
+    capturable=capturable)
+  File "/opt/conda/lib/python3.7/site-packages/torch/optim/adamw.py", line 267, in _single_tensor_adamw
+    exp_avg_sq.mul_(beta2).addcmul_(grad, grad, value=1 - beta2)
+KeyboardInterrupt

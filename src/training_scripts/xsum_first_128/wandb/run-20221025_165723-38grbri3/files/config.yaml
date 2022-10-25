@@ -1,0 +1,82 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.4
+    framework: huggingface
+    huggingface_version: 4.23.1
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.7.12
+    start_time: 1666717043.55481
+    t:
+      1:
+      - 1
+      - 5
+      - 9
+      - 11
+      - 49
+      - 51
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 9
+      - 11
+      - 49
+      - 51
+      - 53
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.7.12
+      5: 0.13.4
+      6: 4.23.1
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 8
+checkpoint:
+  desc: null
+  value: false
+checkpoint_every_n_steps:
+  desc: null
+  value: 1000
+checkpoint_path:
+  desc: null
+  value: null
+log:
+  desc: null
+  value: true
+log_n_train_steps:
+  desc: null
+  value: 100
+log_n_val_steps:
+  desc: null
+  value: 100
+max_length:
+  desc: null
+  value: 128
+model_name:
+  desc: null
+  value: google/pegasus-large
+name:
+  desc: null
+  value: Pegasus_XSum_first_128
+steps:
+  desc: null
+  value: 20000
+val_steps:
+  desc: null
+  value: 2
+warmup_steps:
+  desc: null
+  value: 100
+workers:
+  desc: null
+  value: 4
