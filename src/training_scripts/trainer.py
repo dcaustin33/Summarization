@@ -79,9 +79,10 @@ class Trainer:
                 else:
                     loss = self.training_step(data, self.model, self.metrics, steps, log = False, wandb = self.wandb, args = self.args)
                     
-                self.optimizer.zero_grad()
+                self.optimizer.zero_grad(set_to_none=True)
                 loss.backward()
                 self.optimizer.step()
+                self.optimizer.zero_grad(set_to_none=True)
                 
                 if self.schedule:
                     self.schedule.step()
