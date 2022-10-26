@@ -1,0 +1,632 @@
+Generations for Eval_Pegasus_XSum_first_128
+Article text: But since 2007, when Ian Paisley agreed to share power at Stormont with Sinn Féin, the DUP has become a party of government.
+When Ian Paisley became MP in 1970, he stood as a Protestant Unionist, but his party was relaunched as the Democratic Unionist Party in 1971.
+The party drew support from Protestants and was fiercely opposed to any moves towards involving the Republic of Ireland in Northern Ireland affairs.
+During the 1990s, the DUP pulled out of talks that led to the Good Friday Agreement in protest against the decision to invite the IRA's political wing, Sinn Féin, to enter negotiations.
+The DUP benefited from growing unionist unease over power-sharing and the failure of the IRA to decommission, overtaking the Ulster Unionists at the Northern Ireland Assembly elections in 2003.
+Nine DUP MPs were subsequently elected.
+In 2006, the party was a key player in the St Andrews' Agreement in Scotland.  A year later, the party made its historic decision to share power with Sinn Féin.
+Ian Paisley served as first minister until 2008 when Peter Robinson took over.
+But, in the most surprising result of the 2010 General Election, Mr Robinson lost his East Belfast Westminster seat to Alliance's Naomi Long.
+Regaining East Belfast is a key DUP objective in 2015, and it is one of four seats covered by an electoral pact between the DUP and UUP.
+The  DUP currently has eight MPs and is the fourth largest party at Westminster - a fact it highlighted when it was excluded from UK pre-election television debates.
+The relationship between Peter Robinson and Martin McGuinness has never appeared as friendly as that between the deputy first minister and Mr Paisley.
+It continues to appear strained, notably over the issue of welfare reform.
+The DUP, which holds the ministry in the Northern Ireland Executive responsible for the implementation of the bill, and Sinn Féin, whose leadership in the Republic of Ireland has championed an anti-austerity approach, seem to be at loggerheads.
+It was thought a deal had been done during talks at Stormont in December 2014, but in March -  on the day the final stage of the bill was due to pass through the assembly -  Sinn Féin withdrew its support and the bill's passage was halted.
+----------------------------------------
+Ground truth Summary: For more than three decades, the Democratic Unionist Party was the natural party of protest for unionists in Northern Ireland, the outsiders who challenged the establishment Official, or Ulster, Unionists.
+----------------------------------------
+Generated Summary: The Democratic Unionist Party (DUP) was founded by Ian Paisley in 1971.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The talks will focus on the practical measures needed to reopen embassies in Havana and Washington.
+Although relations have improved in recent months a US trade embargo remains in place.
+Last month President Barack Obama said Cuba would be removed from the US list of state sponsors of terrorism.
+Havana had said it needed to be taken off the list before talks to reopen embassies could begin.
+In a statement the State Department said it will host a Cuban delegation on 21 May.
+"A US Embassy in Havana will allow the United States to more effectively promote our interests and values, and increase engagement with the Cuban people."
+In April, President Barack Obama met Cuban President Raul Castro, the first sit-down talks between the nations' leaders since 1956.
+----------------------------------------
+Ground truth Summary: The US State Department has said that US and Cuban negotiators will meet next Thursday to discuss re-establishing embassies in each other's capitals.
+----------------------------------------
+Generated Summary: The US State Department says it will hold talks with Cuba next week on reopening embassies in Havana and Washington.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: She ran home. As she came through her gate she noticed some tiles had fallen from the roof.
+Her son came out, and said: "There is a body in the kitchen."
+"What body?" she replied.
+But as she walked into her sparse, simple kitchen there was a pile of rubble on the floor, below a large hole in the ceiling.
+And on top of the rubble, lay the barely-recognisable body of a woman.
+The woman, whose name Inna never found out, was one of the 298 people killed when the Malaysian Airlines passenger jet MH17 was shot down over eastern Ukraine a year ago.
+"When I think about it, it is like it's real, as though it's happening now", said Inna.
+"The picture is vivid."
+Fighting back the tears, she speaks of how she imagines the "unbearable pain" of the woman's family, and her own grief for a stranger, murdered in the sky over her home.
+In total 39 bodies lay scattered around Inna's village of Rossypnoye, and some were not collected for several days.
+The local mayor, Oleg Miroshnichenko, says people in the area experienced a deep sense of shock and tragedy that "resonated with every human soul".
+And he says the feelings have not gone away.
+"It's an irreversible pain."
+Inna, who wears a silver crucifix around her neck, believes some form of justice awaits those responsible for downing the plane.
+"No matter what, the people who did it will be punished," she says.
+Establishing who shot down flight MH17, how they did it, and from where, is the job of a Dutch-led international investigation team, which hopes to publish some of its findings in the new year.
+As well as forensic work on the wreckage of the aircraft, the Dutch prosecutor leading that investigation, Fred Westerbeke, told the BBC that investigators had been studying "billions" of internet pages, and tens of thousands of photos and videos related to the downing of the airliner.
+He confirmed that his team had spoken to about 140 witnesses, and identified a number of "persons of interest", but he said it was too early to identify them as suspects, or release their names or nationalities.
+What we know
+MH17 crash: The 298 who perished
+Dutch reporter: My revealing fragments
+Special report
+Getting to the truth behind the downing of the airliner is a Herculean task, given the climate of mistruths and propaganda in eastern Ukraine, linked to the conflict in the region.
+To counter accusations of bias, Mr Westerbeke said his team had to properly consider all theories and all claims.
+"An alternative scenario, whoever brings it out, you have to prove that that could not have been the case", he said.
+"We have to clear out all of the other options."
+A separate investigation, being carried out by the Dutch Safety Board, is expected to publish its full findings in October.
+Its preliminary report, published last year, found that the plane broke up in mid-air after being hit by "objects" that "pierced the plane at high-velocity".
+That analysis is consistent with possible shrapnel damage sustained from a surface-to-air-missile.
+But for now, relatives of those who were killed are left waiting for answers.
+Jeremy Pocock's 20-year-old son, Ben, was travelling on the plane.
+He says it is "absolutely crucial" that those responsible are identified and brought in front of an international tribunal - an idea backed by several countries, including the Netherlands, Malaysia, Australia, and now also Britain.
+Speaking to the BBC ahead of the first anniversary of the disaster, Mr Pocock called on the UK government to take a more robust position in the pursuit of justice for the 10 British victims on board the plane.
+He also questioned why Russia had expressed scepticism about the idea of an international tribunal.
+"We mustn't lose sight of the fact that there were 80 children on that plane, including many babies," he said.
+"Families were wiped out. There were numerous young adults, including Ben, who had barely started their adult lives, and in a blink of an eye, it was gone."
+"We cannot and must not forget that."
+----------------------------------------
+Ground truth Summary: On 17 July 2014, 60-year-old Inna Tipunova was with friends in her village, when they heard such a loud boom that they thought they "were being bombed".
+----------------------------------------
+Generated Summary: On the morning of 17 July last year, a woman in the Malaysian city of Kuala Lumpur was woken by a loud bang.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Roy Burke said the expiry of an agreement with Dutch company Verweij and Partners meant no-one now had exclusive rights to work on the site.
+The company had originally pledged to start redeveloping Fort Tourgis by the end of 2012.
+Plans for the Victorian fortification include a hotel and conference centre.
+Mr Burke said: "Verweij and Partners no longer have exclusivity on Fort Tourgis... nobody has the right to build or develop Fort Tourgis."
+He added: "If they come along with plans tomorrow, the States of Alderney would have to relook at those plans and decide whether or not they want to proceed with that development."
+Verweij and Partners entered into negotiations with the States of Alderney in 2007.
+The company submitted plans for a resort, which would include spa facilities and 50-70 bedrooms.
+Mr Burke said any development would need to involve much work to the inside of the fort, due to the fact that many of the floors have rotted and collapsed.
+He said: "Virtually all the original features will have to stay.
+"From an economic perspective there's no doubt it will be a great boon for Alderney."
+Mr Burke said he would be meeting a representative of Verweij and Partners in a few weeks, and was expecting an update on the development.
+He said following an announcement earlier in the year that part of the company had been declared bankrupt, he was examining its finances.
+Attempts to contact Verweij and Partners were unsuccessful, with the company's phone lines in the Netherlands appearing to have been disconnected.
+----------------------------------------
+Ground truth Summary: An agreement on the redevelopment of Alderney's derelict Fort Tourgis has lapsed, according to the chief executive of the island's States.
+----------------------------------------
+Generated Summary: Plans for the redevelopment of Fort Tourgis on the Isle of Man have been put on hold because of the expiry of an exclusivity agreement, the island's deputy chief minister has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mr Jammeh has denied similar allegations in the past.
+He will be seeking re-election for a fifth term and for the first time he will be facing a single major opposition candidate.
+HRW urges external pressure on The Gambia to prevent further violence.
+In a report published on Wednesday, the group says two Gambian activists have died in custody, with dozens of critics of President Jammeh in jail.
+They are being denied medical or legal help, the report says.
+The Gambia, a popular tourist destination because of its beaches, has never experienced a democratic transition of power since independence.
+Mr Jammeh took over in a 1994 coup. His critics accuse him of running a repressive state, an allegation he denies.
+Most of the major Gambian opposition parties last week picked a single candidate - businessman Adama Barrow of the United Democratic Party (UDP).
+Mr Barrow's nomination is the result of the biggest opposition alliance in Gambia since independence, the AFP news agency reported.
+HRW says the prospect of political change in December has prompted Mr Jammeh's government to step up oppression against critics.
+It claims a torture squad, linked to the presidential guard, is terrorising opponents ahead of the election.
+The group wants freedom benchmarks to be imposed now - by the United States, the European Union and The Gambia's West African neighbours - to prevent more bloodshed.
+Last week, The Gambia said it would pull of the International Criminal Court (ICC) after accusing the tribunal of persecuting and humiliating Africans.
+The small West African nation joined South Africa and Burundi in saying it will withdraw from the court.
+----------------------------------------
+Ground truth Summary: President Yahya Jammeh of The Gambia is using violence to silence critics in the lead-up to presidential election in December and pressure is needed to stop it, Human Rights Watch (HRW) says.
+----------------------------------------
+Generated Summary: Human Rights Watch (HRW) has accused Gambia's President Yahya Jammeh of human rights abuses ahead of next month's elections.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 11 May 2014 Last updated at 11:24 BST
+Hundreds of volunteer builders gathered in the city centre to make the tower, using 1,000 cardboard bricks.
+The People's Tower community art event was created to mark the opening weekend of the annual Norfolk and Norwich Festival.
+The tower is 22 metres tall and is designed to look like the St Peter Mancroft Church tower.
+It took more than eight hours to complete and was held together by more than eight miles of packing tape.
+It was designed by French artist Olivier GrossetÃªte.
+----------------------------------------
+Ground truth Summary: A church made of cardboard boxes has been built in Norwich.
+----------------------------------------
+Generated Summary: A giant cardboard tower has been built in Norwich to mark the city's 150th anniversary.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Terriers took a fifth-minute lead through Elias Kachunga's header but Jonny Howson equalised for the hosts just 66 seconds later.
+Kachunga put the visitors back in front before the break when he poked an effort past John Ruddy via a deflection off Sebastien Bassong.
+The Canaries had chances in the second half but defeat means they have now lost seven of their last nine games.
+Relive Norwich v Huddersfield
+For David Wagner's side victory was their third in successive games after five without a win, but their first goal came about in controversial circumstances.
+Kachunga looked to be in an offside position when Tommy Smith crossed in from the right, however the header was allowed to stand.
+The Canaries got back into the match almost immediately when Robbie Brady hooked a cross to captain Howson to head home his fourth goal of the season.
+But, soon after Terriers forward Nahki Wells nearly capitalised on a wayward Graham Dorrans backpass, Kachunga was given too much space in the middle of the park to run forward, play a one-two with Smith and prod in his ninth of the campaign.
+Kachunga missed a similar chance for a hat-trick in a second half which Norwich shaded, but could not find a way past Town goalkeeper Danny Ward, as Nelson Oliveira's attempted lob went wide of the mark when he was free in the box.
+Sebastien Bassong almost equalised late on with a powerful header from a corner but it was not to be and the home fans let out a chorus of boos at the final whistle.
+Norwich manager Alex Neil: "The disappointing thing is we had a lot of clear-cut chances that we didn't take.
+"Ultimately goals change games. There was certainly enough there to score goals.
+"In the first half we lacked intensity, we looked leggy. In the second half we were more energetic."
+Huddersfield boss David Wagner told BBC Radio Leeds:
+"We wanted to be confident and play with our identity. We were very strong in the first half and I think we deserved the three points.
+"When you play Norwich away there will be hard moments but we were lucky and I'm very proud.
+"Kasey Palmer was outstanding tonight. His work with and without the ball was class.
+"This was a great week and I'm giving the players tomorrow off! It's important they spend time with their families around Christmas."
+Match ends, Norwich City 1, Huddersfield Town 2.
+Second Half ends, Norwich City 1, Huddersfield Town 2.
+Substitution, Huddersfield Town. Michael Hefele replaces Rajiv van La Parra.
+Attempt missed. Sebastien Bassong (Norwich City) header from the centre of the box is close, but misses to the left. Assisted by Robbie Brady with a cross following a corner.
+Corner,  Norwich City. Conceded by Christopher Schindler.
+Offside, Huddersfield Town. Tommy Smith tries a through ball, but Kasey Palmer is caught offside.
+Attempt saved. Sebastien Bassong (Norwich City) header from the centre of the box is saved in the centre of the goal. Assisted by Robbie Brady with a cross.
+Corner,  Norwich City. Conceded by Chris Löwe.
+Aaron Mooy (Huddersfield Town) is shown the yellow card for a bad foul.
+Foul by Aaron Mooy (Huddersfield Town).
+Steven Naismith (Norwich City) wins a free kick in the defensive half.
+Elias Kachunga (Huddersfield Town) wins a free kick in the attacking half.
+Foul by Alexander Tettey (Norwich City).
+Corner,  Norwich City. Conceded by Chris Löwe.
+Substitution, Huddersfield Town. Philip Billing replaces Jonathan Hogg.
+Attempt saved. Jacob Murphy (Norwich City) left footed shot from outside the box is saved in the bottom left corner. Assisted by Jonny Howson.
+Attempt saved. Steven Naismith (Norwich City) right footed shot from the right side of the six yard box is saved in the bottom left corner. Assisted by Cameron Jerome with a headed pass.
+Attempt missed. Robbie Brady (Norwich City) left footed shot from outside the box misses to the left.
+Substitution, Huddersfield Town. Harry Bunn replaces Nahki Wells.
+Offside, Huddersfield Town. Aaron Mooy tries a through ball, but Rajiv van La Parra is caught offside.
+Kasey Palmer (Huddersfield Town) wins a free kick on the right wing.
+Foul by Sebastien Bassong (Norwich City).
+Attempt blocked. Robbie Brady (Norwich City) left footed shot from outside the box is blocked. Assisted by Jonny Howson with a headed pass.
+Nahki Wells (Huddersfield Town) is shown the yellow card.
+Offside, Huddersfield Town. Rajiv van La Parra tries a through ball, but Nahki Wells is caught offside.
+Foul by Elias Kachunga (Huddersfield Town).
+Robbie Brady (Norwich City) wins a free kick on the left wing.
+Jonathan Hogg (Huddersfield Town) wins a free kick on the right wing.
+Foul by Robbie Brady (Norwich City).
+Attempt missed. Nahki Wells (Huddersfield Town) left footed shot from the left side of the box is close, but misses to the left. Assisted by Aaron Mooy.
+Kasey Palmer (Huddersfield Town) wins a free kick on the left wing.
+Foul by Jacob Murphy (Norwich City).
+Hand ball by Alexander Tettey (Norwich City).
+Attempt missed. Jacob Murphy (Norwich City) right footed shot from outside the box is close, but misses to the right. Assisted by Cameron Jerome.
+Substitution, Norwich City. Cameron Jerome replaces Nélson Oliveira.
+Substitution, Norwich City. Steven Naismith replaces Graham Dorrans.
+Attempt missed. Nélson Oliveira (Norwich City) right footed shot from outside the box is high and wide to the right.
+Attempt missed. Aaron Mooy (Huddersfield Town) left footed shot from outside the box misses to the left.
+Kasey Palmer (Huddersfield Town) wins a free kick in the attacking half.
+Foul by Sebastien Bassong (Norwich City).
+----------------------------------------
+Ground truth Summary: Huddersfield moved up to third in the Championship with victory at Norwich.
+----------------------------------------
+Generated Summary: Huddersfield climbed out of the Premier League relegation zone with a hard-fought win at Norwich.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: This is on a par with US President Barack Obama meeting with Cuba's Raul Castro except, unlike Washington and Havana, the two sides still haven't normalised relations. In fact they haven't even signed a peace treaty and in 66 years they have taken very different paths.
+No agreements will be signed, no joint statements made, but China's Xi Jinping and Taiwan's Ma Ying-jeou will have an hour-long meeting and a casual dinner afterwards. It could get awkward and here are some of the questions that could crop up.
+China has hundreds of missiles targeted at Taiwan to warn the island against declaring formal independence. Beijing still considers Taiwan a province to be reunified with the mainland one day and has not renounced the use of force to take it back. In fact, one of the main reasons for its military build-up is to counter possible US assistance to Taiwan if Beijing were to try to take back militarily.
+Mr. Ma would argue: "If you want to be friends, you must remove these missiles."
+"Not that simple," Mr Xi might answer. Doing so could embolden pro-independence groups in Taiwan who want the island to be recognised as a completely separate country from China.
+The meeting will take place less than three months before Taiwan holds presidential and legislative races, but truly democratic elections like these are not in China's vocabulary. Taiwan, on the other hand, has developed into a vibrant democracy and is proud of its system.
+Over dinner, Mr Ma could share his low approval rating headaches with Mr Xi and even make jokes about how hard it is to finish a speech when protesters are trying to throw shoes at him. Mr Xi might just politely smile and think to himself: "And you wonder why we run things like we do?"
+Mr Xi will be eager to push relations forward. During Mr Ma's seven years in office, the two sides have signed many agreements - from those that have allowed first-ever direct flights to ones that bring millions of Chinese tourists to Taiwan each year, not to mention tariff-cutting trade deals.
+China is eager to link Taiwan's economy and society even closer to the mainland's, and begin talking about unification.
+But Mr Ma will have to explain that public opinion does not support more deals and such talks at the moment. Many people are worried too many deals signed too quickly and without enough public oversight may make the island over-dependent on China and vulnerable to unification pressures.
+Mr Ma might explain to Mr Xi: "In Taiwan, unlike mainland China, public opinion matters a lot. That is how I got my job in the first place."
+Like many Chinese people who consider Taiwan the long-lost sibling they must see at least once in their lifetime, Mr Xi would want to eventually travel to "our treasured island" which is what many Chinese people call Taiwan.
+But Mr Ma will not be able to extend the invitation. That would be asking for trouble. Given China's motive for developing stronger ties, Taiwanese not in favour of this would simply use it as a chance to protest, and perhaps throw shoes at Mr Xi.
+Mr Ma says the past seven years have brought about the most stable and peaceful period in cross-strait relations in 66 years. One of his hopes before his presidency ends next May is to use these talks to institutionalise meetings between leaders of the two sides so that relations will stay on the right track, and the two sides can have dialogue at the highest level, regardless of which political party comes into power in Taiwan.
+But Mr Xi would probably say: "That all depends on whether the next leader agrees to our condition." And the condition is to accept that Taiwan and mainland China are part of one China. So far, the candidate tipped to win, Tsai Ing-wen from the pro-independence opposition party, has refused to do that.
+It's almost sacrilegious in the shared Chinese culture of Taiwan and China to split the bill in a formal banquet, but at the Singapore dinner, the two sides will have to deal with the awkward moment when the bill comes.
+They've decided to split it because not doing so would give the impression that one is a host and the other a guest, and that they are not meeting on an equal level. And that would cause trouble for Mr Ma, because he's facing domestic pressure not to give any suggestion that Taiwan is a lesser, weaker party in the talks.
+But while some think Mr Ma shouldn't meet Mr Xi, others believe two former enemies agreeing to talk can only be a good thing. They hope the talks can raise mutual understanding and trust - and perhaps that will happen over a few glasses of Singapore Sling.
+----------------------------------------
+Ground truth Summary: On Saturday, for the first time since their bitter split at the end of the Chinese civil war in 1949, the leaders of China and Taiwan will meet.
+----------------------------------------
+Generated Summary: The presidents of China and Taiwan will meet for the first time since the two sides split amid civil war in 1949.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: William Roache, who has played Ken Barlow since the first episode, said he would be "so desperately missed".
+Coronation Street executive producer Kieran Roberts called Warren "a pioneer, a revolutionary, a true genius [and] a giant of British television".
+Warren, who started the Granada Television show when he was 24, died on Tuesday after a short illness.
+Born in Lancashire in 1936, he wrote episodes for the ITV soap until the late 1970s.
+Roache described the writer, who continued to visit the soap's set in Trafford until recently, as the "father" of the soap.
+"When I first met Tony, I couldn't quite believe he'd created and written Coronation Street, because he was no more than a young boy," he said.
+He added the writer had a "boyish energy" that never left him: "I loved Tony's energy. He was the father of Coronation Street and he gave us all so much."
+Helen Worth, who worked alongside Warren for 42 years as the character Gail McIntyre, said Warren was "a genius of our time [and] the dearest, funniest and most inspirational man of his generation".
+"He brought real life into our homes for us all to relate to and enjoy. He will, of course, live on forever through Coronation Street," she said.
+Coronation Street actors Kym Marsh, Anthony Cotton and Samia Ghadie were among those who paid tribute to Warren on Twitter.
+Cotton said the writer left "the greatest legacy", while Ghadie said he had been "a truly wonderful man" and Marsh described him as "amazing".
+Tributes were also paid to Warren from actors on other soaps, including from EastEnders' Jessie Wallace and Adam Woodyatt, and Emmerdale's Gemma Oaten.
+Warren was born Anthony McVay Simpson in Eccles, Salford, in 1937, and took the stage name of Warren during his career as a child star.
+He trained at Liverpool's Elliott Clarke Theatre School and was a regular on the BBC radio show Children's Hour, before acting in radio plays alongside some of the actors who would become household names because of Coronation Street, including Violet Carson and Doris Speed.
+His idea for Coronation Street was commissioned for 13 episodes by Granada in 1960 and the show has gone on to be one of the UK's most successful ever, reaching viewing figures of 26.6 million for the departure of the much-loved Hilda Ogden in 1987.
+The writer was made an MBE in 1994 for his services to television drama and remained a consultant on the soap until his death, with his creator credit appearing at the start of the closing credits of every episode.
+A drama based on his life and the creation of the show, The Road to Coronation Street, was broadcast on BBC Four in 2010.
+Daran Little, who wrote for Coronation Street before penning the show about Warren, said on Twitter that "Tony was my dad in TV".
+"Without his encouragement, I would never had a career," he said.
+In 2007, Warren spoke to the Manchester Evening News about the prejudice he faced as a gay man writing the soap before decriminalisation in 1967.
+He said while "a lot of creative people at Granada didn't care", he faced a lot of homophobic remarks from some staff.
+Describing how he confronted the abuse with the statement "you call my brothers, you call me", he said he "didn't know I felt so strongly until that moment, and from then on I never pretended to another soul that I was anything other than what I am".
+Receiving an award in Salford in November last year, Warren joked that he had been "haunted" by his Coronation Street characters for 50 years.
+He said the one that haunted him the most was Ena Sharples, adding he was "left wondering just what Ena would have made of this [award]".
+"She'd say, 'Oh yes, yes, very nice, very nice. One more ornament to dust. Not much dusting done in your house anyway.'
+"It puts me in mind of one thing and one thing only. I bet it's not occurred to you but it's occurred to me. This could be the last monument you see before the actual gravestone."
+An ITV spokesman said the "legendary creator and acclaimed writer" died on Tuesday night "surrounded by his loving friends after a short illness".
+----------------------------------------
+Ground truth Summary: Tributes have been paid to Tony Warren, the Coronation Street creator and writer who has died aged 79.
+----------------------------------------
+Generated Summary: The actor who plays Ken Barlow in Coronation Street has paid tribute to the show's creator, Tony Warren, who has died at the age of 80.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "Drones are arguably the most hyped product at CES," said Ben Wood, from analyst firm CCS Insight.
+"A veritable minefield in terms of regulation and safety but as prices tumble expect to see them in a lot more Christmas stockings this year."
+The Consumer Electronics Association, which organises CES, said the drone market should be worth about $130m (Â£86m) in 2015 - 50% higher than 2014.
+In a few years the trade group expects it to be a billion-dollar market.
+But not all is stable in the world of drones. Two key issues are dogging the field - regulation and power.
+In the US the Federal Aviation Authority (FAA) has very strict rules around their commercial use.
+Jim Williams, manager of the FAA's integration office, said its regulations for commercial use were strict for good reasons.
+"People who are being paid to do a job are more likely to take risks to accomplish that," he said.
+Away from commercial use, there is much anxiety around the world about amateur drones and privacy, as most of the craft come equipped with cameras.
+The second big worry is battery life.
+I spoke to several drone companies at CES representing both budget and high-end Unmanned Aerial Vehicles (UAVs), and the average battery life for the craft is about 20 minutes - with some managing just 10 minutes of flight time. One firm claims its devices have a flight time of about 50 minutes.
+"One of the biggest frustrations with drones is battery life," said Mr Wood.
+"It's rare to get more than 15 minutes of use and there seems little prospect of that improving any time soon.
+"For prolonged usage, owners are typically obliged to get additional batteries, which means added cost."
+Despite the challenges, drones seem here to stay, and those on show at CES are a good sampling of the current state of the market.
+Hexo+ raised $1.3m on Kickstarter to fund its UAV - a drone that will fly up to 60m (200ft) above your head and circle around you, giving you an all-round aerial selfie.
+It has a flight time of 15 minutes and will eventually retail for $1,500. It can self-fly, but will auto-land if it goes out of range of your phone.
+"You need zero skill," said shareholder Lug Giroud.
+"In our selfie culture, everyone wants amazing shots of themselves. We want to give users great images."
+EHang has decided to court the female market by making a version of its popular Ghost drone available in pink. It works for some, apparently.
+"Most people think drones are only for males," said Kai Jianes, of Ehang. "But we are finding many female climbers and surfers want to use them to take video while they exercise."
+Whether they want to take that video with something luminous pink remains to be seen. But Ehang's black Ghost, in traditional quadcopter formation, had already become its bestseller, said Mr Jianes.
+"The quadcopter format has become mainstream, it's so stable," he said. "It doesn't require space to take off and, it's more energy efficient."
+The batteries in the Ghost last 30 minutes, while Ehang's premium drone, the Skyway, manages 50 minutes.
+The difference in time is reflected in the cost.
+The Skyway costs $5,000 compared with a starting price of $375 for the Ghost without the attachment needed to hold a camera.
+The X3, by Hubsan, is small enough to sit in your palm.
+What's it for?
+"This is how we scare our friends," said a company representative.
+"It's an office toy - just a cool gadget," they said. "It was our most popular Christmas item from last year."
+At $200 it's quite an expensive office toy especially as it can only manage 10 minutes of flying time before needing a recharge.
+And despite its tiny proportions, it is not the smallest on the market.
+Hubsan itself makes a finger-sized model that has no camera. And Intel boss Brian Krzanich showed off the Nixie, a drone that wraps around your wrist, during his CES keynote speech.
+DJI unveiled a novel solution to the current regulatory issues facing drones - it has made a stick to which you can attach your drone camera when you're unable to use the drone itself.
+It is fitted with stabilisers so the camera can either stay fixed while the stick moves, or follow the movement, with your smartphone acting as a viewfinder.
+It's still a prototype at this stage and will accommodate both DJI's own camera and the drone flyer's favourite, the Go Pro.
+"We are producing our own camera, but the audience just loves Go Pro," said Michael Shabun, of DJI.
+Improvements to basic drone technology were also on show at CES.
+Qualcomm has produced a circuit board based around its Snapdragon chip, specifically for drones, that will enable them to perceive depth.
+Two smartphone cameras at the front of the board enabled the device to build up a 3D image of its surroundings, giving it "machine vision", said Gary McGrath, of Qualcomm.
+"It's for UAVs to figure out where they're at and control their motors - it'll help quadcopters fly without a control," he said.
+Here at CES, there's a drone for every occasion.
+The headache for the regulators is going to be working out how to manage the hitherto uncrowded airspace directly above our heads.
+In the US, the FAA has slowly started to relax its rules, and as CES opened it gave permission to two firms keen to use the unpiloted craft to help their business.
+It's a small step, as the FAA said it had received more than 200 other requests to use drones commercially.
+It's a fair bet that many more firms have not requested permission and are flouting the rules.
+There's no doubt that the buzz around drones is threatening to leave the regulators far behind.
+Click here for more coverage from the BBC at CES 2015
+----------------------------------------
+Ground truth Summary: Tiny drones, pink drones, selfie-taking drones, military drones, drones that fly themselves - the drone zone at the Consumer Electronics Show (CES) in Las Vegas is positively buzzing - in every sense of the word.
+----------------------------------------
+Generated Summary: At the Consumer Electronics Show (CES) in Las Vegas, drones are the talk of the town.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+This was a dead rubber after England's losses to Italy and Uruguay - and there was nothing on show here to offer any belated cheer at the end of a miserable tournament.
+Costa Rica's status as the surprise package of Group D was cemented by a result that ensured they finished top - and will face Greece in Recife on Sunday.
+Meanwhile, England manager Roy Hodgson has presided over a dismal campaign.
+Daniel Sturridge came closest for the group's bottom side but wasted a succession of chances while goalkeeper Ben Foster - deputising for rested Joe Hart - did brilliantly to turn Celso Borges' free-kick on to the bar in the first half.
+"Apart from first the 10 to 12 minutes, we dominated totally. We didn't take our goal chances - if we did we would have comfortably won.
+"We created the chances and that's important.
+"I'm not concerned about Daniel Sturridge - he'll take goal chances in the future. I thought we were really unlucky not to win this game.
+"I thought the whole back four was absolutely excellent. We restricted the team to almost no chances. In midfield we dominated and outplayed them."
+Hodgson gave Frank Lampard the captain's armband and used Steven Gerrard as a late substitute as the veteran duo played out what may be their final England appearances.
+If so, it was an inglorious conclusion for the pair as this developed into the sort of low-key game many feared after England arrived in Belo Horizonte with their World Cup ambitions already shattered.
+Hodgson had hoped England might be inspired by the selection of fresh faces, but as he and England's squad applauded their travelling fans at the final whistle, there was an air of disappointment and anti-climax.
+England had found themselves on the back foot almost from the kick-off, when Joel Campbell's shot was deflected just wide off Gary Cahill - although both sides looked puzzled when a goal kick was awarded.
+Sturridge was presented with England's best chances, shooting just wide from 20 yards after good control then heading over from six yards after Phil Jones knocked back Ross Barkley's corner.
+He also had presentable claims for a penalty ignored when he fell in a tangle with Costa Rica's Oscar Duarte but referee Djamal Haimoudi was not interested.
+Foster was impressive, especially in dealing with a Borges free-kick bound for the top corner - but otherwise it was a first half that was as low key as expected in such a meaningless fixture.
+Sturridge also had England's first opportunity of the second half but the Liverpool striker's control let him down and keeper Keylor Navas was able to block, albeit sustaining a knock in the process that left him requiring treatment.
+All of England's best chances were falling to Sturridge and he was off target again when he tried to be too precise from Jack Wilshere's flick and curled a shot wide of the far post.
+Hodgson then made his substitutions in quick succession, sending on Raheem Sterling for Adam Lallana, and Gerrard for Wilshere, while Wayne Rooney announced himself with a clever chip that forced a save from Navas.
+But there were to be no goals and no glory - and this was a game that deserved neither.
+Match ends, Costa Rica 0, England 0.
+Second Half ends, Costa Rica 0, England 0.
+Corner,  England. Conceded by Júnior Díaz.
+Wayne Rooney (England) wins a free kick in the attacking half.
+Foul by Christian Bolaños (Costa Rica).
+Frank Lampard (England) wins a free kick in the defensive half.
+Foul by Michael Barrantes (Costa Rica).
+Foul by Daniel Sturridge (England).
+Roy Miller (Costa Rica) wins a free kick in the defensive half.
+Foul by Steven Gerrard (England).
+Christian Bolaños (Costa Rica) wins a free kick on the left wing.
+Phil Jones (England) wins a free kick in the defensive half.
+Foul by Christian Bolaños (Costa Rica).
+Hand ball by Cristian Gamboa (Costa Rica).
+Corner,  England. Conceded by Keylor Navas.
+Attempt saved. Wayne Rooney (England) right footed shot from outside the box is saved in the top left corner. Assisted by Frank Lampard.
+Substitution, Costa Rica. Michael Barrantes replaces Celso Borges.
+Substitution, England. Wayne Rooney replaces James Milner.
+Corner,  England. Conceded by Cristian Gamboa.
+Foul by Gary Cahill (England).
+Marcos Ureña (Costa Rica) wins a free kick in the attacking half.
+Luke Shaw (England) wins a free kick in the defensive half.
+Foul by Yeltsin Tejeda (Costa Rica).
+Substitution, England. Steven Gerrard replaces Jack Wilshere.
+Ben Foster (England) wins a free kick in the defensive half.
+Foul by Oscar Duarte (Costa Rica).
+Corner,  Costa Rica. Conceded by Raheem Sterling.
+Corner,  England. Conceded by Giancarlo Gonzalez.
+Phil Jones (England) wins a free kick in the defensive half.
+Foul by Christian Bolaños (Costa Rica).
+Hand ball by Jack Wilshere (England).
+Substitution, Costa Rica. Marcos Ureña replaces Joel Campbell.
+Attempt missed. Daniel Sturridge (England) left footed shot from the right side of the box is close, but misses to the left. Assisted by Jack Wilshere with a through ball.
+Attempt saved. Christian Bolaños (Costa Rica) right footed shot from outside the box is saved in the centre of the goal. Assisted by Bryan Ruiz.
+Substitution, England. Raheem Sterling replaces Adam Lallana.
+Foul by Chris Smalling (England).
+Júnior Díaz (Costa Rica) wins a free kick in the defensive half.
+Attempt blocked. Frank Lampard (England) right footed shot from outside the box is blocked.
+Giancarlo Gonzalez (Costa Rica) is shown the yellow card for a bad foul.
+Ross Barkley (England) wins a free kick in the attacking half.
+----------------------------------------
+Ground truth Summary: England's World Cup ended without even the scant consolation of a victory as they played out a tame draw with Costa Rica in Belo Horizonte.
+----------------------------------------
+Generated Summary: England's World Cup campaign came to an end with a goalless draw against Costa Rica in Manaus.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Prof Wendy Savage told the Mail on Sunday that withholding the information because of fears over sex-selective abortions was "outrageous".
+Some hospitals have a policy not to reveal the sex, but Professor Savage said it was a woman's right to know.
+She also said it was a "woman's right to decide" when to ask for an abortion.
+Speaking after MPs voted to introduce a bill to repeal an 1861 law criminalising abortion this week, she told the Mail on Sunday: "It's her body and her foetus, so she should have that information.
+Parents who want to find out the sex of their foetus can usually do so in a mid-term scan at about 20 weeks but some hospitals have a policy of not telling, according to the NHS Choices website.
+Some hospitals say they are too short-staffed to establish the sex and there have been concerns that the scans can sometimes be inaccurate.
+But experts have also claimed that the policies may be intended to prevent the risk of selective abortions.
+"She is the one taking the risks.
+"If a woman does not want to have a foetus who is one sex or the other, forcing her is not going to be good for the eventual child, and it's not going to be good for (the mother's) mental health," she added.
+Professor Savage, 81, a retired obstetrician and gynaecologist and a member of the British Medical Association's (BMA's) ethics committee, was speaking to the paper in a personal capacity.
+Under the 1967 Abortion Act in England, Scotland and Wales, a pregnancy can be aborted before 24 weeks if two doctors approve it.
+The law does not apply in Northern Ireland, where abortion legislation is based on the Offences Against the Person Act 1861.
+The majority of abortions in England Scotland and Wales take place before 24 weeks, and are allowed in exceptional circumstances after that time.
+More than 90% take place at 13 weeks or earlier, according to the BMA.
+Prof Savage added: "The foetus is a potential human life at that stage (in the womb); it is not an actual human life... I think you've got to concentrate on the (rights of the) woman."
+Prof Savage said in her long career she had "only a couple of cases" of being asked to approve an abortion past 24 weeks.
+"It's not something women tend to do," she said.
+"This is another myth propagated by the anti-abortion lobby, like women wanting sex selection."
+She also advocated making abortion pills, for early termination, available over the internet, without it being mandatory to consult an expert.
+MPs last week voted in favour of progressing the Reproductive Health (Access to Terminations) Bill.
+It would remove criminal sanctions over abortion for women and doctors in England and Wales.
+A spokesman for the Society for the Protection of Unborn Children said although the comments came in a personal capacity they were in the context of the "BMA's exploration of further abortion liberalisation".
+And, he said, in light of a recent Royal College of Obstetricians and Gynaecologists event presenting widespread abortion "as a matter for celebration".
+"Such views have nothing to do with medicine, the care of mothers or concern for the sanctity of life," he added.
+A BMA spokesperson said it supported the current law on abortion, adding: "Though we recognise the diversity of opinion amongst membership, we advise members to act within the boundaries of the law and their own conscience.
+"Given the range of views on this subject, patients must be entitled to impartial and objective medical advice and treatment."
+----------------------------------------
+Ground truth Summary: Women should be told the sex of the foetus when they are scanned during pregnancy, a senior, retired obstetrician has said.
+----------------------------------------
+Generated Summary: Parents should be able to find out the sex of their unborn child, the president of the Royal College of Obstetricians and Gynaecologists has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A large wooden structure at Venture in Caia Park was destroyed by the blaze, which broke out at about 03:30 GMT on Wednesday.
+The main building was not affected and was operating as normal.
+North Wales Police and North Wales Fire Service are jointly investigating but the cause is unknown.
+----------------------------------------
+Ground truth Summary: An investigation has been launched following a fire in the grounds of a youth centre in Wrexham.
+----------------------------------------
+Generated Summary: Two people have been taken to hospital after a fire broke out at a leisure centre in Caernarfon.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The whale, which is about 10m (33ft) in length, was washed up at Shingle Street, near Hollesley shortly after 15:00 BST on Sunday.
+The Zoological Society of London (ZSL) said it was a juvenile fin whale and that a post-mortem examination would be carried out on Tuesday.
+Suffolk Police warned people to stay clear of the carcass, which has been tied down.
+What do you do with a dead whale?
+Find out more about whales with BBC Nature
+Rob Deaville, manager of the cetacean stranding investigation programme for ZSL, said fin whales were a "fairly unusual species to be found beached in the UK".
+He said that last year, out of 600 strandings in the country, only about five would have been fin whales.
+"Looking at photos, it does look a little bit on the thin side, so starvation may be a factor but we have an open mind," he said.
+Andrew Capell, of HM Coastguard Search and Rescue, said: "We answered the call and we originally thought it would be a porpoise, because we tend to get them quite a bit.
+"But we arrived on the beach to find this rather handsome animal.
+"There are a few grazes on it where it has been on the shingle, but there is no other wounds or injuries.
+"There's a lot of interest today as it is not the sort of thing you see in Suffolk."
+A crew from Aldeburgh Lifeboat station was also called to Shingle Street.
+Coxswain Steven Saint said: "Unfortunately it had already died when the crew were there - but there were reports it had been in the water a short time before."
+Another whale died after being stranded at a beach in Bridlington, east Yorkshire, on Sunday.
+----------------------------------------
+Ground truth Summary: A whale has died after beaching on a shingle bank off the Suffolk coast.
+----------------------------------------
+Generated Summary: A dead whale has been found on a beach in Suffolk.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Officials said further refinement of satellite data found the plane may have turned south earlier than thought.
+The announcement came as Australia and Malaysia signed an agreement on the search's next phase, which will see the two countries sharing costs.
+The Beijing-bound plane disappeared on 8 March with 239 people onboard.
+Based on analysis of satellite data, it is believed to have ended its journey in seas far west of the Australian city of Perth.
+Investigators do not know what happened to the flight and finding its "black box" flight recorders is seen as key to understanding the factors behind its disappearance.
+Australia, which is responsible for search and rescue operations, has been looking for the plane in an area about 1,800km off its west coast.
+The latest detail on the plane's possible flight path came from an analysis of a failed attempted satellite phone call from Malaysia Airlines to the plane, said Australia's Deputy Prime Minister Warren Truss.
+"The search area remains the same, but some of the information that we now have suggests to us that areas a little further to the south... are of particular interest and priority," he told reporters in Canberra.
+A Dutch contractor, Fugro Survey, will kick off the next phase in the search in September. Three vessels towing underwater vehicles will scan for the plane.
+The search will focus on an area of about 60,000 sq km and is estimated to cost about A$52m (Â£29m, $49m).
+Malaysia's Transport Minister Liow Tiong Lai signed the memorandum of understanding with Mr Truss.
+The two were also briefed on search efforts, together with China's Transport Vice-Minister He Jianzhong.
+Most of the passengers onboard the flight were Chinese. The ministers issued a statement saying they "remain cautiously optimistic" that the plane will be found.
+----------------------------------------
+Ground truth Summary: Australia says the search for the missing Malaysia Airlines flight MH370 will focus on the southern part of the search area in the Indian Ocean.
+----------------------------------------
+Generated Summary: The search for missing Malaysia Airlines flight MH370 has been extended to the southern Indian Ocean, Australian officials say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Italian diplomat Filippo Grandi, who took over the post from Portugal's Antonio Guterres this year, was speaking on a visit to Lebanon.
+Mr Grandi also urged the EU to do more for Syrian refugees outside Europe.
+EU leaders have warned of a crisis after more than a million migrants entered illegally last year.
+French Prime Minister Manuel Valls told the BBC this week: "If Europe can't protect its own borders, it's the very idea of Europe that could be thrown into doubt."
+On Friday, his Dutch counterpart, Mark Rutte, warned: "When spring comes and the numbers quadruple, we cannot as the EU cope with the numbers any longer."
+The new UN High Commissioner for Refugees has been meeting refugees in camps in Lebanon and Jordan.
+Speaking to the BBC's Quentin Somerville, Mr Grandi said: "Europe can absorb more genuine refugees if it would be better organised among the different member-states.
+"However, we understand the predicament. It is a social and political predicament which is very serious."
+The EU is drawing up plans to share the "burden" of refugees more evenly among member states, scrapping a controversial rule that means they must claim asylum in the first country they arrive in.
+Hungary, one of the most vocal critics of migration policy, has dismissed the crisis as a "German problem" since Germany is where those arriving in the EU "would like to go".
+Mr Grandi also urged the EU to "do more for the countries of first asylum" so there would be "less motivation for people to flee further away".
+Katya Adler: Germans struggle to cope with influx
+Teaching migrants how to behave
+Migrants feel chill of tighter borders
+Europe's migrant crisis
+----------------------------------------
+Ground truth Summary: EU states could take more genuine refugees from Syria if they worked together better, the new head of the UN refugee agency has told the BBC.
+----------------------------------------
+Generated Summary: The UN High Commissioner for Refugees (UNHCR) has called on the European Union (EU) to do more to tackle the migrant crisis.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Team Pacific Rowers were taking part in a race between California and Hawaii when their vessel began taking in water about 100 miles from shore.
+Rower Sam Collins, 25, from Cornwall, said: "It's really frustrating because we are a great team and it is only the equipment which let us down."
+The rowers were airlifted to safety by US coastguards on Saturday.
+Mr Collins, Fraser Hart 34, from Tunbridge Wells, James White, 36, from London and Colin Parker, 36, from New Zealand, were taking part in the Great Pacific Race.
+The Pacific Rowers team set off on Wednesday to row 2,400 miles (3,862km) from Monterey in California to Honolulu.
+Former BBC Guernsey journalist Mr Collins said: "The first couple of days were great. Team spirits were good. We were getting used to life on the boat.
+"But the sea conditions were quite rough and worsening.
+"Then late in the second day, out at sea, we started realising that water was permeating into the cabin.
+"It just got worse and worse."
+The crew used an electric bilge pump to keep the problem at bay but the water kept coming in.
+Water eventually got into all the internal lockers and the boat was so low in the water that waves were crashing over it continuously, Mr Collins said.
+"The boat had been through severe testing but in some places it was permeating through the side of the boat because of the force of the waves," he added.
+The team called for assistance and a support boat reached them 10 hours later.
+But with waves of 20ft (6m) and gale-force winds, it was decided that the safest rescue was by coastguard helicopter.
+In darkness, a helicopter winched the crew to safety.
+"I cannot talk highly enough about the coastguards," he said.
+The team is now considering entering the 2016 event.
+"We are very disappointed, a lot of effort went into this," said Mr Collins.
+----------------------------------------
+Ground truth Summary: One of four rowers rescued from the Pacific said extreme weather conditions had exposed weaknesses in their boat.
+----------------------------------------
+Generated Summary: Four British rowers have been rescued after their boat began taking on water in the Pacific Ocean.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mexico's women overcame challengers Kyrgyzstan in a 5-0 thriller to lift the trophy.
+The men's team also put in a powerful performance to see off Brazil 6-1, and keep the silverware.
+More than 500 men and women from 52 countries around the world competed in four-a-side matches over several days.
+Nearly 100,000 spectators watched the free-to-watch games, which were staged in George Square in the heart of Glasgow.
+Organisers said two million people also watched the tournament online.
+First Minister Nicola Sturgeon, who attended the event, said the Homeless World Cup would energise and engage people who, for whatever reason, had become socially excluded.
+The event was set up by the International Network of Street Papers and Mel Young, founder of the Big Issue in Scotland.
+Mr Young said: "We promised that George Square would be the most inspiring place on the planet for the duration of this tournament, that so it has been.
+"The people of Glasgow have taken our players to their hearts, and made this such a very special tournament in the history of the Homeless World Cup.
+"As our players head back to their countries, we wish them every success as they look to build on this experience, and create a life they would want for themselves.
+"Rightly, they should stand tall. We can genuinely say: you are all winners."
+Scottish Minister for Sport Aileen Campbell said: "The Homeless World Cup has been a fantastic and exciting tournament that all of Scotland has got behind.
+"It's been great to see George Square busy every day and is a perfect example of how the power of sport can both transform lives and change perceptions for the better."
+The next Homeless World Cup will be held in Oslo in the summer of 2017.
+----------------------------------------
+Ground truth Summary: Mexico celebrated double success at the 14th Homeless World Cup in Glasgow after both their men's and women's teams retained their titles.
+----------------------------------------
+Generated Summary: Mexico and Brazil have won the inaugural Homeless World Cup in Glasgow.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scarr, 22, who starred in Stourbridge's run to this season's FA Cup third round, has signed on a two-and-a-half year contract, for an undisclosed fee.
+He becomes the sixth signing made by Blues in the January transfer window.
+On top of the pre-arranged completion of striker Lukas Jutkiewicz's move from Burnley, new boss Gianfranco Zola has now made five more signings.
+As well as bringing back Craig Gardner from West Bromwich Albion, he last week signed Middlesbrough full-back Emilio Nsue, Cheick Keita from Italian Serie B club Virtus Entella, and winger Kerim Frei from Turkish side Besiktas.
+Stourbridge boss Gary Hackett said: "We have agreed terms with Birmingham. We have accepted we won't have Dan with us moving forward and good luck to him. He deserves the opportunity."
+Find all the latest football transfers on our dedicated page or visit our Premier League tracker here.
+----------------------------------------
+Ground truth Summary: Championship side Birmingham City have signed defender Dan Scarr from non-league neighbours Stourbridge.
+----------------------------------------
+Generated Summary: Birmingham City have completed the signing of Stourbridge midfielder Jordan Scarr.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: So these tiny ducklings have been given a helping hand to get into the water at the Capitol Reflecting Pool in Washington DC, USA.
+The pool is near the famous Capitol building - home to the US government.
+Two new ramps have been installed to help the junior ducks get to the water.
+It's been done by the people who look after the historic buildings and grounds.
+The ducklings seem to think they're waddley good, but not everyone's happy.
+One politician is going quackers about the bill, saying the ramps are a waste of money!
+See what you think.
+----------------------------------------
+Ground truth Summary: Life's tough when you're small.
+----------------------------------------
+Generated Summary: These ducklings have been given a helping hand to get into the water at the Capitol Reflecting Pool in Washington DC, USA.So these tiny ducklings have been given a helping hand to get into the water at the Capitol Reflecting Pool in Washington DC, USA.So these tiny ducklings have been given a helping hand to get into the water at the Capitol Reflecting Pool in Washington DC, USA.So these tiny ducklings have been given a helping hand to get into the water at the Capitol Reflecting Pool in Washington DC, USA.So these tiny ducklings have been given a helping hand to get into the water at the Capitol Reflecting
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Russell Crow was rescued from the road by Helen Motteram and now lives in her home as one of the family.
+When the Gladiator star saw their story online, he took to Twitter to say how "cool" it was and offer "some new songs" for the bird.
+He tweeted: "Haha cool, what a nice lady Helen is to look after the poor blighter."
+With crooked feet and unable to fly, the bird was at first mistaken for a crow and named in honour of the actor.
+Since then, the cheeky rook has taken over Helen's home - sleeping in her bedroom, stealing her phone chargers and hiding her jewellery.
+But his antics, and jealousy of Helen's husband, have also made him a minor celebrity - with his fame now reaching the Hollywood star himself.
+Helen said she was "amazed" when she found out Russell Crowe was a fan.
+"I tweeted Russell about a month ago saying Russell [the rook] would love to hear from him - but I didn't hear back," she said.
+"I love his films and we named Russell after him so I've going to tweet him back to say he would love to meet him in person or get an autograph."
+The bird, she said, can "print with his feet" and "hold a pen" so if the actor would like an autograph in exchange, it could be arranged.
+----------------------------------------
+Ground truth Summary: Oscar-winning actor Russell Crowe has tweeted support for his namesake - a disabled rook from Gloucestershire.
+----------------------------------------
+Generated Summary: Actor Russell Crowe has offered to help a bird named after him who has taken up residence in a woman's home.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lib Dem leader Tim Farron said his party would oppose it, unless they were promised a second referendum on the UK's Brexit deal with EU leaders.
+Several Labour MPs are also willing to vote against it, despite the Labour Party pledging not to do so.
+The government says Lib Dem and Labour MPs are "trying to thwart and reverse the referendum result".
+With the support of Conservative MPs and the support or abstention of most Labour MPs, the bill is well placed to pass through the Commons.
+But the opposition of some MPs is likely to embolden critics in the House of Lords.
+The Liberal Democrats have long called for a referendum on the outcome of the government's negotiations with EU, but only now have they said they will definitely vote against Article 50 if their demand is not met.
+Mr Farron, whose party has eight MPs in the Commons, told BBC Radio 4's Today: "Article 50 would proceed but only if there is a referendum on the terms of the deal and if the British people are not respected then, yes, that is a red line and we would vote against the government."
+For Labour, shadow minister Catherine West, former leadership contender Owen Smith and south London MP Helen Hayes all made clear they were prepared to vote against Article 50 - which begins formal exit negotiations with the EU - if amendments were not accepted.
+Former Labour minister David Lammy and shadow transport minister Daniel Zeichner have said they would oppose Article 50. Opposition whip Thangam Debbonaire said she would also vote against it, if a vote were held imminently.
+The SNP's 54 MPs may join them. First Minister Nicola Sturgeon has said they will not vote for anything that undermines the will of the Scottish people, and has previously said they will vote against a bill to write EU provisions into British law to prepare for Brexit.
+Dulwich Labour MP Hayes said she was prepared to defy Labour whips to oppose the measure unless the government promised a second referendum.
+She said: "I had somebody in my surgery last week who was in tears because of Brexit and I see genuine distress amongst my constituents about what this path means.
+"I would not be representing them if I voted to trigger Article 50 on the basis of no information from the government about the path that they would then take us on."
+In posts on Twitter and Facebook earlier this week, shadow Foreign Office minister Catherine West wrote: "As I have said before, I stand with the people of Hornsey & Wood Green, and I will vote against Brexit in Parliament."
+Owen Smith confirmed to Today that if his bid for a second referendum failed, he was likely to oppose the bill.
+The SDLP's three MPs will also oppose the measure.
+Ministers said MPs voting against Article 50 would effectively be trying to re-run the referendum in the hope of a "different answer".
+"Parliament voted by a margin of six to one to put the decision on whether to remain in or leave the EU in the hands of the British people," said Brexit minister David Jones.
+"Only the Conservatives can be trusted to respect the outcome of the referendum and make a success of Brexit."
+Last week the High Court ruled Parliament must be consulted about leaving the European Union.
+Unless the Supreme Court overturns the judgement in December, a bill to invoke Article 50 is expected in the new year.
+Labour made clear its official position would be not to frustrate the process of leaving the EU after a newspaper report said the party leader Jeremy Corbyn intended to force a general election unless ministers caved in to demands.
+After the story broke Labour sources said that while it would seek to amend the bill, it would provide "unconditional" support.
+Shadow Brexit secretary Keir Starmer said Labour would not frustrate the process and would not vote down Article 50.
+However, Labour and Liberal Democrat peers will try to amend the bill in the House of Lords. So too will one Conservative peer - Baroness Wheatcroft.
+----------------------------------------
+Ground truth Summary: Liberal Democrat, some Labour and SDLP MPs have told the BBC they are prepared to vote against triggering Article 50.
+----------------------------------------
+Generated Summary: The Liberal Democrats have said they will vote against the government's European Union (Withdrawal) Bill.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

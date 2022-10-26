@@ -2,6 +2,8 @@ import torch
 from datasets import load_dataset
 from rouge import Rouge
 
+import transformers
+
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 import transformers
 from trainer import Trainer
@@ -64,7 +66,6 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
 
         rouge = Rouge()
         rouge_score = rouge.get_scores(model_out, list(data['summary_text']), avg = True)
-        print(wandb)
 
         metrics['loss'] += out['loss']
         metrics['rouge1_f'] += rouge_score['rouge-1']['f']
@@ -77,8 +78,9 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         metrics['rouge2_r'] += rouge_score['rouge-2']['r']
         metrics['rougeL_r'] += rouge_score['rouge-l']['r']
 
+        print(log)
         if log:
-            log_metrics(metrics, step, args, wandb = wandb, train = False)
+            log_metrics(metrics, steps, args, wandb = wandb, train = False)
             reset_metrics(metrics)
         return None
 
@@ -162,6 +164,7 @@ if __name__ == '__main__':
 
     if args.log:
         wandb = wandb.init(config = args, name = args.name, project = 'Pegasus Summarization')
+    else: wandb = None
 
     trainer = Trainer(model = model,
                         dataloader = dataloader,

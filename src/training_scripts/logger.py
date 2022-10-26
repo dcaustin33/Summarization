@@ -18,8 +18,8 @@ def log_metrics(metrics: dict,
             new_metrics = {}
             for i in metrics:
                 new_metrics['Val ' + i] = metrics[i]
-            print('logging')
-            print(new_metrics)
+            print('logging val', step)
+            #print(new_metrics)
             wandb.log(new_metrics, step = step)
         else:
             print('logging')

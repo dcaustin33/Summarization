@@ -103,16 +103,16 @@ class Trainer:
                         while val_steps < self.args.val_steps:
 
                             for k, val_data in enumerate(self.val_dataloader):
+                                val_steps += 1
                                 val_data['article'] = self.dataset.tokenizer(val_data['article_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
                                 val_data['summary'] = self.dataset.tokenizer(val_data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
                                 
-                                if val_steps >= self.args.val_steps: 
+                                if val_steps % self.args.val_steps == 0 and val_steps != 0: 
                                     loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = True, wandb = self.wandb, args = self.args)
                                     break
                                 else:
                                     loss = self.validation_step(val_data, self.model, self.val_metrics, steps, log = False, wandb = self.wandb, args = self.args)
-                                val_steps += 1
-                            print('out val')
+                                
 
         torch.save({
                     'step': steps,
