@@ -78,7 +78,7 @@ class Trainer:
                     loss = self.training_step(data, self.model, self.metrics, steps, log = True, wandb = self.wandb, args = self.args)
                 else:
                     loss = self.training_step(data, self.model, self.metrics, steps, log = False, wandb = self.wandb, args = self.args)
-                    
+                
                 self.optimizer.zero_grad(set_to_none=True)
                 loss.backward()
                 self.optimizer.step()
