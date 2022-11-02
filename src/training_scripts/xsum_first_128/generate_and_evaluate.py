@@ -12,6 +12,8 @@ from pl_bolts.optimizers.lr_scheduler import LinearWarmupCosineAnnealingLR
 import wandb
 from logger import log_metrics
 from evaluator import Evaluator
+from evaluate import load
+import numpy as np
 
 import sys
 import time
@@ -70,6 +72,8 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         rouge = Rouge()
         rouge_score = rouge.get_scores(model_out, list(data['summary_text']), avg = True)
 
+        results = bertscore.compute(predictions=model_out, references=list(data['summary_text']), lang="en")
+
         metrics['loss'] += out['loss']
         metrics['rouge1_f'].append(rouge_score['rouge-1']['f'])
         metrics['rouge2_f'].append(rouge_score['rouge-2']['f'])
@@ -80,6 +84,7 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         metrics['rouge1_r'].append(rouge_score['rouge-1']['r'])
         metrics['rouge2_r'].append(rouge_score['rouge-2']['r'])
         metrics['rougeL_r'].append(rouge_score['rouge-l']['r'])
+        metrics['BERT Score'].append(np.mean(results['f1']))
 
         if log:
             log_metrics(metrics, steps, args, wandb = wandb, train = False)
@@ -126,6 +131,7 @@ if __name__ == '__main__':
     val_metrics['rouge1_r'] = []
     val_metrics['rouge2_r'] = []
     val_metrics['rougeL_r'] = []
+    val_metrics['BERT Score'] = []
 
     with open('Generations.txt', 'w') as file:
         file.write(f'Generations for {args.name}\n')
@@ -143,5 +149,7 @@ if __name__ == '__main__':
                             val_metrics, 
                             wandb = wandb, 
                             file_name = 'Generations.txt')
+
+    bertscore = load("bertscore")
 
     evaluator.evaluate()

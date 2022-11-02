@@ -9,7 +9,7 @@ def log_metrics(metrics: dict,
                 ) -> None:
 
     for i in metrics:
-        if 'rouge' in i:
+        if 'rouge' in i or 'BERT' in i:
             metrics[i] = torch.mean(torch.tensor(metrics[i]))
     if train:
         print(step, "Loss:", round(metrics['loss'].item(), 2))

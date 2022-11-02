@@ -1,589 +1,461 @@
 Generations for Eval_Pegasus_XSum_first_128
-Article text: The Cambridge University medical student, 29, left Blues for Racing 92 in 2013 and joined Quins this season.
-He was preparing for the Varsity match when Quins posted a bonus-point win at Cardiff Arms Park in November.
-"If you're playing against Jamie, you make your tackles," said Wilson.
-Roberts was British and Irish Lions man of the series in their 2-1 Test defeat by South Africa in 2009.
-The 6ft 4in, 17st 4lb centre also starred as the Lions beat Australia 2-1 in 2013 in a career that has seen him win 74 Wales caps.
-"It'll be great for the players to shake hands and catch up with him before and after the game, but during the game it's business as usual."
-Quins also recruited former Ospreys and Wales tight-head prop Adam Jones from Blues before the 2015-16 campaign.
-Wilson added: "Our boys will be extremely motivated with a few links there, Adam Jones as well from last year."
-Harlequins have four bonus-point wins and need only a point from the encounter at the Stoop to top the group.
-They took the extra point in the last minute at the Arms Park, with a try from Danny Care thwarting Blues' hopes of a dramatic late win.
-"It's obviously a huge challenge to go to Harlequins and get a win in front of their home crowd, but the boys want to put right the performance at home against a Harlequins side that deserved the win," said Wilson.
-"Since then we've improved out performances with four wins out of five."
-Blues had a weekend off before the match with the postponement of their fixture against Munster, while Harlequins inflicted a first Premiership defeat of the season on Saracens.
-Wilson believes the the break will have benefited his side and they will travel "with confidence that we've played some good rugby to get the results we've had recently".
-He added: "If we can perform to that level, we can cause Harlequins a headache."
-Wales captain Sam Warburton, fellow flanker Ellis Jenkins and Wales full-back-fly-half Gareth Anscombe could all return from injury for Blues.
-----------------------------------------
-Ground truth Summary: Cardiff Blues' tackling will have to be up to the mark against Harlequins' Wales star Jamie Roberts in their European Challenge Cup away match on Sunday, says head coach Danny Wilson.
-----------------------------------------
-Generated Summary: Harlequins director of rugby Conor O'Shea will face former Cardiff Blues team-mate Jamie Roberts for the first time on Saturday.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Police in Nyala, the capital of South Darfur state, fired tear gas at protesters throwing stones and burning tyres in the streets, witnesses said.
-Several protesters chanted slogans calling for the government's downfall.
-Since June, Sudan has seen sporadic protests against government austerity measures, including fuel subsidy cuts.
-The country's authorities have been trying to cut spending since Sudan lost three-quarters of its oil revenue when South Sudan seceded last year.
-Demonstrators in Nyala chanted "No to high prices" and "People want to change the regime", according to witnesses.
-Bothina Mohmed Ahmed, a spokeswoman for the state of South Darfur, said it was not known how the six deaths had happened, and that an investigation had been launched.
-Opposition activists and media accused the police of using live ammunition.
-The protests started on Monday when local students "rejected the price of transport announced by the government", Ms Ahmed said, adding that "other groups" had joined the protests and attacked government buildings.
-"This has been happening on the main roads and in the main market area. There's been some damage to buildings," African Union-UN peacekeeping mission spokesman Christopher Cycmanick told AFP.
-The anti-austerity protests in Sudan began in June among students in Khartoum, but have since spread to other social groups and areas.
-They had recently dwindled as a result of the Muslim holy month of Ramadan, which began on 20 July.
-Until this year, Sudan had escaped the unrest characteristic of recent uprisings in Arab countries such as neighbouring Egypt, but correspondents say economic hardship caused by austerity has led to growing dissatisfaction with President Omar al-Bashir.
-----------------------------------------
-Ground truth Summary: Six people have been killed in violent protests against high transport prices in the Darfur region of western Sudan, local officials say.
-----------------------------------------
-Generated Summary: Police in Sudan's Darfur region have fired tear gas to disperse hundreds of people protesting against government austerity measures, witnesses say.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Corner,  Manchester City. Conceded by Kyle Naughton.
-Offside, Manchester City. Gabriel Jesus tries a through ball, but Leroy Sané is caught offside.
-Attempt missed. Alfie Mawson (Swansea City) header from the right side of the six yard box misses to the left. Assisted by Gylfi Sigurdsson with a cross following a corner.
-Corner,  Swansea City. Conceded by Aleksandar Kolarov.
-Fernando Llorente (Swansea City) is shown the yellow card.
-Aleksandar Kolarov (Manchester City) wins a free kick in the defensive half.
-Foul by Fernando Llorente (Swansea City).
-Corner,  Swansea City. Conceded by Aleksandar Kolarov.
-Attempt blocked. Kevin De Bruyne (Manchester City) right footed shot from outside the box is blocked. Assisted by Gabriel Jesus.
-Aleksandar Kolarov (Manchester City) wins a free kick in the attacking half.
-Foul by Fernando Llorente (Swansea City).
-Aleksandar Kolarov (Manchester City) wins a free kick in the attacking half.
-Foul by Leroy Fer (Swansea City).
-Attempt missed. Jack Cork (Swansea City) left footed shot from outside the box is high and wide to the left following a corner.
-Corner,  Swansea City. Conceded by Willy Caballero.
-Attempt saved. Gylfi Sigurdsson (Swansea City) right footed shot from long range on the left is saved in the top left corner.
-Foul by Fernandinho (Manchester City).
-Martin Olsson (Swansea City) wins a free kick on the left wing.
-Second Half begins Manchester City 1, Swansea City 0.
-First Half ends, Manchester City 1, Swansea City 0.
-Raheem Sterling (Manchester City) is shown the yellow card.
-Raheem Sterling (Manchester City) has gone down, but that's a dive.
-David Silva (Manchester City) wins a free kick in the defensive half.
-Foul by Martin Olsson (Swansea City).
-Kevin De Bruyne (Manchester City) is shown the yellow card for a bad foul.
-Foul by Kevin De Bruyne (Manchester City).
-Martin Olsson (Swansea City) wins a free kick on the left wing.
-Raheem Sterling (Manchester City) wins a free kick in the defensive half.
-Foul by Martin Olsson (Swansea City).
-Foul by Gabriel Jesus (Manchester City).
-Leroy Fer (Swansea City) wins a free kick in the defensive half.
-Gabriel Jesus (Manchester City) wins a free kick in the attacking half.
-Foul by Jack Cork (Swansea City).
-Attempt blocked. Kevin De Bruyne (Manchester City) right footed shot from the right side of the box is blocked.
-Attempt saved. Yaya Touré (Manchester City) right footed shot from the left side of the box is saved in the centre of the goal. Assisted by Kevin De Bruyne with a cross.
-Corner,  Manchester City. Conceded by Fernando Llorente.
-Attempt blocked. Kevin De Bruyne (Manchester City) left footed shot from the right side of the box is blocked. Assisted by David Silva.
-Corner,  Manchester City. Conceded by Alfie Mawson.
-Gabriel Jesus (Manchester City) wins a free kick on the left wing.
-Foul by Federico Fernández (Swansea City).
-Ilkay Gundogan remains a long-term absentee but Fernandinho and Vincent Kompany will hope to earn recalls.
-Swansea could name an unchanged starting line-up for a third successive game.
-Captain Leon Britton has returned to training following a calf problem and will be part of the travelling squad.
-Steve Wilson: "A few weeks ago, checking out Swansea's heaviest ever Premier League defeat was an essential task for whichever MOTD commentator was assigned to their next game.
-"Under Bob Bradley they were lucky that record was only equalled when they lost 5-0 at Spurs - you suspect it could have been shattered had they played at Manchester City.
-"But Paul Clement has already made such an impact that, incredibly, half of their Premier League wins this season have been accrued under his care - and he's only been in charge for four games.
-"Getting something at City still looks a long shot, especially the way Pep Guardiola's men went about their oft-repeated task of ripping West Ham to shreds on Wednesday.
-"But a Swansea thumping is not inevitable - and that's progress."
-Twitter: @SteveWilson1967
-Manchester City manager Pep Guardiola on leaving out Sergio Aguero recently: "I understand the debate. But there is no doubt about the quality of Sergio."
-"He's played all the games except one in Barcelona for a tactical decision and one when he'd come back from Argentina. The other games when he was not banned he always played - and played good.
-"But now we knew from the beginning with have a new player [Gabriel Jesus].
-"The big clubs in Europe always have a lot of strikers... you see at Real Madrid, Barcelona, Juventus - at Madrid [Alvaro] Morata doesn't play. Big clubs need a lot of strikers and we do."
-Swansea City head coach Paul Clement: "We know there are 15 games to go with a hard game on Sunday.
-"If we keep going as we are we have a big chance [of staying up] but there is a lot football to be played.
-"There is a lot of hard work to do before we reach that point."
-Swansea have seen an upturn in results since Paul Clement took charge but Manchester City have also improved dramatically of late.
-A big part of that is the fact all of City's attacking players are in really good form and I don't think Swansea can keep them out.
-Prediction: 3-0
-Lawro's full predictions v NFL analyst Osi Umenyiora
-Head-to-head
-Manchester City
-Swansea City
-SAM (Sports Analytics Machine) is a super-computer created by @ProfIanMcHale at the University of Salford that is used to predict the outcome of football matches.
+Article text: In a campaign tagged "We deserve better", about 1,000 people came out in the western city to chant "neither Le Pen nor Macron".
+Riot police used tear gas to stop them reaching the historic city centre.
+The far right's Marine Le Pen has spoken in Nice and centrist Emmanuel Macron visited a troubled Paris suburb.
+Opinion polls taken since the first round on Sunday suggest Mr Macron, candidate of the En Marche (On The Move) movement, will easily beat Ms Le Pen, who has temporarily stood down as leader of the National Front (FN), in the second round on 7 May.
+However, Ms Le Pen upstaged her rival on Tuesday when she turned up in his northern home town of Amiens just as he was visiting himself.
+Ms Le Pen found herself under fire again on Thursday as EU sources accused her of defrauding the European Parliament of about €5m (£4m; $5.4m), allegedly paying FN assistants who were not really working for MEPs but were engaged in party work in France.
+%
+Emmanuel  Macron
+%
+Marine  Le Pen
+Please enable Javascript to view our poll of polls chart.
+Last updated  April 25, 2017
+The polling average line  looks at the five most recent national polls and takes the median value, ie, the value between the two figures that are higher and two figures that are lower.
+In Rennes, between 950 and 1,500 demonstrators marched in the city centre, French media report, after a peaceful rally.
+When a group of about 50 tried to occupy the railway station, police used tear gas and one officer cut off from the rest briefly drew his pistol to protect himself, Le Parisien daily reports (in French).
+Unrest continued in the city centre, with police bringing in a helicopter to survey the crowd, AFP news agency says.
+Placards read "Expel Marine Le Pen, not immigrants" and "We don't want Macron or Le Pen".
+Other unrest was reported in the western city of Nantes and parts of the capital Paris.
+Since Mr Macron and Ms le Pen narrowly won the first round on Sunday, some supporters of the losing candidates have advocated a protest vote against both on 7 May.
+Mr Macron visited the deprived Paris suburb of Sarcelles on Thursday to meet local people in a stadium where he played football briefly with delighted children.
+Sarcelles, home to large Muslim and Jewish communities, saw riots in the summer of 2014 in which Jewish-owned businesses and a synagogue were targeted.
+Mr Macron accused Ms Le Pen of not being willing to visit "a district like this". "France is not hatred and rejection of others," he said.
+Speaking later in an interview for the TF1 channel, he said France's biggest challenge was mass employment and it needed a policy "which allows companies to hire and invest".
+He promised, if elected, fundamental reform of labour laws this summer.
+Elsewhere in the interview, Mr Macron vowed to:
+Ms Le Pen gave her first big rally of the second round in the southern city of Nice, which was traumatised by the Bastille Day lorry attack claimed by so-called Islamic State last year.
+She accused Mr Macron, a former banker, of being the candidate of the "oligarch class" whose idea of France was a space where "everything can be bought and sold".
+Portraying herself as a patriot to the cheering crowd, she said the election was a "referendum for or against France" and she promised to halt "mass immigration".
+"I will give France back its borders immediately because I choose France," she said.
+Describing Nice as a city "martyred by Islamist terrorism", she said she would show no "weakness in the face of Islamic fundamentalism".
+The rally ended with a rendition of the national anthem, La Marseillaise, which was sung twice at Ms Le Pen's request from the stage. "Forward to victory, my friends!" she cried.
+Local FN representative Lionel Tivoli told Reuters news agency earlier that party membership in Nice's Alpes-Maritimes region had jumped from 740 two years ago to 3,500-4,000 now, driven in particular by the attack.
+However, sports coach Dominique Eche, 62, whose children narrowly escaped the attack, told Reuters:   "I saw the Nice attack from the inside and I find it appalling to try and benefit from such attacks, to say: 'It wouldn't have happened if I'd been in power'."
+----------------------------------------
+Ground truth Summary: Teenagers in Rennes and other French cities have held rallies or blocked schools in a protest against both presidential candidates.
+----------------------------------------
+Generated Summary: Thousands of people have taken to the streets of Paris to protest against the two candidates in the French presidential election.
+----------------------------------------
+----------------------------------------
 ----------------------------------------
-Ground truth Summary: Manchester City boss Pep Guardiola could again select recent signing Gabriel Jesus ahead of top scorer Sergio Aguero.
 ----------------------------------------
-Generated Summary: Second Half ends, Manchester City 2, Swansea City 0.
+Article text: Staff were informed of the development on Friday by chief executive officer Thomas Mayer, a source told BBC Sport.
+Administrators FRP said there was "a very limited window of opportunity" to save the team before the start of the 2017 season in Australia on 26 March.
+FRP said it was "assessing options" and that the process affected Manor's operating company Just Racing Services.
+Manor Grand Prix Racing, which owns the rights to the team's participation in F1, is not in administration.
+Team owner Stephen Fitzpatrick said in a note to staff: "It was imperative that the team finish in 10th place or better in 2016."
+Manor, who finished 11th and last in the championship last season, have been in talks with new investors but so far no deal has been concluded.
+Administrator Geoff Rowley said: "The team has made significant progress since the start of 2015, but the position remains that operating a F1 team requires significant ongoing investment.
+"The senior management team has worked tirelessly to bring new investment, but regrettably has been unable to do so within the time available.
+"Therefore, they have been left with no alternative but to place [Manor Racing] into administration."
+A source said several buyers had been lined up over the past few weeks and two had gone as far as conducting a due diligence process.
+But none of them provided the funds necessary to buy the team, nor was there any proof they had the money to run it.
+Fitzpatrick, the boss of the energy company Ovo, decided to put the team into administration on Thursday night.
+FRP were also appointed the last time the team were in administration over the winter of 2014/15, after they collapsed with debts of £35m.
+At the time, they were known as Marussia, and were reconstituted under their original name of Manor when Fitzpatrick bought them at the 11th hour just before the 2015 season.
+Manor, who are based in Banbury in Oxfordshire, suffered a blow at the end of last season when Sauber moved ahead of them into 10th place in the constructors' championship thanks to the ninth place achieved by Felipe Nasr at the penultimate race of the year in Brazil.
+"For much of the season we were on track," said Fitzpatrick.
+"But the dramatic race in Brazil ended our hopes of [finishing 10th] and ultimately brought into doubt the team's ability to race in 2017.
+"We made a huge amount of progress on and off track but ultimately it was not enough."
+That cost Manor in the region of £10m in prize money - income they needed to survive into the new season - and the loss of it has made potential drivers and their backers reluctant to commit funds to the team, sources said.
+Fitzpatrick said at the final race of the season in Abu Dhabi that the loss of income was "not a deal-breaker" in the talks he was having with new investors.
+But there had been no further news from the team until Friday's development.
 ----------------------------------------
+Ground truth Summary: Manor Racing have gone into administration and will collapse without new investment.
 ----------------------------------------
+Generated Summary: The Manor F1 team has been placed into administration, putting the future of the team in doubt.
 ----------------------------------------
 ----------------------------------------
-Article text: The most extreme arctic blasts, blamed on a weather pattern known as the polar vortex, were said to have affected nearly 190 million people.
-In Kentucky, an escaped prisoner turned himself in to get out of the cold.
-Some parts of the Midwest hit -26C (-14F), as low as the Antarctic coast in winter, and much colder than the inside of a domestic freezer.
-Temperature records were shattered in states across the US, including Alabama, Georgia, Tennessee, Arkansas, Michigan, Maryland, Ohio, Pennsylvania and New York.
-It was -17C (1F) in the small town of Hell, Michigan, prompting online jokes that the weather was so bad even hell had frozen over.
-But it was Embarrass, Minnesota, that experienced the lowest temperature in the nation on Tuesday: -37C (-35F).
-That was colder than readings recently recorded on the Red Planet by the Mars Rover.
-A video of a meteorologist tossing a pot of boiling water into the air in Wisconsin, to demonstrate how it immediately turns to snow, quickly went viral on the internet and was widely imitated.
-A woman in Sioux Falls, South Dakota, was taken to hospital with severe burns after she slipped on ice while attempting the trick, spilling boiling water on herself, the Argus Leader newspaper reported.
-The extreme weather resulted in the usual travel chaos - nearly 2,700 US flights were cancelled on Tuesday.
-More than 500 rail passengers on their way to Chicago were marooned overnight into Tuesday morning in northern Illinois on three Amtrak passenger trains after drifting snow and ice covered the tracks.
-The big freeze was even testing the resolve of Canadians, no strangers to cold weather.
-Temperatures in parts of Ontario fell to -30C (-22F), causing flights in and out of Pearson International Airport to be halted for several hours on Tuesday morning.
-Roads in the cities of Toronto and Ottawa were coated in dangerous black ice.
-Freezing temperatures were recorded even in usually mild southern states.
-In northern Florida temperatures briefly dropped below freezing.
-Atlanta, Georgia, was 25 degrees below average for this time of year.
-"I didn't think the South got this cold," Marty Williams, a homeless man in the city, told the Associated Press news agency.
-"That was the main reason for me to come down from up North, from the cold, to get away from all that stuff."
-People in the Midwest are still digging out from two massive snow storms recently which dumped more than 2ft (61cm) of snow.
-A reprieve is expected soon, however, with forecasters predicting temperatures above freezing for much of the US in the coming days.
 ----------------------------------------
-Ground truth Summary: Weather records have tumbled across North America, with freezing temperatures even in the southern US.
 ----------------------------------------
-Generated Summary: The US has been hit by its coldest winter in decades, with temperatures in some parts of the country as low as -26C (-14F).
+Article text: The 31-year-old, who joined the Reds in 2014, has the option to extend his stay at the West Sussex club by a further year as part of the deal.
+Harrold scored nine goals in 39 appearances last season.
+"I know what he can bring. He can handle himself physically but his touch and positional play is excellent," Crawley head coach Dermot Drummy said.
 ----------------------------------------
+Ground truth Summary: Crawley Town striker Matt Harrold has signed a new one-year contract with the League Two club.
 ----------------------------------------
+Generated Summary: League Two side Crawley Town have re-signed striker Matt Harrold on a one-year contract.
 ----------------------------------------
 ----------------------------------------
-Article text: Mr Bailey, 58, was arrested over the murder of French film producer Sophie Toscan du Plantier but never charged.
-Ms Toscan Du Plantier was found beaten to death  near her remote holiday home in west Cork on 23 December 1996.
-Mr Bailey told Dublin high court his life has been destroyed for the past 19 years because the police blamed him for a crime he did not commit.
-However, on Monday, a jury found certain police officers had not conspired to obtain statements from a witness to implicate him in the murder.
-Mr Bailey, who is originally from Manchester, had sued the Irish police (Garda) and the state for damages.
-However, most of his claims were struck out in the closing stages of the case because the judge ruled they had not been made within the six year time limit required by law.
-The case began on 4 November last year and heard from about 90 witnesses.
-----------------------------------------
-Ground truth Summary: Former journalist Ian Bailey, who had sued the Irish state for wrongful arrest for murder, has lost his case.
-----------------------------------------
-Generated Summary: Former journalist Ian Bailey has been awarded  ⁇ £1m in damages by an Irish court after he was wrongly accused of a 1996 murder.
 ----------------------------------------
 ----------------------------------------
+Article text: It was jockey Ryan Moore's second win in the race, having ridden O'Brien's previous winner Gleneagles, in 2015.
+Barney Roy (7-2) was second ahead of third-favourite Al Wukair (11-2) in the first Classic of the 2017 Flat season.
+Frankel's offspring Dream Castle and Colts Eminent were fifth and sixth respectively over the mile distance.
+The 1,000 Guineas, for fillies, takes place at Newmarket on Sunday at 15:35 BST.
+Churchill, last season's champion two-year-old, was sitting third at the halfway stage and managed to get the first run on his main rivals as he won by a length from Barney Roy.
+Moore said Churchill, who was making his three-year-old debut at Newmarket, had "everything you want in a racehorse".
+"He has a magnificent mind, he travels, has speed and loads of class," Moore told ITV Racing. "He was always racing comfortably - he was there a little bit early.
+"He always feels like there's more when you ask him."
+O'Brien added: "I was very worried about it being his first run. He's a big horse and we knew he would come on for the run. Ryan gave him a lovely ride.
+"Everyone at home was very happy with the horse which is why we took the chance to come first time, so I'm delighted."
+BBC racing correspondent Cornelius Lysaght
+Am I the only one to feel a slight sense of anti-climax?
+Obviously, Aidan O'Brien's latest record-breaking feat is a testament to the prolific skills and brilliance of himself, the rest of the Coolmore team, and, of course, of champion stallion Galileo, Churchill's father.
+But as a race, I'm not sure. It was hardly the potentially epic showdown billed; the time wasn't great, and the first seven finished within about three lengths.
+Churchill was good rather than sparkling, though it was his first run of the season. A word for Barney Roy who stumbled at a crucial moment late on.
 ----------------------------------------
+Ground truth Summary: Churchill, the 6-4 favourite, won the 2,000 Guineas at Newmarket to give trainer Aidan O'Brien a record-breaking eighth win in the Classic.
 ----------------------------------------
-Article text: The victim, in his 60s, had been karting at the Ellough Park circuit in Suffolk on Sunday afternoon.
-Ambulance crews found the man unconscious and not breathing when they arrived at the track near Beccles and treated him at the scene but he died there.
-Suffolk Police have started an investigation into the death, working with Waveney District Council.
-More updates on this news story and other stories in Suffolk
-A spokesperson for the council said: "As part of our responsibility for health and safety issues, our Environmental Protection team are working with Suffolk Police regarding this incident to establish the course of events."
+Generated Summary: Aidan O'Brien's Churchill won the 1,000 Guineas at Newmarket on Saturday, beating Barney Roy by a length and three-quarters.
 ----------------------------------------
-Ground truth Summary: A man has died after apparently being thrown from a go-kart at a track.
 ----------------------------------------
-Generated Summary: A man has died after he was hit by a car while racing at a circuit.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Nicola Sturgeon published an analysis of possible Brexit consequences, saying the Scottish economy could lose between £1.7bn and £11.2bn a year by 2030.
-Ms Sturgeon said this could have a severe impact on public spending.
-Scottish Conservative leader Ruth Davidson urged the Scottish government to focus on stabilising the country in the wake of the Brexit vote.
-She said it needed to focus on stability and "get back to the day job".
-A spokesman for First Minister Nicola Sturgeon described Ms Davidson's comments as the "height of hypocrisy".
-And he blamed the Conservatives for Brexit and the "huge economic damage" it could cause Scotland.
-The UK as a whole voted to leave the European Union, but a majority (62%) of people living in Scotland voted to remain.
-Ms Sturgeon said a second independence referendum was "highly likely" following the poll, but has promised to explore other options to safeguard Scotland's status in Europe.
-Analysis published by the Scottish government suggested that by 2030, Scottish GDP was projected to be between £1.7bn and £11.2bn per year lower than it would have been if Brexit does not occur.
-Tax revenue was projected to be between £1.7bn and £3.7bn lower.
-Ms Sturgeon said "This paper shows, in the starkest possible terms, the potentially huge cost to Scotland of being taken out of the European Union and the single market.
-"This analysis - based on a wide range of sources - demonstrates that leaving the EU, under any potential alternative arrangement, will have a profound and long-lasting impact on the public finances and the wider economic and societal wellbeing of both Scotland and the UK as a whole.
-"That stark picture outlined today means that, whatever the model of relationship with the EU which is chosen by the UK government in their negotiations before and after Article 50 is triggered, it will not be as economically beneficial as full EU membership."
-These figures are an arithmetical forecast, with caveats. They will be contested by those who argue that the UK/Scotland can thrive outside the EU. But they are also - indeed, primarily - a political tool.
-Practical implications
-Firstly, and most immediately, Nicola Sturgeon is seeking to some extent to pre-empt the publication on Wednesday of Government Expenditure and Revenue Scotland (GERS) figures.
-Given that oil has continued to decline and that the economy generally is less than buoyant, the latest GERS verdict is unlikely to be rosy.
-Secondly, and much more saliently, Ms Sturgeon is aiming an attack at the UK government and those who are currently pondering the practical implications of the Brexit vote.
-She is saying that unless Brexit is accompanied by a soft landing, unless there is substantial mitigation, unless the terms can be made relatively favourable, the potential cost is huge. So today's paper is designed to contribute, sharply, to the Brexit preparation process.
-However, there is a wider point. It is "simply unacceptable", Ms Sturgeon says, that "Scotland faces the prospect of being dragged out of the EU against its will".
-Read more from Brian
-Scottish Conservative leader Ruth Davidson accused Ms Sturgeon of using Brexit to deflect from the "underlying fragility" of Scotland's economy.
-She said: "The first minister is in danger of losing the plot completely.
-"Her own government's figures will show tomorrow that Scotland benefits from a multi-billion Union dividend.
-"And yet, in order to revive her independence obsession, she is trying to pretend these facts don't exist."
-Ms Davidson added: "Scotland benefits from being a member of the UK, and the UK benefits from our being there.
-"It is time Nicola Sturgeon ended this charade, took her threat of a second independent referendum off the table, and got back to the day job of sorting out the mess her government has made of our public services."
 ----------------------------------------
-Ground truth Summary: The first minister has warned that leaving the EU could cost the Scottish economy billions of pounds.
 ----------------------------------------
-Generated Summary: Scotland's economy could be hit by up to £11.2bn a year if the UK leaves the European Union, the First Minister has said.
+Article text: The BHA aims to halt a decline in the number of horses taking part in races lower down the scale with an increase in prize money and appearance fees.
+The scheme has the support of the Racecourse Association and Horsemen's Group.
+The proposals come as the 2018 fixture list is released, with 1,508 meetings next year, 11 more than in 2017.
+Richard Wayman, chief operating officer for the BHA, said: "Although there has been growth in total prize money in recent years, much of this has been at the top end. The returns to our sport's participants further down the scale are simply not sufficient at present to be sustainable.
+"Targeting grassroots with extra funding will help racing's participants to maintain their involvement in the sport, keeping more horses in training, as well as helping with the recruitment and retention of staff to care for our horses."
+The BHA proposes to invest additional levy income in racing from 2018, with the aim of delivering three key objectives for the sport - supporting ownership, delivering more competitive and compelling racing, and increasing customer engagement.
+A statement by the BHA proposed that, in addition to the increased number on meetings next year, there will also be "customer-friendly slots on Friday evenings and Saturday afternoons throughout summer with the aim of increasing attendances".
+"We need the fixture list and race programme to work in a manner that meets our customer's requirements. As customer and betting habits change it is essential that our sport evolves with them," Wayman added.
 ----------------------------------------
+Ground truth Summary: Grassroots racing will receive an extra £9.7m in 2018 under new proposals from the British Horseracing Authority.
 ----------------------------------------
+Generated Summary: The British Horseracing Authority (BHA) has launched a scheme to encourage more horses to take part in races at the lower end of the sport.
 ----------------------------------------
 ----------------------------------------
-Article text: Michael McFeat from Perthshire was expelled by the Kyrgyz authorities after comparing the national dish with the private parts of a horse.
-Speaking to the Sunday Post newspaper, Mr McFeat described how he was helped to escape "a lynch mob".
-He has now been banned from Kyrgyzstan for five years.
-Mr McFeat told the newspaper he actually believed the traditional Kyrgyz dish - chuchuk sausage - was a horse's penis, but the remark on Facebook angered his local colleagues.
-He had been working at the Kumtor gold mine, but had to be smuggled away after the incident.
-When he arrived at Manas Airport in Bishkek, he was arrested by police under race hatred laws.
-Mr McFeat said: "The police told me my act could send Kyrgyzstan to war with the UK."
-After appearing in court and making an apology for his remarks, Mr McFeat was put on a flight to Edinburgh.
-He added: "I was told there was a 17-page petition demanding I be jailed and the mine went on strike after I left, so they were making an example of me.
-"I've always been up for a joke but this was one time I wasn't joking and it's been blown out of proportion."
-----------------------------------------
-Ground truth Summary: A Scottish worker deported from Kyrgyzstan has said police there warned him a joke about a traditional sausage could have led to war with the UK.
 ----------------------------------------
-Generated Summary: A Scottish man has been banned from returning to his native country of Kyrgyzstan after posting a joke on Facebook about the country's national dish.
 ----------------------------------------
+Article text: Geoffrey Sutcliffe admitted causing the death of Lucille Abraham, 92.
+When applying to renew his driving licence, a court heard, Sutcliffe said he met the "required eyesight standard" and did not need glasses to drive.
+He was sentenced to eight months in prison, suspended for two years.
+Sutcliffe hit Ms Abraham, from Baildon, at the junction of Godwin Street and Kirkgate, in Bradford, last October.
+During an eye test the previous month, Prosecutor Michael Smith said, Sutcliffe told the optometrist he was not a driver.
+Had he done so, Mr Smith said, she would have said that his eyesight had failed the visual acuity test.
+"The defendant suffers from cataracts in both eyes and it seems that the medical opinion here is that he should not undergo an operation on his right eye because effectively that's the only eye that can see," said Mr Smith.
+Barrister Ken Green, for Sutcliffe, said he had been driving for over 60 years without any previous offending and his client intended never to drive again and had surrendered his licence.
+"He will never forget that day and I am sure he will never forgive himself for that error that he made," said Mr Green.
+Passing sentence, Judge Colin Burn said "It is obvious that you should not, with the benefit of hindsight, have been driving at all on that day.
+"Your eyesight wasn't up to it as a matter of objective fact."
+He added: "The misrepresentation you made about your eyesight was a contributory cause of this collision because you shouldn't have been driving at all."
 ----------------------------------------
+Ground truth Summary: An 81-year-old driver whose poor eyesight meant he should not be on the road has been given a suspended jail sentence after he hit and killed a woman.
 ----------------------------------------
+Generated Summary: A 90-year-old man who killed an elderly woman in a hit-and-run has been given a suspended prison sentence.
 ----------------------------------------
-Article text: Lib Dem leader Tim Farron said his party would oppose it, unless they were promised a second referendum on the UK's Brexit deal with EU leaders.
-Several Labour MPs are also willing to vote against it, despite the Labour Party pledging not to do so.
-The government says Lib Dem and Labour MPs are "trying to thwart and reverse the referendum result".
-With the support of Conservative MPs and the support or abstention of most Labour MPs, the bill is well placed to pass through the Commons.
-But the opposition of some MPs is likely to embolden critics in the House of Lords.
-The Liberal Democrats have long called for a referendum on the outcome of the government's negotiations with EU, but only now have they said they will definitely vote against Article 50 if their demand is not met.
-Mr Farron, whose party has eight MPs in the Commons, told BBC Radio 4's Today: "Article 50 would proceed but only if there is a referendum on the terms of the deal and if the British people are not respected then, yes, that is a red line and we would vote against the government."
-For Labour, shadow minister Catherine West, former leadership contender Owen Smith and south London MP Helen Hayes all made clear they were prepared to vote against Article 50 - which begins formal exit negotiations with the EU - if amendments were not accepted.
-Former Labour minister David Lammy and shadow transport minister Daniel Zeichner have said they would oppose Article 50. Opposition whip Thangam Debbonaire said she would also vote against it, if a vote were held imminently.
-The SNP's 54 MPs may join them. First Minister Nicola Sturgeon has said they will not vote for anything that undermines the will of the Scottish people, and has previously said they will vote against a bill to write EU provisions into British law to prepare for Brexit.
-Dulwich Labour MP Hayes said she was prepared to defy Labour whips to oppose the measure unless the government promised a second referendum.
-She said: "I had somebody in my surgery last week who was in tears because of Brexit and I see genuine distress amongst my constituents about what this path means.
-"I would not be representing them if I voted to trigger Article 50 on the basis of no information from the government about the path that they would then take us on."
-In posts on Twitter and Facebook earlier this week, shadow Foreign Office minister Catherine West wrote: "As I have said before, I stand with the people of Hornsey & Wood Green, and I will vote against Brexit in Parliament."
-Owen Smith confirmed to Today that if his bid for a second referendum failed, he was likely to oppose the bill.
-The SDLP's three MPs will also oppose the measure.
-Ministers said MPs voting against Article 50 would effectively be trying to re-run the referendum in the hope of a "different answer".
-"Parliament voted by a margin of six to one to put the decision on whether to remain in or leave the EU in the hands of the British people," said Brexit minister David Jones.
-"Only the Conservatives can be trusted to respect the outcome of the referendum and make a success of Brexit."
-Last week the High Court ruled Parliament must be consulted about leaving the European Union.
-Unless the Supreme Court overturns the judgement in December, a bill to invoke Article 50 is expected in the new year.
-Labour made clear its official position would be not to frustrate the process of leaving the EU after a newspaper report said the party leader Jeremy Corbyn intended to force a general election unless ministers caved in to demands.
-After the story broke Labour sources said that while it would seek to amend the bill, it would provide "unconditional" support.
-Shadow Brexit secretary Keir Starmer said Labour would not frustrate the process and would not vote down Article 50.
-However, Labour and Liberal Democrat peers will try to amend the bill in the House of Lords. So too will one Conservative peer - Baroness Wheatcroft.
-----------------------------------------
-Ground truth Summary: Liberal Democrat, some Labour and SDLP MPs have told the BBC they are prepared to vote against triggering Article 50.
-----------------------------------------
-Generated Summary: The government's Brexit bill has suffered a setback after the Liberal Democrats said they would vote against it.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Slovenia-born Bedene, who plays world number one Novak Djokovic in the third round of the French Open on Saturday, credits his work with Martin Skinner as the platform for his recent success.
-"I was really unfit when I started to play grand slams," said Bedene, 26.
-"Whenever I played a fourth set I was just losing them quite easily."
-He added: "I remember once at the US Open, I lost 6-0 and I was struggling. I really wanted to improve on that.
-"It obviously helps not only in the fifth set but also in the other tournaments."
-Bedene is buoyed by Thursday's five-set, second-round victory against Pablo Carreno Busta when he recovered from squandering a two-set lead to advance at Roland Garros.
-However, he lost his only other meeting with Djokovic in straight sets at the Australian Open in 2015.
-He is hoping his experience of winning 16 Challenger and Futures events will stand him in good stead for the game, which is last on the main court.
-"I love big crowds," he said. "I won a lot of Italian Challengers, and every time you play the final there are 1,000, 2,000 people, which is a lot for Challengers.
-"So I did learn a few things. I know this stadium is bigger, but still you have to come from somewhere."
-Djokovic has not hit top form yet and was given a tough test by qualifier Steve Darcis in round two, although he is still to drop a set.
-The Serb is expecting more of the same against Bedene, who is being coached at Roland Garros by Britain's Davis Cup captain Leon Smith.
-"He's very talented, with a very quick motion for a first serve," said Djokovic. "So I'm expecting a tough one. I know he doesn't have anything to lose."
-----------------------------------------
-Ground truth Summary: British number two Aljaz Bedene says he had to employ a strength and conditioning coach to specifically prepare him for grand slam tennis.
-----------------------------------------
-Generated Summary: Britain's Aljaz Bedene says he has been able to improve on his fourth-set struggles by working with a coach.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Fish oil has been marketed to women as a prenatal supplement.
-But a 10-year study of more than 2,500 pregnant women found it did not improve babies' intelligence, according to the Australian research.
-The findings suggested that fish oil might lead to slightly longer pregnancies, but that would require further research, the team said.
-"If a pregnant woman has a healthy, balanced diet, then the baby's brain development is not going to benefit from having these fish oil supplements," study co-author Dr Jacqueline Gould told the BBC.
-The research, by the South Australian Health and Medical Research Institute, followed women from their pregnancy to when their children were seven years old.
-Participants were given either a daily fish oil supplement or a placebo.
-The results found taking a 800mg dose of docosahexaenoic acid (DHA), an omega-3 acid, had no impact on babies' intelligence.
-Dr Gould said supplement makers had specifically marketed fish oil as a way to boost development in infants.
-She said the research, detailed in the Journal of the American Medical Association, showed fish oil might be linked with longer pregnancies.
-"What that meant was, there were slightly fewer children born pre-term," Dr Gould said.
-"We're currently trying to validate that in a much bigger study."
-----------------------------------------
-Ground truth Summary: Taking fish oil while pregnant does not improve the brain development of babies, new research has found.
-----------------------------------------
-Generated Summary: Women who take fish oil during pregnancy do not improve their baby's intelligence, research suggests.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: MEP Patrick O'Flynn said the party's support had broadened in the final days of the campaign and suggested their vote share would be more than 10%.
-Earlier, deputy chairman Paul Nuttall said UKIP MPs could offer vote-by-vote support to a minority government.
-But he told the BBC a referendum on the UK staying in the EU was a "red line".
-UKIP is attracting around 14% support, according to the latest BBC poll of polls.
-The party had two MPs at the end of the last Parliament - both of whom won by-elections after defecting from the Conservatives.
-The party's leader, Euro-MP Nigel Farage, is standing for election to the House of Commons in the Kent constituency of Thanet South. Here is a full list of the candidates contesting the seat.
-Speaking about UKIP's prospects, economy spokesman Mr O'Flynn said the party had managed to defy expectations of a squeeze.
-He said: "Tomorrow we will significantly and perhaps dramatically outperform the expectations of pollsters and pundits alike.
-What are the top issues for each political party at the 2015 general election?
-Policy guide: Where the parties stand
-"That means doing much better than a political class consensus of a vote share of around 10% and one or two seats in the Commons.
-"The so-called squeeze on the UKIP vote predicted by so many of the media class simply has not happened.
-"On the contrary we are getting indications of a very substantial energising and broadening of our support in the final days of the campaign."
-Speaking on BBC Radio 4's Today programme, Mr Nuttall repeated that his party would not enter a formal deal after the election.
-He said: "We've made it perfectly clear there will no coalitions, there will be no pacts, and if we did go down the line of a deal whereby we vote with the government on a vote-by-vote basis, it will be a loose deal."
-He said a "red line" would be a "free, full, fair referendum" on EU membership "as soon as possible, preferably before the end of the year."
-Mr Nuttall was asked whether a vote for his party could harm the prospects of Tory success and therefore an vote on the EU.
-He said: "The problem you've got with Mr Cameron's promise of a referendum is one he's promised a referendum before and gone back on that deal and secondly he's talking about a negotiation through 2016 and into 2017 with an organisation that has made it perfectly clear that renegotiation isn't on the table."
-He added: "We're looking to get as many votes as possible tomorrow to ensure we have real change in British politics, whether that's with the European Union or indeed electoral reform."
-The best of BBC News' Election 2015 specials
-----------------------------------------
-Ground truth Summary: The UK Independence Party (UKIP) will "significantly and perhaps dramatically outperform" expectations in Thursday's election, a spokesman has predicted.
-----------------------------------------
-Generated Summary: The UK Independence Party (UKIP) is on course to win enough seats in the general election to form a government, the party's leader has said.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The France striker opened the scoring against Rostov with a brilliant flick, but Sardar Azmoun equalised - only the fourth time in 19 home Champions League games under Diego Simeone that Atletico have conceded - before Griezmann fired in off the crossbar in injury time.
-Bayern won 2-1 at PSV, with Poland striker Robert Lewandowski scoring twice and hitting the woodwork three times - taking his tally for club and country this season to 19 goals in 17 games.
-Paris St-Germain also went through thanks to a 2-1 victory at Basel.
-Thomas Meunier scored a brilliant late volley for the French champions, who qualified with Arsenal from Group A.
-A draw would have been sufficient for Unai Emery's PSG side thanks to Arsenal's 3-2 win at Ludogorets.
-Napoli missed the opportunity to clinch their last-16 place as they drew 1-1 at Besiktas.
-Ricardo Quaresma gave the Turkish champions a 78th-minute lead before Marek Hamsik curled home a fantastic 25-yard effort four minutes later.
-Benfica beat Dynamo Kiev 1-0 courtesy of Eduardo Salvio's 45th-minute penalty.
-Borussia Dortmund will progress if they beat Sporting Lisbon at home. Real Madrid will join them from Group F if they win at Legia Warsaw, providing Dortmund win.
-Leicester will go through if they beat FC Copenhagen at the King Power Stadium. A draw would be enough for the Foxes if FC Porto do not beat Club Brugge.
-Victory over Lyon will secure Juventus' place in the last 16, which would mean Sevilla will qualify if they beat Dinamo Zagreb.
-Match ends, Atlético de Madrid 2, FC Rostov 1.
-Second Half ends, Atlético de Madrid 2, FC Rostov 1.
-Attempt missed. Christian Noboa (FC Rostov) right footed shot from outside the box is too high from a direct free kick.
-Foul by Koke (Atlético de Madrid).
-Moussa Doumbia (FC Rostov) wins a free kick in the attacking half.
-Goal!  Atlético de Madrid 2, FC Rostov 1. Antoine Griezmann (Atlético de Madrid) left footed shot from very close range to the top right corner.
-Offside, Atlético de Madrid. Gabi tries a through ball, but Diego Godín is caught offside.
-Attempt missed. Sime Vrsaljko (Atlético de Madrid) right footed shot from long range on the right misses to the left. Assisted by Koke.
-Attempt saved. Stefan Savic (Atlético de Madrid) header from the centre of the box is saved in the bottom left corner. Assisted by Koke with a cross.
-Kevin Gameiro (Atlético de Madrid) wins a free kick in the attacking half.
-Foul by Aleksandru Gatcan (FC Rostov).
-Foul by Ángel Correa (Atlético de Madrid).
-Andrei Prepelita (FC Rostov) wins a free kick in the defensive half.
-Attempt blocked. Ángel Correa (Atlético de Madrid) left footed shot from the centre of the box is blocked.
-Foul by Gabi (Atlético de Madrid).
-Christian Noboa (FC Rostov) wins a free kick in the defensive half.
-Attempt missed. Christian Noboa (FC Rostov) left footed shot from outside the box is too high. Assisted by Dmitriy Poloz following a set piece situation.
-Filipe Luis (Atlético de Madrid) is shown the yellow card for a bad foul.
-Foul by Filipe Luis (Atlético de Madrid).
-Dmitriy Poloz (FC Rostov) wins a free kick on the right wing.
-Soslan Dzhanaev (FC Rostov) is shown the yellow card.
-Attempt saved. Kevin Gameiro (Atlético de Madrid) right footed shot from outside the box is saved in the centre of the goal. Assisted by Fernando Torres.
-Corner,  Atlético de Madrid. Conceded by César Navas.
-Substitution, Atlético de Madrid. Ángel Correa replaces Yannick Carrasco.
-Attempt saved. Antoine Griezmann (Atlético de Madrid) left footed shot from outside the box is saved in the top centre of the goal. Assisted by Gabi.
-Substitution, FC Rostov. Denis Terentjev replaces Timofei Kalachev because of an injury.
-Attempt blocked. Antoine Griezmann (Atlético de Madrid) header from the centre of the box is blocked. Assisted by Sime Vrsaljko with a cross.
-Substitution, FC Rostov. Moussa Doumbia replaces Sardar Azmoun.
-Aleksandru Gatcan (FC Rostov) is shown the yellow card for a bad foul.
-Fernando Torres (Atlético de Madrid) wins a free kick in the attacking half.
-Foul by Aleksandru Gatcan (FC Rostov).
-Attempt saved. Fernando Torres (Atlético de Madrid) right footed shot from the right side of the box is saved in the centre of the goal. Assisted by Kevin Gameiro.
-Attempt missed. Yannick Carrasco (Atlético de Madrid) left footed shot from outside the box misses to the right following a corner.
-Corner,  Atlético de Madrid. Conceded by Vladimir Granat.
-Attempt blocked. Antoine Griezmann (Atlético de Madrid) right footed shot from outside the box is blocked. Assisted by Yannick Carrasco.
-Attempt missed. Koke (Atlético de Madrid) right footed shot from outside the box misses to the right. Assisted by Filipe Luis following a corner.
-Corner,  Atlético de Madrid. Conceded by Sardar Azmoun.
-Kevin Gameiro (Atlético de Madrid) wins a free kick on the left wing.
-Foul by Timofei Kalachev (FC Rostov).
-Attempt missed. Fernando Torres (Atlético de Madrid) left footed shot from the left side of the six yard box is close, but misses to the left. Assisted by Kevin Gameiro with a cross.
-----------------------------------------
-Ground truth Summary: Antoine Griezmann scored a last-second winner as Atletico Madrid qualified for the Champions League last 16 alongside Group D rivals Bayern Munich.
-----------------------------------------
-Generated Summary: Antoine Griezmann scored twice as Atletico Madrid qualified for the last 16 of the Champions League with a 2-1 win over Rostov and Bayern Munich beat PSV Eindhoven.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The application was approved on a majority vote at the organisation's congress in London, with no votes against and no abstentions.
-The British Overseas Territory off the south coast of Spain has a population of just under 30,000.
-Gibraltar will be allowed to enter qualifying for the 2016 European Championship.
-The territory tried to join Uefa in 2007 but the bid was controversially rejected. Spain opposed the move and threatened to boycott both club and international competitions if it succeeded.
-Only three of Uefa's 52 associations voted in favour of Gibraltar - the English, Welsh and Scottish Football Associations.
-Previously Gibraltar, which has six top-division teams and 600 registered senior players, had been told it could not join Uefa as it was not a country recognised by the United Nations.
-It was accepted as a provisional member of Uefa in October 2012 and that membership has now been ratified.
-Spain continues to claim sovereignty over the territory, which has been ruled by Britain since 1713 under the terms of the Treaty of Utrecht.
-The European Union has put pressure on Spain and Britain to resolve the issue of Gibraltar's status. Both sides, under the Brussels Process launched in 1984, have attempted to reach an agreement.
-But Spain's insistence on eventually acquiring full sovereignty, and Britain's determination to retain full control of Gibraltar's military base, have been among the stumbling blocks.
-Uefa president Michel Platini has confirmed that Gibraltar and Spain will be kept apart in qualifying groups.
-"Gibraltar will not play qualifying matches with Spain - we also have this situation with Armenia and Azerbaijan," Platini said.
-"This is a momentous occasion for football in Gibraltar. Uefa membership means that we can begin the next chapter of Gibraltarian football," the president of the Gibraltar Football Association, Gareth Latin, said.
-"At last we'll be able to show the whole of Europe that we can match the best with football of a high standard and entertaining style."
-Allen Bula, head coach of Gibraltar's national side, would relish the chance to play the country's neighbours.
-"I always said I would love to play Spain. I would play them any day, anywhere, any time," Bula told the BBC's World Football programme earlier this year.
-"When I took over the national team I had one purpose - to show Europe and the world that what Spain were saying about us, that we were only in it for political reasons and that we didn't have any quality, was a load of rubbish.
-"They have not let us progress, we've never given up and now we are ready to show Europe what we are made of."
-Gibraltar becomes the smallest Uefa member in terms of population, behind San Marino (just over 32,000), Liechtenstein (approximately 37,000) and the Faroe Islands (just under 50,000).
-----------------------------------------
-Ground truth Summary: Gibraltar has been accepted as a full member of Uefa, European football's governing body.
-----------------------------------------
-Generated Summary: Football's governing body Uefa has approved Gibraltar's application to join the European Union.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The 10km (four miles) sq area housing government buildings became off-limits to the public as a security measure in the wake of the 2003 US occupation.
-It is the latest in a series of steps by Mr Abadi to ease sectarian tensions and crack down on corruption.
-Baghdad has seen weeks of protests over poor services and abuses of power.
-Earlier this month, in a rare show of unity, the Iraqi parliament backed Mr Abadi's programme to abolish top government posts and cut spending.
-On Friday, the prime minister issued instructions to lift restrictions on the Green Zone. It is not clear when the plan will be implemented.
-The compound, in the Karkh district on the west bank of the Tigris, is surrounded by concrete walls and heavily guarded by checkpoints and tanks.
-It houses former palaces of Iraqi leader Saddam Hussein and was the administrative headquarters of the US occupation authorities. Several foreign embassies, including those of the US and UK, are situated there.
-Most Iraqis have been excluded from the Green Zone unless they have special permission, and large bribes have been paid to get round stringent entry procedures, according to AFP news agency.
-The zone has been targeted by bombings and rockets over the years, and the fortification measures were aimed at making it more secure, although attacks in Baghdad are still commonplace.
-Mr Abadi also ordered the removal of barriers and checkpoints set up on main roads and sidestreets in Baghdad and elsewhere by prominent figures and militias.
-The order to lift the restrictions is part of a series of measures to defuse tensions and root out corruption. A panel will also be set up to recover state property appropriated by elites which are found to have been illegally obtained.
-In recent weeks, thousands of Iraqis have taken to the streets in Baghdad and other cities to protest against the failure to provide basic services and against corruption.
-They have been backed by Iraq's preeminent Shia cleric Grand Ayatollah Ali al-Sistani and powerful Shia militia leader, Moqtada Sadr.
-----------------------------------------
-Ground truth Summary: Iraqi Prime Minister Haider al-Abadi has ordered officials to open up to civilians the heavily-fortified area of Baghdad known as the Green Zone.
-----------------------------------------
-Generated Summary: Iraq's Prime Minister Haider al-Abadi has ordered the lifting of restrictions on the Green Zone in Baghdad.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Since George Osborne applauded Google's tax agreement with HM Revenue & Customs (HMRC) two weeks ago, public sentiment has been mounting against what many feel are unduly favourable tax arrangements for the world's multinationals.
-In front of MPs, Google's president for Europe, Matt Brittin defended the company's UK tax arrangements.  Its public stance has been that:  "Governments make tax law, the tax authorities independently enforce the law, and Google complies with the law."
-In which case, the authorities in the UK and beyond seem to be concluding that what's required is a change in the law.
-Chancellor George Osborne has already instigated a clampdown on the way multinationals shift their profits to different jurisdictions to pay less tax, known as the "diverted profits tax".
-HMRC has said that the new tax, which came into effect in April last year, is aimed at capturing tax from organisations that don't pay corporation tax on their profits in the UK.
-Google, says HMRC, has paid the taxes that it is supposed to pay.
-Which, say critics, suggests this new tax doesn't go far enough.
-Last month, the Organisation for Economic Cooperation and Development (OECD) successfully brokered an agreement designed to improve the current system.
-All 31 of its member countries, which include the US, Bermuda and Guernsey, have agreed to share information on the tax international firms pay, leaving them less room for moving their profits into low tax jurisdictions.
-But the plan would still require implementation at national level.
-At the heart of the agreement is the concept of transparency, in particular what is known as "country-by-country reporting".
-This would force companies to tell the tax office of each country in which they operate, how many staff they employ there, what their revenues and profit are and how much tax they pay.
-The European Commission has proposed EU member states do the same.  If its plan is approved, which experts say is unlikely as any direct tax measures require unanimity, it could eventually be turned into law by individual countries.
-The Commission has said it is also looking separately at whether these accounts should be opened up to public scrutiny and will publish its findings in the spring.
-If such scrutiny were ever implemented, it could be a powerful incentive for firms to change, says Richard Murphy, professor of international political economy at London's City University.
-"If multinationals feel that they are out of the public eye, then they feel they can carry on the same way with the tax authorities - and nothing changes.
-"It is only by having their affairs in the public eye, when everyone can see the choices they are making and the press can have a field day, that you have behavioural change."
-The prospect is already making investors nervous, according to Prof Murphy:
-"Investors are crucial to this. They are beginning to question which companies are free-riding. If there is public scrutiny of their accounts that represents a real risk, it could result in a real change in perception of those companies."
-Momentum appears to be building behind this idea. Even the UK government, having been criticised in the past for dragging its feet on the issue, has come out in favour of full transparency, with the chancellor telling the Financial Times he would like to see tax information made public as long as it can be agreed multilaterally.
-However some in the business community are concerned.
-"We recognise need for greater transparency and we share the common objectives to tackle fraud and evasion," says James Watson of the lobby group Business Europe which represents national business associations such as France's MEDEF and the UK's CBI.
-"But we are concerned at initiatives that might make the EU a forerunner and create a competitive disadvantage.
-"If companies feel they have to reveal more information and information that is commercially sensitive, that might damage the EU as an investment destination if the EU were to go ahead unilaterally."
-For some, though, even the powerful incentive of greater transparency doesn't go far enough - they are calling for an overhaul of the system and the introduction of "unitary taxation".
-This is a more radical solution to the problem that beset the UK while trying to tackle Google's tax affairs.
-Google claimed that all its sales came out of Ireland, with the UK representing one of many marketing operations, and that it therefore made very little taxable profit in the UK.
-But unitary taxation would see a company, however big, and however diverse, as one unit with one base and one profit.
-Once the revenues and profits are added together they would then be broken down to represent the interests in each country, and the company would be taxed according to its activities there.
-The European Commission has proposed a unitary tax system called the Common Consolidated Corporate Tax Base (CCCTB), while both the US and Canada already have a form of unitary taxation for their corporations' domestic profits.
-Sol Picciotto, emeritus professor at Lancaster University Law School, says treating multinationals as single entities makes sense, but that it can be difficult for countries to agree on how they work this out.
-The most obvious formula, he believes, is to base taxation of profits on where a firm's assets, employees and sales are located.
-"I think there must be some kind of change.
-"The direction must be towards treating multinationals as single entities. Up until now they have been seen as a collection of independent entities, and I think that is a mistake," he says.
-----------------------------------------
-Ground truth Summary: When Google's European boss, Matt Brittin, appeared before the House of Commons' Public Accounts Committee on Thursday he faced a wave of indignant questioning from MPs.
-----------------------------------------
-Generated Summary: The Chancellor of the Exchequer, George Osborne, has been accused of being "arrogant" and "disingenuous" for praising Google's tax arrangements.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The parties are now in opposition together at Stormont.
-Since going into opposition after the assembly election in May, the effectiveness of the arrangement between the Ulster Unionists and the SDLP has been constantly questioned.
-The decision to invite Colum Eatwood to address the UUP conference can be seen as the response to that criticism.
-Ulster Unionist leader Mike Nesbitt said there was a lot of joined up work going on between the parties but he and Mr Eastwood were conscious people want to see tangible signs of co-operation.
-Rather than dwell on what divides them, he said, they were focused on common ground, importantly the fact both want Northern Ireland to work.
-Mr Eastwood said it was a demonstration of what genuine co-operation looks like - two leaders of parties with different views coming together in the interests of people who deserved better from the current Executive.
-"It's the principle of partnership, ingrained in our institutions by the SDLP and UUP and degraded by the current government, that brings us together on issues of common cause where we can make a positive difference to the lives of the people we represent," he said.
-Mr Nesbitt said that while there was a lot of co-operation between the UUP and SDLP behind the scenes, he was conscious that people wanted to see tangible signs of it.
-"We will not agree on everything, but rather than dwell on what divides us, I am focused on the common ground, and importantly, the fact that Colum and I both want Northern Ireland to work, which opens huge possibilities for cooperating on the bread and butter issues of the economy, education, housing and the health of all our people," he said.
-----------------------------------------
-Ground truth Summary: An SDLP leader will speak at the Ulster Unionist conference for the first time on Saturday.
-----------------------------------------
-Generated Summary: SDLP leader Colum Eastwood will address the Ulster Unionist Party (UUP) conference in Belfast on Saturday.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: His side have won only two of their first seven league games following promotion and lie in seventh place.
-"What I said at the start of the season, and I was very, very clear, was that we'd be highly competitive," the English manager told the media.
-"You guys said about challenging Celtic and challenging Aberdeen."
-Rangers are seven points behind reigning champions Celtic and three adrift of the Dons, who were last year's runners-up, after losing to both in recent weeks.
-"I said we'd be highly competitive and that won't change," he said of a side beaten 2-1 at Pittodrie in their last outing.
-"I think you saw on Sunday we were highly competitive, but we have to get the rewards for it.
-"What we have to do is to turn our domination and ball possession into rewards.
-"That's what we did against Queen of the South. Between the Ross County and Queens match, there was no difference between the displays, but in one game we were far more clinical than the other."
-Warburton, who has received a one-match touchline ban for comments made after the loss to Aberdeen, insists it is still early in the season to express disappointment at Rangers' league position.
-"You can say you are four points from the bottom or three points from second," he said ahead of Saturday's Glasgow derby against Partick Thistle.
-"At this stage of the season, in any league, you win two games and the whole picture changes. The same if you lose two."
-----------------------------------------
-Ground truth Summary: Mark Warburton says his goal at the start of the season was simply to be "highly competitive" in the Scottish Premiership and Rangers have done that.
-----------------------------------------
-Generated Summary: Rangers manager Mark Warburton says his side will be "highly competitive" in the Scottish Premiership this season.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: April Jones was playing with friends near her home in Machynlleth but was seen getting into a grey or light coloured van at 19:00 BST on Monday.
-Around 200 people helped in a search of streets, farmland and woodland through the night.
-April was last seen wearing a purple knee-length coat with a fur hood, white school polo top and black trousers.
-The Ysgol Gynradd Machynlleth pupil had been playing on her bicycle with friends near her home on the Bryn-y-Gog estate.
-Dyfed-Powys Police said all the witnesses to her suspected abduction were children.
-Det Supt Reg Bevan said getting information from the children would take time.
-"It's a delicate and difficult process interviewing young children who were the witnesses to this," he said.
-"That's continuing - it commenced last night and it will continue this morning and hopefully I will have more information for you later."
-A hotline number has been released for people to call with information - 0300 2000 333.
-Det Supt Bevan added: "We're liaising with our colleagues, neighbouring forces, [getting] specialist advice.
-By Cemlyn DaviesBBC Wales
-I've already heard shouts and cries of 'April' as the search resumed this morning.
-I'm standing near the spot where the five-year-old was last seen around half past seven on Monday evening.
-The community has really pulled together and that was clear last night.
-A few hundred people gathered at the town's leisure centre.
-I was there to watch them come together. They divided themselves into groups to go out into the town to keep searching for April.
-This morning, I've spoken to the local councillors who have said they will do everything possible to help April Jones's family at this very, very difficult time.
-They've described the family as a wonderful family who play their part in the community, and they'll do everything they can to help find April safe and sound.
-"We've got specially trained family liaison officers supporting April's family."
-He also praised the "tremendous response" from the community.
-Local people gathered at Machynlleth Leisure Centre on Monday evening to help look for the girl, as news of her disappearance spread on social network sites.
-Posters of April were also circulated and put up around the town.
-Police also set up road blocks to check vehicles, while the street where April disappeared has been cordoned off.
-Det Ch Supt Simon Powell of Dyfed-Powys Police said officers were "becoming increasingly concerned for her safety".
-He said the force had launched an "intensive search and criminal investigation" into the abduction.
-"April was last seen playing on a bicycle near her home address and was seen getting into what we believe was a light-coloured van which then drove off," he added.
-Insp Kevin Davies said the fire service and police dog teams had been mobilised, and vehicle check-points set up.
-"There is mention of a grey van, we're looking at that as one of the angles of inquiry," he said. "Nothing is being overlooked. It's an angle, it's an inquiry that we're pursuing along with other angles.
-"We're searching the area.  Everything we can possibly do is being done.
-"The family are obviously distressed. We're trying to keep them informed, we've got an officer allocated to them just to keep them informed as to what's happening. Any information, we'll share with them."
-Shadow Welsh Secretary, Owen Smith MP, told the Labour conference in Manchester that the thoughts and prayers of all delegates are with the missing girl and her family.
-"We all pray she's back in her community and with her family as soon as humanly possible," he added.
-Meanwhile, Powys County Council said it was providing support for pupils and staff at April's school. Both the primary school and adjacent secondary school are open with lessons continuing as usual.
-The council said refuse and recycling collections in the town had been suspended for the day, with the workers involved volunteering to join in the police search.
-Machynlleth, an historic market town in countryside in the Dyfi Valley, has a population of around 2,100.
-Search volunteer Anwen Morris said locals had searched an area with a 30-mile radius overnight using quad bikes and off-road vehicles.
-Local people described the family as "very well liked" and said they had helped create a community garden on the town's Bryn-y-Gog estate, which has more than 100 homes.
-Alun Hughes, a friend of the family, said: "We were out last night and at the moment we are waiting for the police to organise specialist searches of the town."
-Brian Vaughn, whose daughter goes to school with April, described her as a "lovely little girl". He said: "Everybody just wants her back, really.
-"Whatever we've got to do, we'll do it. We're just hoping for the best, that she's closer rather than further away."
-Mayor of Machenlleth Gareth Jones, who was among those at the leisure centre, said people wanted to help the search in any way they could.
-"We're all shocked, and it's the uncertainty of it all as well of course which is really worrying," he said.
-"Our thoughts go out to the family, the close family and friends of April.
-"We're all here to help as you can see by the amount of people we've got here this evening.
-"Anything we can do, we will do it."
-Machynlleth town councillor Michael Williams said people were "stunned".
-Machynlleth is a quiet Powys market town.
-Tourism is the town's major employment sector, with the countryside, along with its proximity to the coast, attracting people from across the UK.
-Caravan and camping sites are dotted across the rural landscape and its rural setting and relatively slow pace of life has led to many visitors choosing to settle there in search of an alternative lifestyle.
-The town, with its weekly market, remains one of the Welsh-speaking heartlands.
-Crime is low with an average of 15 crimes a month reported in Machynlleth so far this year,  mostly for anti-social behaviour.
-"I've lived here all my life and I've never heard of anything like this before," he said.
-"The family must be devastated, and I hope to goodness the little girl is found without any huge delay.
-Neighbour Rhydian Mason said: "Most of us I think have found out through social networking sites online like Facebook - that's where I first heard of it - and we all want to see what we can do to help.
-"It's completely heartbreaking. I'm trying to put myself in the shoes of April's parents and it's an awful feeling in the pit of the stomach. We're all out here hopefully to see if we can get a positive outcome to this story, and we'll do our best even if we're out all night."
-Dyfed-Powys Police have asked anyone with information to contact a dedicated hotline on 0300 2000 333.
-----------------------------------------
-Ground truth Summary: Police are treating the disappearance of a five-year-old girl in Powys as a suspected abduction.
-----------------------------------------
-Generated Summary: Hundreds of people have joined the search for a five-year-old girl who went missing from her home in Gwynedd.
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Brondby supporters threw the rodents at Copenhagen defender Ludwig Augustinsson as he went to take a corner.
-Leaders Copenhagen won the match 1-0 to open up a 13-point lead over nearest rivals Brondby.
-"It's unfortunate that there are some visitors who could not figure out how to behave properly," said Brondby's sports director Troels Bech.
-Footage of the incident shows Slovenia international Benjamin Verbic helping team-mate Augustinsson clear at least two rats off the pitch at the 28,000-capacity Brondby Stadium.
-Brondby are 10-times champions of Denmark while FC Copenhagen, managed by former Wolverhampton Wanderers boss Stale Solbakken, have won the title 11 times.
-----------------------------------------
-Ground truth Summary: A Danish Superliga game between Brondby and FC Copenhagen was marred when home fans threw dead rats at a player.
-----------------------------------------
-Generated Summary: Danish champions Brondby have banned fans from their stadium for two years after they threw rats on to the pitch during a league match against FC Copenhagen.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 20-year-old spent the latter half of 2015-16 on loan with the Bantams.
+He made four Europa League appearances and one Premier League appearance for the Hammers in 2015, before playing against Juventus in Sunday's friendly.
+"I am excited to try to push this club on again," he told Bradford's club website. "The fans, players and staff were all brilliant first time around."
+Find all the latest football transfers on our dedicated page.
+----------------------------------------
+Ground truth Summary: League One club Bradford City have re-signed West Ham United midfielder Josh Cullen on loan until January.
+----------------------------------------
+Generated Summary: Bradford City have re-signed West Ham United midfielder Jack Grealish on a season-long loan deal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Chevron said the Alder project has already created hundreds of jobs across the UK, including in Aberdeen and Invergordon.
+Gas produced from the field will be sent via a 17-mile (28km) pipeline to the ConocoPhillips-operated Britannia platform.
+The Alder field was discovered in 1975.
+Chevron said development was originally considered impossible due to the challenges of the field's reservoir, lying 14,700ft (4,480m) beneath the seabed.
+The company said it was now viable due to the "right combination of technology, infrastructure for processing and export, and commercial conditions".
+Chevron Upstream Europe managing director Greta Lydecker said: "First gas at Alder represents a significant milestone for Chevron and highlights our commitment to investing and developing resources in the UK.
+"Alder supports our goal of helping maximize the economic recovery of the UK, adds significant production to our portfolio, and helps extend the field life of Britannia, an important asset to Chevron in the North Sea."
+Deirdre Michie, chief executive of industry body Oil and Gas UK, said: "It shows the opportunities that are still out there."
+She called for a "stable fiscal regime" to help boost investor confidence in North Sea exploration and production.
+----------------------------------------
+Ground truth Summary: Gas production has started from a North Sea field first discovered more than 40 years ago when its development was considered "impossible".
+----------------------------------------
+Generated Summary: US oil giant Chevron has started producing gas from the Alder field in the North Sea.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: GCSE results are being changed to grades 9 to 1, with the first such grades to be published this week.
+But there will be two different pass marks - grade 4 as a "standard" pass and grade 5 as a "strong" pass.
+Researchers say pupils need to be at grade 5 to match global rivals.
+The study from the Education Policy Institute says England's school system faces an "immense challenge" if it is going to match the levels of achievement in countries such as Singapore, South Korea, Hong Kong and Japan.
+GCSEs in England are being made more challenging and will be decided by final exams rather than coursework, with the first results of these new-style GCSEs being published for English and maths this week.
+These will be graded from 9 to 1, with a grade 4 being counted as a "standard" pass, similar to a grade C.
+But the researchers say that on average pupils should be achieving a "strong" pass at grade 5, if England is going to keep up with international competitors.
+At present, the researchers say, only 40% of pupils in state schools have reached this "world-class standard".
+To keep up in maths, the study says, it would require an increase of over a third of pupils getting top grades and an average above grade 5.
+"The old C grade is not an adequate national aspiration if England wants to compete with top education nations," says David Laws, former Education Minister and executive chairman of the Education Policy Institute.
+"This analysis highlights the gulf between education outcomes in England and the performance of the world's best education nations," he said.
+"In certain subjects, such as maths, England needs both to significantly raise the number of top performers and almost halve the number of low performers if it is to compete with the world's best."
+Paul Whiteman, leader of the National Association of Head Teachers said: "This report shows that England's obsession with structural change, under a succession of governments, has had little impact on either standards or equity.
+"Policy makers have routinely pursued the wrong priorities," said Mr Whiteman.
+"The highest performing school systems are those that invest in their teachers and that respect and value education."
+Kevin Courtney, leader of the National Union of Teachers, said that even if the overall results at national level were kept in line with previous years, individual schools "will still experience volatility in their results".
+He warned that such volatility could have "unfair consequences".
+There have been warnings about confusion over having two pass grades - with universities using different versions of a pass in their entry requirements.
+Education Secretary Justine Greening had explained the plans for two pass grades to the education select committee earlier this year.
+"I want to provide certainty about how this new grading will work and, in particular, the consequences for individual pupils of achieving a grade 4 or grade 5," Ms Greening had written to the committee chairman.
+"Rather than reporting on the "good pass", we will instead distinguish between a grade 4 as a "standard pass" and a grade 5 as a "strong pass" and report on both."
+A Department for Education spokesman said: "We know there is more to do and this report underlines the importance of our reforms to create new gold-standard GCSEs, benchmarked against the best education systems in the world so young people learn the knowledge and skills that will allow them to compete in an increasingly global workplace."
+----------------------------------------
+Ground truth Summary: Pass marks for GCSEs in England need to be pushed upwards to catch up with high performing education systems in Asia, say researchers from the Education Policy Institute.
+----------------------------------------
+Generated Summary: England's school system faces a "serious challenge" if it is to compete with countries such as Singapore and South Korea, according to a report.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: King Bhumibol Adulyadej has had a lengthy spell in hospital in Bangkok and has not been seen in public for months.
+The king is widely revered and seen as an arbiter in the country's divided political arena.
+Thailand is preparing to celebrate 70 years of his reign on Thursday.
+The monarch was treated for narrowing of the arteries with "satisfactory results", the palace said in a statement.
+Doctors performed a procedure known as balloon surgery to widen the arteries on Tuesday after tests had shown insufficient blood in the heart muscles, the statement said.
+In the past month, the king has also been treated for a build up of fluid surrounding the brain and a swollen lung.
+An X-ray on Saturday showed less fluid around the brain, the statement said.
+The monarch's health is closely watched in Thailand as he is seen as a unifying symbol and pillar of stability in a society that has suffered increased political divisions and violence.
+----------------------------------------
+Ground truth Summary: Thailand's 88-year-old king, the world's longest-reigning monarch, has undergone heart surgery, the Thai Royal Household Bureau said.
+----------------------------------------
+Generated Summary: Thailand's 88-year-old King Bhumibol Adulyadej has been treated for narrowing of his arteries, the palace says.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Police said the 27-year-old victim heard a knock at the door of his home in Brucehill Road, Dumbarton at 00:15.
+When he answered it, he was "violently attacked" by three men who he did not know.
+Officers said that images of the men have been captured on CCTV cameras in the area and they appealed for help in tracing them.
+One of the men walked with a limp and they were all in their 30s.
+Det Sgt Fiona Macarthur said: "This man was violently attacked on his own doorstep and it is absolutely crucial that we trace the people responsible as soon as possible.
+"I would like to speak to anyone who was in the area in the early hours of this morning and saw three men or anything suspicious."
+----------------------------------------
+Ground truth Summary: A man is being treated for stab wounds after he was attacked by three men on his own doorstep.
+----------------------------------------
+Generated Summary: A man has been left with serious injuries after he answered a knock at his door and was attacked.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Milk will replace sugar as the treat's main ingredient, as the white stuff content is boosted from 26%  to 37.5%.
+Nestle said the new recipe bars - with sugar cut by 0.7g - will be in stores by the end of the month.
+It follows a similar move with its KitKat recipe, which increased the milk and cocoa content.
+The Milkybar recipe has been the same since the bar first came into production in 1936, but is being changed as part of Public Health England's drive to reduce the amount of sugar consumed in the UK by 20%.
+In April Nestle reduced the amount of sugar in its fruit pastilles by 30%.
+A spokesman said the reductions in sugar would make "a positive step overall to removing sugar from the nation's diet while maintaining the taste"
+----------------------------------------
+Ground truth Summary: Milkybars are about to get milkier, as the recipe changes for the first time in 81 years.
+----------------------------------------
+Generated Summary: Nestle is changing the recipe of its Milkybar chocolate bar in a bid to reduce the amount of sugar in the product.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Khadija, Sugra and Zohra Dawood, from Bradford, and their children aged three to 15 have not made contact for a week.
+Their brother is understood to be fighting with extremists in Syria.
+The fathers' lawyer said the children said "we can't wait to come home" in a conversation before they went missing.
+Balaal Khan said: "We've had no answers whatsoever, we don't know what's happened."
+Newsnight reporter Secunder Kermani spoke to Khadija's husband, who said he wanted to tell his wife: "I love you, please bring the kids back".
+The fathers - two of whom are in the UK and one in Pakistan - have been "distraught, crying, they don't know what to do", said Mr Khan, adding it was suspected the women had taken their children to Syria.
+The fathers last spoke to their children on 8 June, when they were in the Saudi city of Medina, said Mr Khan, adding: "They said 'We love you, we're missing you, we can't wait to come home.'"
+Mr Khan said it was feared the sisters had met up with their brother - but stressed that while family members had confirmed he was in Syria, he could not comment on what he was doing there.
+The case follows the deaths of Dewsbury teenager Talha Asmal, who reportedly blew himself up in Iraq, becoming the UK's youngest suicide bomber, and Muslim convert Thomas Evans, 25, from Buckinghamshire, who was among al-Shabab fighters killed in an attack on a Kenyan military base.
+Police have said they are "extremely concerned" for the family's safety and that enquiries are continuing on a "national and international level".
+The Bradford family travelled to Medina on 28 May and were last seen in a hotel in the city.
+They were supposed to fly to Manchester following their pilgrimage but the fathers reported them missing when they did not return.
+There has been no contact with the sisters for one week. Their mobile phones have not been active, nor have their social media profiles been updated.
+Travel agents confirmed that 10 tickets were bought for a flight on 9 June to Istanbul in Turkey, a commonly-used route into Syria.
+Mr Khan said it was not known whether the family had boarded the flight - or if two children who were unaccounted for - five-year-old Nurah Zubair and her sister Haafiyah Zubair, eight - were still with the rest of their family.
+He said it was hoped all of the family were together and that a "computer glitch" could explain why the two girls were unaccounted for. He said he had asked for CCTV footage from Medina and from Turkey.
+The 15-year-old son Junaid Iqbal was acting as the family's mahram - an appropriate male responsible for the family - during the Saudi pilgrimage, he added.
+However, Mr Khan told the BBC the family did not feel they were getting the answers they needed from police and that they wanted a "special task team" designated to the case.
+Meanwhile, Bradford West MP Naz Shah said she had spoken to two of the fathers and they were "worried out of their minds".
+"I asked them if there was any indication [this could happen] and they said absolutely not - it was a shock to them, it came out of the blue.
+"At this time there is no contact, absolutely zero contact with the women or children. The last contact was a few days ago when they were due to leave."
+West Yorkshire Police have contacted the Turkish officials but there have been no sightings or contact made in Turkey.
+A Foreign Office spokeswoman said: "We are in contact with West Yorkshire Police and Turkish authorities and are ready to provide consular assistance."
+A neighbour of the family in Bradford, Mohammed Saeed, said it would be "devastating" if the family had travelled to Syria.
+"They can't grow up in that kind of area," he said. "You hear about it all the time. All these people going there. It's just a hellhole there isn't it."
+And Bradford East MP Imran Hussain said: "We have nine children that are missing at the moment and in particular some very young children, three and four-year-olds, and we need to ensure the safe return of those children."
+----------------------------------------
+Ground truth Summary: The husbands of three sisters feared to have travelled to Syria with their nine children are said to be "distraught" after the group went missing following a religious pilgrimage to Saudi Arabia.
+----------------------------------------
+Generated Summary: A family of four from the UK are believed to have gone to Syria to join Islamic State, BBC Newsnight has learned.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Knowsley Safari Park confirmed 18-year-old Kenya was attacked by females in the pride.
+Despite the efforts of keepers to separate them, he sustained multiple injuries and was put down.
+The park said it was "the most necessary and humane course of action" to avoid any further stress and suffering to Kenya.
+In a statement, the park said the attack indicated his place as pride male was "no longer secure".
+The statement said it was "natural behaviour" for a pride when the male is "no longer able to maintain the grace of the females".
+Although there was no prior indication of an attack, staff were all prepared for when the "unpleasant event should arrive".
+They added that no members of the public were in their vehicles at the time of the attack.
+In the wild, male lions are in their prime between five and 10. Kenya, at 18, was "an old man".
+He arrived at Knowsley from Longleat in 2003.
+----------------------------------------
+Ground truth Summary: An elderly lion who was attacked by lionesses at a Merseyside safari park has died as a result of his injuries.
+----------------------------------------
+Generated Summary: An African lion has been put down after he was attacked by female lions at a safari park in Merseyside.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Crowds lined the route of the 24-hour torch relay which began in Stoke Mandeville on Tuesday night.
+The relay ran more than two hours late but reduced breaks made up time.
+A splinter flame was taken to the Stadium in case the delays were not overcome but the opening ceremony ran late and the flame made it on time.
+A late-finishing ceremony in Stoke Mandeville and the time required for multiple exchanges of the flame between team members were blamed for the timing slipping throughout the relay.
+Organisers Locog cut down on breaks and reduced the number of photo opportunities and a late-running opening ceremony meant the the flame was used to light the cauldron in the Olympic Stadium.
+Crowds gathered in the market square in Aylesbury, Buckinghamshire, to watch the start of the relay and thousands more turned out overnight along the route to cheer on the torchbearers.
+After arriving in London, the flame, which is being carried by 580 torchbearers, was taken up the steps to Britain's first traditional Hindu temple, the Shri Swaminarayan Mandir temple in Brent, where a torch was lit at about 08:30 BST.
+Barry Gardiner, MP for Brent, took part in a ceremony which involved pulling apart string made up of different threads and colours to "allow" the Paralympic torch through.
+He said: "It was a very special moment. We have been waiting since 6.30am and the thrill and excitement is just fantastic. I don't think there has ever been a setting like this, for an Olympic or Paralympic flame."
+By Damon RoseBBC News
+The Paralympic Games are being talked-up a lot this year.
+Channel 4 has put a lot of marketing and production effort into bringing the Games to a wider audience than before, with over 500 hours promised to UK viewers.
+Important figures in sport and politics have stepped up to tell us that the Games will "dazzle" and "inspire". Seb Coe said those watching the sports would be "blown away".
+But will we all want to see TV coverage of the 2014 Winter Paralympics in Sochi? Or the next summer Games at Rio 2016? And is there a worldwide clamour to push this recently unearthed disability agenda across the globe, or are we just feeling it more because it's our Games?
+The significance of London 2012 Paralympics will be in the legacy and it might take a little while before we can fully appreciate the impact of that.
+Read more on BBC Ouch! disability blog
+In Maida Vale a team of torchbearers was cheered by crowds as the flame was carried over the Abbey Road crossing, made famous by The Beatles album cover.
+At London Zoo in Regent's Park the flame was held aloft in the penguin enclosure by torchbearers Adam Hollick, John Craig, Fiona Forsyth, Charlie Humphrys and Aruna Mahtani.
+All members of the team, who were previously unemployed and have disabilities including spinal cord injury, blindness and impaired mental health, have trained and qualified as gym fitness instructors.
+Former boxer Michael Watson, wheelchair racer Dame Tanni Grey Thompson and Paralympic swimmer Chris Holmes were in the team who carried the flame along Regent Street and through Piccadilly Circus.
+Torchbearer Edward Parker co-founded the Walking With The Wounded charity, which raises money to support injured servicemen and women.
+He was nominated to carry the flame by Prince Harry.
+The 46-year-old from Norwich was joined by fellow nominees, his nephew Harry Parker, 29, who lost both his legs in Afghanistan and Captain David Wiseman, 29, who was shot while fighting the Taliban.
+The charity's co-founder Simon Daglish, 46, and his son Felix Daglish, who has cerebral palsy also joined the team.
+Edward Parker said carrying the flame was "a very special thing to be able to do. I felt a bit humbled by the whole thing. It was an amazing feeling."
+He added: "It was great going past Horse Guards [Parade] and the Ministry of Defence. It means a lot to have their support."
+----------------------------------------
+Ground truth Summary: Thousands of people turned out to welcome the Paralympic flame as it travelled to the Olympic Stadium for the opening ceremony of the Games.
+----------------------------------------
+Generated Summary: The Olympic flame has been lit at the opening ceremony of the London 2012 Games.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Some people have been waiting up to three hours to clear passport controls, with freight traffic building up on roads approaching the Kent port.
+A Port of Dover spokesman advised customers to allow plenty of time for their journey.
+France has been under a state of emergency since last November.
+The country's National Assembly voted to extend the measure by six months in response to last week's attack in Nice in which 84 people were killed and scores injured when a lorry was driven into crowds.
+The state of emergency was brought in after terror attacks in Paris on 13 November that left 130 people dead.
+Latest updates on the Port of Dover and other Kent stories
+A P&O Ferries spokesperson said: "We are doing everything we can to allow passengers to begin their journey as quickly as possible.
+"If passengers miss their allocated ferry they will be able to board the next available ferry at no additional cost."
+Disgruntled travellers have taken to Twitter to express their dismay.
+John Hippisley said "terrible PR for the French Authorities I appreciate the need to protect the border but clearly all tourist not terrorists".
+The extra security checks have been causing delays since the early hours.
+DFDS Seaways advised customers on Twitter at 13:00 BST that they should "allow 180 minutes to complete the check-in process... the port is very busy".
+----------------------------------------
+Ground truth Summary: Thousands of Cross-Channel ferry passengers are facing long delays at the Port of Dover amid heightened French security checks.
+----------------------------------------
+Generated Summary: France's state of emergency has led to long queues at the Port of Dover.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But his leadership of Cuba divided opinion, and leaders across the world have had to decide whether or not to attend the revolutionary's funeral.
+In the end, the list of those wanting to pay respect Castro in person appears to be very short, with some notable allies choosing to send representatives instead.
+So who is making the trip to Havana?
+Perhaps most surprisingly, considering the two countries' long friendship, Russian President Vladimir Putin has said he will not be attending. His spokesman said he was too busy to travel to Cuba but that Russia would be sending a representative.
+Less surprising is US President Barack Obama's decision to stay away. Despite the steps Mr Obama made towards fixing US-Cuban relations, Castro remains a divisive figure - not least for Cuban-Americans who fled his rule. The White House will not send an official delegation, but Mr Obama's pick for ambassador to Cuba, Jeffrey DeLaurentis, and deputy national security adviser, Ben Rhodes, will attend the commemorative event.
+UK Prime Minister Theresa May, France's President Francois Hollande and German Chancellor Angela Merkel are all staying away. However, they will be sending government representatives. Shadow Foreign Secretary Emily Thornberry will attend to represent the UK's Labour Party.
+Canada's Prime Minister Justin Trudeau - whose late father Pierre was friends with Mr Castro - was one of the few Western leaders to release a message of condolences following the leader's death, but will not be attending. Governor-General David Johnston was attending Tuesday's commemoration.
+China's President Xi Jinping paid his respects at the Cuban embassy in Beijing, saying the country had lost a "close comrade and real friend". Vice President Li Yuanchao is representing China at the commemorations in Cuba.
+Despite their close friendship, Vietnam's President Tran Dai Quang will also not be attending, sending National Assembly chairwoman Nguyen Thi Kim Nga in his place. The country will be holding a national day of mourning for Castro, however.
+India's Prime Minister Narendra Modi - who paid tribute to an "iconic" world leader last week - will be sending his home minister but will not be flying to Cuba himself.
+North Korea's Kim Jung-un will not be travelling to Cuba either, sending a delegation on his behalf.
+The list of world leaders actually attending is relatively short.
+A number of South American leaders will be making the trip: Venezuela's President Nicolas Maduro, whose late mentor Hugo Chavez had a special bond with Castro, Ecuador's Rafael Correa,  Bolivia's Evo Morales and Nicaragua's Daniel Ortega have all indicated they will attend.
+Also expected are Salvadorean President Salvador Sanchez Ceren and Mexico's President Enrique Pena Nieto.
+At least two southern African presidents will also fly to Cuba, South Africa's Jacob Zuma, who has just survived a vote of confidence, and Zimbabwe's Robert Mugabe, whose country has just brought in a new currency.
+And it seems the European Union may be represented by just one leader, in the form of Greek Prime Minister Alexis Tsipras. Other notable Europeans attending include Ireland's Gerry Adams and Spain's ex-King Juan Carlos.
+----------------------------------------
+Ground truth Summary: Fidel Castro was a fixture of international politics for more than 50 years.
+----------------------------------------
+Generated Summary: Fidel Castro's death has left the world in mourning.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: If the US team is right, they may have found a new route towards treating and preventing neurodegenerative diseases such as Alzheimer's .
+Their work, in the Proceedings B journal, lends weight to a scientific theory experts have been chasing for decades.
+The story began in the 1950s on a small Pacific Island called Guam.
+Many of the indigenous people who lived there - the Chamorros - were dying from a perplexing paralytic disease.
+US Army doctors described symptoms similar to dementia, Parkinson's and motor neuron disease.
+Post-mortem examinations revealed abnormal collections of proteins in the brain that can also be seen in patients with Alzheimer's.
+Researchers began to look at the island environment and what the Chamorros were eating to see if there was any link.
+And a hypothesis began to emerge that an environmental toxin called BMAA could be to blame.
+Beta-N-methylamino-L-alanine is made by bacteria found on and around the island.
+Experts identified it in algae-rich pools of water and in the roots and seeds of the native cycad palm trees.
+Fruit bats, known as flying foxes, a local delicacy, which feast on the cycad seeds, also harboured the toxin.
+What was missing, until now, was experimental evidence that BMAA could trigger the telltale brain changes seen in the villagers.
+So, Dr Paul Cox, from the Institute of Ethnomedicine, and colleagues from the University of Miami fed monkeys fruit laced with BMAA.
+After 140 days, they all had abnormal proteins (tangles) in the brain.
+The control monkeys, who received only regular fruit, had none of these brain changes.
+Dr Cox repeated the experiment with more monkeys - 32 in total - and found the same.
+"Every single one that had eaten the BMAA bananas developed the brain tangles," he said, "even the cohort given low-dose BMAA."
+"If what we found in these animals holds up in man, then it means a few things.
+"We need to protect people from this toxin.
+"We have to get very serious about clean water supplies.
+"And it may be possible to prevent some other neurodegenerative diseases."
+Dr Cox has been focusing on motor neuron disease - a progressive condition that attacks the nerves.
+Working with Dr Ken Rodgers and Dr Rachael Dunlop in Sydney, his team has found BMAA mimics an amino acid called L-serine and inserts itself into brain proteins, causing them to misfold and tangle.
+And clinical trials are testing whether giving patients L-serine tablets might prevent this.
+"We do not know if it will work, but we really hope so," Dr Cox said.
+Dr Laura Phipps, from Alzheimer's Research UK, said: "This research in animals suggests that BMAA exposure could directly lead to hallmark features of neurodegenerative disease, providing new insight into the likely cause of this condition on Guam.
+"While investigating rare forms of dementia can lead to insights into the more common causes of the condition, further research is needed to understand whether the findings have relevance to diseases like Alzheimer's or motor neurone disease in other parts of the world.
+"The research suggests that L-serine could reduce the build-up of toxic proteins in the brain associated with high levels of BMAA exposure.
+"There are early stage clinical trials for L-serine in motor neuron disease, and similar trials would be needed to explore whether L-serine could have any benefit for typical forms of Alzheimer's, not associated with the toxin.
+"There is currently no evidence to suggest that taking L-serine supplements could help improve symptoms in Alzheimer's disease."
+Most cases of Alzheimer's are caused by a mix of age, genetic and lifestyle factors.
+The risk can be cut by:
+----------------------------------------
+Ground truth Summary: Scientists say they now have good evidence in animals that exposure to a toxin from algae can trigger dementia-like changes in the brain.
+----------------------------------------
+Generated Summary: Scientists believe they have discovered a new way to treat Alzheimer's disease.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 24-year-old scored his third try in four games before teeing up debutant Rory Hutchinson to edge Saints 14-13 ahead at half-time, after Olly Woodburn had crossed to put Exeter in control.
+Chiefs retook the lead after the break, with Gareth Steenson passing 2,000 points for the club to make it 19-14.
+But Harry Mallinder kicked two late penalties to snatch victory for Saints.
+Despite trailing for much of the contest, Northampton were good value for their win - a result that meant they avoided losing three successive home games for the first time in five years.
+While France flanker Louis Picamoles caught the eye as a potent ball carrier and hard hitter, it was the brilliance of North that turned the game on its head in the space of three first-half minutes.
+With his side trailing 13-0 early on, the former Scarlets back side-stepped his way inside for a trademark finish to reduce the deficit and then superbly set up Hutchinson after a jinking run straight from the restart.
+Exeter, losing Premiership finalists in May, remained in touch after the interval and still looked on course for victory thanks to Steenson's accuracy from the tee.
+But Mallinder, son of Northampton director of rugby Jim Mallinder, landed a 78th-minute penalty to give Saints their second win of the season.
+Northampton Saints forward Courtney Lawes:
+"Harry is growing as a player, he is learning from every mistake he makes - unfortunately when you are young you do make a lot of mistakes. He is growing as a character in the team and he is a brilliant player, he did fantastic today with unbelievable composure to get the win at the death.
+"We were desperate for that win and I think it really showed out there - we came back twice.
+"We really back ourselves, we know we have been playing in patches and if we can string it together for the full 80 minutes there are not many teams who can live with us. We are just looking to stop these lapses of concentration."
+Exeter Chiefs head coach Rob Baxter:
+"We never really grabbed control in that final quarter. There was an opportunity to squeeze the game out, but crucially we needed to hold up a bit better in the line-out, that is where we lost possession and it started to get a little bit messy.
+"We looked a little bit too edgy in that final quarter, we didn't really look like the team going out to win the game and we were on the back foot for too long.
+"There was a pretty clear block that opened up some space in their second try, but that is a bit churlish, we missed a couple tackles and sometimes when you get bumped it is because you are not focused."
+Northampton Saints: Foden (capt); K Pisi, G Pisi, Hutchinson, North; Mallinder, Groom; Waller, Haywood, Brookes, Lawes, Paterson, Gibson, Clark, Picamoles.
+Replacements: Clare, Ma'afu, Hill, Dickinson, Harrison, Kessell, Olver, Tuala.
+Exeter Chiefs: Turner; Woodburn, Devoto, Slade, Whitten; Steenson, Chudley; Moon, Yeandle (capt), Holmes, Lees, Parling, Dennis, Horstmann, Waldrom.
+Replacements: Cowan-Dickie, Hepburn, Williams, Welch, White, Lewis, Hill, Nowell.
+----------------------------------------
+Ground truth Summary: Wales wing George North starred as Northampton came back from 13-0 down to beat Exeter at Franklin's Gardens.
+----------------------------------------
+Generated Summary: Fly-half Stephen Myler scored a try and set up another as Northampton Saints came from behind to beat Exeter Chiefs at Franklin's Gardens.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: NVA has concluded missives with the Catholic Church for St Peter's Seminary in Cardross, Argyll and Bute.
+The A-listed building was designed and built in the 1960s as a training college for priests but it has not been used since the 1980s and is now a ruin.
+NVA aims to restore part of the seminary and use it as an art space.
+Its plan would stabilise the structure and gradually restore some interior spaces for cultural and educational use.
+The charity has already received £100,000 from Creative Scotland's National Lottery Fund towards the project.
+It still needs to raise £2m by 2013 to take its proposals forward.
+St Peter's Seminary was designed by Glasgow architects Gillespie, Kidd and Coia.
+The Roman Catholic seminary, which belonged to the Archdiocese of Glasgow, was completed and consecrated in 1966.
+The distinctive zig-zag design and concrete appearance soon brought architectural recognition to the site.
+However, as numbers entering the religious life fell and with high maintenance costs, the decision was taken to close the college.
+In 1980 the seminary was deconsecrated and fell into a state of disrepair.
+The building was Category A listed by Historic Scotland in 1992.
+The World Monuments Fund, which works to preserve endangered cultural landmarks, added St Peter's College to its register in June 2007.
+----------------------------------------
+Ground truth Summary: A public arts charity aims to raise £10m over the next two years to help save a building considered one of Scotland's great modernist structures.
+----------------------------------------
+Generated Summary: The National Trust for Scotland (NVA) has been given the go-ahead to move ahead with plans to restore a former seminary in Argyll.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
