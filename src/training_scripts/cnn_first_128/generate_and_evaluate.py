@@ -59,6 +59,7 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         out = model(input_ids = data['article']['input_ids'].cuda(), labels = data['summary']['input_ids'].cuda(), attention_mask = data['article']['attention_mask'].cuda())
         generate_out = model.generate(input_ids = data['article']['input_ids'], attention_mask = data['article']['attention_mask'])
         model_out = val_dataset.tokenizer.batch_decode(generate_out)
+        print(steps)
 
         if steps < args.write_steps:
             file = open(file_name, "a")
@@ -137,8 +138,10 @@ if __name__ == '__main__':
     val_metrics['rouge2_r'] = []
     val_metrics['rougeL_r'] = []
     val_metrics['BERT Score'] = []
+    
+    generations_name = 'Generations' + args.name + '.txt'
 
-    with open('Generations' + args.name + '.txt', 'w') as file:
+    with open(generations_name, 'w') as file:
         file.write(f'Generations for {args.name}\n')
 
 
@@ -153,7 +156,7 @@ if __name__ == '__main__':
                             val_dataset, 
                             val_metrics, 
                             wandb = wandb, 
-                            file_name = 'Generations.txt')
+                            file_name = generations_name)
     bertscore = load("bertscore")
 
     evaluator.evaluate()
