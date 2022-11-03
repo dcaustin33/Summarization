@@ -1,0 +1,432 @@
+Generations for Eval_Pegasus_XSum_first_512
+Article text: Beerens, 28, netted twice against Sheffield Wednesday on Saturday to add to a stunning strike in the previous home game against Bristol City.
+"I'm happy for myself," the Dutchman told BBC Radio Berkshire.
+"I know I can score more goals than I have so far, but as a team we're working on picking up more points."
+Beerens, an August arrival from Hertha Berlin, has missed just the one Championship match for the Royals this campaign and knows maintaining momentum will be key.
+"I'm happy I'm the one on the scoresheet for now," he added. "But we stick together as a team to get the job done.
+"We travel to Leeds on Tuesday and that's going to be tough, but we have to keep going and we know if we do that, we can get a good result."
+----------------------------------------
+Ground truth Summary: Winger Roy Beerens says he is thrilled to be weighing in with goals as Reading look to keep hold of their position in the Championship top six.
+----------------------------------------
+Generated Summary: Reading striker Leroy Beerens says he is happy to be the club's top scorer so far this season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 22-year-old, who will join City on 1 July, said: "I'm now at one of the best teams in the world".
+Silva has made 58 appearances for Monaco this season - including two against City in the Champions League - scoring 11 goals and 12 assists.
+He said the chance to work with Pep Guardiola influenced his decision.
+"Of course when you have the opportunity of being trained by Guardiola, you don't say no," added the playmaker, who has played 12 times for Portugal, scoring once.
+"If not the best coach in the world, he is one of the best."
+Guardiola's City finished third in the Premier League this season, securing Champions League football next year.
+Silva was integral to the Monaco side that reached the semi-finals, suffering eventual defeat to Juventus, who play Real Madrid in the final on Saturday, 3 June.
+Former Tottenham midfielder Jermaine Jenas, speaking on BBC Radio 5 live
+I am surprised in that I think that is the one area of the pitch where they have enough options. Manchester City's attack has been sensational this season. Bernardo Silva is very similar to David Silva. I wouldn't let David Silva go, I think he's been tremendous.
+You don't know if other clubs were ready to push the button and City thought 'we have got to do it'. There are some players that come along and you have to do it there and then.
+Tottenham defender Danny Rose, speaking on BBC Radio 5 live
+I played against him away this season and he's the best opponent I faced. It's a great addition and gives Pep Guardiola another attacking option.
+BBC Sport's Simon Stone:
+Silva was excellent in Monaco's 5-3 Champions League defeat at Etihad Stadium in February and Pep Guardiola decided the Portuguese was a man he wanted. So much so, in fact, that he is prepared to put him among the top five most expensive players in City history.
+A product of the Benfica academy, Silva is an attacking right-sided midfield player and is, at 22, just the kind of age Guardiola likes - old enough to understand his role, young enough to absorb the intricate tactical lessons his new manager imparts.
+If, as expected, Kyle Walker also arrives this summer from Tottenham, Guardiola will have the raw pace from his full-back that creates the danger - and space - for Silva to cut inside and slice open defences.
+*Initial reported fees
+----------------------------------------
+Ground truth Summary: Manchester City have completed a £43m deal for Portugal attacking midfielder Bernardo Silva from French champions Monaco.
+----------------------------------------
+Generated Summary: Manchester City have completed the signing of Portugal midfielder Bernardo Silva from Monaco for a fee believed to be in the region of £27m.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The United States-born 21-year-old was with Dumbarton last season.
+"I am excited about the year ahead as I have forced my way into the Republic of Ireland U21s starting XI," he said.
+"I was number two for a few years. Hopefully I can keep my spot and get some caps under my belt, which will be a great experience."
+Rogers has yet to break into the Dons first team and Danny Ward has arrived on loan from Liverpool to challenge Jamie Langfield and Scott Brown for a starting place at Pittodrie.
+So the goalkeeper, who has played three times for Republic of Ireland Under-21s and played 36 times for Dumbarton, was happy to leave on a third loan spell, having also played for Airdrieonians.
+"I feel, at this stage of my career, it is important to try and play on a regular basis and going to Falkirk will hopefully give me that opportunity," he told Aberdeen's website.
+"It is up to me to go to Falkirk and do well and then to come back next season to Aberdeen and challenge for that number one jersey.
+"I feel my career is going in the right direction and I just need to keep working hard.
+"Falkirk are a big club who have big expectations and had a good season last year and will be looking to kick on this year."
+Falkirk manager Peter Houston told his club website that he regards Rogers as "a fantastic prospect".
+----------------------------------------
+Ground truth Summary: Aberdeen goalkeeper Danny Rogers hopes returning to the Scottish Championship on a season-long loan with Falkirk will boost his international chances.
+----------------------------------------
+Generated Summary: Aberdeen goalkeeper Ryan Rogers has joined Falkirk on a season-long loan deal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The A9 drops from 150m (492ft) to 20m (65ft) as it enters a valley at the Berriedale Braes.
+Transport Scotland will run an exhibition at Berriedale Parish Church in Berriedale on 26 November outlining the proposed work.
+The plans will also be made available on the agency's website.
+The draft road orders for the work involved will be published on Friday.
+Transport Minister Keith Brown said: "The hairpin bend and steep hill at Berriedale Braes has presented drivers with a very challenging road to negotiate - and is why we are working hard towards delivering improvements right along the A9, including at the Braes."
+In August, the Scottish Chambers of Commerce (SCC) called for work to tackle the bend to be accelerated.
+The Berriedale Braes were the scene of a lorry fire on 5 August which blocked the road for five hours. A 77-mile (124 km) detour was unsuitable for HGVs.
+The SCC said accidents were a "frequent occurrence" and adversely affected businesses in the far north and Orkney.
+Transport Scotland said a solution to the hairpin was being progressed.
+----------------------------------------
+Ground truth Summary: Transport Scotland will present a draft outline of the proposed improvements to a challenging hairpin bend on the A9 in Caithness next week.
+----------------------------------------
+Generated Summary: Work to tackle a hairpin bend in the north-west of Scotland is to begin this week.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The decision comes as some clinicians warned it could put patients at risk.
+The unit would carry out complex vascular surgery for potentially life-threatening conditions like abdominal aortic aneurysms.
+However, Betsi Cadwaladr University Health Board said this only represented about 20% of its vascular treatments.
+The health board insisted the majority of its vascular services would still be carried out at the other hospital sites across north Wales, including Ysbyty Gwynedd in Bangor and Wrexham Maelor Hospital.
+"Currently, around 300 complex vascular surgery operations are carried out each year in North Wales - representing about 20% of our vascular activity - and we are committed to continuing the majority of our work at Ysbyty Gwynedd, Ysbyty Glan Clwyd and Wrexham Maelor Hospital," said Dr Evan Moore, the board's executive medical director.
+"Units such as these - which provide a hub for major vascular arterial operations - are being created across the UK, and there is strong evidence that such sites improve clinical outcomes and patient safety, whilst attracting the best staff and help to develop the best infrastructure."
+Vascular medicine covers a wide range of medical procedures and interventions, from screening for risks of aneurysms - where weakened walls of major blood vessels could burst - to treating varicose veins, stroke prevention and helping ensure dialysis patients can continue their treatment.
+But speaking ahead of the announcement, one consultant physician at Ysbyty Gwynedd raised concerns.
+"This is an integrated service, and other aspects of what we do here would be threatened - radiology, urology and gastroenterology to name just a few," Dr Mahdi Jibani told BBC Wales.
+Ken Jones of the North Wales Kidney Association added: "If this service goes, it will cost lives, there's no two ways about it."
+Arfon assembly member Sian Gwenllian said it represented "yet another example of services creeping eastwards".
+But Dr Moore argued that far from hitting services at other hospitals in the region, vascular services would benefit from a specialised hub.
+"Hubs such as the one we have planned, built on the considerable knowledge, skills and practices already here, would protect connected services at these locations.
+"These include outpatient consultations, investigations, diagnostic procedures, varicose vein and day case surgeries. It will also ensure strong support for other services such as accident and emergency, urology surgery and renal therapy."
+----------------------------------------
+Ground truth Summary: Health chiefs in north Wales have confirmed plans to site a specialist vascular unit at Glan Clwyd Hospital in Denbighshire.
+----------------------------------------
+Generated Summary: Plans for a new vascular surgery unit at Wrexham Maelor Hospital have been unveiled.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Main, 23, scored once in 14 appearances for Rovers this season.
+He started his career at Darlington before moving to Middlesbrough in June 2011 and joining Doncaster in July 2014.
+Main could make his debut for the Latics, who are five points adrift of safety in League One, in Tuesday's trip to Blackpool.
+Find all the latest football transfers on our dedicated page.
+----------------------------------------
+Ground truth Summary: Oldham Athletic have signed Doncaster Rovers striker Curtis Main on loan until the end of the season.
+----------------------------------------
+Generated Summary: League One strugglers Wigan Athletic have signed Doncaster Rovers striker James Main on loan until the end of the season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: British producer Ronson got his first number one with Uptown Funk on 14 December, and the single has now claimed the final top spot of 2014.
+It was released five weeks early after it was performed by Fleur East on The X Factor, later topping the iTunes chart.
+Haenow had topped the Christmas chart with OneRepublic's Something I Need.
+Uptown Funk had dropped one place to make way for the former van driver's track over Christmas.
+Fellow Briton Ed Sheeran, who scores a 12th week at the top of the album charts, held on to number three in the singles chart, with Thinking Out Loud.
+American singer Taylor Swift moved up three places to fourth with Blank Space, while former X Factor star Olly Murs dropped one to fifth with Up, his collaboration with Demi Lovato.
+The only new entry went to Alesso featuring Tove Lo with Heroes (We Could Be).
+Sheeran's album logged sales of 211,000, his second biggest one-week sales tally since the LP's release back in June.
+The top five was completed by Sam Smith, Murs, George Ezra and Take That, who all held their positions.
+----------------------------------------
+Ground truth Summary: Mark Ronson's collaboration with Bruno Mars has reclaimed the number one spot in the singles chart, pushing X Factor winner Ben Haenow down to number two.
+----------------------------------------
+Generated Summary: Mark Ronson's Uptown Funk has topped the UK singles chart for the second week in a row, beating Ben Haenow's Something I Need.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It is unclear why the helicopter carrying Lionel Zinsou crash-landed in a stadium.
+"My father is fine. There were no victims in the helicopter accident in Djougou," Marie-Cecile Zinsou tweeted.
+Earlier this month, Mr Zinsou confirmed he would run as a candidate in Benin's 2016 presidential elections.
+The helicopter crashed while landing at a stadium in the city of Djougou, a spokesman for Benin's interior ministry Leonce Houngbadji told the AFP news agency.
+He said no-one in the helicopter was hurt.
+Mr Zinsou, a former private-equity executive, was appointed prime minister of Benin in June.
+He has said he will run for president in February's election as a candidate of the ruling Cowry Forces for an Emerging Benin (FCBE) party.
+Reuters reported in early December that Mr Zinsou's announcement put an end to speculation Benin's president Thomas Boni Yayi was seeking a third term.
+----------------------------------------
+Ground truth Summary: Benin's Prime Minister walked away unscathed after the helicopter in which he was travelling crashed in the country's northwest, his daughter said.
+----------------------------------------
+Generated Summary: The son of Benin's Prime Minister says his father is fine after a helicopter crash in the West African country.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Matt Green scored the opening goal in the 63rd minute and Shaq Coulthirst sealed the points after 76 minutes.
+Coulthirst forced a couple of early saves from Mark Gillespie in the Carlisle goal before Danny Rose had a goal ruled out for offside in the 35th minute.
+Shaun Miller and Jamie Proctor both went close for Carlisle, while Gillespie blocked a powerful Coulthirst shot and Rose missed the target with the follow-up.
+Green gave his side the lead when he cushioned home a perfect eight-yard header from Coulthirst's left-wing cross.
+Coulthirst made the game safe when he arrowed a powerful low finish across the goalkeeper and inside the far post.
+Report supplied by the Press Association.
+Match ends, Mansfield Town 2, Carlisle United 0.
+Second Half ends, Mansfield Town 2, Carlisle United 0.
+Attempt missed. Matt Green (Mansfield Town) right footed shot from outside the box is too high from a direct free kick.
+Shaun Brisley (Carlisle United) is shown the yellow card for a bad foul.
+Shaquile Coulthirst (Mansfield Town) wins a free kick in the defensive half.
+Foul by Shaun Brisley (Carlisle United).
+Shaquile Coulthirst (Mansfield Town) wins a free kick in the attacking half.
+Foul by Reggie Lambe (Carlisle United).
+Corner,  Carlisle United. Conceded by Malvind Benning.
+Attempt saved. John O'Sullivan (Carlisle United) right footed shot from outside the box is saved in the top centre of the goal.
+Corner,  Carlisle United. Conceded by Joel Byrom.
+Corner,  Carlisle United. Conceded by Malvind Benning.
+Corner,  Carlisle United. Conceded by Rhys Bennett.
+Reggie Lambe (Carlisle United) is shown the yellow card.
+Rhys Bennett (Mansfield Town) wins a free kick in the defensive half.
+Foul by Junior Joachim (Carlisle United).
+Substitution, Mansfield Town. Yoann Arquin replaces Danny Rose.
+Attempt blocked. Luke Joyce (Carlisle United) right footed shot from outside the box is blocked.
+Attempt saved. Junior Joachim (Carlisle United) right footed shot from outside the box is saved in the centre of the goal.
+Goal!  Mansfield Town 2, Carlisle United 0. Shaquile Coulthirst (Mansfield Town) right footed shot from the left side of the box to the bottom right corner.
+Attempt saved. CJ Hamilton (Mansfield Town) left footed shot from the left side of the box is saved in the centre of the goal.
+Rhys Bennett (Mansfield Town) wins a free kick on the right wing.
+Foul by Junior Joachim (Carlisle United).
+Substitution, Carlisle United. John O'Sullivan replaces Alex McQueen.
+Substitution, Mansfield Town. CJ Hamilton replaces Alexander MacDonald.
+Attempt missed. Alex McQueen (Carlisle United) header from the right side of the six yard box is close, but misses to the right.
+Attempt blocked. Shaun Miller (Carlisle United) right footed shot from outside the box is blocked.
+Corner,  Mansfield Town. Conceded by Michael Raynes.
+Attempt blocked. Alexander MacDonald (Mansfield Town) right footed shot from the left side of the box is blocked.
+Corner,  Mansfield Town. Conceded by Shaun Brisley.
+Corner,  Mansfield Town. Conceded by Danny Grainger.
+Corner,  Carlisle United. Conceded by Kyle Howkins.
+Goal!  Mansfield Town 1, Carlisle United 0. Matt Green (Mansfield Town) header from the centre of the box to the bottom left corner. Assisted by Shaquile Coulthirst with a cross.
+Hayden White (Mansfield Town) wins a free kick in the defensive half.
+Foul by Junior Joachim (Carlisle United).
+Attempt blocked. Matt Green (Mansfield Town) right footed shot from outside the box is blocked.
+Substitution, Carlisle United. Junior Joachim replaces Jamie Proctor.
+Attempt missed. Danny Rose (Mansfield Town) left footed shot from the centre of the box is close, but misses to the left.
+Attempt saved. Shaquile Coulthirst (Mansfield Town) right footed shot from the centre of the box is saved in the bottom left corner.
+Rhys Bennett (Mansfield Town) wins a free kick in the attacking half.
+----------------------------------------
+Ground truth Summary: Mansfield Town ended their four-game goal drought to overcome Carlisle United at One Call Stadium.
+----------------------------------------
+Generated Summary: Mansfield Town moved up to fourth in the National League with a 2-0 win at Carlisle.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Stan Hollis was awarded the medal for his actions during the storming of the Normandy beaches on 6 June 1944.
+A campaign to have a permanent memorial to him created in his home town saw a bar dedicated to him in February.
+Middlesbrough Council has now granted planning permission for a bronze statue near the cenotaph on Linthorpe Road.
+The statue, which will be almost 7ft (2.2m) high and cost about ??150,000, is to be funded by donations to The Stanley E. Hollis VC Memorial Fund.
+Brian Bage, the fund's chairman, said it was "good news" as it had "taken us two years to get this far".
+He said the fund needed a final ??30,000 to complete the bronze figure.
+Hollis was a 31-year-old sergeant major with the Green Howards when he took part in the assault on Gold Beach.
+As his company moved inland, he captured several gun positions and rescued two colleagues, taking more than two dozen prisoners in the process.
+As a result, he was the only one of almost 62,000 British troops to be awarded the Victoria Cross on the day of the World War Two landings.
+Three months after D-Day, Sgt Maj Hollis was wounded in the leg and returned to England, where he was decorated by King George VI at Buckingham Palace.
+He died in February 1972 and is buried in Acklam Cemetery in Middlesbrough.
+----------------------------------------
+Ground truth Summary: A statue honouring the only man to win the Victoria Cross on D-Day will be built in Middlesbrough after receiving council approval.
+----------------------------------------
+Generated Summary: Plans for a statue of the only British soldier to be awarded the Victoria Cross on D-Day have been given the go-ahead.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lennon wants the 29-year-old striker to return to Easter Road for a third spell, having been released by Blackburn Rovers this summer.
+"The club have done everything they can," Lennon told BBC Radio Scotland.
+"It's a purely personal decision for Anthony, but we have a board meeting on Monday, so hopefully we will hear [from Stokes] before then."
+Stokes left Hibs to join Lennon's Celtic squad in 2010 and was loaned back to the Edinburgh side in 2016.
+Capped nine times by the Republic of Ireland, the forward has netted 131 goals at club level - including two against Rangers in Hibs' 2016 Scottish Cup final win.
+"I have had private chats with Anthony, I met him on Wednesday and the talks were positive," explained Lennon.
+"But he has a lot of offers and has a big decision to make at this juncture in his career.
+"If he decides to come to Hibs, it won't be for the money, even though it is a very good financial package.
+"From a footballing point of view, I think this is his home. He has had a great time here in two previous spells.
+"He hasn't played a lot of football in the last two or three years and his conditioning would need a bit of work, but I think he is at his peak.
+"The [Premiership] season starts next week and we can't wait forever."
+----------------------------------------
+Ground truth Summary: Hibernian head coach Neil Lennon hopes to hear by early next week if Anthony Stokes will be rejoining the club.
+----------------------------------------
+Generated Summary: Hibernian manager Neil Lennon hopes Anthony Stokes will make a decision on his future by Monday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 19-year-old son of Saints director of rugby Jim scored a try in his first two matches for Saints and has made a total of nine appearances.
+Fellow backs Tom Collins, George Furbank, Rory Hutchinson, Sam Olver and Howard Packman have also signed deals.
+As have forwards Will Allman, Sion Bennett, James Fish, Lewis Ludlam, Alex Moon, Jordan Onojaife and Josh Peters.
+Of the group, England Under-20 wing Collins, 21, is the most experienced in a Saints shirt, having made 27 first-team appearances.
+Scotland Under-20 centre Hutchinson, 20; England Under-20s 21-year-old fly-half Olver; England Under-20 wing Packman, 20 and England Under-20 second row Onojaife, 20, are the others in the group to have played for Northampton's first team.
+"The Saints academy is doing its job, identifying and bringing through local talent.
+"There are some highly-rated players in that group - some who've already made an impact in the first team such as Tom Collins and Harry Mallinder.
+"The challenge for the club and the players is for more of them to make the step up now and break into the match-day 23 - something which has been difficult this season without an Anglo-Welsh Cup."
+----------------------------------------
+Ground truth Summary: Northampton Saints centre Harry Mallinder is among 13 youngsters to sign new deals with the club.
+----------------------------------------
+Generated Summary: Northampton Saints back Harry Mallinder has signed a new two-year contract with the Premiership club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Marc Jones claimed the force spends hundreds of thousands of pounds maintaining the building that should be spent on front-line police services.
+He said staff based at West Parade will be relocated to the Â£16m joint ambulance, fire and police station, due to be built at South Park.
+The City Centre Neighbourhood Policing Team will move to City Hall, he said.
+More stories from across Lincolnshire
+"We will definitely dispose of West Parade," Mr Jones told BBC Radio Lincolnshire.
+"We are spending hundreds of thousands of pounds just keeping the rain out of the leaky roof at the moment and that's money that should be spent on front-line police services.
+"Hopefully around March 2019 everybody will move from West Parade to the new station at South Park."
+The construction of the new joint ambulance, police and fire station is part of the county's Blue Light Collaboration programme.
+On Wednesday, Lincolnshire's Fire and Police services moved into a shared headquarters in Nettleham, in the first phase of the scheme.
+----------------------------------------
+Ground truth Summary: Lincoln's West Parade police station will close by 2019, the Police and Crime Commissioner has said.
+----------------------------------------
+Generated Summary: Lincolnshire's police and crime commissioner has said the force's headquarters in Lincoln will be demolished to make way for a new police station.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Spencer White, from the Witterings area of Chichester, absconded from HMP Ford in West Sussex in July 1999.
+The 39-year-old, who was convicted of kidnapping an adult, disappeared eight months into a three-year sentence.
+After being recognised at Lanzarote Airport on 19 September he was stopped, detained and flown back to the UK.
+At Chichester Crown Court on 23 October he admitted escaping lawful custody.
+He was sentenced to 16 months, to be served on top of the two years and four months he had remaining on his original sentence.
+Police believe White had been living in the Republic of Ireland and was intending to take a short break in the Canary Islands.
+Sussex Police confirmed White had not been returned to HMP Ford, a jail which accommodates up to 557 inmates with less than two years left to serve.
+In November 2013, police found there were a number of absconders whose cases had not been regularly reviewed.
+A dedicated team was set up to review each case and in September 2014 Sussex Police said there were 83 Ford prisoners on the run.
+PC Lewis Dines, from the investigation team, said: "Spencer White has been a priority to locate from the moment he absconded but he evaded immediate capture and disappeared [from] our radar.
+"Within the last year we received information about his possible location and were able to secure a European Arrest Warrant so he could be arrested if found outside the UK.
+"His capture and additional sentence send a message that we will not give up seeking absconders and when we put them back in front of the court they can expect further punishment."
+----------------------------------------
+Ground truth Summary: A man who fled from an open prison 16 years ago is back in custody after he was caught trying to take a holiday in Lanzarote, police have said.
+----------------------------------------
+Generated Summary: A man who absconded from an open prison 17 years ago has been returned to the UK.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Former PSV Eindhoven trainee Sanoh will officially join the Reds at the end of his contract on 1 July.
+The Dutchman, 21, made 26 appearances last season, scoring five goals.
+He is Crawley's first signing since the League Two club appointed former Liverpool and Leeds star Harry Kewell as head coach on 23 May.
+Find all the latest football transfers on our dedicated page.
+----------------------------------------
+Ground truth Summary: Crawley have signed midfielder Moussa Sanoh on a two-year contract after he was not offered a new deal by Dutch second division side RKC Waalwijk.
+----------------------------------------
+Generated Summary: Crawley Town have signed striker Leroy Sanoh on a two-year contract from Dutch side FC Twente.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Spectators were joined by pagans and druids at the ancient monument in Wiltshire, but the dense cloud cover meant the sun remained hidden.
+Police, who estimated 21,000 people attended, targeted the crowds with sniffer dogs and took 22 people into custody for drugs-related offences.
+The solstice has had spiritual significance for thousands of years.
+The word itself means a stopping or standing still of the sun.
+What are the mysteries behind the Summer Solstice?
+Find out more: BBC Religion Paganism
+A crowd had gathered to spend the night near the giant stones, with police reporting 2,000 people on site by 21:30 BST on Thursday.
+The sun then rose at 04:52 on the longest day of the year.
+Supt Matt Pullen, from Wiltshire Police, said: "The majority of people respected the conditions of entry and the amnesty bins provided were used.
+"Approximately 70 cannabis street warnings were issued. As with previous years, the passive drugs dogs proved very effective."
+Twenty-two miles away (35km) at Avebury, where there are three stone circles, the crowd peaked at some 500 people.
+BBC Radio Wiltshire reporter Rachel Royce said: "There are some very serious druids here in their long cloaks, taking it very solemnly. There are also some party-goers, and ordinary visitors who love the atmosphere.
+"It really is a very peaceful and nice event."
+----------------------------------------
+Ground truth Summary: Thousands of people have gathered at Stonehenge for the sunrise on the longest day of the year.
+----------------------------------------
+Generated Summary: Thousands of people have gathered at Stonehenge to see the sun rise on the longest day of the year.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Net profit came in at $2.9bn (Â£1.9bn) for the three months to 26 June, against a loss of $398m a year ago - a higher figure than analysts expected.
+Revenue for the period was $10.8bn, as a result of what the company called "strong corporate demand".
+The firm also forecast improved revenues of $11.6bn for the three months to the end of September.
+Intel shares jumped 5% in after-hours trading following the announcement.
+Analysts were impressed by the results.
+"The numbers just blew me away, I cannot see any mention of any problems whatsoever," said Phani Saripella at Primary Global Research.
+Intel is the second major US company to report its quarterly results following aluminium giant Alcoa on Monday, which also beat analysts' expectations.
+Some commentators now see these results as a sign of what is to come.
+"In a quarter where people expected relatively strong performance, [Intel] beat that pretty handily and set a good forecast," said Edward Snyder at Charter Equity Research.
+"This going to be really good for a lot of other technology companies, particularly enterprise.
+"It might be the case that this earnings period is so strong that it allays some of the fears about the broader economy."
+----------------------------------------
+Ground truth Summary: US chipmaker Intel has reported bumper profits in what it describes as its "best" quarterly results.
+----------------------------------------
+Generated Summary: Intel, the world's biggest chipmaker, has reported a surprise profit for the second quarter of the year.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It follows an interview with Fox News in which he also claimed that there are "Muslim religious police" in London who "beat anyone who doesn't dress according to Muslim, religious Muslim attire".
+His comments triggered thousands of tweets using the hashtag #foxnewsfacts.
+PM David Cameron said the interview made him choke on his porridge.
+But Mr Emerson is not the first to get his facts wrong. Here are some other common #fails when it comes to understanding Islam.
+Back in October, political comedian Bill Maher made some pretty controversial remarks surrounding Islam on his HBO show, Real Time with Bill Maher.
+The city's population estimated at 1,073,045
+Christian: 494,358
+Muslim: 234,411
+Sikh: 32,376
+Hindu: 22,362
+Buddhist: 4,780
+Jewish: 2,205
+Other: 5,646
+No religion: 206,821
+Religion not stated: 70,086
+Source: Census 2011
+Maher has been critical of organised religion throughout his career, concentrating particularly on Islam.
+But this recent debate on the topic got pretty heated when actor Ben Affleck appeared on the panel and called the host's view "gross and racist".
+One of the main things people complained about was that Bill Maher was pretty quick to suggest all Muslims have the same belief system.
+Although there are several basic beliefs in Islam, there are different groups of Muslims such as the Sunnis and Shi'ites.
+The differences within Islam started when the Prophet Muhammad died and there were disagreements about who should lead the Muslim community.
+Sunnis and Shi'tes have different versions of the Hadith (the book of Muhammad's sayings) - which means they have a slightly different understanding of Islam.
+Overall, Islam is a diverse religion and there are different interpretations of the Qur'an.
+A basic issue in this statement is that people often don't fully understand what the garment is.
+A burka, sometimes spelled burqa, is the all-enveloping cloak, often blue, with a woven grill over the eyes, that many Afghan women wear.
+On the day that France became the first European country to ban the full-face Islamic veil in public places, the Today programme reported: "About 2,000 are said to wear the full veil and even that is a generous estimate according to some charities."
+Other veils which cover the body and face are called niqabs and hijabs - the latter is often simply called a headscarf because a woman's full face is visible.
+See the difference between all the veils
+No. Only if you live in Saudi Arabia where the law is being reviewed.
+In November, a member of the king's advisory council said the country was considering proposals to allow women to drive.
+The recommendations from the Shura Council to change the law would apply only to women over 30 - and they would only get to drive before 8pm.
+Nevertheless, such a move would represent a major victory for activists after years of rejection of any review of the ban.
+Earlier this year, a woman reportedly received 150 lashes for being caught driving.
+But Saudi Arabia is the only country in the world that forbids women from getting behind the wheel.
+The literal meaning of Jihad is struggle or effort, and means more than holy war.
+Muslims use the word to describe three different kinds of struggle:
+- A believer's internal struggle to live out the Muslim faith as well as possible
+- The struggle to build a good Muslim society
+- Holy war: the struggle to defend Islam, with force if necessary
+In the days since the Paris attacks, Muslim leaders around the world have condemned any use of violence in the name of Islam.
+Only if you agree with ex-UKIP leader Lord Pearson.
+In 2013, he warned UK Muslim communities were home to "thousands of potential home-grown terrorists".
+Such people "hate us with frightening religious fervour," he said, during a parliamentary debate on Islam, in which he criticised Sharia law.
+So what is Sharia?
+Sharia law, or Islamic religious law, is practised by many strict Muslims.
+Some interpretations involve harsh physical punishments for theft and adultery.
+Making money from money is not allowed. That means interest on money in bank accounts is off limits, but making a profit through trading is permitted.
+There have been reports of growing use of Sharia law by UK Muslims, with several Sharia courts in operation.
+But among western nations only Canada is reported to have come close to allowing full Sharia law, but it didn't happen in the end following protests back in 2005.
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+----------------------------------------
+Ground truth Summary: US terrorism "expert" Steven Emerson has apologised for describing Birmingham as a "Muslim-only city".
+----------------------------------------
+Generated Summary: Former US ambassador to the UK, David Emerson, has been criticised for claiming that the burka is a "symbol of Islam".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Peter Dawson said he was also surprised to hear Rory McIlroy say he "probably won't watch the golf" from Rio on TV.
+"Rory is entitled to his opinion but I found it disappointing," he said.
+McIlroy is one of a string of players who have pulled out of the Rio Games, citing concerns over the Zika virus.
+The world's top four - Jason Day, Jordan Spieth, Dustin Johnson and Northern Ireland's McIlroy - will all be missing after raising fears over the mosquito-borne virus, which has been linked to brain defects in newborn babies.
+International Olympic Committee president Thomas Bach has said the withdrawals will be one of the factors taken into account when the roster of sports for the 2020 Games is confirmed next year.
+The Rio Games will see golf return to the Olympics after a 112-year absence.
+"We have a great competition, the players are going to have a wonderful experience and the withdrawals are restricted to players from only four countries," Dawson said.
+"I am very confident golf has a place in the Olympic programme and we will do everything we can to keep it there."
+The Olympics take place from 5 to 21 August, with the men's golf tournament running from 11 to 14 August.
+----------------------------------------
+Ground truth Summary: The absence of top players from the Olympics "isn't going to help" golf's case for staying at future Games, the president of the International Golf Federation has said.
+----------------------------------------
+Generated Summary: The chief executive of golf's world governing body has said he is "very confident" the sport will be back at the Olympic Games in Rio in four years' time.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: British Transport Police (BTP) said there were 150 fewer incidents recorded in 2014/15, but sex attacks rose by 16% from 19 to 22.
+Overall, 1,172 crimes were reported - down on 1,322 the previous year.
+BTP said crime in Wales remained low, but there was still much for the force to do.
+Supt Andy Morgan, sub divisional commander for Wales, said sex crime figures in the region were the lowest of any of BTP's eight areas.
+He said although it was concerning so many people were affected by this type of crime, the force had expected to see a rise after launching its Report It To Stop It campaign, which encourages victims to come forward.
+The force said there were 42 fewer theft offences last year and instances where cables were stolen were down from 102 last year to 53 this year.
+As a result, the number of travel minutes lost to the offence is down by 87% nationally since 2008/09.
+Violent offences also decreased in Wales, at a time when there was an 8% rise across Britain.
+The force said it had put more officers on night trains to deter problem behaviour and it was enhancing its CCTV coverage by trialling the use of body-worn cameras.
+The report said there were 16 deaths on the tracks in Wales last year and BTP had introduced a hotline for staff to alert emergency services when staff are concerned about a person planning to harm themselves.
+----------------------------------------
+Ground truth Summary: Crime on the railways fell by 11% in Wales last year, while the number of sexual offences reported rose, new figures show.
+----------------------------------------
+Generated Summary: There has been a rise in the number of sex crimes on trains in Wales, according to a police report.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

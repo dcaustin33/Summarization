@@ -133,7 +133,8 @@ if __name__ == '__main__':
     val_metrics['rougeL_r'] = []
     val_metrics['BERT Score'] = []
 
-    with open('Generations.txt', 'w') as file:
+    generation_name = 'generation_{name}.txt'.format(name = args.name)
+    with open(generation_name, 'w') as file:
         file.write(f'Generations for {args.name}\n')
 
 
@@ -148,7 +149,7 @@ if __name__ == '__main__':
                             val_dataset, 
                             val_metrics, 
                             wandb = wandb, 
-                            file_name = 'Generations.txt')
+                            file_name = generation_name)
 
     bertscore = load("bertscore")
 

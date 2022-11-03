@@ -1,0 +1,386 @@
+Generations for Eval_Pegasus_XSum_first_256
+Article text: Merseyside Police were called to Crete Towers on Jason Street, Everton, on Tuesday morning after someone noticed a strong smell coming from the building.
+It comes two weeks after one of the biggest ever cannabis farms in Liverpool was found on the same street.
+Police estimate the total crop had a street value of more than £1.3m and described the farms "a sophisticated and industrial-scale criminal set-up".
+Det Insp Lee Wilkinson said: "This was an elaborate series of cannabis farms spread across four separate flats.
+"We discovered a total of 339 plants but believe much more could have been grown."
+----------------------------------------
+Ground truth Summary: Four cannabis farms have been found in flats at a tower block in Liverpool.
+----------------------------------------
+Generated Summary: More than 300 cannabis plants have been found in a flat in Liverpool.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Raj Odedra, a postmaster in Burghfield Common, Berkshire, hoped the postbox in Recreation Road would be painted gold to congratulate the diver.
+After Royal Mail refused to paint the postbox Mr Odedra decided to place a replica in front of it.
+It has since become a popular landmark for "selfies".
+Mears and his diving partner Jack Laugher won Great Britain's first ever Olympic diving gold in the men's synchronised 3m springboard event.
+Dozens of people have posted photos of their "postbox selfies" on the Burghfield Community Facebook page.
+"It started off as a low key tribute to our Burghfield boy, but the postbox has since become really popular in the community - particularly on social media," Mr Odedra said.
+"People from all over Reading to Tilehurst have come to visit the postbox and to take a selfie in front of it.
+"It has really helped bring the community together to help support the success of Chris Mears and his family who live here."
+Royal Mail defended its decision not to paint post boxes gold.
+A spokesman said: "After London 2012, we confirmed that all 110 post boxes would remain gold on a permanent basis, with a plaque naming the athlete and their achievement.
+"However Brazil, as the host nation of Rio 2016, has the honour of celebrating the games in its own way".
+----------------------------------------
+Ground truth Summary: The home village of Olympic gold medallist Chris Mears has installed a golden cardboard postbox as a tribute to his Rio 2016 success.
+----------------------------------------
+Generated Summary: A postbox dedicated to Olympic gold medal-winning diver Chris Mears has become a social media hit.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 22-year-old matched Gallacher's 18-under-par target by dint of an eagle on the 16th and a birdie on the last.
+Gonzalez almost chipped in on the 18th to win the tournament outright.
+But it was Fleetwood who prevailed in the play-off with the sole birdie on 18 to clinch his first European Tour win.
+"I loved it, it was fantastic," he told BBC Scotland.
+"It was a nice play-off to be part of. They are two really nice guys, Ricardo and Stevie. I hit two great golf shots and two good putts and that's all you can do.
+"To win my first Tour event feels absolutely amazing. It's a lifetime goal that's been taken care of and hopefully I can move on and win some more. To call yourself a European Tour winner is just awesome."
+I love Scotland and I love this golf course. The people carried me around today. They were absolutely brilliant
+Gallacher looked out of contention when he ran up a triple-bogey seven on the 11th in a rollercoaster final round, but bounced back with birdies at 14 and 16 before holing from 15ft for an eagle at the last.
+Gonzalez, joint leader with Southport's Fleetwood after Saturday, will be left to rue how close he came to making an eagle from the bunker to prevent the play-off, which was played on the par-five final hole.
+The trio found the middle of the fairway off the tee but Gonzalez over-hit his second shot, Gallacher found a bunker to the right of the green and Fleetwood found the edge of the putting surface.
+Bathgate's Gallacher failed to get up and down and carded a par five, while Gonzalez three-putted.
+Fleetwood's third shot shaved the edge of the hole but stayed within 3ft, and from there he claimed his maiden Tour victory.
+He said: "I love Scotland and I love this golf course. The people carried me around today. They were absolutely brilliant. It was fantastic to have the support."
+The victor was accompanied during his rounds, and while posing with the trophy, by his family dog.
+Fleetwood added: "Maisy is 14 so she is getting on. She has supported me through all my tournaments - amateur, county, England.
+"Scotland are nice about it. They let the dogs walk the course, most of the time. Any time we can get a tournament in Scotland, Maisy always comes. She has a great time.
+"She got diagnosed with cancer a couple of weeks ago and we don't know how long she's got left. This might be her last time."
+----------------------------------------
+Ground truth Summary: Englishman Tommy Fleetwood held his nerve to win the Johnnie Walker Championship at Gleneagles in a play-off with Scotland's Stephen Gallacher and Ricardo Gonzalez of Argentina.
+----------------------------------------
+Generated Summary: England's Tommy Fleetwood beat Spain's Ricardo Gonzalez in a play-off to win the Scottish Open at Loch Lomond.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: R&B Distillers has proposed turning Borodale House, a derelict Victorian hotel, into a distillery and visitor centre.
+The building work is scheduled to begin in April this year and the production of whisky next year.
+The distillery would be one of the largest employers on an island with a population of about 170 people.
+----------------------------------------
+Ground truth Summary: Highland Council has approved plans for the Isle of Raasay's first whisky distillery.
+----------------------------------------
+Generated Summary: Plans for a new whisky distillery on the Isle of Man have been approved.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Ricky Burlton, 20, from Enfield, London, died after he was hit by a car on the A10 exit slip road at Hoddesdon, Hertfordshire.
+Officers want to question Alexi Shyti, who is thought to have been living under an assumed named at the time.
+Mr Shyti, believed to have been driving a Rover involved in the crash, fled the country the next day.
+Albania national Mr Shyti sustained serious facial injuries in the crash on 4 June 2010, and was at Chase Farm Hospital in Enfield when police found him.
+It is believed Mr Shyti - who told police he was Greek man Georgios Tsoulos - was living in the UK illegally with a fake EU passport.
+Det Insp Pushpa Guild urged anyone with information on Mr Shyti's whereabouts to contact police.
+"We know Aleksi Shyti had been in Albania and would also ask anyone with connections there and who knows where he may be to call us.
+"We believe he may have now travelled to Greece and he also has connections to Italy.
+"In the UK, he had connections in Hertfordshire, North London and Loughborough in Leicestershire."
+Ricky's mother Dawn said: "Five years is an extremely long time not knowing what truly happened to our precious son and brother.
+"However, the one thing Ricky's mother, brothers and sister have is our unity as Ricky's family to continue with our search to find Aleksi Shyti."
+----------------------------------------
+Ground truth Summary: A fresh appeal has been made in a bid to find a man wanted in connection with a fatal crash five years ago.
+----------------------------------------
+Generated Summary: Police investigating the death of a man in a hit-and-run crash five years ago have issued a fresh appeal for information.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 50-year-old, who cannot be named to protect the identity of his victims, was found guilty of 75 charges.
+The offences took place on dates between October 1994 and July 2012, at the family's Dublin home.
+The judge said that the fact that the man had fought the case to conviction, added indignity to each of the victims.
+She noted that defence said the man's wife still stands by him.
+Victim impact statements from the three sisters were read out in court.
+The eldest of the three sisters, said that her mother, who gave evidence in support of her husband, "used to be a nice person but seems to be insane now".
+Her next youngest sister described having "nightmares about our father abusing me and my sisters" and that the family had difficulty in relating to each other now as they each "tried to deal with what went on in our own ways".
+The other daughter said that she had had substance abuse problems since she was a teenager as a result of the abuse.
+She said that she hoped her father would get the help he needs.
+The man has 57 previous convictions, mainly for road traffic offences. He has no previous convictions for sex crimes.
+The judge praised the victims as "persons of very great courage and determination".
+----------------------------------------
+Ground truth Summary: A man has been jailed for 17 years for raping and sexually abusing his three daughters, over an 18-year period.
+----------------------------------------
+Generated Summary: A man who sexually abused his three daughters for more than 20 years has been jailed for 15 years.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 22-year-old Angola international has agreed a five-year deal with the Championship club.
+Vetokele, who represented Belgium at youth level, moved to Denmark in 2012 after spells with Belgian sides Gent and Cercle Brugge.
+He scored 13 goals in 29 appearances in the Danish Superliga last season and featured twice in the Champions League.
+Vetokele, who has won two caps for Angola, becomes Charlton's second signing of the summer.
+Recently appointed Addicks head coach Bob Peeters brought in midfielder Yoni Buyens on loan from Standard Liege at the weekend.
+----------------------------------------
+Ground truth Summary: Charlton Athletic have completed the signing of FC Copenhagen striker Igor Vetokele for an undisclosed fee.
+----------------------------------------
+Generated Summary: Charlton Athletic have signed striker Daniel Vetokele from FC Copenhagen for an undisclosed fee.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jess Herbst, who became mayor of New Hope last May, made the announcement in an open letter to the town's residents.
+"As your Mayor I must tell you about something that has been with me since my earliest memories. I am Transgender," she wrote.
+Ms Herbst was appointed mayor following the death of her predecessor.
+She had previously been elected to the Town Council as an alderman and road commissioner, according to her statement on the New Hope website.
+"I know that transgender people are just coming to light in our society, and we have made great strides in the last few years," she said.
+"My daughters have been adamant supporters of me and are proud to tell people their father is transgender," she added.
+Ms Herbst has been documenting her experience on her blog, JessHerbst.com.
+As the mayor of the small Collin County town, she is the first known openly transgender elected official in Texas history, the Texas Observer reports.
+"I will continue as Mayor and hope to do the very best for the town," she said.
+Transgender issues have made the headlines in Texas in recent months after Republicans unveiled the so-called "bathroom bill", a proposal that bans transgender people from using public bathrooms of their choice.
+Such bills have become a flashpoint in the battle over transgender rights in the US.
+----------------------------------------
+Ground truth Summary: The mayor of a small town in Texas has become the first transgender elected official in the state's history, local media report.
+----------------------------------------
+Generated Summary: The mayor of a small town in the US state of Texas has revealed she is transgender.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The new gadget toy appears to be selling like hotcakes in China - much to the horror of concerned parents across the country.
+The tiny crossbows fire toothpicks powerful enough to break cardboard, apples or even soda cans.
+Some cities worried the toys can cause serious injury have now banned them.
+According to Chinese media, cities like Chengdu, Kunming and Harbin have already banned sales of the toy, while parents in Hong Kong are also raising concerns.
+The small crossbows come as a cheap plastic version for about four yuan (Â£0.5; $0.6) while the metal versions of the mini weapon cost around 10 yuan.
+They are sold in shops and on the streets near schools and are also available online.
+Reacting to criticism from parents, the country's leading online platforms JD.com and Taobao.com have said they won't allow the toys to be sold any more.
+While they are indeed no longer available on those two online shops, they can still be found on other websites like 1688.com, which like Taobao belongs to online retail giant Alibaba.
+According to Chinese media, police are also cracking down on shops near schools selling the dangerous gadgets.
+Videos on social media showing the crossbows in action have them breaking into cardboard, apples or raw meat.
+If the toothpick is replaced with a metal needle, it can even crack through a can of soda.
+While the toys do come with a note saying they should not be aimed at people or animals, the packaging of one product claims it can even fight cockroaches, which many might say is no bad thing.
+----------------------------------------
+Ground truth Summary: If you think fidget spinners can be dangerous toys, wait until you come across a kid playing with a toothpick crossbow - and then take cover.
+----------------------------------------
+Generated Summary: China's online retail giants have banned the sale of tiny crossbows after parents complained they could cause serious injury to children.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mr Abdel Fattah had been sentenced to 15 years in jail for violating a strict anti-protest law. He is currently facing a retrial in the case.
+Mr Abdel Fattah gained fame during the 2011 uprising against the then-President, Hosni Mubarak.
+His arrest had heightened fears of a crackdown on dissent in Egypt.
+Correspondents say the 15-year sentence was one of the harshest ever awarded to a non-Islamist activist in the country.
+Mr Abdel Fattah had been charged with assaulting a policeman at an illegal protest. He was sentenced in June, along with 24 others, but was not allowed to be in court for the verdict.
+The same judges presided over his retrial, prompting Mr Abdel Fattah to complain that he had "no confidence" in them.
+A lawyer for Mr Abdel Fattah, Mohammed Abdel-Aziz, said on Monday that the judge presiding over the retrial had stepped down at the request of the defence team.
+He said the judge had also ordered an investigation into the prosecutor's use of Mr Abdul Fattah's personal videos, "which violated the accused's privacy".
+At a previous hearing, the prosecutor had shown videos of family celebrations which had no link to the case, Mr Abdel-Aziz told AFP news agency.
+The retrial will resume when a new judge is assigned to the case.
+Mr Abdel Fattah is expected to leave prison on Tuesday. Along with two other activists, whose release was also ordered by the court, he must pay 5,000 Egyptian pounds ($430; $700) as bail.
+Mr Abdel Fattah comes from a prominent family of Egyptian activists. His sister, Sanaa Seif, is also in custody on charges of violating the protest law.
+His father, Ahmed Seif al-Islam, was a leading human rights lawyer and campaigner who died late last month.
+Hundreds of people have been killed in street clashes since the military ousted President Mohammed Morsi last year.
+Thousands have also been arrested, most of them Islamists who supported Mr Morsi.
+The crackdown has since been extended to student leaders and secular activists who had protested against Mr Mubarak.
+Former army chief Abdul Fattah al-Sisi took office as president after winning 96.9% of the vote in elections in May - almost a year after he ousted Mr Morsi.
+However turnout was below 50%, as Mr Morsi's Muslim Brotherhood and some liberal and secular activists urged a boycott of the poll.
+Also on Monday, an Egyptian court sentenced the Muslim Brotherhood's leader, Mohammed Badie, and 14 others to life in jail on charges of murder and inciting violence at protests near Cairo last year.
+Mr Morsi's predecessor, Hosni Mubarak, stepped down after mass anti-government protests in 2011, following nearly three decades in power.
+----------------------------------------
+Ground truth Summary: An Egyptian court has ordered the release on bail of one of the country's most prominent bloggers and pro-democracy activists, Alaa Abdel Fattah.
+----------------------------------------
+Generated Summary: The judge presiding over the retrial of prominent Egyptian activist Alaa Abdel Fattah has stepped down, his lawyer says.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Wilson, 37, and from Sheffield, was struck by flying debris and suffered head injuries during the Pocono IndyCar 500 race in Pennsylvania on 23 August.
+About 500 people attended the seven-time IndyCar race winner's funeral at Paulerspury in Northamptonshire.
+The family, friends and colleagues joined Wilson's widow Julia at Silverstone afterwards.
+Ex-Formula 1 driver Mark Webber and retired IndyCar racer Dario Franchitti were among the pallbearers.
+Webber said: "It was an honour for me to do that for the family because we are a family in many ways when it comes to motorsport.
+"We know the dangers are always there. Motorsport has had good and bad patches when it comes to these tragic events and when it is really close to home then it hits you even harder.
+"You think of the family and everyone who is going to be affected by this. Motorsport is a tight-knit family and when we need to get together in really tough times we do our best."
+Jonathan Palmer, the former F1 driver who took Wilson on as a protÃ©gÃ©, and former F1 champion Sir Jackie Stewart also attended.
+Palmer, who read an 11-minute eulogy in his honour, said: "Justin was the innocent victim in a cruel twist of fate when he was hit by flying debris from an incident ahead. It still feels like a bad dream but tragically it is only too real."
+The father of two died a day after Sage Karam's car spun and crashed in front of him on lap 179 of 200.
+Wilson's major motorsport breakthrough came in F1.
+He won the Formula 3000 series in 2001, and two years later raised Â£1.2m to finance his F1 entry after setting up a company in his own name.
+Wilson scored his only point from 16 races with Minardi and Jaguar during 2003 at the United States Grand Prix.
+He moved to the US in 2004 and enjoyed greater success in Champ Car, finishing as series runner-up in 2006 and 2007 before switching to IndyCar racing in 2008, after Champ Car merged with the Indy Racing League.
+He finished second in the previous IndyCar race in Mid-Ohio on 2 August, his first podium finish since 2013, while his final victory came at the Firestone 550 at Texas Motor Speedway in June 2012.
+Mark Miles, chief executive of IndyCar parent company Hulman & Co, paid tribute to Wilson's "elite ability" and his "unwavering kindness, character and humility".
+----------------------------------------
+Ground truth Summary: The funeral has taken place of British IndyCar driver Justin Wilson, who died during a race last month in America.
+----------------------------------------
+Generated Summary: The funeral of British IndyCar driver Justin Wilson has taken place.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The home side were all out for 249, having been 195-6 overnight, when Jarvis had Charlie Shreck lbw with the first ball after a long hold-up.
+Lancashire began their second innings 119 in front, but needing to press on to have a chance of a positive result.
+They lost Paul Horton and Karl Brown in reaching stumps on 39-2, a lead of 158.
+With so much time lost to the weather, a draw appears the only realistic result unless Lancashire collapse spectacularly on the final morning or skittle Leicestershire after setting them a target.
+Having begun play at 12:15 BST, only 13 overs were possible before the players were forced from the field again until 17:30 BST.
+Tom Wells was lbw to Jarvis in the first phase of play, but the key wicket of Mark Cosgrove for 79 went to former Leicestershire seamer Nathan Buck, who took 3-64.
+Leicestershire seamer Clint McKay:
+"The game is moving on quickly and you never know what's going to happen.
+"If we can bowl as well as we did last thing, and pick up two or three early wickets, suddenly it's a very different game."
+Lancashire director of cricket Ashley Giles:
+"There is still a lot to be done, and the first priority for us is to get a few more runs on the board and get a good lead.
+"We've not set any targets but there is enough in the pitch for wickets to fall pretty quickly and in clumps.
+"I just hope it's a clear day and it could be a fun day, all three results are possible."
+----------------------------------------
+Ground truth Summary: Pace bowler Kyle Jarvis claimed 5-69 for Lancashire as they earned a sizeable first-innings lead on a rain-shortened day against Leicestershire.
+----------------------------------------
+Generated Summary: Lancashire paceman Mark Jarvis took the first wicket of the day as Leicestershire were bowled out for 249 on day three of their County Championship match at Wantage Road.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The man was killed in the incident in Fairfield Road, near to the junction of Lightwood Road, in Buxton at 17:45 GMT on Thursday.
+Derbyshire Police said a 40-year-old man has been arrested on suspicion of causing death by careless or inconsiderate driving.
+Officers said the man was due to be interviewed later on Friday.
+----------------------------------------
+Ground truth Summary: A 79-year-old man has died after being hit by a lorry.
+----------------------------------------
+Generated Summary: A man has been arrested on suspicion of causing death by careless or inconsiderate driving after a pedestrian was hit by a car in Derbyshire.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Surrey Police, who were alerted to the closure at about 17:30 GMT, said the tunnel was expected to be closed for "at least another five hours".
+Officers have been deployed to help with traffic control and co-ordinate road closures and diversions.
+The tunnel diverts traffic on the A3 London to Portsmouth road at the Devil's Punch Bowl.
+A Surrey Police spokeswoman urged motorists to avoid the area if possible. A diversion is in place.
+The engineers behind the Â£371m tunnel, which opened in 2011, said at 1.25 miles (1.8km), it was the "longest under land" road tunnel in the UK.
+Its construction followed decades of severe congestion on the A3.
+----------------------------------------
+Ground truth Summary: The Hindhead Tunnel has been closed in both directions owing to what police believe is a "technical fault".
+----------------------------------------
+Generated Summary: The Devil's Punch Tunnel in Surrey has been closed due to a fire.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Public Health Wales (PHW) officials were responding to Welsh Government plans launched in November.
+PHW backed moves to restrict smoking but said ministers should go further.
+The body was giving evidence to the assembly's health committee.
+The proposals are part of the Welsh Government's second attempt to bring in the Public Health Bill, that does not include a controversial ban on e-cigarettes in some enclosed places.
+Ministers hope the legislation will be passed by May.
+PHW's submission to the committee said: "We would suggest that there would need to be a clear definition of 'playground' and that 'schools' should include early years educational settings such as nurseries (private and public).
+"In the case of schools and playgrounds this should include the perimeter of these settings otherwise the intended impact of the restrictions is unlikely to be achieved i.e. if parents or other adults are permitted to smoke at the perimeter of a playground or at the school gates in clear view of children this will not impact on the intended goal of 'denormalisation' (reduce smoking being modelled to children as normal behaviour).
+"We would also propose that the restrictions should not be limited to hospitals but should include the grounds of premises used predominately for the delivery of healthcare to include community health facilities and primary care."
+Currently, the Welsh Government plans to ban smoking within five meters of playground equipment "due to this being beyond the distance of potential second hand smoke harm from a single cigarette, plus an additional buffer to protect against weather elements".
+On Wednesday, PHW Director of Health Improvement Dr Julie Bishop told the committee that a broader definition of a "playground" was needed.
+"If we're narrowing that definition to, literally be play equipment; so I presume by that we mean things like slides and swings and those kind of things, that's actually quite a small area of what most of us would consider to be playgrounds in the broader sense," she said.
+"So I would encourage playing fields and sports grounds to be included in that definition."
+----------------------------------------
+Ground truth Summary: Plans to ban smoking in school and hospital grounds and playgrounds in Wales should also extend to outside all nurseries, GP practices, playing fields and sports grounds, a health promotion body has told AMs.
+----------------------------------------
+Generated Summary: Parents should be banned from smoking in schools and playgrounds, a health body has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Police said she was Andrea Harris from Ardrossan.
+The crash, involving a Stagecoach bus and an Isuzu 4x4, took place north of Ardrossan at 14:15 on Monday.
+The 48-year-old driver of the Isuzu and the 36-year-old bus driver are "serious but stable" in Glasgow's Queen Elizabeth University Hospital.
+Four bus passengers, two men and two women, are also in hospital.
+They were taken to Crosshouse Hospital in Kilmarnock for treatment.
+A further five passengers on the bus - three men and two women - received medical treatment at the scene or were taken to Crosshouse Hospital but were released after treatment.
+The Scottish Ambulance Service declared the scene of the crash, near the Rowan Tree restaurant, a major incident. Two air ambulances attended, along with specialist trauma teams.
+Police Scotland have appealed for witnesses to the crash.
+Sgt Kevin Blackley from the Trunk Road Policing Unit, Irvine, said: "I would urge anyone who witnessed the crash, who has not yet spoken to police, or anyone with information that may assist our investigation to contact us through the non-emergency number 101."
+----------------------------------------
+Ground truth Summary: A 45-year-old female bus passenger killed in a crash on the A78 in North Ayrshire which left six people in hospital has been named.
+----------------------------------------
+Generated Summary: A 25-year-old woman has died in a two-vehicle crash on the A9 in Ayrshire.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The figure was released as Barclays reported a 26% drop in quarterly statutory profits to £1.34bn.
+However, excluding one-off items, including another £150m for mis-selling of payment protection insurance (PPI), adjusted profit rose 9% to £1.85bn.
+Barclays' chief executive said he was pleased with the start to the year.
+Barclays has now put aside £2.05bn to cover foreign exchange settlements. Last year, six leading banks reached a settlement with US and UK regulators over allegations they were trying to rig the foreign exchange market, but Barclays has yet to reach a deal for its alleged malpractice.
+The bank's finance director, Tushar Morzaria, said the new provision reflected "the further discussions that we've been having with a number of regulators and agencies around the world across multiple jurisdictions and it really reflects our best estimate of the full cost of these related matters".
+He said Barclays was trying to resolve the matter, but the timing was out of its hands: "We don't control the timetable, but we're working as hard as we can to resolve these matters."
+In November, HSBC, Royal Bank of Scotland, Swiss bank UBS and US banks JP Morgan Chase, Citibank and Bank of America were all fined for colluding to interfere with the market-set price of various currencies.
+The fines were issued by the UK's Financial Conduct Authority (FCA) and two US regulators.
+PPI mis-selling has now cost Barclays £5.4bn. In total, UK banks have paid out more than £26bn for this type of mis-selling.
+Last year, Barclays began a thorough overhaul of its business under boss Antony Jenkins.
+Barclays has scaled back its once-mighty investment banking division and is placing a greater emphasis on retail banking.
+It is in the process of cutting 19,000 jobs, cutting costs and selling off unwanted assets.
+Barclays said so far it had cut costs by 7% and reduced investment risk.
+Mr Jenkins said: "While we still have much to do, I am pleased with how we've begun 2015."
+The bank's statement also said that resolving legacy conduct issues (such as mis-selling and market rigging) was an important part of its plan to transform Barclays.
+Richard Hunter, at Hargreaves Lansdown Stockbrokers, said that resolving these issues was proving troublesome: "The clear fly in the ointment is the additional provisions undertaken for the forex investigation and litigation, as well as the seemingly perennial PPI situation.
+"The fact that these are being made are further proof if it were needed that the bank is still some way from distancing itself from the legacy conduct issues prevalent in the sector."
+Shares in Barclays closed down 1.7% to 256.95p.
+Separately, High Street rival TSB Banking Group reported first quarter profits of £34.2m.
+The bank, spun off from the Lloyds Banking Group last June, said its share of people switching bank accounts had risen to 7.9%, above its target of 6%.
+TSB is the UK's seventh biggest bank. Although it has been independent of Lloyds for less than a year, it has already agreed to be taken over by the Spanish bank Sabadell.
+Its chief executive, Paul Pester, said: "TSB is starting to fire on all cylinders as we take on the big banks in our mission to bring more competition to UK banking."
+----------------------------------------
+Ground truth Summary: Barclays has put aside another £800m, largely to cover potential further legal action and penalties for alleged foreign exchange manipulation.
+----------------------------------------
+Generated Summary: Barclays has set aside a further £1.2bn to cover potential fines from regulators over alleged rigging of the foreign exchange market.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The home side led 19-3 at the interval thanks to a blistering first-half performance and tries from Christian Wade, Tommy Taylor and Dan Robson.
+Tigers fought back to within three points after Peter Betham's try.
+After Dan Cole was sin-binned, Jimmy Gopperth's penalty secured the win.
+The win took Dai Young's side back to the top of the Premiership table after Saracens' draw against Exeter on Saturday, with Leicester in fifth place after a third successive defeat.
+However, Wasps, and England head coach Eddie Jones, will be concerned that flanker James Haskell, who was out for seven months because of injury, walked back off the pitch after appearing to be momentarily knocked out when tackling Freddie Burns.
+Tigers will come away from the match with many positives under head coach Aaron Mauger, which did not look likely during the first-half blitz from Wasps.
+Wade scored his ninth Premiership try of the season early on, before Taylor was put over in a drive and Robson crossed following a fast break out by man of the match Thomas Young.
+After the break Tigers came out strongly, and after Betham finished off a move started by Tom Brady, Burns' penalty made it 19-16.
+But Cole's yellow card for being offside helped the hosts regain some impetus, and Gopperth's kick from the resulting penalty made it a six-point game.
+Tigers made late changes in search of a potentially decisive try, but poor handling from Betham and George Worth in particular cost them dearly.
+The match attracted Wasps' best Premiership attendance of the season of 27,930, with the club having been watched by well over 50,000 supporters in two successive games at the Ricoh Arena for the first time.
+Wasps: Beale; Wade, Daly, Eastmond, Bassett; Gopperth, Robson; Mullan (capt.), Taylor, Moore, Symons, Myall, Young, Thompson, Hughes.
+Replacements: Johnson, McIntyre, Swainston, Gaskell, Haskell, Simpson, Cipriani, Miller.
+Leicester: Burns; Thompstone, Betham, Roberts, Brady; O Williams, B Youngs; Genge, T Youngs (capt.), Cole, Slater, Fitzgerald, M Williams, Evans, O'Connor.
+Replacements: McGuigan, Bateman, Cilliers, Kitchener, McCaffrey, Harrison, Worth, Smith.
+Referee: Craig Maxwell-Keys (RFU)
+For the latest rugby union news follow @bbcrugbyunion on Twitter.
+----------------------------------------
+Ground truth Summary: James Haskell lasted just 35 seconds of his comeback game because of a head injury as Wasps held off a revival by Leicester, who were playing their first game since Richard Cockerill's sacking.
+----------------------------------------
+Generated Summary: Wasps moved back to the top of the Premiership with a hard-fought victory over Leicester at the Ricoh Arena.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Billy Monger, from Charlwood in Surrey, hit the back of a stationary car at Donington Park on 16 April.
+The teen was trapped for 90 minutes, lost both of his lower legs and has spent nearly a month in hospital.
+Monger, who turned 18 on Friday, said: "I'll be back racing as soon as I can."
+He added: "All the support just makes me more determined."
+His story has touched motor sport fans the world over who have raised in excess of £800,000 for his future.
+The appeal exceeded its original £260,000 target after just six hours, raising £47,000 in one hour, Just Giving said.
+Former Formula 1 world champions Lewis Hamilton and Jenson Button are among those who have given their backing.
+Monger said he was "lost for words" by the worldwide appeal.
+His father Rob said: "If he wants to get back in the car, that's fine by me. I'm not sure about his mum, but there we go."
+His mother Amanda said the crash was "all your nightmares rolled into one" but the hospital staff had helped them through it.
+Billy's sister Bonnie, 16, was among those at the scene of the accident and spoke to him to keep him calm while he was tended to by paramedics.
+She said: "The first week was hard when he was in intensive care, but as soon as he woke up he was in such good spirits and that's lifted up everyone around him."
+Kirsty Measures, a staff nurse who treated the young racer, said: "When Billy first came in he was quite unwell... he struggled to get to grips with what happened to him. But he has overcome it."
+The family are due to return to their home in Charlwood on Saturday after Billy's discharge from hospital.
+----------------------------------------
+Ground truth Summary: A teenage Formula 4 driver who had to have both legs amputated after a high speed crash has vowed to get back behind the wheel again.
+----------------------------------------
+Generated Summary: A teenage racing driver who lost both legs in a crash has said he will return to the track "as soon as possible".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 23-year-old opening batsman/leg spinner follows the lead of Joe Clarke, Ed Barnard, Joe Leach, Tom Fell and Ross Whiteley in extending his deal.
+"We have a great bunch of lads, it's the city where I'm from and it's the club I love playing for," he said.
+"I'm very passionate about the club and want to win games of cricket for Worcestershire."
+D'Oliveira is the third generation of his family to play for the county, following in the footsteps of his late grandfather, former England all-rounder Basil, and his late father Damian, who served the county as player and coach.
+He made his limited-overs debut against Yorkshire in 2011 and his first-class debut against Warwickshire a year later.
+D'Oliveira impressed with the ball in Worcestershire's run to the T20 Blast quarter-finals, taking nine wickets, proving their most economical bowler in the competition.
+His five Championship appearances in 2015 have all come since the start of July.
+----------------------------------------
+Ground truth Summary: Worcestershire all-rounder Brett D'Oliveira has signed a new three-year deal, tying him to New Road until 2018.
+----------------------------------------
+Generated Summary: Worcestershire all-rounder Joe D'Oliveira has become the latest player to sign a new contract with the county.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
