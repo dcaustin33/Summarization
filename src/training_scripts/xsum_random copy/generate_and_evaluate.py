@@ -30,24 +30,24 @@ def create_model(model_name, max_length):
     return model
 
 
-class PegasusCNNDataset(torch.utils.data.Dataset):
-    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'Train'):
+class XSumDatasetRandom(torch.utils.data.Dataset):
+    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
-        self.dataset = load_dataset('cnn_dailymail', '3.0.0', split = split)
+        self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
-        
-        #we want to tokenize both our inputs and outputs before passing to the model
-        #self.inputs = self.tokenizer(self.dataset['article'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
-        #self.outputs = self.tokenizer(self.dataset['highlights'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
 
     def __len__(self):
         return len(self.dataset)
 
     def __getitem__(self, idx):
-        text = self.dataset[idx]['article']
+        text = self.dataset[idx]['document']
+        text = text.split(' ')
+        max_idx = max(1, len(text) - self.max_length)
+        text = text[np.random.randint(max_idx):]
+        text = ' '.join(text)
 
-        summary_text = self.dataset[idx]['highlights']
+        summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None, file_name = None):
@@ -122,7 +122,8 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print("Using device:", device)
 
-    val_dataset =PegasusCNNDataset(model_name = args.model_name, max_length=args.max_length, split = 'validation')
+    val_dataset = XSumDatasetRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation')
+    print('Not shuffling validation set')
     val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
 
     val_metrics = {}
@@ -138,7 +139,9 @@ if __name__ == '__main__':
     val_metrics['rougeL_r'] = []
     val_metrics['BERT Score'] = []
 
-    with open('Generations' + args.name + '.txt', 'w') as file:
+    generation_name = 'generation_{name}.txt'.format(name = args.name)
+
+    with open(generation_name, 'w') as file:
         file.write(f'Generations for {args.name}\n')
 
 
@@ -153,7 +156,7 @@ if __name__ == '__main__':
                             val_dataset, 
                             val_metrics, 
                             wandb = wandb, 
-                            file_name = 'Generations.txt')
+                            file_name = generation_name)
     bertscore = load("bertscore")
 
     evaluator.evaluate()

@@ -1,9 +1,7 @@
 import torch
 from datasets import load_dataset
 from rouge import Rouge
-
 import transformers
-
 from transformers import PegasusForConditionalGeneration, PegasusTokenizer
 import transformers
 from trainer import Trainer
@@ -15,22 +13,27 @@ from logger import log_metrics
 from torch.utils.checkpoint import checkpoint_sequential
 import numpy as np
 
-class XSumDatasetRandom(torch.utils.data.Dataset):
-    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
+class XSumDatasetNRandom(torch.utils.data.Dataset):
+    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
         self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
+        self.first_selection = first_selection
 
     def __len__(self):
         return len(self.dataset)
 
     def __getitem__(self, idx):
         text = self.dataset[idx]['document']
-        text = text.split(' ')
-        max_idx = max(1, len(text) - self.max_length)
-        text = text[np.random.randint(max_idx):]
-        text = ' '.join(text)
+        text = text.split('. ')
+        
+        max_idx = max(1, len(text) - 1)
+        final = text[:self.first_selection]
+        if args.first_selection < max_idx:
+            choice = np.random.randint(args.first_selection, max_idx)
+            final = final + text[choice:]
+        text = '. '.join(final)
 
         summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
@@ -138,13 +141,14 @@ if __name__ == '__main__':
     parser.add_argument('--workers', nargs='?', default = 8,  type=int)
     parser.add_argument('--num_beams', nargs='?', default = 5,  type=int)
     parser.add_argument('--warmup_steps', default = 100, type = int, help = 'Number of warmup steps')
+    parser.add_argument('--first_selection', nargs='?', default = 1,  type=int)
     parser.add_argument('-log', action='store_true', help='Use wandb')
 
     args = parser.parse_args()
 
     #create the dataset
-    dataset = XSumDatasetRandom(model_name = args.model_name, max_length=args.max_length, split = 'train')
-    val_dataset =XSumDatasetRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation')
+    dataset = XSumDatasetNRandom(model_name = args.model_name, max_length=args.max_length, split = 'train', first_selection=args.first_selection)
+    val_dataset =XSumDatasetNRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation', first_selection=args.first_selection)
 
     #create the dataloader
     dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)

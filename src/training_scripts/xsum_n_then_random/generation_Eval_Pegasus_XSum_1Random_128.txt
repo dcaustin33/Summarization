@@ -1,0 +1,397 @@
+Generations for Eval_Pegasus_XSum_1Random_128
+Article text: Emergency services were called to the line near Stanford-le-Hope, Essex, at about 21:30 GMT on Monday.
+A tow truck had to be called to remove the car, which was stuck on the track
+----------------------------------------
+Ground truth Summary: A motorist crashed through a fence and onto a train track, causing several hours of delays for passengers.
+----------------------------------------
+Generated Summary: A car has been removed from a railway line after it became stuck on the tracks.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Developer Sirius Minerals wants to mine near Whitby and build a 23-mile (37km) tunnel to a Teeside processing plant.
+Chris Fraser, of Sirius, said its case stood "up to scrutiny" and it was determined to pursue the plan.
+The North York Moors National Park Authority is to consider a planning application on 30 June.
+The 229-page report by the park authority does not make any recommendation about the proposed mine.
+It acknowledged that there were likely to be economic benefits but said the proposal did not represent "exceptional circumstances".
+The report said the National Park Authority's statutory responsibility was to "conserve and enhance the North York Moors for the enjoyment of present and future generations".
+Sirius said it believed exceptional circumstances had been demonstrated and the mining was in the public interest, with environmental effects "mitigated".
+The term "potash" is used to describe a range of minerals containing potassium, and the proposal is to mine polyhalite.
+The mine would transform North Yorkshire's economy, Ryedale District Council and Scarborough Borough Council has claimed.
+However a report published earlier this month suggested that the five-year construction phase of the mine would cost the area's tourism industry £10m a year.
+The Campaign for National Parks said it hoped the authority would reject the planning application.
+The decision was an "important test of the protection afforded national parks" and there were strong planning grounds for turning it down, it added.
+Plans include a construction of a minehead at Dove's Nest Farm and Haxby Plantation about 1.6 miles (2.5km) from the village of Sneaton involving mining shafts, buildings, roads and a helicopter landing site on a 64-hectare site.
+----------------------------------------
+Ground truth Summary: A report into a planned £1.7bn potash mine has said its economic benefits do not outweigh the harm it would cause the North York Moors national park.
+----------------------------------------
+Generated Summary: Plans for a new gold mine in the North York Moors have been given the go-ahead by the National Park Authority.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Its survey of 1,600 cities in 91 countries revealed that nearly 90% of people in urban centres breathe air that fails to meet levels deemed safe.
+The WHO says that about half of the world's urban population is exposed to pollution at least 2.5 times higher than it recommends.
+Air quality was poorest in Asia, followed by South America and Africa.
+"Too many urban centres today are so enveloped in dirty air that their skylines are invisible," said Dr Flavia Bustreo, the WHO's assistant director-general for family, children and women's health.
+"Not surprisingly, this air is dangerous to breathe."
+Health risks
+The WHO currently sets safe levels of air quality based on the concentration of polluting particles called particulate matter (PM) found in the air.
+It recommends that levels of fine particles called PM2.5 should not be more than 10 micrograms per cubic metre on average over a year, and slightly larger pollutants, called PM10, should not reach more than 20 micrograms per cubic metre on average.
+But the Urban Air Quality database showed that many areas were breaching these levels.
+Some cities in Asia showed extremely high levels of pollution
+----------------------------------------
+Ground truth Summary: The World Health Organization says air pollution in many of the world's cities is breaching its guidelines.
+----------------------------------------
+Generated Summary: Air pollution in urban areas is so bad that it is invisible to the naked eye, the World Health Organization (WHO) has warned.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 25-year-old, who finished last season on loan at Northampton, has agreed a three-year deal with the Reds.
+Collins is Crawley's 12th signing of the summer transfer window.
+"James wants a new challenge and he comes with a very good goalscoring record in League Two," Reds boss Dermot Drummy told the club website.
+Collins, who has previously had spells at Aston Villa, Swindon and Hibernian, scored 15 goals in 49 appearances last season.
+Find all the latest football transfers on our dedicated page.
+----------------------------------------
+Ground truth Summary: League Two side Crawley Town have signed James Collins after the striker's contract at Shrewsbury Town was cancelled by mutual consent.
+----------------------------------------
+Generated Summary: League Two side Crawley Town have signed striker James Collins from Championship side Reading.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 29 March 2016 Last updated at 15:44 BST
+Peter Brown watched the footage on his computer at home in Cumbria after it was put online by the University of Manchester to show the Dunkirk evacuation - and lighter moments on HMS Whitehall.
+North West Tonight reporter Stuart Flinders spoke to Mr Brown.
+----------------------------------------
+Ground truth Summary: A man spotted his father performing cartwheels and tightrope walking on a Royal Navy destroyer in a World War Two archive film.
+----------------------------------------
+Generated Summary: A World War Two veteran has told how he watched footage of his ship's evacuation from Dunkirk for the first time.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Dean McIlwaine, from Newtownabbey, was last seen in the Carnmoney Road area of Newtownabbey on Thursday, 13 July.
+Hundreds of people joined a search in Belfast on Monday night in a bid to find the 22-year-old barber.
+His cousin, Jordan Malone, told the BBC that the family has barely slept since Mr McIlwaine's disappearance five days ago.
+He said that he was very close with Mr McIlwaine, as they are both barbers - and that the family cannot understand why he would suddenly go missing.
+"Despite the search last night, we've still heard nothing - we're just going up against a brick wall," said Mr Malone.
+"Dean and I talked every day, he would never do something like this
+----------------------------------------
+Ground truth Summary: The family of a missing County Antrim man have said they are determined to "keep searching" until he is found.
+----------------------------------------
+Generated Summary: The family of a man who has been missing for five days have appealed for help in finding him.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 2-1 home triumph earned Livi an unassailable 16-point lead at the summit with four games remaining.
+After a flying Alloa start, the hosts' Josh Mullin and Jackson Longridge scored either side of half-time.
+Dylan Mackin pulled one back for the Wasps, but Livi squeezed home, sealing their return to the Championship at the first time of asking.
+Livingston needed only to avoid defeat to secure promotion, but when the visitors struck the post twice in the opening six minutes, a title-clinching result looked far from straightforward.
+That was until Pittman produced a sweetly-struck 35-yard drive to nudge the home side ahead after 17 minutes - a lead they preserved until the interval.
+David Hopkin's men upped the ante as the second half began, Longridge cutting in from the left flank and curling a right-foot shop beyond Neil Parry in the Alloa goal.
+Livi's prolific Liam Buchanan was denied a 26th goal of the season when his penalty struck the post, and he illegally converted the rebound before any other player had touched the ball.
+Mackin halved the deficit with 24 minutes to play, capitalising on confusion in the Livi box following a corner, and subjecting the home fans to a tense finale before the celebrations could begin.
+Livingston manager David Hopkin: "I'm delighted for my team, my staff and everyone that's worked hard to get us back where we belong in the Championship.
+"We went top in October and stayed there ever since. Conceded by Alan Lithgow.
+Corner,  Alloa Athletic. Conceded by Craig Halkett.
+Attempt blocked. Calum Waters (Alloa Athletic) left footed shot from outside the box is blocked.
+Foul by Alan Lithgow (Livingston).
+Stefan McCluskey (Alloa Athletic) wins a free kick in the defensive half.
+Substitution, Livingston. Nikolay Todorov replaces Daniel Mullen.
+Corner,  Livingston. Conceded by Andy Graham.
+Attempt saved. Nicky Cadden (Livingston) right footed shot from more than 35 yards is saved in the bottom left corner.
+Foul by Stefan McCluskey (Alloa Athletic).
+Scott Pittman (Livingston) wins a free kick in the defensive half.
+Foul by Jason Marr (Alloa Athletic).
+Daniel Mullen (Livingston) wins a free kick on the left wing.
+Attempt missed. Calum Waters (Alloa Athletic) left footed shot from long range on the right is close, but misses to the right from a direct free kick.
+Jamie Longworth (Alloa Athletic) wins a free kick in the defensive half.
+Foul by Raffaele De Vita (Livingston).
+Delay in match Shaun Byrne (Livingston) because of an injury.
+Substitution, Livingston. Sean Crighton replaces Jackson Longridge because of an injury.
+Substitution, Livingston. Nicky Cadden replaces Josh Mullin.
+Substitution, Alloa Athletic. Jamie Longworth replaces Greig Spence.
+Foul by Jon Robertson (Alloa Athletic).
+Josh Mullin (Livingston) wins a free kick in the defensive half.
+Substitution, Alloa Athletic. Stefan McCluskey replaces Kevin Cawley.
+Goal!  Livingston 2, Alloa Athletic 1. Dylan Mackin (Alloa Athletic) header from very close range to the bottom left corner.
+Corner,  Alloa Athletic. Conceded by Alan Lithgow.
+Penalty missed! Still  Livingston 2, Alloa Athletic 0. Liam Buchanan (Livingston) hits the right post with a right footed shot.
+Penalty conceded by Jason Marr (Alloa Athletic) after a foul in the penalty area.
+Penalty Livingston. Josh Mullin draws a foul in the penalty area.
+Greig Spence (Alloa Athletic) wins a free kick on the left wing.
+Foul by Shaun Byrne (Livingston).
+Jackson Longridge (Livingston) wins a free kick on the right wing.
+Foul by Steven Hetherington (Alloa Athletic).
+Corner,  Livingston. Conceded by Jason Marr.
+Kevin Cawley (Alloa Athletic) wins a free kick on the left wing.
+Foul by Jackson Longridge (Livingston).
+Steven Hetherington (Alloa Athletic) is shown the yellow card for a bad foul.
+Foul by Steven Hetherington (Alloa Athletic).
+Josh Mullin (Livingston) wins a free kick on the right wing.
+----------------------------------------
+Ground truth Summary: Livingston clinched the Scottish League One title with a victory over nearest rivals Alloa Athletic.
+----------------------------------------
+Generated Summary: Ian Pittman's second-half strike was enough to secure promotion for Livingston as they beat Alloa in the final game of the season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 2 December 2015 Last updated at 09:17 GMT
+Emi, 22, wrote The Things She Told Me to reflect her own experiences as a woman, but she hopes it will resonate across the world.
+The Sudanese-American who originates from Darfur only began writing slam poetry - work that is written for performance and that is often powerful and emotional in tone - when she arrived at university.
+She is studying anthropology and molecular biology at Yale, and is one of the BBC's 100 Women 2015
+Our 100 Women season showcases two weeks of inspirational stories about the BBC 100 Women and others who defy stereotypes around the world.
+Like us on Facebook, follow us on Instagram using the hashtag #100Women and listen to our programmes here.
+----------------------------------------
+Ground truth Summary: Emi Mahmoud, the reigning World Poetry Slam Champion, has written a poem for the BBC 100 Women season.
+----------------------------------------
+Generated Summary: One of the BBC's 100 Women of 2015 has written her first poetry collection.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Those on the list are "wanted" because they have not been punished, even if they have extradition orders against them or have been tried and convicted. Commander of Paris internment camp, deported thousands to death camps under orders of Adolf Eichmann. Convicted in absentia in France but never punished.
+Resident in Germany. Arrested Jews who were later murdered by Nazi collaborators in Lithuania. Deported from US. Convicted by Lithuania and sentenced to jail - but sentence was not carried out.
+Resident in Germany. Sentenced to death in the Netherlands for murdering prisoners at Westerbork camp and Groningen prison but sentence commuted to life imprisonment in 1948. Escaped to Germany in 1952. German courts currently considering an arrest warrant issued by Dutch authorities.
+Resident in Estonia. Accused of participating in murder of Jews. Stripped of US citizenship and fled to Estonia where he has remained under investigation for several years without charge.
+Believed dead. Doctor who experimented on prisoners at Mauthausen camp. Reports suggest that he may have died in Cairo in 1992, but his death remains unconfirmed due to a lack of evidence.
+Resident in the US. Accused of participating in the murder and deportation of Jews living in the Lvov Ghetto. Ordered to be deported from the US for concealing his wartime activities. Remains in the US until a country volunteers to admit him.
+Resident in Germany. Accused of murdering an anti-Nazi newspaper editor. Indicted in Denmark but two extradition requests have now been refused by German authorities.
+Resident in Hungary. Accused of mass murder of civilians at Novi Sad, Serbia. Convicted in Hungary in 1944 but never punished. A new investigation has led to an indictment against him for war crimes and a trial is scheduled to begin in May.
+Resident in Germany. Accused of serving as an SS guard at the Treblinka I concentration camp and to have participated in executions. Under official investigation by prosecutors in Germany following the discovery of witness statements about his role at Treblinka.
+Resident in Germany. Accused of participating in the massacre of 560 civilians in the Italian village of Sant' Anna di Stazzema. Convicted in absentia by an Italian military court in 2005. Has been under investigation in Germany for almost a decade but so far without charge.
+Resident in Australia. Accused of participating in persecution and murder of Jews. Successfully appealed against extradition from Australia to Hungary, but the decision is under review following an appeal by an Australian government minister.
+Source: Simon Wiesenthal Center, 2011
+----------------------------------------
+Ground truth Summary: The Simon Wiesenthal Center, which investigates Nazi war criminals, has published its latest list of its most wanted surviving suspects.
+----------------------------------------
+Generated Summary: The US Department of Justice has published a list of the world's most wanted Nazi war criminals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The move follows a North East Linconlshire Council decision to demolish six nearby high rise blocks, moving hundreds of people out.
+One of the buildings, Nelson House, was only allocated to older people who now need new accommodation.
+Under the plans, Shoreline Housing Partnership would develop 46 one and two bedroom homes.
+A group of residents in Nelson House have requested they be rehoused in the same area and together.
+The proposal would allow for that and will go before councillors on Wednesday
+----------------------------------------
+Ground truth Summary: A council-owned car park in Grimsby is set to be sold and turned into an older people's housing scheme.
+----------------------------------------
+Generated Summary: Plans to build new homes for vulnerable people in Linlithgow are to go before councillors.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Crown said in October 18 staff had been held after a police operation believed to target its marketing activities.
+Among them were three Australians, including Jason O'Connor, a senior executive in charge of attracting Chinese high-rollers.
+Casino gambling, and promoting gambling abroad, are illegal in mainland China.
+The cases have been referred to Shanghai's Baoshan District Court, the company said in a brief statement made to the Australian Stock Exchange.
+The Australian newspaper reported that the court has set a hearing date for 26 June.
+Crown Resorts, controlled by Australian billionaire James Packer, said that with the matter now before the court it would not be making further comment.
+----------------------------------------
+Ground truth Summary: Casino operator Crown Resorts says its employees who were detained in China last year have been formally charged with illegally promoting gambling.
+----------------------------------------
+Generated Summary: Australian casino operator Crown Resorts has confirmed that five of its employees have been charged in China with illegal gambling.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Denis McAinsh, of Glasgow, will stand trial alongside Alexander Chaplin, 51; Barry Jeffrey, 32; and Michael Chaplin, 50, all of Dundee; and James McGing, 50, also of Glasgow.
+All deny charges of supplying cannabis over a period of more than a year.
+A warrant was issued for a sixth man - Dean Holmes, 46, of Dundee - after he failed to appear in court.
+All six men face an allegation that they were concerned in the supply of cannabis between August 2013 and September 2014 at addresses in Dundee, Berwick railway station, the M90 near Glenfarg in Perthshire, and other locations unknown.
+Alexander Chaplin and Dean Holmes face a further charge of producing cannabis at addresses in Dundee, while Barry Jeffrey is also accused of dealing cocaine in the city.
+Sheriff Lorna Drummond QC continued the case to a further pre-trial hearing next week.
+----------------------------------------
+Ground truth Summary: A 75-year-old is one of six men set to stand trial in Dundee accused of dealing drugs in Scotland and England.
+----------------------------------------
+Generated Summary: A 51-year-old man is to stand trial accused of being involved in the supply of cannabis.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Francisco Marcolino married his maid of decades, Rita Monteiro, 52, in northern Portugal on 4 May.
+But three children from his previous marriage claim she is eyeing his €2m (£1.7m; $2.2m) estate and that he is not of sound mind.
+"If he had wanted to marry, he would have done it when he was capable," his son told Portuguese media.
+The children are trying to annul the marriage on grounds of incapacity - though a fourth is refusing to join the action and has not commented.
+Ms Monteiro was hired by Mr Marcolino's wife 30 years ago, two years before she died.
+According to Manuel Marcolino de Jesus, one of three children who have filed the lawsuit, his father's health has sharply deteriorated over the past few years.
+His father has made several emergency trips to the local hospital, where his files say he suffers dementia and is totally dependent, Manuel Marcolino said.
+"They have lived in [Ms Monteiro's] house since he became incapable five years ago, and that is when she started to take over everything," he told Portugal's CM Jornal.
+"Since then, more than €319,000 has gone missing from one [bank] account and more than €200,000 from another," he alleged.
+Last December, the three lodged two criminal cases of abuse of trust against Ms Monteiro and listed Mr Marcolino's assets
+----------------------------------------
+Ground truth Summary: The children of a 101-year-old man have legally challenged his marriage to his ex-maid, who is just over half his age.
+----------------------------------------
+Generated Summary: A 91-year-old Portuguese man has been married to a woman who is his daughter's second wife.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scottish Swimming said the government had pulled funding from its Â£1.72m programme to support school lessons.
+It said it was concerned it could lead to greater numbers of adults who lacked confidence in the water.
+The Scottish government said the top-up scheme had ended but swimming was still well-funded.
+Swimming is not a compulsory part of the curriculum in Scotland, unlike in England.
+The provision of primary school swimming lessons varies extensively between local authorities, with children living in the most socially deprived areas having the highest number of non-swimmers.
+Scottish Swimming claimed that as many as 40% of children, about 15,000 each year, headed to high school as non-swimmers.
+Its "Top Up" swimming programme supported local authorities to deliver swimming lessons for pupils.
+Scottish Swimming said "Top Up" helped up to 30,000 children to improve their swimming skills.
+Sports Minister Jamie Hepburn said: "The Top Up programme was designed to help develop a model to enable swimming clubs and local authorities to teach children to swim by providing some initial additional investment to assist local provision. The programme received Â£1.72m over four years.
+"Although the top-up programme has now ended, Scottish Swimming received more than Â£5m (over four years) in the latest funding round from sportscotland. This is the largest funding settlement of all the Commonwealth Games sports."
+Shelagh Dow, the head teacher at Granton primary in Edinburgh, said financial pressures stopped many families from going swimming.
+She said the loss of the programme would have an impact.
+"That is going to make a huge difference for them," Ms Dow said.
+"Swimming is ultimately a life skill and because a lot of them don't manage to pick up the swimming with the funded lessons that they have in primary 4 they really need that top-up.  Quite often financial constraints stop them going swimming at other times."
+Sharon Macdonald, development officer for Scottish Swimming, said: "It is very concerning for us. The programme has been in place for the past four years.
+"We've seen a massive impact from the programme in the region of 25,000 to 30,000 children who have either improved their swimming or become what is our new national standard for school swimming.
+----------------------------------------
+Ground truth Summary: The end of a scheme to improve the standard of swimming among primary school children has brought a warning from the sport's governing body.
+----------------------------------------
+Generated Summary: The Scottish government has been accused of cutting funding for swimming lessons in schools.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The broadcaster is still promoting trailers, clips and interviews on the website but users trying to access shows are instead met with a statement.
+"As a not-for-profit broadcaster funded by advertising, we put our money back into the programmes themselves," it reads.
+It says it is directing viewers to its 4oD catch-up services instead.
+The statement adds: "To make the best of this investment, we've decided to focus on bringing online viewers of our full-length shows to our own 4oD apps - such as those on iOS, Android and channel4.com.
+"These apps also allow us to encourage more viewing by recommending programmes we think people will appreciate and to provide viewers with additional services."
+Programmes on 4oD are still available across a range of platforms including Sky, Virgin Media and Freesat, on consoles such as Sony's PS3 and Microsoft's Xbox One and on apps for Windows 8, Windows Phone, iOS and Android devices.
+The television brand says it will still maintain a presence on YouTube, with a press statement revealing some of its plans.
+"Reflecting the ways in which our viewers consume Channel 4 content across digital and mobile platforms, our relationship with YouTube will now focus on short-form content," it says.
+The move ends the previous deal Channel 4 had with the online streaming service, where its 4oD catch-up service was available on YouTube's UK site.
+In 2009, when the partnership was announced, a joint statement said it was the "first time that a broadcaster anywhere in the world has made a comprehensive catch-up schedule available".
+Popular Channel 4 series including Peep Show, Skins and Misfits had been available to view free of charge, as were other programmes from its sister stations, including E4.
+Under the deal, each company took a share of revenues from any advertising sold around the programmes.
+YouTube, bought by Google in 2006, is the biggest video-streaming site in the world.
+Other UK broadcasters, including the BBC and ITV, currently make clips available on the video-sharing website.
+Channel 4 was the first UK broadcaster to launch a video on demand service in late 2006, and was also the first to sell advertising around TV content online.
+Follow @BBCNewsbeat on Twitter
+----------------------------------------
+Ground truth Summary: Channel 4 has removed all its full-length programmes from the video-streaming site YouTube.
+----------------------------------------
+Generated Summary: Channel 4 has pulled the plug on its YouTube channel.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: As the victims struggle with the misery of damage, mud and ruin, officials say we have entered an era of "unknown extremes" of weather and they want a "complete rethink" of how flooding is handled.
+Some aspects of the response are infinitely improved from earlier disasters. The emergency teams from organisations as diverse as the fire brigades, the RNLI and the police are far better co-ordinated than they used to be.
+In Carlisle earlier this month, I saw one mountain rescue team, well-equipped with an inflatable boat, ropes, torches and radios, inch through deep water in total darkness to carefully and tenderly deliver a frightened woman to safety.
+But however professional the response, questions are inevitably raised about why this effort is needed in the first place, with people demanding to know why their communities were not better defended.
+And that leads to a sense of anger that as victims of flooding feel ignored or let down by the authorities for failing to keep them safe.
+I first witnessed this during the summer of 2007 in Hull, where thousands of families were displaced by floods with some still in temporary housing a year later.
+One family I interviewed were incensed at the prospect of facing a second Christmas in a chilly caravan.
+Earlier this month, residents in Carlisle, who had watched the construction of a £38m flood-defence scheme just five years before, reacted with fury as it was overtopped by rising waters.
+We have heard anger too from Leeds City Council which, like many northern authorities, believes that Whitehall favours the South when it comes to allocating funds for flood defence - though the government insists that the North does better on a per capita basis.
+And anger has been voiced in York in the past few days as the Environment Agency made a fateful decision to lift the Foss Barrier, a key part of the city's flood defence system.
+With the barrier's electrical motors at risk of flooding - something which itself will face investigation - staff feared that the barrier, if left lowered, could become stuck there, trapping the waters of the Foss and causing more flooding.
+But, in turn, the raising of the barrier inevitably meant some homes would be flooded anyway - fewer than would have been hit with the barrier left in place, says the EA, but this is a source of deep irritation for many.
+Along with the despair and the anger comes another dimension: scrutiny. This starts as soon as floods start to cause damage and in some cases the arguments are unchanging year after year.
+At its simplest are decisions about the scale of government funding - whether the £2.3bn allocated by the government over a six-year period is enough and, crucially, where to spend the money.
+The longstanding Treasury rule is that for every £1 devoted to flood defence, there must be an economic benefit of at least £8 - a principle which is designed to make saving homes the priority.
+So cities, with their dense populations, will attract more than rural areas with fewer people, which is why London gets the best protection of all, and tiny villages the least.
+To help places that might not qualify, the government encourages "partnership funding", another source of cash from local authorities, business groups or communities - but raising it has never been easy.
+Last year in Norfolk, along a shoreline vulnerable to flooding, I sensed a lot of reluctance among local people to the idea of contributing towards the cost of their own defences.
+And assuming there is agreement on funding - and maybe an increase in the budget - there remains the tough job of deciding how big a defence to build.
+Until now, engineers have looked back at past records of rainfall and flooding to do their calculations.
+The barriers in Carlisle, for example, were constructed with this in mind, but with an additional half-metre (1ft 8in) added on top to allow for the effects of climate change - because warmer air is known to be able to hold more moisture which means that rainfall could become more intense as temperatures rise.
+Yet, when it struck, the deluge there was another half-metre above even the extra half-metre added to the defences. So difficult decisions lie ahead about the scale of protection that will be needed.
+And there are further complications. For a pretty town whose riverfront is a tourist attraction, like Keswick in the Lake District, there is a natural reluctance to see massive walls permanently towering over the banks.
+And if one place wins protection, other communities downstream will clamour for help too. The Jubilee River, an artificial channel, was dug to help Maidenhead and Windsor but has long been criticised by residents of Wraysbury who say it has made them more vulnerable to flooding.
+The challenge is that flood defence can never be seen in isolation.
+The new homes the country so badly needs can be most easily built on flat land but that often lies in floodplains - so will planning policy be changed to limit where houses go?
+New shopping centres or industrial estates with vast car parks can be a huge source of run-off - but can that be changed?
+One logical plan is for farmers to do more to help trap rainwater in the uplands before it descends via tributaries into the plains below.
+A pilot scheme has just begun in North Yorkshire - but some say this can never make much difference.
+Another idea is to create huge water storage sites - like mini-reservoirs - that can hold back any sudden downpour, though there may be disputes over where to site them and how to fund them.
+And if the government's new review into flooding concludes that climate change will make more intense rainstorms more frequent, should we follow the example of major tropical cities?
+Malaysia's capital Kuala Lumpur has invested in a huge tunnel that can handle traffic or, when storms strike, floodwater.
+For a temperate island more used to drizzle, this seems radical. But as one storm follows another, and new rainfall records keep being set, maybe new ideas will start to seem normal.
+----------------------------------------
+Ground truth Summary: Every bout of flooding triggers a predictable cycle of despair, anger and scrutiny, but this one has provoked an unprecedented level of criticism and questioning.
+----------------------------------------
+Generated Summary: The scale of the devastation caused by Storm Desmond in Cumbria and Lancashire has prompted a review of the emergency response.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 1954 Hague Convention was set up after World War Two but has never been adopted into law by the government.
+Culture Secretary John Whittingdale says destruction and looting in Syria and Iraq by Islamic State militants shows it is now essential.
+The UK is the only major nation not to have endorsed the convention.
+More than 115 countries are party to the agreement, including all United Nations Security Council members, except for the UK.
+The Hague Convention was meant to ensure nations and armies would not target cultural treasures
+----------------------------------------
+Ground truth Summary: A major international agreement designed to protect cultural property during military conflict is to be finally ratified by the UK.
+----------------------------------------
+Generated Summary: The UK is to sign a landmark international agreement to protect cultural heritage in war zones.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Glasgow Warriors coach will replace Cotter as Scotland coach next summer.
+"I would have thought he would already have been looking to go elsewhere," former Scotland scrum-half Lawson said.
+"The risk of potentially losing Gregor before Vern Cotter had done his bit - had he taken them through to the next World Cup - is now nullified."
+Townsend served as Scotland's backs and attack coach for three years, and his Glasgow players have provided a large percentage of the squad under Cotter.
+"In many ways he's perfectly positioned to step into that role," Lawson told BBC Scotland.
+"He's obviously been in and around the Scotland coaching environment before and naturally the two professional clubs work very closely with the national team as it is.
+"He's gone in at Glasgow, taken a year or so to build the squad he wants, the culture he wants and the playing style he wants.
+"And by the time he steps in, he'll have had four to five years as head coach of Glasgow and that will stand him in incredibly good stead."
+Cotter's future beyond the summer of 2017 remains unclear, though Lawson thinks approaches from elsewhere may have convinced him to move on after his contract expires next year.
+"Obviously somebody has offered him the chance to go elsewhere," added Lawson, who won 31 caps between 2006 and 2012
+----------------------------------------
+Ground truth Summary: Rory Lawson believes the risk of Gregor Townsend leaving Scotland may have influenced the decision to name him as Vern Cotter's successor.
+----------------------------------------
+Generated Summary: Gregor Townsend's appointment as Vern Cotter's successor as Scotland head coach is a "win-win" for the national team, says former Scotland captain Scott Lawson.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The material is to be transported by road from the nuclear power complex to Scrabster harbour for shipping to Sellafield in Cumbria.
+A nine mile (14.4km) stretch of the A836 would be involved.
+Dounreay is being decommissioned and tonnes of its radioactive material is being reprocessed at Sellafield.
+Other items have been taken to the Cumbrian nuclear site by train, and also flown to the US and shipped to Belgium.
+Dounreay said the removal of the latest material formed part of a new phase of the clean up of the site near Thurso.
+A spokesperson for Dounreay said: "Dounreay is being demolished, so nuclear materials are being returned to national stocks.
+"This programme started in 2001 and is expected to take several more years to complete.
+"Our priority at all times is to comply with regulations designed to ensure the safety and security of nuclear materials, both while in storage and transit."
+The A836 forms part of the North Coast 500 (NC500) tourist route.
+Tom Campbell, managing director of the tourism initiative, said: "The North Coast 500 is based on roads where people live, work commute as well as visit and enjoy the north Highlands and these roads, like all roads are subject to closures, roadworks and diversions.
+"The nine mile stretch represents less than 2% of the NC500 and our understanding is that actual closures will be rare and infrequent."
+----------------------------------------
+Ground truth Summary: A stretch of road in Caithness is to be closed for short periods on occasions over the next 12 months so nuclear material can be moved from Dounreay.
+----------------------------------------
+Generated Summary: Dounreay nuclear site in Caithness is to be closed to the public for the removal of radioactive material.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: At an emergency meeting in Ghana, ministers promised better collaboration to fight what has become the world's deadliest outbreak to date.
+So far, 759 people have been infected with the virus in Guinea, Liberia and Sierra Leone and 467 of them have died.
+The two-day meeting was called by the World Health Organization (WHO).
+Under the new strategy, the WHO will open a sub-regional control centre in Guinea to co-ordinate technical support.
+Keiji Fukuda, the WHO's assistant director-general of health security, said it was "impossible to give a clear answer" on how far the epidemic could spread.
+"I certainly expect that we are going to be dealing with this outbreak, minimum, for a few months to several months," he told AFP news agency.
+"I really hope to see a turnaround where we begin to see a decrease in cases in the next several weeks."
+BBC West Africa correspondent Thomas Fessy says educating people rather than closing borders is seen as the most effective way to contain the outbreak.
+Cultural practices and traditional beliefs in some areas have hampered public health measures, contributing to the spread of the disease, he adds.
+In some cases, mobs have attacked health workers forcing emergency centres to close.
+The WHO has already sent more than 150 experts into West Africa over the past few months to try to contain the outbreak.
+But it says political commitment is needed from the region itself to ensure this outbreak is stopped soon.
+Most of the deaths have been centred in the southern Guekedou region of Guinea, where the outbreak was first reported in February.
+But health officials say the region's porous borders have allowed infected people to carry the disease into other countries.
+Ebola spreads through contact with an infected person's bodily fluids and there is no vaccine or cure
+----------------------------------------
+Ground truth Summary: Health ministers from 11 West African countries have adopted a common strategy to fight a deadly Ebola outbreak in the region.
+----------------------------------------
+Generated Summary: Regional health ministers have agreed a new strategy to tackle the Ebola outbreak in West Africa.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

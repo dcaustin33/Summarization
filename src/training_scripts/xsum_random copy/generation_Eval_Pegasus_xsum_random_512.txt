@@ -1,0 +1,454 @@
+Generations for Eval_Pegasus_xsum_random_512
+Article text: Rudy Bruynius' two-year old daughter Mckayla is in a serious condition after the family was knocked off rocks at the beach while holidaying in Newquay.
+Friends are now raising money to help Mr Bruynius' widow Lisinda and the couple's three children.
+His death came on a weekend of fatalities off the coast of the UK amid stormy conditions.
+A friend of the Bruynius family, Madelein Jansen Van Noordwyk, has set up a crowdfunding page, which has already raised more than Â£13,000.
+On the JustGiving site, Lisinda Bruynius said her daughter Mckayla had been moved from the Royal Cornwall Hospital in Truro to the Bristol Children's Hospital. The two-year old's condition was stable during the ambulance journey.
+Mrs Bruynius wrote: "Pls continue to pray for my miracle baby...for her to pull through.
+"As they can't give me a certain indication of how much brain damage occurred during her time in the water."
+The family, from Surrey, were swept out to sea at South Fistral Beach at 17:20 BST on Friday.
+An RNLI sea scooter was used to rescue Mrs Bruynius, while a lifeboat was deployed to recover Mr Bruynius and Mckayla. They were flown to hospital where he was pronounced dead.
+Police said two other children managed to get back on to the rocks and were located by the coastguard. Mrs Bruynius received hospital treatment for minor injuries.
+The RNLI said the sea conditions changed considerably between 16:00 and 17:30 and crews were called to three rescues.
+James Instance from Falmouth Coastguard said: "At about 16:00 BST, there were normal conditions.
+"By 17:00, the swell had picked up to eight to 10ft and that massive increase in such a short period has caught quite a few people unawares."
+Mr Instance warned people to take extra care near the coast.
+"What should be an enjoyable experience could so easily take a traumatic turn," he said.
+"Please do listen to warnings and stay at a safe distance from the water."
+Visitors to the UK coastline have been urged to stay away from areas where surging waves could sweep people off their feet and to be careful of tides, as strong wind conditions mean the sea could reach higher levels than expected.
+----------------------------------------
+Ground truth Summary: An appeal has been set up to help the family of a man who died after he was swept into the sea by a large wave.
+----------------------------------------
+Generated Summary: A man who died after being swept out to sea with his family in Cornwall has been named.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The cooking competition lost more than half its viewers, falling from highs of seven million to less than three million viewers on New Year's Day.
+Channel 4 axed the UK version of The Taste last year after just one series.
+Other shows cancelled by ABC include Forever, supernatural drama Resurrection and new sitcom Cristela.
+Industry website Deadline had warned earlier this year that the future of The Taste was "up in the air".
+Starring alongside Lawson were chefs Anthony Bourdain, Ludo Lefebvre and Marcus Samuelsson. The show saw cooks trying to impress the experts with spoonfuls of food.
+Lawson's UK TV cookery career remains intact however - BBC Two recently confirmed she would return for new series Simply Nigella later this year, her first on the channel since 2012's Nigellissima.
+Marvel's Agents of Shield, which airs on Channel 4 in the UK, has been renewed for a third season, while Agent Carter - starring British actress Hayley Atwell - will return for a second.
+Other hit shows including Grey's Anatomy, Nashville, Scandal and How to Get Away with Murder have all been renewed for another season, according to Variety.
+ABC has also re-commissioned Castle, fairytale drama Once Upon A Time, American Crime and Secrets and Lies.
+Casualties include Forever - starring Welsh actor Ioan Gruffud as a medical examiner trying to solve the mystery of his own immortality - which only survived one season after ratings dipped from 12 million to just under 7 million for its most recent episode.
+The network's cull makes way for six new dramas and three recently ordered comedies, which include a revival of The Muppets and new thriller The Catch, from Grey's Anatomy and Scandal showrunner Shonda Rhimes.
+Also commissioned were Biblical saga Of Kings and Prophets, Quantico - from Gossip Girl producer Josh Safran - and 80s crime drama Wicked City.
+Modern Family, The Goldbergs, Fresh Off the Boat and The Middle are among the comedies returning for new series, along with reality series The Bachelor and Dancing With the Stars.
+----------------------------------------
+Ground truth Summary: Nigella Lawson's US cookery show The Taste has been axed by TV network ABC after two series, following a dramatic ratings slump.
+----------------------------------------
+Generated Summary: The US version of The Taste, starring British chef Nigella Lawson, has been cancelled by US network ABC.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 72nd-minute corner before poking in from close range after 86 minutes.
+Beckford headed home from Tsun Dai's late corner while Ajose converted Greg Leigh's cross in stoppage time but Bury could not avoid a second straight defeat.
+Match report supplied by the Press Association.
+Match ends, Bury 2, Bristol Rovers 3.
+Second Half ends, Bury 2, Bristol Rovers 3.
+Goal!  Bury 2, Bristol Rovers 3. Nicky Ajose (Bury) right footed shot from the centre of the box to the bottom right corner. Assisted by Greg Leigh.
+Tsun Dai (Bury) wins a free kick in the defensive half.
+Foul by Liam Sercombe (Bristol Rovers).
+Goal!  Bury 1, Bristol Rovers 3. Jermaine Beckford (Bury) header from very close range to the bottom right corner. Assisted by Tsun Dai with a cross following a corner.
+Corner,  Bury. Conceded by Ryan Sweeney.
+Attempt saved. Liam Sercombe (Bristol Rovers) right footed shot from outside the box is saved in the top centre of the goal.
+Goal!  Bury 0, Bristol Rovers 3. Billy Bodin (Bristol Rovers) right footed shot from the centre of the box to the bottom left corner. Assisted by Lee Brown following a set piece situation.
+Substitution, Bristol Rovers. Dominic Telford replaces Tom Nichols because of an injury.
+Corner,  Bury. Conceded by Liam Sercombe.
+Attempt missed. Tom Nichols (Bristol Rovers) right footed shot from very close range is too high.
+Attempt saved. Rory Gaffney (Bristol Rovers) left footed shot from the right side of the box is saved in the bottom left corner.
+Attempt saved. Tom Nichols (Bristol Rovers) right footed shot from the centre of the box is saved in the bottom left corner.
+Foul by Callum Reilly (Bury).
+Dominic Telford (Bristol Rovers) wins a free kick in the attacking half.
+Hand ball by Rory Gaffney (Bristol Rovers).
+Goal!  Bury 0, Bristol Rovers 2. Billy Bodin (Bristol Rovers) header from very close range to the top left corner. Assisted by Joe Partington.
+Substitution, Bristol Rovers. Stuart Sinclair replaces Chris Lines.
+Substitution, Bristol Rovers. Rory Gaffney replaces Ellis Harrison.
+Foul by Zeli Ismail (Bury).
+Liam Sercombe (Bristol Rovers) wins a free kick in the attacking half.
+Harry Bunn (Bury) wins a free kick in the attacking half.
+Foul by Ollie Clarke (Bristol Rovers).
+Attempt saved. Ellis Harrison (Bristol Rovers) right footed shot from outside the box is saved in the top centre of the goal.
+Attempt blocked. Ellis Harrison (Bristol Rovers) left footed shot from outside the box is blocked.
+Attempt missed. Liam Sercombe (Bristol Rovers) left footed shot from outside the box is close, but misses to the left.
+Substitution, Bury. Zeli Ismail replaces Alex Bruce.
+Goal!  Bury 0, Bristol Rovers 1. Tom Lockyer (Bristol Rovers) header from the centre of the box to the top right corner. Assisted by Lee Brown with a cross following a corner.
+Corner,  Bristol Rovers. Conceded by Alex Whitmore.
+Hand ball by Jermaine Beckford (Bury).
+Foul by Callum Reilly (Bury).
+Ollie Clarke (Bristol Rovers) wins a free kick in the defensive half.
+Attempt blocked. Callum Reilly (Bury) right footed shot from outside the box is blocked.
+Foul by Chris Humphrey (Bury).
+Lee Brown (Bristol Rovers) wins a free kick on the left wing.
+Attempt missed. Harry Bunn (Bury) right footed shot from outside the box is close, but misses to the left.
+Second Half begins Bury 0, Bristol Rovers 0.
+Substitution, Bury. Chris Humphrey replaces Craig Jones.
+Substitution, Bury. Tsun Dai replaces Callum Styles.
+----------------------------------------
+Ground truth Summary: Bristol Rovers brushed aside their poor start in League One by cruising to an impressive 3-2 win at Bury.
+----------------------------------------
+Generated Summary: Billy Bodin scored twice as Bristol Rovers came from behind to beat Bury in League Two.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The claim: "We are giving £20bn a year or £350m a week to Brussels."
+Reality Check verdict: We are not giving £20bn a year or £350m a week to Brussels - Britain pays £276m a week to the EU budget because of the rebate.
+He has gone with that figure despite a letter from the head of the UK statistics watchdog Sir Andrew Dilnot on Thursday, which described it as "potentially misleading".
+The figure used is roughly the UK's gross contribution to the EU - the amount that would be contributed to the EU Budget were it not for the rebate.
+We say "roughly the UK's gross contribution" because the annual figure that Boris Johnson used was £20bn, somewhat higher than the £18.8bn figure for 2014 - the most recent figure available - while the £350m a week figure is a bit below the actual figure of £361m.
+The important point is that it's not the sum we send to Brussels because the rebate is deducted before any money is paid. In 2014, the UK's contribution to the EU budget - the amount we paid to Brussels - was actually £276m a week.
+If Britain were to give up the rebate, then the UK would have to pay the gross contribution, and it should be noted that the rebate is not a permanent feature of Britain's membership of the EU.
+But we do not pay the gross contribution at the moment, the rebate is safe until 2020, and Britain has a veto over the process that would remove or reduce it.
+Sir Andrew Dilnot is particularly concerned about suggestions from Vote Leave that a sum of money equivalent to the gross contribution could be spent on other priorities such as the NHS, when some of it is not spent at all (the rebate) and some of it is currently used to support UK farmers, for example.
+READ MORE: The facts behind claims in the EU debate
+----------------------------------------
+Ground truth Summary: Mayor of London Boris Johnson used the figure in The Sun this morning that the UK gives £350m a week to Brussels.
+----------------------------------------
+Generated Summary: The Vote Leave campaign has hit back at Boris Johnson's claim that the UK is giving £350m a week to Brussels.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: business in China, he says, are "on the same scale as the opportunities", and governments, including the British government, "have not been doing a very thorough job of making business understand the risks".
+"Absolutely any company going to China could be the next party to suffer our fate if they fail to understand this," he says.
+The fate suffered by Peter Humphrey and his wife Yu Yingzeng was to spend two years in squalid and crowded jail cells, to be denied urgent medical attention and to be separated from each other and from their son. The corporate investigator says it was both a shattering experience and a miscarriage of justice.
+"None of our staff did anything illegal," he told me. "We engaged third parties to help us with some parts of our work. We always instructed them to follow legal means but had no control over the methods they used."
+So why the prosecution and the prison term?
+"It doesn't stack up at all when you analyse our case and the GSK case on the basis of the information you have. It doesn't stack up at all."
+The couple were corporate investigators who became embroiled in a Chinese police investigation of corruption at GSK. The British pharmaceuticals giant had bribed Chinese doctors and hospitals to buy its medicines.
+Mr Humphrey and his wife were in no way implicated in that corruption, but had been hired by the company to investigate the source of a secretly filmed sex video of GSK's top boss in China and of whistleblower emails sent to company headquarters in London.
+"I believe we were collateral damage in a wider dispute between a company and the authorities which led to us being dragged in," he said.
+Even now, Peter Humphrey is reluctant to discuss the details of the GSK case or of his relationship with his former client. Asked why, he tells me: "It's not impossible that we may sue some of these parties or through other means try to seek redress."
+He says he watched the TV coverage of the GSK trial from his Shanghai prison cell. The company was found guilty of systematic bribery and fined Â£300m. He was shocked by the contrast between his punishment and theirs.
+"Suspended jail sentences for three or four of the main culprits when I and my wife had been sentenced to years in prison," he says.
+"Someone asked me recently why someone like Mark Reilly (GSK China's boss) could be set free and we were in jail. I think it's very simple, we don't have half a billion dollars. That story was about money from the beginning. Money got them into trouble and money got him out."
+The events which led to these trials took place in the early part of 2013 when China's new President Xi Jinping had just declared nationwide campaigns against corruption and for the rule of law.
+Peter Humphrey says that at the time he welcomed these developments: "We felt hopeful that a new era with a genuine crackdown against corruption, had arrived.
+"What we were doing for companies in the private sector was very similar to what the government now seemed to be doing in the public sector. Unfortunately though, when such a crackdown is driven in a sort of campaign style, throughout China's history in the past 60 or 70 years, we have seen that campaigns are often taken advantage of and used to conduct personal vendettas and I think that's what happened to us. Someone took offence and then orchestrated an act of personal revenge."
+Having been deported from China, Peter Humphrey does not know whether he'll ever be able to go back. His two years in prison do not erase his 40 year affection for the country.
+"I love China. I love the Chinese people I've known over the years. I've had many positive memories and experiences. This does not erase them," he says.
+But once the investigator, always the investigator. From a world away in south-east England, Peter Humphrey needs to focus first on getting the medical treatment that he was denied in prison. But he is also determined to work out exactly what triggered his two year nightmare in Shanghai.
+"I and my wife are not vengeful people. But we are angry because an injustice occurred. We are pursuing justice not revenge," he adds.
+----------------------------------------
+Ground truth Summary: It's exactly two years since the door of Peter Humphrey's Shanghai bedroom was kicked in by police and he disappeared into a prison nightmare which ended only three weeks ago with his deportation from China.
+----------------------------------------
+Generated Summary: A British couple who spent two years in a Chinese prison after being caught up in a corruption scandal at pharmaceutical giant GlaxoSmithKline (GSK) have spoken to the BBC about their ordeal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Esther Kidemba died after apparently jumping from a building during a drill at the private Strathmore University in the capital, Nairobi.
+Gunshots were fired during the drill, causing panic on the campus.
+Militant Islamist group al-Shabab killed some 150 people in an attack on Garissa University College in April.
+Strathmore University Vice-Chancellor John Odhiambo said he offered his deepest condolences to the family of Ms Kidemba, who was a staff member, and an "unreserved apology to every student, parent, family, colleague and stakeholder for the unfortunate outcome of the security drill".
+Strathmore would pay for the medical expenses of 30 students and staff injured during the drill, and would arrange post-traumatic counselling, he added.
+The drill had been carried out by the university's security team in co-ordination with local police to assess how they would deal with any attack, a statement by the university said.
+On Monday, Nairobi police chief Japheth Koome said all the proper procedures had been followed for the mock security exercise, Reuters news agency reports.
+But in his reaction, police chief Joseph Boinett said: "This must not happen again."
+Kenya's security forces were on high alert to deal with threats, and drills should be conducted only with the authorisation of the "highest security office in the country", he added.
+April's day-long assault on Garissa University College in north-eastern Kenya was the deadliest by al-Shabab in the East African state.
+In 2013, at least 67 people were killed in an attack by the al-Qaeda-linked group, which is headquartered in neighbouring Somalia, on the upmarket Westgate shopping centre in Nairobi.
+Al-Shabab says it is opposed to the presence of Kenyan troops in Somalia.
+The troops are part of an African Union (AU) force helping the weak Somali government fight the militants who want to establish Islamic rule in the country.
+----------------------------------------
+Ground truth Summary: Kenya's police chief has warned universities not to carry out security drills without his approval following the death of a woman on Monday.
+----------------------------------------
+Generated Summary: A university in Kenya has apologised for the death of a student during a mock attack on campus.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Nicholas Edwards wrote to her in 1985 to complain about plans to cut the budget for regional development grants.
+The money was widely used to attract investment and jobs to Wales.
+The archives also show UK Treasury concern at overfunding of Scotland and Northern Ireland under the Barnett formula, a political issue to this day.
+In the mid-1980s, Wales secured one fifth of inward investment into the UK despite having only 5% of the population.
+But with the then Conservative government trying to cut public spending, the Treasury tried to cut back regional spending in England.
+That could have hit the Welsh Office budget and the secretary of state Nicholas Edwards joined his Scottish counterpart George Younger to protest.
+In a letter to the Treasury chief secretary (and fellow Welshman) Peter Rees - copied to the prime minister - Mr Edwards complained about the implications for his budget.
+He wrote: "I agree strongly with the points George Younger has made in his letter. They apply equally in the three territories. The political effects in Wales, as in Scotland, would be most damaging."
+Mr Edwards demanded to be present at meetings between the Treasury and Department for Trade and Industry when the issue was discussed.
+The archives do not record any reply and Mr Edwards - now Lord Crickhowell - cannot recall the episode.
+But, in another parallel with today's politics, the archives show Treasury concern at overfunding of Scotland and Northern Ireland under the so-called Barnett formula that is also used to calculate changes in the Welsh budget.
+Peter Rees, later Lord Rees of Goytre, wrote to Mrs Thatcher: "Even our predecessors never saw it as any more than a stop-gap arrangement on the road to political devolution, certainly not as the permanency it has now become.
+"Be that as it may, the block system is now publicly construed, in the territories, as apolitical entitlement to public expenditure. The longer we let it run the harder it becomes to challenge that perception, and the greater the risk of political repercussion when we do. "
+MP David Willetts, then a Downing Street adviser, wrote: "Scotland and NI have their snouts well and truly in the public expenditure trough. The challenge is to find a politically acceptable way of putting them on the same diet as the English."
+The files reveal that the Treasury considered suspending the formula.
+Mr Rees wrote to Mrs Thatcher: "The 'fallback' approach to securing savings is to suspend the operation of the comparability formulae for the Scottish and Northern Ireland blocks - though not for Wales, where over-provision is not suspected."
+Thirty years on, the UK political parties have vowed to keep the formula as part of a deal to keep Scotland in the United Kingdom.
+Mrs Thatcher's ministers considered launching the controversial poll tax in Wales before England, according to other files just released.
+The documents released by the National Archives also show Conservative government advisers feared a repeat of the 1984-85 miners' strike the following winter.
+They also revealed there were plans to hide art treasures in underground tunnels in the Rhydymwyn Valley works, near Mold, if a civil or nuclear emergency arose during the 1980s.
+----------------------------------------
+Ground truth Summary: Margaret Thatcher was warned by her Welsh Secretary that funding cuts would have "most damaging" political effects, newly-released UK cabinet papers show.
+----------------------------------------
+Generated Summary: Papers released by the National Archives in Kew, London, show a row between the Welsh secretary and Margaret Thatcher over regional funding.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Johnson helped the Robins avoid relegation last season after joining them from Barnsley in February.
+The 35-year-old, who played 199 games for City between 2006 and 2012, started his managerial career with Oldham in 2013, before moving to Oakwell in 2015.
+His previous contract at Ashton Gate was set to end at the end of the 2018-19 season.
+"Like I said when I was appointed, Bristol City is the perfect club for me," he told the club website.
+"We want to deliver success; everything about the club is progressive and that's why I'm desperate to be a part of that in the long term."
+Bristol City have won just one of their past six games in all competitions, but they are 11th in the Championship table, just four points outside the play-off places.
+----------------------------------------
+Ground truth Summary: Bristol City head coach Lee Johnson has signed a new contract to stay with the Championship club until 2020.
+----------------------------------------
+Generated Summary: Bristol City manager Lee Johnson has signed a new two-year contract with the club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "The intelligence of her dancing burns even brighter," wrote the Guardian's Judith Mackrell in a four-star review.
+"The flair and virtuosity of her dancing stops you in your tracks," agreed the Standard's Sarah Frater.
+The French star is appearing in 6000 Miles Away at London's Sadler's Wells.
+Running until 9 July, the evening sees her perform a duet with Nicolas Le Riche, before dancing solo in a piece choreographed by Sweden's Mats Ek.
+According to the Arts desk, the result proved her to be "as swift as mercury, as exact as a feather, as light as the sun and as eternal in intelligent beauty as Nefertiti".
+"This great ballerina of our era is both inexplicable and unbelievable, in physique and in temperament," continued Ismene Brown.
+Formerly with the Paris Opera Ballet and the Royal Ballet in London, Guillem now devotes her energies to contemporary dance.
+The title of her show refers to Japan, with proceeds from Thursday's performance going to the Japan Tsunami Appeal managed by the British Red Cross.
+----------------------------------------
+Ground truth Summary: Sylvie Guillem's latest appearance on the London stage has been applauded by the critics, one of whom said the 46-year-old was "still one of the most astonishing dancers on stage today".
+----------------------------------------
+Generated Summary: French prima ballerina Guillem Balague has received rave reviews for her new show in London.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Scottish parliament will have power both to create new benefits and vary some planned and existing benefits - including the housing cost element of Universal Credit, benefits for carers and the disabled, and cold weather related payments.
+There are lots of other important new powers being transferred to Holyrood, including the ability to lower the voting age, change speed limits, license frackers, influence the new BBC Charter, and - possibly - change abortion rules.
+But it is the transfer of big tax and spending powers that creates significant fiscal and economic uncertainties - whose resolution may have serious political consequences.
+The lynchpin of all this is what the Commission calls the fiscal framework for the new devolution, which includes a number of principles.
+Perhaps the most important is that at the precise moment that the new powers are devolved, Scotland's budget and the UK's budget should neither be bigger or smaller as a result of this transfer to Holyrood of new spending and taxing powers.
+Or to put it another way, the block grant paid to Scotland under the Barnett formula should be reduced to account for taxes devolved to Scotland and increased to account for spending transferred to Scotland - and future payments under the new Barnett formula should be indexed to protect their real value.
+Or to put it another way, neither Scots taxpayers or those in the rest of the UK should suffer detriment as a direct result of the new devolution.
+Which is all very well to say, but my goodness it will be hard for Westminster and Holyrood to agree and implement.
+The point is that income tax receipts and benefit payments vary considerably with the economic cycle. So determining at any point in time precisely what revenues and costs Holyrood is assuming will be pretty tricky.
+And it is not just adjusting for the economic cycle that will be difficult.
+Right now, for example, the British government's take from income tax is well below what it expected it would be, given the apparent buoyancy of the economy.
+So what if the new grant formula was set on the basis of the current depressed income tax revenues, and then a few weeks later tax revenues suddenly and unexpectedly surged back to past trends?
+If that were to happen the Scots would enjoy a terrific permanent windfall - and taxpayers in England, Wales and Northern Ireland would presumably feel pretty miffed.
+Similarly the Smith Commission says Scotland should have new powers to borrow, because otherwise it could find itself running out of money in an economic downturn that reduced its tax revenues and increased its benefit payments.
+But that opens quite a can of worms.
+No Chancellor of the Exchequer would want to give a Scottish finance minister complete discretion to borrow, because it is almost impossible to conceive of how Scottish sovereign debt would not be guaranteed in theory or practice by Westminster: the chancellor would be terrified of what Holyrood would do it if had his credit card.
+But setting rules for how much Holyrood can borrow will be very challenging. What is more, any uncertainty about what tax revenues are available to service either Scottish debt or whole-UK debt would presumably make investors more wary of buying the debt of either.
+All of which may sound a bit technical and dull. But it boils down to something pretty simple and important - which is the perceived and actual fairness of the fiscal settlement for Scots and for those south of the border.
+And right now it is impossible to judge whether the settlement is fair.
+----------------------------------------
+Ground truth Summary: The really important stuff on economic and fiscal devolution to Scotland is yet to be decided.
+----------------------------------------
+Generated Summary: The Smith Commission's report on Scotland's new powers is a good one.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 28-year-old played 138 times for the club and represented Scotland Sevens between 2006 and 2014, including last year's Commonwealth Games.
+"A difficult time has been made easier as it's not been a decision," said Grant.
+"You just have to get on with it, accept things and move on."
+Grant joined Edinburgh in 2009 after beginning his Scottish rugby career as an apprentice with Border Reivers.
+A recipient of the John Macphail Scholarship in 2008, he broadened his experience playing with Auckland University in New Zealand, having played through Scotland's age grades, and went on to be part of the Scotland A team that secured a 35-0 victory over England Saxons in 2012.
+"It's been a pretty emotional time, having to come to terms with the fact I have to stop playing due to injury but I have no regrets," added Grant.
+"I'm really proud of what I've done, what I've achieved and what I've contributed."
+Head coach Alan Solomons said: "Roddy's retirement is a sad day for both the club and Scottish rugby.
+"I've been fortunate, over the years, to coach some terrific young men; Roddy is right up there with the best of the best. His contribution to the club has been immense, both on and off the field. He is a leader of men and the ultimate pro.
+"He has the heart of a lion, an unbelievable work-rate and he knew our systems and his role within them to perfection. Roddy never had a bad game. He is certainly one of the most consistent players I have ever coached.
+"We will miss him - he is one of a kind."
+----------------------------------------
+Ground truth Summary: Experienced Edinburgh flanker Roddy Grant has been forced to retire after failing to recover from a knee injury suffered at the end of last season.
+----------------------------------------
+Generated Summary: Edinburgh flanker Roddy Grant has retired from rugby due to a knee injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The trailer concludes with a shot of Vader and the sound of his trademark heavy breathing.
+Felicity Jones stars in Gareth Edwards' film as the leader of a Rebel mission to steal the plans for the Death Star.
+The film is set before the time of the first Star Wars film A New Hope, released in 1977, and does not form part of the main series.
+The two-minute promo, which is different from the one shown at last month's Star Wars Celebration event in London, begins with new character Saw Gerrera (Forest Whitaker) telling Jyn Erso (Jones) that "the world is coming undone".
+"Imperial flags reign across the galaxy," his voice continues over a shot of an Empire vessel floating above a desert landscape.
+The trailer goes on to show Jyn and Cassian Andor (Diego Luna) being told about the mission for which they have been selected.
+Subsequent scenes feature a new robot character voiced by Alan Tudyk, a blind warrior played by Hong Kong action star Donnie Yen, and an Imperial Walker being struck by a missile.
+Actress Alyssa Milano, screenwriter Max Landis and DJ Edith Bowman are among those to welcome the new promo on Twitter.
+US publication Entertainment Weekly, meanwhile, has assembled a frame-by-frame analysis.
+Rogue One: A Star Wars Story will be released in the UK on 16 December.
+Follow us on Twitter @BBCNewsEnts, on Instagram at bbcnewsents, or email entertainment.news@bbc.co.uk.
+----------------------------------------
+Ground truth Summary: A new trailer for Star Wars spin-off Rogue One has been released, offering fans a fleeting glimpse of Darth Vader.
+----------------------------------------
+Generated Summary: The first trailer for Rogue One: A Star Wars Story has been released.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A statement from Championship rugby side Pirates says they hope the ground will open in September 2019.
+In December, club director Colin Groves estimated construction would begin "in the middle" of this year.
+National League South side Truro only agreed to share the proposed 6,000-capacity ground with Pirates in April.
+The statement said building will "hopefully" start next spring, with work on the stadium on the outskirts of Truro taking 14 months.
+----------------------------------------
+Ground truth Summary: Work on the Stadium for Cornwall, to be shared by Cornish Pirates and Truro City, will not start any earlier than spring 2018.
+----------------------------------------
+Generated Summary: Bristol Pirates' new stadium in Truro will be ready for the start of next season, the club has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: crash on Saturday.
+He told reporters debris was found across a 20sq km-wide area of Sinai. So far 163 bodies have been found.
+Russia is observing a day of mourning after its worst air disaster.
+Mr Sorochenko spoke after visiting the site of the debris, near the village of Hasana.
+Jihadists allied to so-called Islamic State in Sinai, where such groups are active, had made a claim on social media that they had brought down flight KGL9268.
+But Egyptian Prime Minister Sharif Ismail said experts had confirmed that a plane could not be downed at 9,450m (31,000ft), the altitude the Airbus 321 was flying at, by weapons the militants are known to possess.
+President Abdul Fattah al-Sisi also urged caution on Sunday, saying the investigation into the cause was a "complicated matter" that could take months.
+Russian Transport Minister Maksim Sokolov said no evidence had been seen that indicated the plane was targeted, and IS has not produced pictures or video footage to substantiate its claim.
+Analysis by BBC Monitoring found that a video purporting to show the downing of a plane did not appear to be an official IS clip, and was not shared on official IS channels.
+Three airlines - Emirates, Air France-KLM and Lufthansa - have decided not to fly over the Sinai Peninsula until more information is available. Two smaller carriers, flydubai and Air Arabia, also said they would re-route flights.
+British Airways said it regularly assessed the safety of its routes. BA said it would not confirm flight routes, but that it "would never fly a route unless it was safe to do so".
+The plane came down early on Saturday, shortly after leaving the resort of Sharm el-Sheikh for the Russian city of St Petersburg.
+Russian and French investigators have joined the Egyptian-led probe, along with experts from Airbus, which is headquartered in France.
+Egyptian officials said some bodies had been recovered within a radius of 5km on Saturday, but that of a three-year-old girl was found 8km from the scene.
+One un-named official told Reuters the plane appeared to have split in two, with one part burning up and the other crashing into a rock.
+The plane's black boxes have been found and sent for analysis, officials said.
+Russia's transport regulator said on Sunday it is to check all the airline's A-321 planes, but Kogalymavia this would not affect their operations.
+Egypt's civil aviation minister Hossam Kamal said there had been no sign of any problems on board the flight, contradicting earlier reports that the pilot had asked to make an emergency landing.
+The widow of the plane's co-pilot told Russian TV her husband had complained about the aircraft's technical condition.
+The plane was carrying 217 passengers, including 25 children, Russian transport authorities said. There were seven crew members on board.
+Most of the passengers were Russian, but at least three were Ukrainian and one Belarusian.
+The first bodies to be returned to Russia are expected to be flown to St Petersburg on Sunday.
+05:58 Egyptian time (03:58 GMT): Flight leaves Sharm el-Sheikh, the Egyptian cabinet says in a statement
+06:14 Egyptian time (04:14 GMT): Plane fails to make scheduled contact with air traffic control based in Larnaca, Cyprus, according to Sergei Izdolsky, an official with Russia's air transport agency
+06:17 Egyptian time, approx (04:17 GMT): Plane comes down over the Sinai peninsula, according to Airbus
+11:12 Egyptian time (09:12 GMT): Flight had been due to land in St Petersburg's Pulkovo airport
+----------------------------------------
+Ground truth Summary: A Russian airliner which crashed in Egypt's Sinai peninsula, killing all 224 people on board, broke up in mid-air, a Russian official says.
+----------------------------------------
+Generated Summary: The head of the Russian investigation into the crash of a Russian plane in Egypt's Sinai Peninsula has said it is too early to say what caused the disaster.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Immobile joined the La Liga club on a season-long loan spell from Borussia Dortmund in July 2015, before signing on a permanent deal worth 11m euros.
+The 26-year-old was then loaned to Serie A side Torino, where he scored five goals in 14 games last season.
+Immobile made two appearances for his country at Euro 2016.
+----------------------------------------
+Ground truth Summary: Lazio have signed Italy striker Ciro Immobile from Sevilla for an undisclosed fee - reported to be around 8.5m euros (£7.1m).
+----------------------------------------
+Generated Summary: Atletico Madrid striker Ciro Immobile has signed a new five-year contract with the Spanish club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "After much soul-searching, it is clearly time for us to live by Michael's words about love not war," wrote Jermaine, in a statement.
+Jermaine also withdrew his support for a leaked letter which calls on executors of the estate to resign.
+On Thursday his mother, Katherine, was reinstated as guardian of Michael's children along with his cousin, TJ.
+Days earlier, TJ became a temporary guardian for the three children amid reports Katherine, 82, was missing.
+Michael's siblings, Jermaine, Randy and Janet, are understood to have driven to the Jackson home and insisted they leave with Michael's three children.
+Police were called following a "minor scuffle".
+"Mistakes have been made and irrational things have been said on both sides in a highly charged emotional environment," Jermaine Jackson wrote in his statement.
+"It is time for us all to draw a line in the sand and move towards peace, co-operation, love and healing."
+'Mutual suspicions'
+Katherine Jackson was on a 10-day spa trip to Arizona, when speculation arose about her whereabouts and her health.
+Prince Michael, 15, Paris, 14, and 10-year-old Prince Michael II (also called Blanket) have lived with the singer's mother since his death in 2009.
+Lawyers for the estate this week confirmed a number of unnamed relatives have been barred from visiting the Jackson family home.
+Writing in his statement about the confrontation at the Jackson family home on 23 July, Jermaine said "it was clear that mutual suspicions had allowed events to spiral out of control".
+"I regret that events were ever allowed to reach such a stage," he wrote. "I regret any distress caused to Prince, Paris and Blanket. That was never, ever the intention of myself, Janet, Rebbie or Randy."
+Michael Jackson's will left nothing to his siblings when he died aged 50 of an overdose of the anaesthetic propofol in June 2009.
+'Overwhelmed'
+Janet, Randy, Jermaine and Rebbie are all understood to have signed a letter, which was leaked to the press, alleging the will was a fake and calling on executors of the estate to resign.
+The letter states the family was too overwhelmed at the time of the singer's death to meaningfully challenge the will that gave only Katherine Jackson and Michael's three children a stake in the estate.
+The estate has denied the accusations, saying they are "saddened" by "false and defamatory accusations".
+Any legal challenge to the will should have been filed within four months of the will's acceptance in November 2009.
+----------------------------------------
+Ground truth Summary: Michael Jackson's brother Jermaine has called for an end to the Jackson family feud over the late pop star's estate.
+----------------------------------------
+Generated Summary: Michael Jackson's brother Jermaine has called for an end to the family feud, after a confrontation with his siblings at the singer's Los Angeles home.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Forty-two refugees, belonging to five families, were greeted on arrival by the Uruguayan President, Jose Mujica.
+They will spend two months in accommodation near the capital Montevideo where they will learn Spanish and  attend classes on local customs.
+Other Latin American countries have taken Syrians in but Uruguay is the first to assume all resettlement costs.
+Officials say the two-year resettlement programme will cost Uruguay around $3m (Â£1.9m).
+They say the adults have already been guaranteed  jobs and the children have places in local school. A second group is due to arrive next year.
+----------------------------------------
+Ground truth Summary: A small number of Syrian refugees have arrived in Uruguay from Lebanon.
+----------------------------------------
+Generated Summary: The first group of Syrian refugees has arrived in Uruguay, the first country in Latin America to accept them.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The decision came after the governor of Rio de Janeiro state, Sergio Cabral, asked President Dilma Rousseff for government support ahead of the football World Cup in June.
+On Thursday, three police bases in the city were attacked by suspected gangs.
+Four police officers have been killed since February in similar attacks.
+The attacks on police in Brazil's second largest city have heightened concerns about law and order ahead of the World Cup, which begins on 12 June. Seven World Cup matches, including the final, will be played in Rio.
+Mr Cabral discussed the violence with President Rousseff in the capital, Brasilia, after Thursday's unrest in the northern Rio favela, or shanty town, of Manguinhos.
+Police vehicles were set on fire and the police unit's commander was shot in the leg.
+Rio's authorities have been trying to rid the city's favelas of drug dealers.
+"It is clear that criminals want to weaken our policy of pacification and take back territories which were in criminal hands for decades," Mr Cabral said ahead of his meeting.
+"The state will not back down. The public may be sure we shall act," the governor said.
+The authorities in Brasilia did not give say how many federal troops would be sent to Rio or when they would be deployed.
+Rio police have installed more than 30 bases in favelas in the past five years to drive out drug gangs.
+Correspondents say murders have declined and the number of shootouts has dropped, but residents have often accused the police of using heavy-handed tactics.
+The BBC's Julia Carneiro in Rio says the recent deaths among the security forces have prompted some groups to express solidarity with police and their families.
+Rio de Janeiro is to host South America's first Olympic Games in 2016 as well as this year's World Cup.
+----------------------------------------
+Ground truth Summary: The government in Brazil says it will send federal troops to Rio de Janeiro to help deal with a spate of violent attacks targeting the city's police.
+----------------------------------------
+Generated Summary: Brazil's government has agreed to send federal troops to Rio de Janeiro to help local authorities crack down on drug gangs.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Matthew Williams was found attacking Cerys Marie Yemm, 22, at a hostel in Argoed, Caerphilly county.
+Police used a Taser stun gun on the 34-year-old and he later died.
+"This really is the stuff of nightmares," said one politician.
+Serious further offence reviews are held if crimes are alleged to have happened within 30 days of a sentence ending.
+The Independent Police Complaints Commission (IPCC), which is investigating, confirmed Williams had been a resident at the Sirhowy Arms hostel, which houses vulnerable and homeless people, including ex-offenders.
+It was there on Thursday that police found him attacking Ms Yemm, 22, who was from Blackwood.
+Sources confirmed Ms Yemm suffered substantial facial injuries.
+The community has reacted with shock to the murder and William Graham, a Conservative assembly member for South Wales East, said a "wider inquiry into the circumstances surrounding his release is urgently required".
+"Questions must be answered by authorities and a full explanation provided on the  decisions taken in this extremely tragic case."
+The Ministry of Justice would not comment further. However, it is understood ex-offenders are not always subject to supervision if they serve their full sentence and have not previously been convicted of violent offences.
+Details of Williams's previous offences and the length of sentence he received have not been confirmed.
+Chris Evans, MP for Islwyn, said: "This was a horrific and senseless crime that must be condemned without reservation.
+"However, this is not the time for knee jerk reactions. A full investigation will be conducted by Gwent Police and the IPCC."
+Williams's family said it was in "shock" following the murder, adding it was "devastated by the death of an innocent young lady".
+Ms Yemm worked in sales at Next and was formerly a student of Coleg Gwent between 2008 and April 2009. She had been studying health and social care.
+Williams and Ms Yemm knew each other and police said they were not looking for anyone else in connection with the murder.
+A post mortem examination of Ms Yemm's body is expected to take some time to complete.
+Gwent Police said a lone female officer initially responded to the attack.
+Ch Insp Paul Staniforth told reporters on Friday Ms Yemm's family is being supported by officers.
+He also said the female officer and others who later attended were being supported by the force's occupational health department.
+----------------------------------------
+Ground truth Summary: A serious further offence review will take place into the case of a man who murdered a woman in an act of cannibalism shortly after being released from prison, the Ministry of Justice has confirmed.
+----------------------------------------
+Generated Summary: Questions must be answered about the circumstances surrounding the release of an ex-convict who later stabbed a woman to death, politicians have said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "Using horse-driven carriages only for joyrides solely for human pleasure is an avoidable activity," the order said.
+The court agreed with animal rights groups that the practice was cruel.
+Reports say that around 700 families depend on Victoria carriages for their livelihood.
+Monday's court order came on a petition filed by animals rights groups which said the horses were often malnourished, denied adequate rest and care.
+The Bombay high court in the city of Mumbai ordered that all stables where these horses are kept must be closed down and  directed the authorities to come up with a scheme to rehabilitate those involved in the trade.
+Styled on open carriages used during Queen Victoria's times, these horse-drawn carriages have been seen on Mumbai's streets since British times and a ride on them has been one of Mumbai's most-popular tourist attractions for decades.
+The drivers of these carriages say that "Victorias are a key part of Mumbai's cultural image" and some of them say they are sceptical about the government's rehabilitation plans.
+Usmaan, who is 60, has been working with a horse-drawn carriage since he was 12, says it is going to be difficult for him to adapt to a new job and that he feels like his "hands have been cut off".
+The court has also ordered that all horses should be rehabilitated at a care centre.
+"The government shall also formulate a rehabilitation scheme for the horses. If any reputed animal welfare organisation comes forward to take care of these horses, then the state government is free to consider the same" the Hindustan Times quotes the court as saying.
+----------------------------------------
+Ground truth Summary: A court in India has ruled that Mumbai's famous horse-drawn carriages, popularly known as "Victorias", are "illegal" and must go off the city streets in a year.
+----------------------------------------
+Generated Summary: A court in India has ordered the closure of stables where horse-drawn carriages are kept.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

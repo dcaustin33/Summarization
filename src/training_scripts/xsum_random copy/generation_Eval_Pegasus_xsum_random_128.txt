@@ -1,0 +1,385 @@
+Generations for Eval_Pegasus_xsum_random_128
+Article text: hit by a falling metal door at G Live in Guildford on 9 February 2013.
+David Naylor, 56, from Bridgnorth in Shropshire, is facing two counts of manslaughter by gross negligence.
+He appeared at Guildford Crown Court and is due stand trial in September.
+His lawyer have indicated he would enter not guilty pleas when he next appears at the same court on 11 March.
+The company which manufactured the doors involved in the incident has been summonsed for breaches of duty imposed by the Health and Safety at Work Act.
+Express Hi-Fold Doors Limited, of which Mr Naylor is a director, is accused of failing to ensure equipment was safe.
+Mr Grills, from Port Isaac in Cornwall, and Mr McMullen, from Disley in Cheshire, were at the venue ahead of a performance due to be staged by the 10-piece group.
+----------------------------------------
+Ground truth Summary: A man charged over the deaths of two members of the Cornish shanty group Fisherman's Friends has appeared in court.
+----------------------------------------
+Generated Summary: A man has appeared in court charged with the manslaughter of two men who were killed when they were hit by a falling door at a shopping centre.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 32-year-old midfielder has made 395 appearances in 13 years with the Chairboys, while striker Paul Hayes, also 32, has signed a two-year deal.
+Marcus Bean is considering an offer of a deal until 2017 and fellow midfielder Sam Wood triggered a year's extension with his appearances this term.
+Alex Lynch, Gozie Ugwu, Ryan Sellers and Max Kretzschmar have been released.
+Meanwhile, 23-year-old defender Aaron Pierre has been offered an extension to his contract, which is currently scheduled to expire in the summer of 2017.
+Gareth Ainsworth's side finished 13th in League Two this season.
+----------------------------------------
+Ground truth Summary: Wycombe Wanderers club captain Matt Bloomfield has signed a new one-year contract with the League Two club.
+----------------------------------------
+Generated Summary: Wycombe Wanderers have extended the contracts of four players and released five others as they prepare for life in League One next season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+Diana Taurasi and Lindsay Whalen scored 17 points apiece for USA, gold medallists for the eighth time in 10 appearances.
+Victory extended USA's Olympic winning streak to 49, dating back to the bronze-medal match at Barcelona 1992.
+Spain's silver was their first Olympic medal of any colour in women's basketball.
+The world's third-ranked team had lost 103-63 to the United States in the group stage.
+Spain's Alba Torrens scored a game-high 18 points, but USA were comfortable winners, leaving coach Geno Auriemma in tears.
+Victory brought a fourth consecutive Olympic gold for Taurasi, captain Sue Bird, and Tamika Catchings.
+Earlier, Serbia won bronze by beating France 70-63.
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+Find out how to get into basketball with our special guide.
+----------------------------------------
+Ground truth Summary: USA won their sixth successive Olympic women's basketball title, beating Spain 101-72 at Carioca Arena.
+----------------------------------------
+Generated Summary: The United States women's basketball team won their third straight Olympic gold medal with a comfortable victory over Spain in Rio.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: held at the Crucible Theatre - starts at 14:00 BST on Sunday and will conclude on Monday.
+Higgins features for the sixth time, and victory would take him second in the all-time list of ranking title wins on 29 - seven behind compatriot Stephen Hendry.
+The 41-year-old, who has won three non-ranking events this season and beat Selby 18-13 a decade ago, added: "Mark will not go below a certain level, so I need to play better.
+"I know what I need to do in the last, massive game to end the season.
+"I am trying to stay focused and give it my all against the number one player in the world. Winning it would be my biggest achievement, without a doubt."
+Media playback is not supported on this device
+Englishman Selby is attempting to become only the fourth player - after Hendry, Steve Davis and Ronnie O'Sullivan - to win consecutive world titles in the modern era.
+He overcame a stern test against China's Ding, who he beat to claim his second crown in Sheffield 12 months ago.
+The Leicester player has been in supreme form this season, winning four ranking titles and reaching the Shanghai Masters final.
+Selby said: "It will be a fantastic occasion. I played in my first final 10 years ago against the same opponent and here we are on the 40th anniversary.
+"John is a great player, one of the greats of the game. He has had a fantastic season and is in the final again. It will be another tough match for me.
+"If he wins another world title, he will be equal with Ronnie O'Sullivan on five victories so he is trying to created history himself."
+Former world champion John Parrott on BBC TV:
+If there is one player whose game matches up to Mark Selby, who can match him in the safety and tactical departments, it is the man in the final with him - John Higgins.
+The Scot is a consummate match player, we have all been there and played him and know what problems he causes his opponents. Higgins will be up for the fight.
+Media playback is not supported on this device
+----------------------------------------
+Ground truth Summary: Four-time winner John Higgins says opponent Mark Selby is the "big favourite" for the World Championship final, which starts on Sunday.
+----------------------------------------
+Generated Summary: World number one Mark Selby says he is "not going to get carried away" by the prospect of facing defending champion John Higgins in the final of the World Championship.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: will take place in the US.
+If the full-size 55-seat plane is then approved, the first passengers could be travelling at supersonic speeds across the Atlantic by 2023.
+Rolls-Royce warns against 'hard Brexit'
+Boeing launches new version of 737 jet
+Airbus unveils upgraded A380 jumbo
+Blake Scholl, the founder and chief executive of Boom, said at the Paris air show that the design of the XB-1 demonstration plane had passed a performance and safety review ahead of manufacturing.
+Boom said five unnamed airlines had placed 76 orders for its passenger plane, which resembles Concorde but has a delta wing that sweeps almost to the tip of the nose.
+It will also ditch the afterburner engine used by the British-French supersonic pioneer that was not only extremely loud but also very thirsty.
+"By using a modern turbofan engine like Boeing and Airbus, you can make the aircraft both quieter and significantly more fuel efficient," Mr Scholl told the BBC.
+The company claims that airlines flying its plane will be able to charge similar prices to a business class fare on the lucrative London-New York route of about $5,000 return.
+Concorde tickets used to cost up to about three times that amount.
+Time-poor travellers, meanwhile, will jump at the chance of getting to or from those two cities in about half the time a subsonic plane takes, according to Boom.
+"Airlines are excited for something new and different to offer their passengers," Mr Scholl said.
+Although Concorde had the backing of both the British and French governments, he said it was not economic because the imperative then was to beat the Soviet Union into the supersonic age, rather than build a practical or affordable plane.
+"Being a private company that has to raise investment means we have to have a business case that is profitable for airlines and affordable for customers," Mr Scholl said.
+Although many remain sceptical that Boom can deliver its promises, the company said in March that it had raised the $33m that would allow it to build and fly the demonstration plane.
+One believer in the project is Virgin founder Sir Richard Branson, who announced late last year that he planned to buy the first 10 passenger jets made by Boom.
+His Virgin Galactic space travel venture will also provide manufacturing and engineering services, as well as flight test support.
+----------------------------------------
+Ground truth Summary: Supersonic air travel could be back in little more than five years if a plane that aims to replace Concorde takes to the skies.
+----------------------------------------
+Generated Summary: The first test flight of a supersonic passenger plane has taken place in California, the company behind the project has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: against them or have been tried and convicted. In some cases it is unclear whether they are still alive. They remain on the list until it is proven that they are dead.
+Resident in Austria. Former Croatian police chief, accused of role in deporting hundreds to their deaths. Extradition to Croatia was requested in 2005 but was refused on medical grounds due to dementia.
+Resident in Syria - possibly dead. Commander of Paris internment camp, deported thousands to death camps under orders of Adolf Eichmann. Convicted in absentia in France but never punished.
+Resident in Germany. Arrested Jews who were later murdered by Nazi collaborators in Lithuania. Deported from US. Convicted by Lithuania and sentenced to jail - but sentence was not carried out.
+Resident in Germany. Sentenced to death in the Netherlands for murdering prisoners at Westerbork camp and Groningen prison but sentence commuted to life imprisonment in 1948. Escaped to Germany in 1952. German courts currently considering an arrest warrant issued by Dutch authorities.
+Resident in Estonia. Accused of participating in murder of Jews. Stripped of US citizenship and fled to Estonia where he has remained under investigation for several years without charge.
+Believed dead. Doctor who experimented on prisoners at Mauthausen camp. Reports suggest that he may have died in Cairo in 1992, but his death remains unconfirmed due to a lack of evidence.
+Resident in the US. Accused of participating in the murder and deportation of Jews living in the Lvov Ghetto. Ordered to be deported from the US for concealing his wartime activities. Remains in the US until a country volunteers to admit him.
+Resident in Germany. Accused of murdering an anti-Nazi newspaper editor. Indicted in Denmark but two extradition requests have now been refused by German authorities.
+Resident in Hungary. Accused of mass murder of civilians at Novi Sad, Serbia. Convicted in Hungary in 1944 but never punished. A new investigation has led to an indictment against him for war crimes and a trial is scheduled to begin in May.
+Resident in Germany. Accused of serving as an SS guard at the Treblinka I concentration camp and to have participated in executions. Under official investigation by prosecutors in Germany following the discovery of witness statements about his role at Treblinka.
+Resident in Germany. Accused of participating in the massacre of 560 civilians in the Italian village of Sant' Anna di Stazzema. Convicted in absentia by an Italian military court in 2005. Has been under investigation in Germany for almost a decade but so far without charge.
+Resident in Australia. Accused of participating in persecution and murder of Jews. Successfully appealed against extradition from Australia to Hungary, but the decision is under review following an appeal by an Australian government minister.
+Source: Simon Wiesenthal Center, 2011
+----------------------------------------
+Ground truth Summary: The Simon Wiesenthal Center, which investigates Nazi war criminals, has published its latest list of its most wanted surviving suspects.
+----------------------------------------
+Generated Summary: A list of the world's most wanted Nazi war criminals has been released by the US Department of Justice.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: when the investigator becomes a bigger story than the investigation.
+Such was the case with Congressman Devin Nunes, with his shifting explanations for where and how he acquired sensitive intelligence documents, his decision to keep details from his fellow intelligence committee members, his apparent behind-the-scenes co-ordination with White House sources and his penchant for dramatic press conferences.
+All this made him a liability for Republican congressional leadership and the White House. Now he is, at least temporarily, out of the picture.
+He may blame an ethics complaint filed by "leftwing activist groups" for forcing the move, but there's little doubt that many Republicans are breathing a sigh of relief. Mr Nunes, at times, seemed out of his depth on the big political stage.
+The committee's investigations effectively had been ground to a halt by partisan bickering, and this move is a first step toward rebooting the efforts.
+It may be too late, however, as the concurrent Senate intelligence committee investigation has launched more smoothly and with a greater show of bipartisan co-operation.
+Members of the House of Representatives often complain of being viewed as the "baby brother" to the upper chamber. The dual Russia probes haven't done much to dispel that notion.
+House Speaker Paul Ryan said he fully supported Mr Nunes' decision.
+Mr Ryan said he trusts Mr Nunes, but the ehtics inquiry "would be a distraction" for the House Intelligence Committee investigation.
+Representative Adam Schiff, a ranking Democrat on the House Intelligence Committee, said he respected Mr Nunes' decision.
+"We have a fresh opportunity to move forward in the unified and nonpartisan way that an investigation of this seriousness demands," he added.
+A White House spokesman said in response to the announcement: "This is an internal matter for the House".
+Texas Representative Mike Conaway will take over that inquiry with the help of fellow Republicans Trey Gowdy and Tom Rooney.
+"We're going to proceed with the investigation and follow every lead to its logical conclusion," Mr Conaway said on Thursday.
+It is unclear whether Mr Nunes' departure will end the partisan bickering that has brought the committee's investigation to a virtual halt.
+But a separate Senate Intelligence Committee probe into Russia's alleged role in the US election appeared to be moving forward, conducting its first round of hearings on the issue last week.
+Meanwhile, the FBI also recently acknowledged it is running its own probe into claims of Kremlin political meddling.
+Mr Nunes said he plans to return to the House investigation, but he did not provide a timeline.
+----------------------------------------
+Ground truth Summary: The head of a key US congressional investigation into alleged Russian hacking has temporarily stepped down amid an ethics inquiry into him.
+----------------------------------------
+Generated Summary: The chairman of the US House of Representatives' intelligence committee has been removed from the probe into alleged ties between the Trump campaign and Russia.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He replaces Barrie Hubbard, who has chosen to step down after 29 years on the club's board.
+Allen, who had previously held the position of chief executive, told the club website: "I intend to give 100% in my efforts to achieve what the fans want, which is Championship football."
+Meanwhile, midfielders Danny Whitaker, 31, and Mark Randall, 18, have agreed new one-year deals.
+Whitaker, who joined the Spireites from Oldham in 2010, made 35 appearances in 2011/12.
+Randall played 18 games in his first season with the club, having joined them from Arsenal last summer.
+----------------------------------------
+Ground truth Summary: Chesterfield have appointed Dave Allen as their new chairman.
+----------------------------------------
+Generated Summary: Chesterfield have appointed Paul Allen as the club's new chairman.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: expected to be ready for use until next summer.
+Every month the new system is not in place, NHS 24 incurs additional costs of £450,000.
+In a statement NHS 24 said: "This was a complex contract process, which took several years to develop and resulted in very substantial 600-page documents.
+"The board had a range of governance measures in place, but this was not sufficient and the risk to the organisation was underestimated at the time.
+"While the ultimate responsibility for spending public money lies with the accountable officer, the contractual flaws were part of a systemic failing involving a variety of people."
+It added: "Once the new system is re-launched in 2016, it will bring significant benefits to the way we can serve the needs of patients for many years to come."
+CapGemini and BT declined to comment.
+----------------------------------------
+Ground truth Summary: A computer project for the NHS 24 telephone helpline which is currently running £41m over budget was praised in a Scottish government report.
+----------------------------------------
+Generated Summary: NHS 24 has been forced to spend more than £1m on a new IT system after a "contractual failure".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: short-term contract on Thursday, three days after Neil Redfearn's dismissal.
+Kevin Blackwell, who has worked with Warnock since 1986, will join him at Rotherham as assistant coach.
+"This is the 14th time I've retired and my 15th comeback, but I do enjoy it," Warnock told BBC Radio Sheffield.
+"I didn't expect to be here this time last week, but that's football. I've never been a manager just to do things for the sake of it.
+"I was probably the best bet for them - my wife hasn't been so well but she told me to go for it, and that's what I'm going to do."
+Rotherham are 22nd in the table and without a win in five games, and Warnock's primary task is to save them from relegation.
+"I'm only here for 12 weeks and I'm not going to change everything in 12 weeks. I need to get results as soon as possible," he said.
+"I think when I finish football, the fans will remember that when I've left a club, I don't think I leave them in worse-off situations.
+"They all have memories of what I've done and enjoyment, and that's what football is about, not falling asleep watching your team play."
+The 67-year-old has been without a managerial role since December, when he left Queens Park Rangers after a spell as temporary boss.
+"We know it is going to be difficult, but there will be some players at Rotherham now who will really give me satisfaction," he added.
+"They are a genuine bunch - there's no bad eggs as far as I can see. The club is the most important thing and we all have to be singing off the same hymn sheet."
+----------------------------------------
+Ground truth Summary: Rotherham United manager Neil Warnock said he does not leave clubs "in worse-off situations" after taking charge until the end of the season.
+----------------------------------------
+Generated Summary: Former Sheffield United boss Neil Warnock has been appointed as the new manager of League One side Rotherham United.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: groups say more than a dozen media employees have been killed in Sri Lanka over the past decade.
+None of the murders has been solved.
+The BBC's Charles Haviland in Colombo says Mr Shauketaly was on the phone to a colleague at the Sunday Leader on Friday evening at his home in Mount Lavinia when the call was cut.
+Shortly afterwards he answered a call and said he had been shot in the neck by three intruders, who had then escaped.
+A group of foreign lodgers at his house said he was covered in blood and calling for help.
+Mr Shauketaly, 52, was taken to intensive care, where doctors pronounced him out of danger and have been working to remove a bullet.
+Mr Shauketaly holds British and Sri Lankan passports and the UK government has called on the authorities to bring the attackers to justice.
+Our correspondent says Mr Shauketaly had voiced fears that his investigative reporting might be putting him in danger, especially after strangers had called at his house recently asking for his whereabouts.
+Four years ago, the Sunday Leader's editor, Lasantha Wickrematunge, was shot dead by a group of masked men on motorbikes.
+The case, which has never been solved, highlighted the dismal state of press freedom in the country, analysts said.
+"There has been a range of attacks in Sri Lanka on journalists, civil society organisations and others in recent years. To date, too many incidents have had little investigation and no resolution," UK Foreign Office Minister Alastair Burt said in a statement.
+The Sunday Leader had long had a reputation for being outspokenly anti-government.
+Its profile changed last year when it was bought by a well-connected businessman and retracted some of its articles, but it still does a considerable amount of investigative reporting.
+Last month, Sri Lanka was placed 162nd out of 179 in a Press Freedom Index compiled by Reporters Without Borders.
+----------------------------------------
+Ground truth Summary: A reporter from a newspaper in Sri Lanka has been shot by a group of unidentified men at his home near the capital, Colombo.
+----------------------------------------
+Generated Summary: A Sri Lankan newspaper editor has been shot in the neck while answering a call from his home, police say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: in a chair you need a winch to get him out of it
+Pele added: "Only God is more important than my health. In my life, I've had fractures, surgeries, pain, hospital stays, victories and defeats. And I've always respected those who admire me."
+The former Santos player added that it was his "own decision".
+Pele's spokesman Pepito Fornos added: "He is walking with a cane. The problem is that if he sits in a chair you need a winch to get him out of it.
+"His doctor thought it best that he continues physiotherapy, that he rests and we hope that he will be able to appear at the [Olympic] closing ceremony."
+Earlier this week, Pele said he was asked to light the cauldron by the organisers, however he had "an international commitment with an English company". The former footballer added that if he could change his travel plans it would be an "honour" to carry out the task.
+In June, Pele was awarded the Olympic Order by the International Olympic Committee (IOC) - the movement's highest honour.
+He was named "Athlete of the  century" by the IOC in 1999 despite never competing at a Games because professional players were barred from doing so during his playing days.
+Pele, who won his first World Cup winner's medal at the age of 17, is regarded by many as the greatest footballer of all time.
+Since retiring in 1977, he has taken up ambassadorial roles both in and outside football, and was involved in politics as minister of sport in his home country for a three-year period from 1995.
+And in 2012 Pele was awarded an honorary degree from the University of Edinburgh for his "significant contribution to humanitarian and environmental causes", having worked as a United Nations ambassador for ecology and the environment.
+Earlier on Friday, hundreds of demonstrators blocked roads in Copacabana - protesting against the government and the cost of hosting the event - which resulted in a change of route for the Olympic torch relay.
+The Olympic torch began its final journey to the Maracana beneath the iconic Christ the Redeemer statue that overlooks Rio.
+Subscribe to the BBC Sport newsletter to get our pick of news, features and video sent to your inbox.
+----------------------------------------
+Ground truth Summary: Brazil football legend Pele will not light the Olympic cauldron at Friday's opening ceremony in Rio.
+----------------------------------------
+Generated Summary: Brazilian football legend Pele has been admitted to hospital in Sao Paulo with a chest infection.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: soon we will come out with the [inquiry] report," he said.
+Delhi-based environmental think-tank Centre for Science and Environment (CSE) said in its report that it had collected 38 bread and bakery samples from retail stores, bakeries and fast-food shops in Delhi for its study.
+"More than 84% of samples tested were found to contain potassium bromate and/or iodate," it said.
+The CSE has urged the government to ban the use of these chemicals in bakery products.
+"Considering that it [potassium bromate] can cause cancer, is banned in most parts of the world, and has healthy alternatives, there is no reason why this chemical should be allowed, specifically when residues are found to be present in the end-product."
+The CSE said potassium iodate should also be banned because "it can potentially affect the functioning of thyroid".
+The bread manufacturers' association said it was yet to see the CSE report, but added that the two additives were safe and "widely used in advanced countries like the US".
+"Food Safety and Standards Authority of India's regulations permit the use of potassium bromate and/or potassium iodate at 50 ppm max for bread and at 20 ppm max for bakery purpose," the association said in a statement.
+----------------------------------------
+Ground truth Summary: India's health ministry has ordered an inquiry after a study found cancer-causing chemicals in many bread and other bakery products.
+----------------------------------------
+Generated Summary: The Delhi government has ordered an inquiry into the use of chemicals in bakery products.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: was sacked, claiming there were "a number of transactions and dealings with players about which the club has concerns".
+However, speaking to BBC Wales Sport, Jenkins said the club did not suspect the former Barcelona and Real Madrid player of any wrongdoing.
+"There were discussions with the LMA but that was done in the context of negotiating a settlement and it should be taken in that light," he added.
+"As far as we are concerned that is the end of the matter and we agreed a settlement and we move on."
+Tutumlu has represented Laudrup since the 52-year-old played for Barcelona from 1989 to 1994.
+According to the Politiken article, the documents show Jenkins signed an agreement which would give Tutumlu 7.5% of the net profit from all player sales when Laudrup extended his contract in March 2013.
+Tutumlu has yet to respond to BBC Wales Sport's request for comment, but Jenkins says that particular clause never came into effect.
+"On that particular point it was never acted upon and as most people know transfers in and out of the club are controlled and decided by myself, always in conjunction with the manager," he added.
+"But ultimately we had the control and from that date to Michael's departure in 2014 that point in particular was never active.
+"All I can say as far as I am concerned is we dealt with everything in the right way as we saw it and in good faith."
+----------------------------------------
+Ground truth Summary: Former Swansea City manager Michael Laudrup has denied he was sacked because of concerns he and his agent stood to profit from player transfers.
+----------------------------------------
+Generated Summary: Swansea City chairman Huw Jenkins says the club have "resolved" their dispute with Michael Laudrup's former agent.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: lead rider Lizzie Armitstead - despite both being ranked below her.
+King called the decision "unfair" but thought she was unable to appeal against the decision because she was not on British Cycling's funded programme.
+However, British Cycling's interim performance manager Andy Harrison subsequently announced she could.
+"I have really enjoyed being on the road this year and I feel I've exceeded all expectations in terms of my results," said King.
+"I was given nine criteria at the start of the year which I've been working toward and I'm absolutely gutted."
+Media playback is not supported on this device
+King defied expectations by returning to elite racing after a life-threatening training crash in November 2014 left her with eight broken ribs, a bruised liver and punctured lung.
+She stopped receiving UK Sport funding two months later and was told she would not be considered for the Rio track cycling team late last year.
+She has been focusing exclusively on road racing ever since.
+Despite her Olympic omission and the controversies surrounding British Cycling following the departure of technical director Shane Sutton amid claims of sexism and discrimination, King refuses to be too critical of the national set-up.
+"When I was on the programme, I was supported really well," she said. "It's just disappointing that I feel like this selection hasn't been fair to me."
+She insisted: "I'm not here to slag off British Cycling and I do wish all of the British riders a lot of success in Rio."
+----------------------------------------
+Ground truth Summary: Olympic champion Dani King may appeal against British Cycling's decision not to select her for the Rio Games.
+----------------------------------------
+Generated Summary: British cyclist Elinor King says she is "absolutely gutted" after being dropped from British Cycling's elite programme.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: of commerce, said Newhaven needed more businesses and more jobs, and local concerns about infrastructure were being dealt with by the port.
+The plans include a nature reserve but Ian Hepburn, from Sussex Wildlife Trust, said the development would damage coastal shingle and species there including reptiles, invertebrates, breeding birds and plants.
+Former town councillor Rod Main said West Beach had already been closed by the port and this expansion would see the town lose its one other remaining area of sandy beach.
+Calling for West Beach to reopen, he added: "This company are just taking away every sandy beach we've got."
+A report submitted to Lewes council said the plans would help to regenerate Newhaven and create jobs, and the expansion would provide overspill space for the new Rampion wind farm.
+Officers said it was an opportunity to create a modern port, and the benefits outweighed harm such as the loss of sandy beach, impact on surf conditions, and effects on ecology and archaeology.
+The plans will be considered later.
+----------------------------------------
+Ground truth Summary: Expansion plans put forward by Newhaven Port have been recommended for approval by Lewes councillors.
+----------------------------------------
+Generated Summary: Plans to expand the port at Newhaven have been approved by Lewes council.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Molloy has made 40 appearances for the Wildcats since joining from Huddersfield in April 2013.
+Meanwhile, centre Bill Tupou will also miss Saturday's Challenge Cup semi-final at Warrington after suffering a minor tear in his hamstring.
+"The injuries are a loss but we've got depth in the squad," head coach Chris Chester told BBC Radio Leeds.
+----------------------------------------
+Ground truth Summary: Wakefield Wildcats second-row forward Jon Molloy will be out for four weeks after suffering a torn pectoral muscle.
+----------------------------------------
+Generated Summary: Wakefield full-back Mark Molloy has been ruled out for the rest of the season with a knee injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: penalty in the 23rd minute, but Tyrone hit back with a Quinn goal on the half-hour.
+McAliskey and Johnny Munroe tagged on points, and at the break Derry led by two points.
+Sean Cavanagh came off the bench to score a point before a Mark Bradley free gave Tyrone the lead.
+Derry were awarded a second penalty in the 50th minute, which Bell again converted.
+However, the loss of McGuckin to a second yellow card was an increasing problem for Damian Barton's side, and Tyrone struck a series of scores through Peter Harte, Richie Donnelly and David Mulgrew.
+Derry's fourth goal came from Craig five minutes from the end, but the visitors responded with a couple of McAliskey frees to win by the narrowest of margins.
+Bank of Ireland Dr McKenna Cup results
+Saturday 9 January
+Section C
+Cavan 3-14 0-9 Ulster University
+Sunday 10 January
+Section A
+Derry 4-6 1-16 Tyrone
+Section B
+Donegal 0-8 2-6 St Mary's College
+Down 0-8 0-14 Fermanagh
+Section C
+Monaghan 2-9 0-16 Armagh
+----------------------------------------
+Ground truth Summary: Tyrone fought back to clinch a 1-16 to 4-6 victory over Derry in a dramatic Dr McKenna Cup encounter at Owenbeg.
+----------------------------------------
+Generated Summary: Derry's hopes of making the Ulster SFC quarter-finals suffered a setback as they were beaten by Tyrone in Omagh.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (Dunfermline Athletic) right footed shot from the centre of the box is saved in the bottom right corner.
+Gary Oliver (Morton) wins a free kick in the defensive half.
+Foul by Rhys McCabe (Dunfermline Athletic).
+Substitution, Morton. Caolan McAleer replaces Andy Murdoch.
+Attempt missed. Kallum Higginbotham (Dunfermline Athletic) right footed shot from a difficult angle and long range on the left is high and wide to the right from a direct free kick.
+Jamie McDonagh (Morton) is shown the yellow card for a bad foul.
+Nicky Clark (Dunfermline Athletic) wins a free kick on the left wing.
+Foul by Jamie McDonagh (Morton).
+Foul by Ryan Williamson (Dunfermline Athletic).
+Aidan Nesbitt (Morton) wins a free kick in the defensive half.
+Nathaniel Wedderburn (Dunfermline Athletic) is shown the yellow card for a bad foul.
+Foul by Nathaniel Wedderburn (Dunfermline Athletic).
+Michael Tidser (Morton) wins a free kick in the defensive half.
+Foul by Michael Moffat (Dunfermline Athletic).
+Andy Murdoch (Morton) wins a free kick in the defensive half.
+Corner,  Dunfermline Athletic. Conceded by Jamie McDonagh.
+Lee Ashcroft (Dunfermline Athletic) wins a free kick on the right wing.
+Foul by Kudus Oyenuga (Morton).
+Foul by Rhys McCabe (Dunfermline Athletic).
+Ross Forbes (Morton) wins a free kick in the defensive half.
+Corner,  Dunfermline Athletic. Conceded by Andy Murdoch.
+Foul by Nathaniel Wedderburn (Dunfermline Athletic).
+Jamie McDonagh (Morton) wins a free kick on the right wing.
+----------------------------------------
+Ground truth Summary: Michael Moffat's double moved Dunfermline Athletic off second bottom in the Scottish Championship as Greenock Morton lost in Fife.
+----------------------------------------
+Generated Summary: Morton extended their unbeaten run in the Scottish League Cup with a hard-fought victory over Dundee.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The festival showcases films on climbing, mountain biking, skiing, kayaking and adventure travel.
+The tour's Scottish destinations are Edinburgh on Saturday, Inverness on 12 and 13 February, Pitlochry on 14 February and Glasgow on 10 May.
+The films include The Ridge - featuring Skye-born cyclist Danny MacAskill - Sun Dog, Touch, All My Own Stunts, Arctic Swell and Wild Women: Faith Dickey and Into the Empty Quarter.
+----------------------------------------
+Ground truth Summary: Canada's Banff Mountain Film Festival is about to begin its latest world tour, which includes dates and venues in the UK and Ireland.
+----------------------------------------
+Generated Summary: A series of short films about adventure travel is to be screened at the Edinburgh International Film Festival.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

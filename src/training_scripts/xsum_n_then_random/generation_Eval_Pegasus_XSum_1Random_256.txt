@@ -1,0 +1,320 @@
+Generations for Eval_Pegasus_XSum_1Random_256
+Article text: The President's press secretary, Jay Carney, has said that he welcomed the Prime Minister's call for Britain to remain in the European Union, adding that the US believed the UK was stronger for being in the EU, and the EU was stronger for having the UK as a member.
+In the modern version of the special relationship, what Carney called the essential relationship, Britain is valued as an ally precisely because it is one of the leaders of the biggest economy in the world.
+Some in Washington think Mr Cameron's speech threatens that role and introduce more unnecessary uncertainty to an already uncertain world.
+Until recently, the promise of a referendum from Mr Cameron was seen in Washington as just another phase in the rocky relationship between the UK and continental Europeans.
+But now alarm bells are ringing. He is publicly saying that referendums could turn countries inwards.
+"We have a growing relationship with the EU as an institution, which has an increasing voice in the world, and we want to see a strong British voice in that EU. That is in America's interests. We welcome an outward-looking EU with Britain in it," he said.
+President Obama repeated this view in a phone call to Mr Cameron.
+The Americans are worried for several reasons.
+They fear the debate that will rage for the next few years will undermine Britain's voice in the EU and diminish its power.
+Indeed, insiders say that has already happened - they find other EU members aren't taking Britain seriously.
+While US officials would agree with Mr Cameron's push for a more competitive, less rule-bound Europe, they fear he will now be less able to achieve it.
+There is internal politics too. There is an argument inside the administration over whether or not to seek a free-trade agreement with the EU.
+Those who want to go ahead may fear their position has been undermined.
+They may feel that Mr Cameron has given ammunition to those who argue it is not worth the bother. Some suggest it would be an irony if such a deal was negotiated - and Britain found itself outside the new free-trade area.
+Although the prime minister clearly intends to sell a deal that keeps Britain inside the EU there are fears that he will fail.
+The Obama administration values the European Union as an ally that largely shares its vision, and acts with it in the Middle East, over Iran and North Africa.
+Officials will fret over the next few years that Britain really could leave and that would badly weaken the EU.
+At the risk of hurting British egos, they simply don't see Britain - especially with a declining defence budget - as anything more than a medium-sized power in its own right.
+As one insider put it to me: "At the moment Britain is a leader in the biggest economy in the world - what's the strategy for being out? Just trail around behind us?"
+----------------------------------------
+Ground truth Summary: The Obama administration has made no bones about it - it wants a strong Britain within a strong Europe.
+----------------------------------------
+Generated Summary: David Cameron's call for a referendum on Britain's membership of the European Union has been welcomed by the White House.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The former party leader's victory came as the SNP won all six seats in the north east of Scotland.
+Callum McCaig won Aberdeen South from Labour, and Kirsty Blackman did likewise in Aberdeen North.
+Stuart Donaldson won West Aberdeenshire and Kincardine, Angus Robertson held Moray, and Eilidh Whiteford was re-elected in Banff and Buchan.
+However, Alistair Carmichael retained Orkney and Shetland for the Liberal Democrats.
+Mr Salmond, speaking after defeating the Liberal Democrats in Gordon, said: "The Scottish lion has roared this morning across the country.
+"There is a swing under way in Scotland the like of which has not been seen in recorded politics.
+"I look forward to representing every constituent, regardless of their political views."
+Mr Salmond claimed a 47.7% share of the vote, over Christine Jardine on 32.7%, as the SNP saw a 25.5% increase.
+Mr McCaig's win, with a 29.8% increase, saw Anne Begg lose her seat
+----------------------------------------
+Ground truth Summary: Alex Salmond said the Scottish lion had "roared", after he won the Gordon seat for the SNP in the general election.
+----------------------------------------
+Generated Summary: Alex Salmond has been re-elected as the SNP's first minister in Scotland.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Davies suffered an ankle injury during Spurs' 1-0 defeat by Bayer Leverkusen in the Champions League on 2 November.
+He then missed the 1-1 draw at Arsenal in the Premier League on Sunday.
+The 23-year-old had been included in the Wales squad for the qualifier in Cardiff but has now been replaced by Sunderland's Adam Matthews, who is on loan at Bristol City.
+Davies has started in Wales' opening three qualifiers.
+Serbia are top of Group D after three matches on seven points, with Wales third on five points.
+----------------------------------------
+Ground truth Summary: Tottenham defender Ben Davies has been ruled out of Wales' World Cup qualifier with Serbia on 12 November.
+----------------------------------------
+Generated Summary: Tottenham midfielder Ben Davies has been ruled out of Wales' World Cup qualifier against Serbia on Wednesday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The marathon runner crossed the line in second place with his arms above his head in solidarity with Oromo activists who are staging protests in Ethiopia.
+He repeated the gesture later at a press conference, saying his life would be in danger if he returned home.
+The government has been accused of brutally cracking down on protesters.
+The country's Information Minister Getachew Reda told the BBC at the time that he had nothing to fear and would be welcomed home as a hero.
+But speaking after the race, Mr Feyisa said he might be killed if he returned.
+"If not kill me, they will put me in prison
+----------------------------------------
+Ground truth Summary: Ethiopian Olympian Feyisa Lilesa, who said he wanted to seek asylum after making an anti-government gesture in Rio, has arrived in the US.
+----------------------------------------
+Generated Summary: Ethiopia's Feyisa Lilesa has threatened to return to his homeland if he is not allowed to run in the London Olympics.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A Royal Navy Frigate and submarine are also thought to be involved in the search, along with Canadian and French maritime patrol aircraft.
+The Telegraph reports the French plane has searched for the submarine for at least 10 days.
+The RAF currently has no maritime patrol aircraft of its own.
+But according to the BBC's defence correspondent Jonathan Beale, this lack of patrol aircraft is expected to be addressed in Monday's Strategic Defence and Security Review.
+The submarine was detected north of Scotland
+----------------------------------------
+Ground truth Summary: An RAF plane is "conducting activity" off the Scottish coast, the Ministry of Defence says, amid reports of a Russian submarine being spotted in the area.
+----------------------------------------
+Generated Summary: A French air force plane has joined the search for a missing submarine in the North Sea.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The University of East Anglia undergraduate had followed a link to the page from the "course materials" for a politics module.
+It has since removed the link, but said "legitimate academic study" was key to countering extremist causes.
+Police confirmed they spoke to the third-year, but took no further action.
+"Officers were satisfied this was not a deliberate act and words of advice were given," a spokesman added.
+The Clash of Fundamentalisms course, which "examines the clash between competing ideologies of neoliberalism and Islamism", is available to a maximum of 18 students in the autumn semester.
+UEA's student newspaper Concrete quoted a "shocked" student on the course, who said: "People need to be allowed to learn about this stuff in order to know they disagree with it."
+In September, a postgraduate student in counter-terrorism received an apology from Staffordshire University after concerns were raised when he was seen reading a book called Terrorism Studies.
+----------------------------------------
+Ground truth Summary: A student has been questioned by police after accessing an "extremist" website found on his course's reading list, it has emerged.
+----------------------------------------
+Generated Summary: A student has been questioned by police after posting a link to an Islamic State (IS) propaganda video on his Facebook page.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: James Isbister caught the 6ft-long ling while fishing off Muckle Flugga on Saturday.
+Mr Isbister is awaiting confirmation from the relevant authorities of its possible record-breaking status.
+The fish is currently being kept in his mother's freezer
+----------------------------------------
+Ground truth Summary: A Shetland fisherman is celebrating after reeling in a giant fish weighing more than 67lbs (30kg).
+----------------------------------------
+Generated Summary: A 14-year-old boy has caught what could be the world's largest ling tuna.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Donaldson is back in training following a lengthy lay-off with a heel injury which has kept him out for the whole of Gianfranco Zola's 16 games in charge.
+Wigan have lost Sam Morsy, who starts a two-game ban after being booked for the 10th time this season at Blackburn.
+They are also waiting form a verdict on the severity of fellow midfielder Shaun MacDonald's knee injury.
+MacDonald went off early at Ewood Park, but the Latics are hopeful he has not suffered ligament damage.
+Boss Warren Joyce could be back in the Wigan dug-out having watched from the stand on Saturday after undergoing minor surgery.
+----------------------------------------
+Ground truth Summary: Birmingham City remain without Clayton Donaldson and Michael Morrison for the visit of Wigan Athletic to St Andrew's.
+----------------------------------------
+Generated Summary: West Ham could be boosted by the return of striker Clayton Donaldson for the visit of Wigan.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The company said staff who walk out in the ongoing dispute over the role of conductors would be paid the money when industrial action came to an end.
+The RMT union described it as "another outrageous and bullying attack on staff fighting for public safety".
+General secretary Mick Cash said staff were "signing away basic human rights".
+Passengers on Southern services have suffered months of delays and disruption caused by the industrial action over the introduction of Driver Only Operated trains.
+The next 48-hour walkout takes place next week, with further strikes planned in the run-up to Christmas and over the new year.
+Mr Cash said it was "despicable" that Southern "felt it necessary to try and hoodwink staff" into signing an agreement with the "sole purpose to stop lawful industrial action".
+In a statement, Southern said: "Passengers have had to endure 17 days of strikes so far with 11 more to come, causing misery and hardship to people's work and family lives.
+"We feel we cannot make these payments to conductors who are planning to take industrial action.
+"They will be paid once the industrial action is over."
+----------------------------------------
+Ground truth Summary: Southern rail has been accused of bullying after it asked staff to sign a pledge not to strike in exchange for getting backdated holiday pay early.
+----------------------------------------
+Generated Summary: Southern rail has been accused of "bullying" conductors who are planning to strike after it said they would not be paid.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The man grabbed hold of a child's bag outside Heronsgate School in Lichfield Down, Walnut Tree, at about 08:20 GMT on Wednesday.
+The man said, "you're coming with me" before the pupil broke free.
+"The incident has been reported to police who are now investigating," the school said
+----------------------------------------
+Ground truth Summary: A man tried to abduct a boy outside a primary school in Milton Keynes, the school said.
+----------------------------------------
+Generated Summary: Police are investigating after a man tried to grab a pupil's bag outside a school in Staffordshire.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Friend, 28, was withdrawn during the 1-0 defeat by Nottingham Forest on 23 January after landing awkwardly.
+Former Doncaster and Wolves full-back Friend has missed just one league game this season, scoring once.
+Boro are already without centre-back Ben Gibson with a hip injury, who can also play wide, while full-back James Husband is on loan at Huddersfield.
+----------------------------------------
+Ground truth Summary: Middlesbrough defender George Friend will be out for approximately four weeks after fracturing a shoulder.
+----------------------------------------
+Generated Summary: Middlesbrough defender Kevin Friend will be out for up to six weeks with a groin injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: President Cecile Richards told members of Congress on Tuesday she was "proud" that Planned Parenthood donates foetal tissue for research.
+The anti-abortion group behind the videos has alleged that the healthcare provider profits from the practice.
+The allegations have set off an effort to pull the group's federal funding.
+Ms Richards said foetal tissue donation is legal and noted its small role in what Planned Parenthood does.
+Planned Parenthood has said it charges small fees - between $30 (Â£20) and $100 - to cover processing costs, but does not make a profit from foetal donations.
+"These outrageous accusations based on videos are offensive and untrue," Ms Richards said
+----------------------------------------
+Ground truth Summary: The head of Planned Parenthood has defended her organisation before Congress, calling a series of secretly recorded videos a "smear campaign".
+----------------------------------------
+Generated Summary: The head of Planned Parenthood has defended the organisation's practice of donating tissue from aborted babies, in response to "outrageous" videos released by an anti-abortion group.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It was over in seconds
+----------------------------------------
+Ground truth Summary: The flash of brown fur was difficult to see as it raced across the muddy field, but the dog was easy to spot.
+----------------------------------------
+Generated Summary: It's been a long time coming, but it's finally here.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The controversial memo broke the firm’s code of conduct, Google’s chief executive Sundar Pichai said on Monday in an email to employees.
+The memo, shared widely at the weekend, suggested there were fewer women at Google due to biological differences.
+Mr Pichai said the text crossed the line due to it "advancing harmful gender stereotypes in our workplace”.
+Entitled Google’s Ideological Echo Chamber, the paper argued that "the abilities of men and women differ in part due to biological causes and that these differences may explain why we don't see equal representation of women in tech and leadership”.
+The author wrote: "We need to stop assuming that gender gaps imply sexism."
+Google has not confirmed who the employee is, but media reports name him as James Damore.
+"[I was fired for] perpetuating gender stereotypes," he told Reuters.
+He also claimed to have received "many personal messages from fellow Googlers expressing their gratitude" for speaking out.
+In his note to staff sent on Monday afternoon, Mr Pichai spoke at length about protecting free speech in Google’s ranks, and that "much of what was in that memo is fair to debate, regardless of whether a vast majority of Googlers disagree with it”.
+But he added: "To suggest a group of our colleagues have traits that make them less biologically suited to that work is offensive and not OK.
+"It is contrary to our basic values and our Code of Conduct, which expects 'each Googler to do their utmost to create a workplace culture that is free of harassment, intimidation, bias and unlawful discrimination’."
+The tech firm's new head of diversity, Danielle Brown, had earlier criticised the memo saying it had "advanced incorrect assumptions about gender".
+----------------------------------------
+Ground truth Summary: A Google employee who wrote a controversial memo about workplace diversity has been fired, the BBC can confirm.
+----------------------------------------
+Generated Summary: Google has fired an employee for "perpetrating harmful gender stereotypes" in an internal memo.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Members of the EIS Further Education Lecturers' Association were already set to go on strike on Thursday next week.
+The union has now confirmed it plans to hold two strikes the following week and more after Easter.
+If the dispute is not settled, they plan to go on strike three days a week indefinitely from the last week of April onwards.
+The planned strike dates are:
+The dispute is linked to the return of national pay bargaining in the sector.
+Lecturers at most colleges are angry about a 1% pay offer and are concerned about the differences between pay at different colleges.
+They claim there are disparities of up to Â£10,000 a year.
+The dispute at colleges in Glasgow is over a distinct issue - the union wants these colleges to join the national pay bargaining set-up.
+Colleges Scotland, the body that represents Scotland's colleges, has said the pay offer which it put before the union is the best deal possible.
+----------------------------------------
+Ground truth Summary: Lecturers at further education colleges across Scotland have announced more details of a planned series of strikes.
+----------------------------------------
+Generated Summary: Lecturers in Scotland's further education colleges are to go on strike in a dispute over pay.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Meyiwa, 27, was shot on Sunday, apparently after burglars entered his girlfriend's house near Johannesburg.
+A suspect appeared in court on Friday and was charged with the murder of the popular goalkeeper.
+Meyiwa's death shocked South Africa and has highlighted the high rates of violent crime in the country.
+The funeral took place at the Moses Mabhida Stadium in Meyiwa's hometown of Durban.
+Many of the mourners were wearing T-shirts with a picture of Meyiwa, who was widely seen as an inspiring figure.
+Others wore red or black replica football shirts in the colours of Meyiwa's team, Orlando Pirates.
+Meyiwa's coffin was driven into the stadium, followed by Orlando Pirates players and officials.
+Mourners cried as videos were played showing Meyiwa training and playing football.
+Celebrating Senzo Meyiwa's life was the main theme for the tens of thousands of fans who packed into the stands. The chairman of the country's football association said he hoped that this could be a "turning-point" in the long-running debate over violent crime.
+And Senzo Meyiwa's father Sam told me he wanted more random searches, to cut the number of guns in South Africa. "We are no longer safe in our houses," he said.
+"The entire nation is crying. We have all lost. Our condolences to Orlando Pirates and Bafana Bafana," said Durban Mayor James Nxumalo, AFP reported, using a nickname for South Africa's national team.
+"Our hearts are bleeding."
+President Zuma ordered the national flag to be flown at half-mast on Saturday to honour the goalkeeper.
+Following Meyiwa's death, South Africa's domestic football league postponed this weekend's scheduled Johannesburg derby between Orlando Pirates and rivals Kaiser Chiefs.
+The Durban stadium was also named as the venue for host South Africa's next Africa Cup of Nations qualifier.
+The funeral of another South African sporting hero, former 800m world champion Mbulaeni Mulaudzi, also took place on Saturday.
+Mulaudzi was killed in a car accident the day before Meyiwa's death.
+Police said on Friday that a suspect had been identified in Meyiwa's killing after an identity parade.
+The man, named as Zanokuhle Mbatha, 25, faced charges of murder and armed robbery at a court hearing and is due to appear again on 11 November. Police had offered a reward for information on the attack.
+"There are still other suspects outstanding and we appeal to the public to continue providing information in support of the investigation," a police statement said.
+----------------------------------------
+Ground truth Summary: Tens of thousands of people have attended the funeral of South African football captain Senzo Meyiwa in Durban.
+----------------------------------------
+Generated Summary: Thousands of mourners have attended the funeral of South African football star Senzo Meyiwa, who was shot dead during a burglary.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Scottish Chambers of Commerce's (SCC) quarterly business survey found firms were still performing strongly.
+But a number cited continued difficulties in the eurozone and world economies as a challenge to growth.
+SCC said the "exceptional" performance of the second quarter would be hard to replicate in the final quarter of 2014.
+However, it added that stability was "returning to the Scottish economy".
+The business survey, carried out in conjunction with the Fraser of Allander Institute of Strathclyde University, drew responses from more than 420 firms across five major sectors - construction, financial and business services, manufacturing, retail and wholesale and tourism.
+It found international events such as the Commonwealth Games and the Ryder Cup at Gleneagles boosted tourism performance, with average room rates increasing for the sixth consecutive quarter.
+But in the retail and wholesale sector, more firms reported a fall in sales revenue than a rise.
+SCC said that trend was expected to remain largely unchanged in the next quarter.
+Orders/sales grew in the third quarter for the construction and manufacturing sectors, but at a lower rate than the previous quarter.
+Sales revenue growth was broadly unchanged for financial and business services firms.
+Recruitment difficulties were still a concern for businesses, particularly in the construction sector, where almost half of firms that recruited said they had experienced difficulties.
+SCC chief executive Liz Cameron said: "The construction sector and manufacturing sectors are still performing well but face ongoing challenges as both sectors experienced lower sales growth compared with the previous high performing quarter.
+"Businesses have indicated that employment trends remain promising and are expected to grow, as more firms report increased levels of hiring.
+"In particular, the retail sector reported its highest increase in employment for 10 years.
+"As business looks to hire more people, continued challenges exist, as key sectors are often unable to find the right talent to employ, potentially slowing down the pace of economic growth."
+----------------------------------------
+Ground truth Summary: The Scottish economy continued to grow in the last quarter but at a slower pace than the previous three months, according to a report.
+----------------------------------------
+Generated Summary: The Scottish economy grew at its fastest rate in two years in the third quarter of 2014, according to a survey.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Members of the Bournemouth e-Panel mailing list, who had signed up to take part in surveys, received an email with all the recipients' addresses visible.
+The council apologised and asked recipients to delete the original email which was sent last week.
+Service director Richard Saunders said "further investigations" were being carried out to prevent a repetition.
+An Information Commissioner's Office spokesman said it was aware of the breach and would be keeping a note on its system.
+He said as it was not regarded as significant enough to take further action and the council had followed the recommended procedures following the error.
+----------------------------------------
+Ground truth Summary: Hundreds of email addresses have been inadvertently circulated following a mistake by Bournemouth Borough Council.
+----------------------------------------
+Generated Summary: Bournemouth Council has apologised after an email containing the personal details of thousands of people was sent to the wrong recipients.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Organisers campaigning to save Lewisham Hospital say the plans are "crazy and ill thought out".
+Under proposals, its A&E will close and the maternity unit be downgraded after neighbouring South London Healthcare NHS Trust ran up debts of Â£150m.
+The government said "doing nothing is not an option" and is to make a decision on 1 February.
+Campaigners are angry Lewisham Hospital, which is not part of the South London Healthcare NHS Trust, is being targeted in a re-organisation of services across the area following the trusts's financial problems.
+Under the plans, the trust's Queen Elizabeth Hospital site in Woolwich would come together with Lewisham Healthcare NHS Trust to create a new organisation.
+Lewisham's A&E unit would then be downgraded to an urgent care centre, meaning emergency cases would be seen at nearby hospitals
+----------------------------------------
+Ground truth Summary: At least 15,000 people have marched in protest against proposals to close services at a hospital in south London.
+----------------------------------------
+Generated Summary: Plans to close a hospital in south-east London and downgrade its A&E unit have been given the go-ahead by the government.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Speaker announced the clerks, who advise him on conduct and constitutional issues, would also no longer wear wing collars and white tie.
+Conservative Sir Gerald Howarth said the tradition of wearing wigs went back "several centuries".
+But Mr Bercow said there was an even older tradition of not wearing wigs.
+He announced the changes on Monday, but added that clerks would keep part of their garb - black gowns, to signify they are experts on procedure and constitutional issues.
+Mr Bercow said changes to clothing and headgear represented the "overwhelming view" of clerks themselves.
+They would "convey to the public a marginally less stuffy and forbidding image of this chamber at work".
+But Sir Gerald, MP for Aldershot, raised a point of order, telling the Commons: "I was surprised by [the] statement, which had the sort of appearance of an executive order."
+He added that traditional clerks' dress was "key to the dignity of the House" and had been so "for several centuries", adding that MPs "should discuss this".
+Mr Bercow replied that it was "a matter that can properly be decided by the Speaker", adding that the House of Commons Commission had approved the changes, which clerks themselves had suggested.
+He said that, if one went back more than a "couple of hundred years", the situation was different from that presented by Sir Gerald, and that "several centuries ago", clerks "did not wear wigs".
+Mr Bercow has refrained from wearing a wig himself in the Commons since becoming Speaker in 2009, as did his predecessors Michael Martin and Betty Boothroyd.
+----------------------------------------
+Ground truth Summary: John Bercow has defended the decision that Commons clerks will no longer have to wear wigs, after one MP likened the move to an "executive order".
+----------------------------------------
+Generated Summary: Commons Speaker John Bercow has defended his decision to ban the wearing of wigs by House of Commons clerks.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

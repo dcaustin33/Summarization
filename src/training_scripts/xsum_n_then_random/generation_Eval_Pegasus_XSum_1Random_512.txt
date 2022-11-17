@@ -1,0 +1,370 @@
+Generations for Eval_Pegasus_XSum_1Random_512
+Article text: The specialist system monitors the strain from wind, traffic and the weight of the bridge.
+Specialists were brought in to install the monitors which will feed data back to the control room.
+The bridge was closed to all traffic on 4 December after a crack was discovered in a truss under the carriageway.
+Engineers hope to have it repaired and open to traffic again by 4 January.
+An inquiry will begin after that, with MSPs agreeing that the "immediate" priority should be to get the bridge reopened.
+The lorries were sent over the bridge in different patterns over five hours of tests on Saturday.
+An inquiry will focus primarily on the structural defect, and an independent technical adviser will be asked to take part.
+The inquiry aims to call officials from bridge operator Amey, its predecessor the Forth Estuary Transport Authority, Transport Scotland staff and Transport Secretary Derek Mackay.
+----------------------------------------
+Ground truth Summary: Ten lorries have been used during tests of a new state-of-the-art structural monitoring system installed at the Forth Road Bridge for the first time.
+----------------------------------------
+Generated Summary: Engineers have installed a monitoring system on the Forth Road Bridge as part of an investigation into a crack in a truss.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In a nerve-stricken performance, Boreham Wood struggled to create anything at a quiet Meadow Park.
+The Silkmen had the game's best chances, as Chris Holroyd tested Boreham Wood's James Russell before Kristian Dennis fired wide.
+Harry White had the Wood's best chance, shooting over the bar as neither side could break the deadlock.
+----------------------------------------
+Ground truth Summary: Boreham Wood's 0-0 draw at home to Macclesfield saw them fall into the National League relegation zone.
+----------------------------------------
+Generated Summary: Boreham Wood missed out on a place in the National League play-offs as they were held to a goalless draw by Macclesfield.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lawrence, who competed for Wales at the 2014 Commonwealth Games, finished her swim, bike and run in a total time of four hours, nine minutes and 11 seconds on the Sunshine Coast.
+The 26-year-old was nearly two minutes ahead of Australian two-time winner Melissa Hauschildt.
+Fellow Welsh competitor Leanda Cave won the same title in 2012.
+----------------------------------------
+Ground truth Summary: Swansea triathlete Holly Lawrence has won the women's half ironman 70.3 World Championship in Australia.
+----------------------------------------
+Generated Summary: Wales' Hannah Lawrence has won the Women's Triathlon World Championship in Australia.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The healthcare policy has serious IT issues, prompting the joke: "In 2008 my slogan was: 'Yes we can.' In 2013 my slogan was: 'Control-alt-delete.'"
+And he ridiculed media commentators for their apparent obsession with Mr Putin's bare chest.
+Dozens of celebrities, journalists and politicians were at the dinner.
+The roll-out of healthcare.gov, Mr Obama's main policy initiative of his second term, provided much of the humour.
+The president made several references to computer malfunctions.
+"Does anybody know how to fix this," he asked, pretending that the overhead projector had failed to work.
+Health Secretary Kathleen Sebelius, who quit as a result of the IT issues, stepped up and said: "I got this. I see it all the time."
+The president used Mr Putin as a way of lampooning some conservative commentators and political opponents.
+"Last year [conservative commentator] Pat Buchanan said Putin is headed straight for the Nobel Peace Prize... to be fair they give those to just about anybody these days. So it could happen," he said. Mr Obama was given the award in 2009 having been nominated for it after less than two weeks in office.
+"[Republican] Mike Huckabee and [conservative commentator] Sean Hannity keep talking about his bare chest, which is kind of weird."
+The charity event is traditionally used by presidents to ridicule their opponents, but also laugh at themselves.
+----------------------------------------
+Ground truth Summary: Barack Obama has used the annual White House correspondents' dinner to crack jokes about his healthcare policy, his political opponents and Vladimir Putin.
+----------------------------------------
+Generated Summary: US President Barack Obama has poked fun at himself and Russian President Vladimir Putin at the annual White House Correspondents' Association dinner.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Scotland full-back, 30, joined the Warriors in 2009 from London Welsh and has since played more than 100 games.
+"I've witnessed huge growth at the club and we're now selling out Scotstoun for the majority of our home games and it's a great place to play rugby," he said.
+Meanwhile, 24-year-old full-back Glenn Bryce, who has made 13 appearances, will join Edinburgh in the summer.
+He joins team-mate Duncan Weir in switching to the Warriors' Scottish rivals.
+Bryce told the Warriors website: "It was a really hard decision to leave Glasgow but I'm hoping to kick on at Edinburgh and play as regularly as possible next season.
+"Getting involved during the Rugby World Cup period for Glasgow was a high for me
+----------------------------------------
+Ground truth Summary: Peter Murchie has signed a new one-year contract with Glasgow Warriors, keeping him at Scotstoun until May 2017.
+----------------------------------------
+Generated Summary: Gregor Townsend has signed a new two-year contract with Glasgow Warriors.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: During a visit to County Down in June, Theresa May said a Leave vote would end an open north-south border.
+She also said it was inconceivable to suggest a Leave vote would not have a negative impact on the border.
+However, she said she wants to see no return to old style border controls.
+In her first interview as prime minister with a journalist from Northern Ireland, she said she wants to see free movement.
+As home secretary, Mrs May visited County Down in June and told the BBC: "If we are out of the European Union with tariffs on exporting goods into the EU, there would have to be something to recognise that between Northern Ireland and the Republic of Ireland.
+"And if you pulled out of the EU and came out of free movement, then how could you have a situation where there was an open border with a country that was in the EU and had access to free movement?"
+But speaking to BBC News NI at Downing Street on Friday, Mrs May said she agreed with the Irish government and Northern Ireland Executive about not seeing a "return to the borders of the past".
+She would work "closely together" with them to ensure free movement across the border, she added.
+Mrs May denied that she had changed her view.
+"What I said was that of course if we leave and there is a land border with a country within the European Union, that does bring a change to that relationship across the border," she said.
+"All parties are clear about the intent and will to ensure we have an arrangement that isn't a return to the borders of the past."
+Questioned on how the border would be policed or controlled after Brexit, Mrs May said: "We are discussing with the Irish government at the moment how we can develop these ideas in ways that are going to ensure that we deliver on the intention of all parties."
+One of Ms May's first acts as prime minister was to visit Belfast, and she has pledged that the Northern Ireland Executive would be fully involved in Brexit discussions.
+"We are going to make a success of Brexit, there are real opportunities for the United Kingdom," she said.
+"We need to grasp those opportunities around the world but the devolved administrations will all be - and the government in Belfast will be - involved and fully engaged in the discussions we are having."
+It is 100 days days since the EU referendum and the result has transformed the political landscape.
+The issue of Brexit is likely to dominate the Conservative Party conference which begins this weekend.
+The annual gathering in Birmingham marks Theresa May's first as leader and she will make her keynote address next Wednesday.
+Although the UK voted to leave the European Union, 56% of people in Northern Ireland voted to remain.
+----------------------------------------
+Ground truth Summary: The prime minister appears to have rowed back on her comments during the EU referendum campaign that there could be Irish border controls if the UK left the EU.
+----------------------------------------
+Generated Summary: The prime minister has said she wants to see no return to the "borders of the past" after Brexit.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He was a reserve player at Derby before his career was ended by injury.
+Guthrie became the Rams' trainer and then kit manager, working with more than a dozen managers including Brian Clough over the course of six decades.
+He was appointed an MBE in 2009 for services to football and has a stand named after him at the iPro Stadium.
+Despite falling ill four years ago, he was still a regular on match days and usually sat in his familiar seat in the home dugout until very recently.
+"It goes without saying everyone at Derby County is saddened to learn of the passing of Gordon," said Sam Rush, the club's president and chief executive.
+"Our thoughts and condolences are with Gordon's family and friends at this time."
+A minute's silence will be held in memory of Guthrie prior to Derby's EFL Cup third-round tie against Liverpool on Tuesday.
+Former striker Andy Garner, who began his career at Derby and more recently was part of their coaching staff, said Guthrie was like a father figure to youngsters at the club.
+"I found it quite daunting, being a young man and coming to Derby from a small village," Garner told BBC Radio Derby.
+"Although I was a big, strong lad, I needed somebody like Gordie
+----------------------------------------
+Ground truth Summary: Derby County's longest-serving staff member Gordon Guthrie MBE, who spent more than 60 years with the club, has died at the age of 86.
+----------------------------------------
+Generated Summary: Gordon Guthrie, the longest-serving member of Derby County's coaching staff, has died at the age of 85.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Saints director of rugby Jim Mallinder confirmed the news following his side's 25-23 defeat at London Irish.
+England international Brookes, 25, had surgery on Thursday after suffering an injury against Racing 92 in the European Champions Cup.
+"It's a big blow for us as he's been playing well all season and will be out for quite a while," Mallinder said.
+Brookes, capped 15 times by his country, joins fellow prop Alex Corbisiero on Northampton's injury list.
+Hooker Dylan Hartley did return for Saints at the Madejski Stadium on Boxing Day, lasting 60 minutes in his first appearance since 7 November having recovered from concussion.
+----------------------------------------
+Ground truth Summary: Northampton prop Kieran Brookes is set for an extended spell on the sidelines after having an operation on his knee.
+----------------------------------------
+Generated Summary: Northampton prop Josh Brookes will miss the rest of the season after suffering a knee injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Horne won her first national title in the team pursuit at the National Track Championships in Manchester last week.
+The 26-year-old says she is leaving her road cycling team in order to turn her attention to the 2016 Rio Games.
+"This is the right thing for me to do now and put my eggs into one basket and try and make the Games," Horne said.
+Warwickshire-born Horne, who represented Wales at the 2014 Commonwealth Games, won the national team pursuit title with Joanna Rowsell Shand, Dame Sarah Storey and Katie Archibald.
+Horne has spent four years working alongside Storey, who has announced her team Podium Ambition will turn professional for the start of the Women's World Tour in 2016.
+But with just four competitions left to gain selection, Horne insists her main concern is being part of the team pursuit in Rio.
+"For me moving forward, the main focus between now and Rio, will be team pursuit," Horne told BBC Radio Wales Sport.
+"Everything is about going quicker over that 4km distance with the girls.
+"The smartest thing to do is to focus solely on that and leave the road."
+----------------------------------------
+Ground truth Summary: Welsh cyclist Ciara Horne is giving up the chance to ride professionally on the Women's World Tour next year in a bid to win an Olympic title.
+----------------------------------------
+Generated Summary: Welsh cyclist Ciara Horne says she is leaving her road racing team to concentrate solely on the team pursuit at the Rio Olympics.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The National Enquirer and RadarOnline reported a 35-minute recording, apparently of the actor, making threats about former porn star Scottine Ross.
+Ms Ross has taken legal action against Sheen, claiming he physically abused her and had sex with her without disclosing his HIV positive status.
+Sheen has not commented on the reports.
+Earlier this week, police officers served a search warrant on the New York headquarters of American Media Inc, the parent company of both RadarOnline and the Enquirer.
+According to the warrant, the Los Angeles police investigation was triggered when Ms Ross made a complaint on 31 March saying she feared for her life after reading the reports.
+On Thursday, the publications - neither of which have published the audio alleged to contain the star saying he would like to see a former fiancee "have her head kicked in" - refused to hand over the material to police.
+Dylan Howard, the Enquirer's editor-in-chief and editorial director of RadarOnline, told Reuters the outlets had no plans to turn over documents or identify their sources.
+He said the search warrant, signed by an LA County Superior Court judge, was illegal under both state and federal law preventing the use of such warrants against media organisations relating to "newsworthy" information.
+He said: "We do believe that a judge did issue this order against the law, and that's why we will not be complying with its order."
+In a televised interview in November 2015, Sheen said he had been diagnosed with HIV four years earlier.
+The former star of Two and Half Men and films including Wall Street and Platoon admitted his history of drink and drug abuse was a "bad decision" but said it was "impossible" he would have passed HIV on to anyone else.
+In December, Ms Ross - who was engaged to Sheen in 2014 before the relationship was broken off - filed a legal action against him accusing him of "physical, psychological and emotional abuse".
+----------------------------------------
+Ground truth Summary: Actor Charlie Sheen is facing a police investigation over claims he made threats against an ex-girlfriend, who is suing him for assault and battery.
+----------------------------------------
+Generated Summary: Two US media outlets have refused to hand over audio recordings they say they have of Charlie Sheen threatening to kill his ex-fiancee.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Heritage, tourism, climate change and innovation projects will be backed.
+North and west Wales and south-east Ireland stand to benefit the most.
+Finance Minister Jane Hutt said the Ireland-Wales Co-operation Programme was "a unique partnership" and the cash would build on "our shared aspirations for economic growth and job creation".
+----------------------------------------
+Ground truth Summary: A plan to spend £80m enhancing economic links between Wales and Ireland has been approved by the European Commission.
+----------------------------------------
+Generated Summary: The UK and Irish governments have agreed to invest more than £1bn in projects between the two countries.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The debate over the legislation reflected deep divisions in Argentina, which is a mainly Roman Catholic country.
+BBC Mundo looks at the key aspects of the law and the situation across Latin America:
+What does the law consist of?
+The law foresees a modification of article 2 of the Argentine Civil Code, which establishes matrimony as being between two individuals of different gender.
+The new legislation will replace the expression "man and woman" with "couple".
+Homosexuals will have exactly the same rights as heterosexuals.
+This includes the right to adopt, which was one of the most controversial aspects of the proposed bill, inheritance, pension rights and other rights relating to social security.
+When does the law come in to force?
+The law will take effect when it has been published in the official gazette, which could take a couple of days.
+What is the difference between civil union and marriage?
+Civil partnerships bestow many but not all of the rights and obligations of marriage.
+The scope of same-sex marriage and civil union laws vary from country to country.
+For example, Portugal's gay marriage law does not allow adoption, while Uruguay's civil partnership legislation does.
+However, the difference in scope is not just legal but often has a significant symbolic and cultural component.
+For those who support same-sex marriage, it is a historic advance that grants rights to people irrespective of sexual orientation.
+For those opposed, recognising same-sex unions as marriage undermines the traditional concept of family.
+Where else is same-sex marriage recognised?
+Just a handful of countries recognise gay marriage - see box.
+In the US, same-sex couples can marry in five states and in Washington DC.
+Some of the countries that recognise civil partnerships are: Andorra, Australia, Austria, Czech Republic, Denmark, Slovenia, Finland, France, Hungary, Iceland, Israel
+----------------------------------------
+Ground truth Summary: Argentina has become the first country in Latin America to legalise same-sex marriage.
+----------------------------------------
+Generated Summary: Argentina's President Cristina Fernandez de Kirchner has signed into law a bill that will allow same-sex couples to marry.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Downie, 15, became the first British woman to win an international all-around medal in her first senior year.
+Purvis also finished third in the men's competition to claim his second career European all-around bronze.
+Media playback is not supported on this device
+Fellow Britons Sam Oldham and Claudia Fragapane finished sixth in their respective overall competitions.
+Downie, in her first senior year, scored 56.623, behind winner Giulia Steingruber of Switzerland and Russia's Maria Kharenkova.
+"I'm over the moon
+----------------------------------------
+Ground truth Summary: Ellie Downie and Dan Purvis each delivered Great Britain a bronze medal at the European Gymnastics Championships in Montpellier.
+----------------------------------------
+Generated Summary: Britain's Ellie Downie and James Purvis won bronze medals at the European Gymnastics Championships in Glasgow.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In the latest mishap, US citizens Bob Weise and Steve Shapiro, both 71, had to seek help in Hayle Harbour, Cornwall, when their sailing boat tipped over, causing a fire on board.
+Veteran sailor Sir Robin Knox-Johnston is among those criticising the pair.
+The duo previously told BBC News they were experienced enough for the trip.
+The boat, named Nora, left Norway in July and is aiming for the US state of Maine.
+Sir Robin said: "This is no longer a joke.
+"It costs between Â£6,000 and Â£8,000 every time a lifeboat is launched
+----------------------------------------
+Ground truth Summary: Two yachtsmen who have been rescued nine times in seven months have been described as a "catastrophe waiting to happen" and urged to "leave UK waters".
+----------------------------------------
+Generated Summary: Two men attempting to become the first to sail solo around the world have been criticised after their boat capsized.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Heidi Gannon was born in Wales and her sister Jo Baines was born in England about two hours afterwards.
+Their mum didn't know she was having twins.
+A set of twins were born in England and Scotland in 2012 and were thought to be the first to be born in different countries but Heidi and Jo were born much earlier, in 1976.
+The family has been in touch with Guinness World Records which has confirmed they will update their records.
+A spokesperson said: "We were made aware of Ms Baines and Ms Gannon's claim for this record last week and after some research involving our twins consultant we have been able to verify that they are indeed the first twins born in different countries."
+----------------------------------------
+Ground truth Summary: Twins claim world record title as the first pair to be born in different countries - nearly 40 years later.
+----------------------------------------
+Generated Summary: A set of twins who were thought to be the first to be born in different countries are to have their records updated.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Shadow chancellor John McDonnell will vow to protect low and middle earners by also ruling out rises in VAT and employee national insurance rates.
+But he will say the top 5% of earners would pay more to fund public services.
+The Tories, who have also ruled out a rise in VAT, say there is a £45bn black hole in Labour's tax proposals.
+Theresa May has said she has "no plans" to raise other taxes after the election, but has so far declined to say whether a manifesto pledge not to raise direct taxes ahead of the 2015 election will be retained.
+Chancellor Philip Hammond appeared to distance himself from the commitment when he said recently that "greater flexibility" would be needed in future to pay down the deficit and reduce levels of debt.
+After a poor showing in Thursday's council elections, Labour has admitted it faces a "historic" challenge to win the snap election on 8 June, but Mr McDonnell has urged the party to "come out fighting".
+In a major speech on Sunday, he will argue Labour is on the side of working families and seek to reassure middle earners about his plans.
+At the same time, he will accuse his opponents of keeping people "in the dark" about their own intentions.
+He will say that if Labour wins power, 95% of taxpayers would see no rise in their overall tax burden until 2022 - the end of the parliamentary term.
+This would be achieved by ruling out increases to the standard 20% rate of VAT, personal national insurance contributions and income tax rates for those earning under £80,000.
+However, he will say those earning more than £80,000 would have to pay more, without giving specific details.
+At the moment, those earning more than £150,000 a year pay 45% tax on earnings above that level.
+"The choice at this election is very clear on tax as there is currently only one party which is committing not to raise taxes on middle and low earners," he will say.
+"The Tories are the party of tax handouts for the super-rich and big corporations."
+Mr McDonnell will contrast the certainty around Labour's plans with what he says is obfuscation from the Conservatives.
+"Every time Theresa May and the Conservatives are asked whether they are planning tax increases if they are re-elected on 8 June, they run and hide," he will say.
+Labour's spending commitments so far include:
+The majority of these, it says, will be covered by the reversal of cuts to corporation, capital gains and inheritance taxes.
+The Conservatives are not expected to confirm their own plans until their manifesto launch later this month.
+Mr Hammond abandoned proposals in March's Budget to increase national insurance contributions for the self-employed following a Tory rebellion, with MPs claiming the move breached its 2015 manifesto.
+During the coalition years, the focus of Conservative policy was steady increases in the personal tax allowance, the point at which people start paying income tax.
+The threshold rose to £11,500 last month and is due to increase to £12,000 by 2020.
+After winning the 2015 election, the Conservatives also raised the level at which people start paying income tax at 40% - which has now reached £45,000 - to address the growing number of middle earners being pulled into the higher-rate bracket.
+The Taxpayers Alliance campaign group said Labour's plans "sounded good" but there were "gaping holes" which could potentially allow it to increase employers' national insurance contributions and VAT on zero-rated items such as medicines.
+Raising income tax for those earning more than £80,000 would require "very significant" changes to tax thresholds, it said.
+"A better way for the parties to demonstrate they are on the side of taxpayers would be to pledge to cut the overall tax burden and leave more money in the pockets of those who earned it," said its chief executive John O'Connell.
+For the Conservatives, Chief Secretary to the Treasury David Gauke said: "Jeremy Corbyn will have to raise taxes because his nonsensical economic ideas don't add up and he'll make a mess of the Brexit negotiations."
+The Lib Dems have pledged to put 1p on income tax to pay for increased health spending.
+Its Treasury spokeswoman, Susan Kramer, said: "John McDonnell has no credible plan for the future of our economy and no guarantee to employers that they won't be hit with a jobs tax."
+----------------------------------------
+Ground truth Summary: Labour is pledging not to raise income tax for those earning less than £80,000 a year as part of a "personal tax guarantee" for 95% of taxpayers.
+----------------------------------------
+Generated Summary: Labour will promise to raise income tax rates for those earning more than £150,000 a year if it wins the general election.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The bag rocks alarmingly from side-to-side and threatens to overturn.
+Now, scientists have investigated this conundrum of everyday physics
+----------------------------------------
+Ground truth Summary: It's a common experience when dashing for a train or plane while lugging a two-wheeled suitcase.
+----------------------------------------
+Generated Summary: How do you keep a bag in place when you're about to throw it out?
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Barca will be investigated for alleged misappropriation of funds in the £48.6m (57m euros) deal with Santos.
+The signing of Neymar has been correct and his signing has caused despair and envy in some of our adversaries
+Rosell, speaking at a news conference after a Barca board meeting, insisted he had "acted correctly".
+Vice-president Josep Maria Bartomeu now takes over from the 49-year-old Rosell, who came to power in 2010.
+Rosell's future has been a real source of concern ever since a Spanish national court judge accepted a lawsuit this week from Barcelona club member Jordi Cases, who alleged that the amount paid for Neymar was more than the reported fee.
+Rosell maintains the accusation is "unfair and reckless".
+He added: "For some time, my family and myself have suffered threats and attacks in silence
+----------------------------------------
+Ground truth Summary: Barcelona football club chief Sandro Rosell has resigned following a Spanish court's decision to look into last year's signing of Brazil star Neymar.
+----------------------------------------
+Generated Summary: Barcelona president Sandro Rosell has resigned in the wake of the club's signing of Brazil forward Neymar.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It is a year since Iymen Baerli, a refugee from Syria, arrived in Sydney with his wife and three young children.
+Within days, the skies above the harbour of Australia's biggest city sparkled and glowed as arguably the world's finest fireworks display ushered in another new year.
+The newcomers shared their adopted homeland's optimism about the journey ahead. "I have been struggling and it is not easy but I am hoping that in the future it is going to be easier for me."
+Iymen's English is rudimentary and, although he is receiving tuition, his lack of language skills has been a major hindrance, as has a chronic back injury.
+Most of the new arrivals have been staying with relatives in Sydney, but community workers believe that, for many, the transition has been hard.
+Ahmad Hemmed, a migration agent, who has helped many Syrian families in Sydney, told the BBC that the majority of the refugees have been unable to adapt.
+"There are people that after I meet them here after even a year, they do not like the country and they are scared to mix with the Australian community," Mr Hemmed explained.
+"They are still isolating themselves with similar cultural background people and I think they are raising their kids in the same way, which for me it is really concerning. They live in Australia but they are not actually carrying Australian values."
+It is a harsh assessment, but officials have conceded that many of those fleeing the Syrian conflict have found life tough in Australia and that finding jobs in particular has not been easy.
+"It is that extraordinary mixed feeling," said Prof Peter Shergold, the New South Wales co-ordinator general for refugee resettlement.
+"At one level I think their first feeling as they get out of the airport is just sheer relief, expectations that they can build a new life, but of course absolute fear of what they have left behind, is this the right decision?"
+He believes it is crucial the migrants mix with the broader community.
+"They are coming to a society in which 27% of Australians were born overseas and a similar number had a parent born overseas.
+"They are coming to a society which is used to diversity and that helps integrate into society and, yes, initially you'll tend to live in areas where other people from your ethnicity or religion live, [but] they need to get outside that if they are going to get employment," Prof Shergold added.
+The remaining 6,000 refugees from the Syrian crisis are expected to arrive in Australia within a year.
+But Alex Greenwich, an independent MP in the New South Wales state parliament, believes the humanitarian programme needs to move faster.
+"The refugee and asylum seeker immigration process is intensely bureaucratic," he said.
+"It is much better for a refugee to spend less time in a camp and get into being welcomed into a community. It is better for their health, their mental health. It is obviously something that we should be prioritising and fast-tracking."
+In Canberra, the government has indicated it could resettle more of those displaced by atrocities and fighting in Syria.
+"If we get this programme right, [it allows us] to say to the Australian people that we may want to expand this programme," Immigration Minister Peter Dutton told local media.
+"If people have faith in the integrity of the process, then it does give the government the ability to expand beyond the 12,000."
+As the conflict grinds on in Syria, 14,000km away in Sydney, Iymen's wife Abir Baerli closely follows developments on Arabic TV channels and online. With relatives and friends still in harm's way in Syria, or seeking sanctuary in neighbouring countries, these are frightening times.
+"I am scared and I wish that the war would end," she told me with the help of a translator.
+While her three children - a 10-year old daughter and two younger boys - are at school in Sydney, making friends, playing football and gradually conquering English, Abir and her husband yearn for just one thing - to one day be able to peacefully return home to their beloved Syria.
+----------------------------------------
+Ground truth Summary: Australia has resettled about half of the 12,000 refugees it agreed to take in over the past 13 months from the conflict in Syria, but how are they adapting to life in their new country?
+----------------------------------------
+Generated Summary: As Australia celebrates the first anniversary of the arrival of 25,000 Syrian refugees, the BBC's Alex Greenwich looks at how the newcomers are adapting to life in the country.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Reports say at least 16 suspected militants were killed in the strikes.
+They come days after a militant attack on Karachi airport - 39 people were killed, including the 10 attackers.
+Washington agreed to suspend its drones programme in December to allow Islamabad to pursue peace talks with the Pakistani Taliban (TTP).
+But pressure has been mounting on the Pakistani authorities to launch a ground offensive in North Waziristan amid a breakdown in peace talks.
+The two drone strikes took place within hours of each other, striking a compound in a village near Miranshah, the main town in North Waziristan.
+The first attack, carried out late on Wednesday night, is said to have killed four ethnic Uzbek militants and two Punjabi Taliban.
+The second attack on Thursday morning targeted another 10 suspected militants.
+On Wednesday, Uzbek militants of the Islamic Movement of Uzbekistan (IMU) claimed to have carried out the attack on the airport, saying it was in retaliation for Pakistani military air strikes last month.
+The group, which is highly-trained and has bases in North Waziristan, has previously carried out large-scale co-ordinated attacks with al-Qaeda and Taliban militants in Pakistan.
+Washington uses unmanned drones to carry out strikes on Taliban and al-Qaeda targets in Pakistan's border region with Afghanistan.
+However, US strikes have not taken place since 25 December 2013 in response to calls by Pakistan to halt strikes and enable peace negotiations.
+Pakistan carried out air strikes this week as well, saying its forces had killed at least 15 militants in the north-west Khyber region on Tuesday.
+Who are the Pakistani Taliban?
+•With its roots in the Afghan Taliban, the Pakistani  Tehreek-e-Taliban movement came to the fore in 2007 by unleashing a wave of violence
+•Its leaders have traditionally been based in Pakistan's tribal areas but it is really a loose affiliation of militant groups, some based in areas like Punjab and even Karachi
+•The various Taliban groups have different attitudes to  talks with the government - some analysts say this has led to divisions in the movement
+•Collectively they are  responsible for the deaths of thousands of Pakistanis and have also co-ordinated  assaults on numerous security targets
+•Two former TTP leaders,  Baitullah Mehsud and Hakimullah Mehsud, as well as many senior commanders have been killed in US drone strikes
+•It is unclear if current leader Maulana Fazlullah, who comes from outside the tribal belt, is even in Pakistan, but he has a reputation for ruthlessness
+Who are the Taliban?
+Pakistan's 'fanatical' Uzbek militants
+----------------------------------------
+Ground truth Summary: The US has resumed its drones programme in Pakistan, with two strikes on militant strongholds in the North Waziristan tribal region overnight.
+----------------------------------------
+Generated Summary: The US has carried out two drone strikes in Pakistan's North Waziristan tribal region.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

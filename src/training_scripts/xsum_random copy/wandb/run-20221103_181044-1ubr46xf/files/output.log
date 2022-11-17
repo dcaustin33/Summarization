@@ -1,0 +1,41 @@
+Now Evaluating
+Evaluating for 100 steps
+/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/generation_utils.py:1296: UserWarning: Neither `max_length` nor `max_new_tokens` has been set, `max_length` will default to 128 (`self.config.max_length`). Controlling `max_length` via the config is deprecated and `max_length` will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
+  warnings.warn(
+Exception ignored in: <function _MultiProcessingDataLoaderIter.__del__ at 0x7f5edc77a280>
+Traceback (most recent call last):
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1466, in __del__
+    self._shutdown_workers()
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/utils/data/dataloader.py", line 1430, in _shutdown_workers
+    w.join(timeout=_utils.MP_STATUS_CHECK_INTERVAL)
+  File "/home/da2986/anaconda3/lib/python3.9/multiprocessing/process.py", line 149, in join
+    res = self._popen.wait(timeout)
+  File "/home/da2986/anaconda3/lib/python3.9/multiprocessing/popen_fork.py", line 40, in wait
+    if not wait([self.sentinel], timeout):
+  File "/home/da2986/anaconda3/lib/python3.9/multiprocessing/connection.py", line 936, in wait
+    ready = selector.select(timeout)
+  File "/home/da2986/anaconda3/lib/python3.9/selectors.py", line 416, in select
+    fd_event_list = self._selector.poll(timeout)
+KeyboardInterrupt:
+Traceback (most recent call last):
+  File "/home/da2986/Summarization/src/training_scripts/xsum_random/generate_and_evaluate.py", line 162, in <module>
+    evaluator.evaluate()
+  File "/home/da2986/Summarization/src/training_scripts/evaluator.py", line 50, in evaluate
+    loss = self.validation_step(val_data, self.model, self.val_metrics, val_steps, log = False, wandb = self.wandb, args = self.args, file_name = self.file_name)
+  File "/home/da2986/Summarization/src/training_scripts/xsum_random/generate_and_evaluate.py", line 59, in validation_step
+    out = model(input_ids = data['article']['input_ids'].cuda(), labels = data['summary']['input_ids'].cuda(), attention_mask = data['article']['attention_mask'].cuda())
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1401, in forward
+    outputs = self.model(
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1258, in forward
+    decoder_outputs = self.decoder(
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/nn/modules/module.py", line 1190, in _call_impl
+    return forward_call(*input, **kwargs)
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 1025, in forward
+    attention_mask = self._prepare_decoder_attention_mask(
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/models/pegasus/modeling_pegasus.py", line 877, in _prepare_decoder_attention_mask
+    combined_attention_mask = _make_causal_mask(
+KeyboardInterrupt
