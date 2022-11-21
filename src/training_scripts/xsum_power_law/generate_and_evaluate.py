@@ -30,48 +30,41 @@ def create_model(model_name, max_length):
     return model
 
 
-class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
-    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
+class XSumDatasetPowerLaw(torch.utils.data.Dataset):
+    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1, divisor = 2):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
-        self.dataset = load_dataset('cnn_dailymail', '3.0.0', split = split)
+        self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
         self.first_selection = first_selection
-        
-        #we want to tokenize both our inputs and outputs before passing to the model
-        #self.inputs = self.tokenizer(self.dataset['article'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
-        #self.outputs = self.tokenizer(self.dataset['highlights'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
+        self.probability = np.ones(1000) * 1000000
+        for i, val in enumerate(self.probability):
+            if i == 0: continue
+            self.probability[i] = self.probability[i-1] / divisor
+        self.indexes = np.arange(1000)
 
     def __len__(self):
         return len(self.dataset)
 
     def __getitem__(self, idx):
-        text = self.dataset[idx]['article']
-        text = text.split('. ')
+        text = self.dataset[idx]['document']
+        text = text.split('.')
         
-        max_idx = max(1, len(text) - 3)
-        final = text[:self.first_selection]
-        final = final + text[np.random.randint(max_idx):]
+        max_idx = max(1, len(text))
+        choices = np.random.choice(self.indexes[:max_idx], max_idx, replace = False, p = self.probability[:max_idx] / self.probability[:max_idx].sum())
+
+        current_size = 0
+        counter = 0
+        while current_size < self.max_length and counter < max_idx:
+            current_size += len(text[choices[counter]])
+            counter += 1
+
+        choices = sorted(choices[:counter])
+        final = list(np.array(text)[choices])
         text = '. '.join(final)
 
-        summary_text = self.dataset[idx]['highlights']
+        summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
-
-def reset_metrics(metrics, val = False):
-    for i in metrics:
-        metrics[i] = 0
-    if val:
-        metrics['BERT Score'] = []
-        metrics['rouge1_f'] = []
-        metrics['rouge2_f'] = []
-        metrics['rougeL_f'] = []
-        metrics['rouge1_p'] = []
-        metrics['rouge2_p'] = []
-        metrics['rougeL_p'] = []
-        metrics['rouge1_r'] = []
-        metrics['rouge2_r'] = []
-        metrics['rougeL_r'] = []
-    return metrics
 
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None, file_name = None):
@@ -83,7 +76,6 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         out = model(input_ids = data['article']['input_ids'].cuda(), labels = data['summary']['input_ids'].cuda(), attention_mask = data['article']['attention_mask'].cuda())
         generate_out = model.generate(input_ids = data['article']['input_ids'], attention_mask = data['article']['attention_mask'])
         model_out = val_dataset.tokenizer.batch_decode(generate_out)
-        print(steps)
 
         if steps < args.write_steps:
             file = open(file_name, "a")
@@ -118,7 +110,6 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
 
         if log:
             log_metrics(metrics, steps, args, wandb = wandb, train = False)
-            reset_metrics(metrics, val = True)
         return None
 
 
@@ -137,6 +128,7 @@ if __name__ == '__main__':
     parser.add_argument('--write_steps', nargs='?', default = 10,  type=int)
     parser.add_argument('--num_beams', nargs='?', default = 4,  type=int)
     parser.add_argument('--first_selection', nargs='?', default = 1,  type=int)
+    parser.add_argument('--divisor', nargs='?', default = 2,  type=float)
     parser.add_argument('-log', action='store_true', help='Use wandb')
 
     #create model and load weights
@@ -149,7 +141,7 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print("Using device:", device)
 
-    val_dataset =PegasusCNNDatasetNRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation', first_selection = args.first_selection)
+    val_dataset = XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'validation', divisor = args.divisor, first_selection = args.first_selection)
     val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
 
     val_metrics = {}
@@ -164,10 +156,10 @@ if __name__ == '__main__':
     val_metrics['rouge2_r'] = []
     val_metrics['rougeL_r'] = []
     val_metrics['BERT Score'] = []
-    
-    generations_name = 'Generations' + args.name + '.txt'
 
-    with open(generations_name, 'w') as file:
+    generation_name = 'generation_{name}.txt'.format(name = args.name)
+
+    with open(generation_name, 'w') as file:
         file.write(f'Generations for {args.name}\n')
 
 
@@ -182,7 +174,7 @@ if __name__ == '__main__':
                             val_dataset, 
                             val_metrics, 
                             wandb = wandb, 
-                            file_name = generations_name)
+                            file_name = generation_name)
     bertscore = load("bertscore")
 
     evaluator.evaluate()

@@ -1,369 +1,409 @@
 Generations for Eval_Pegasus_XSum_1Random_512
-Article text: The specialist system monitors the strain from wind, traffic and the weight of the bridge.
-Specialists were brought in to install the monitors which will feed data back to the control room.
-The bridge was closed to all traffic on 4 December after a crack was discovered in a truss under the carriageway.
-Engineers hope to have it repaired and open to traffic again by 4 January.
-An inquiry will begin after that, with MSPs agreeing that the "immediate" priority should be to get the bridge reopened.
-The lorries were sent over the bridge in different patterns over five hours of tests on Saturday.
-An inquiry will focus primarily on the structural defect, and an independent technical adviser will be asked to take part.
-The inquiry aims to call officials from bridge operator Amey, its predecessor the Forth Estuary Transport Authority, Transport Scotland staff and Transport Secretary Derek Mackay.
+Article text: The foxhound was deliberately run over near Conwy in February after police could not bring it under control.
+The review said no action should be taken against the officers involved.
+But it also recommended the force should introduce new procedures for dealing with similar incidents in future.
+Traffic police drove at the dog at high speed on the dual carriageway between Llanfairfechan roundabout and the Conwy tunnel in the early hours of 22 February.
+Firearms officers were sent to the scene, but there was concern they would not be able to get a safe shot.
+The dog had gone missing from a hunt and police said the owner supported the force's decision.
+The force voluntarily referred the incident to the Independent Police Complaints Commission because of the level of public concern.
+The IPCC determined that North Wales Police should continue with its own investigation and advised on the makeup of the review panel, which included a vet, a representative of the RSPCA and a senior officer from the Metropolitan Police's Dog Support Unit.
+The review has also recommended that patrol vehicles should carry slip leads and nets, which may have helped in this case.
+Officers should get expert advice from dog handlers and vets if a similar situation happens again, it said.
+Deputy Chief Constable Gareth Pritchard said: "It is regrettable that the dog died in this way and I fully understand the level of public concern.
+"I am grateful to the panel who gave their time and expertise to carefully consider all aspects of the incident and for their diligence in coming to their conclusions and recommendations, which along with the learning points are being put in place by the force."
 ----------------------------------------
-Ground truth Summary: Ten lorries have been used during tests of a new state-of-the-art structural monitoring system installed at the Forth Road Bridge for the first time.
+Ground truth Summary: Officers were justified in using a patrol car to kill a dog running loose on the A55, a review for North Wales Police has said.
 ----------------------------------------
-Generated Summary: Engineers have installed a monitoring system on the Forth Road Bridge as part of an investigation into a crack in a truss.
+Generated Summary: An independent review into the death of a dog that was deliberately run over by a police car has found no evidence of wrongdoing.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: In a nerve-stricken performance, Boreham Wood struggled to create anything at a quiet Meadow Park.
-The Silkmen had the game's best chances, as Chris Holroyd tested Boreham Wood's James Russell before Kristian Dennis fired wide.
-Harry White had the Wood's best chance, shooting over the bar as neither side could break the deadlock.
+Article text: Daniel Swift sent explicit pictures to the 14-year-old and arranged for her to travel to Lincoln to meet him for sex.
+He was caught when those behind the sting detained him and called police.
+Swift, 47, of Princess Street, admitted charges of attempting to sexually communicate with a child and attempting to meet a child following grooming.
+He was ordered to be detained in a secure psychiatric unit after Lincoln Crown Court heard he had been treated for over 25 years for mental health problems and had been diagnosed as suffering from paranoid schizophrenia.
+Richard Thatcher, prosecuting, told the court: "This case arises through the defendant's contact through social media with, as he believed her to be, a 14-year-old girl called Emma.
+"She was actually an adult woman who had set up that alter ego on social media," he said.
+The court heard he first made contact with 'Emma' in April when she told him her age.
+"He began by asking if she wanted a daddy to look after her," Mr Thatcher told the court.
+"There was a conversation as to whether this involved him becoming involved with her mother
 ----------------------------------------
-Ground truth Summary: Boreham Wood's 0-0 draw at home to Macclesfield saw them fall into the National League relegation zone.
+Ground truth Summary: A man who groomed and arranged to meet what he believed to be a young school girl was trapped by internet vigilantes, a court has heard.
 ----------------------------------------
-Generated Summary: Boreham Wood missed out on a place in the National League play-offs as they were held to a goalless draw by Macclesfield.
+Generated Summary: A man who tried to have sex with a 14-year-old girl he thought was his daughter has been detained in a secure psychiatric unit.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Lawrence, who competed for Wales at the 2014 Commonwealth Games, finished her swim, bike and run in a total time of four hours, nine minutes and 11 seconds on the Sunshine Coast.
-The 26-year-old was nearly two minutes ahead of Australian two-time winner Melissa Hauschildt.
-Fellow Welsh competitor Leanda Cave won the same title in 2012.
+Article text: The decision comes as some clinicians warned it could put patients at risk.
+The unit would carry out complex vascular surgery for potentially life-threatening conditions like abdominal aortic aneurysms.
+However, Betsi Cadwaladr University Health Board said this only represented about 20% of its vascular treatments.
+The health board insisted the majority of its vascular services would still be carried out at the other hospital sites across north Wales, including Ysbyty Gwynedd in Bangor and Wrexham Maelor Hospital.
+"Currently, around 300 complex vascular surgery operations are carried out each year in North Wales - representing about 20% of our vascular activity - and we are committed to continuing the majority of our work at Ysbyty Gwynedd, Ysbyty Glan Clwyd and Wrexham Maelor Hospital," said Dr Evan Moore, the board's executive medical director.
+"Units such as these - which provide a hub for major vascular arterial operations - are being created across the UK, and there is strong evidence that such sites improve clinical outcomes and patient safety, whilst attracting the best staff and help to develop the best infrastructure."
+Vascular medicine covers a wide range of medical procedures and interventions, from screening for risks of aneurysms - where weakened walls of major blood vessels could burst - to treating varicose veins, stroke prevention and helping ensure dialysis patients can continue their treatment.
+But speaking ahead of the announcement, one consultant physician at Ysbyty Gwynedd raised concerns.
+"This is an integrated service, and other aspects of what we do here would be threatened - radiology, urology and gastroenterology to name just a few," Dr Mahdi Jibani told BBC Wales.
+Ken Jones of the North Wales Kidney Association added: "If this service goes, it will cost lives, there's no two ways about it."
+Arfon assembly member Sian Gwenllian said it represented "yet another example of services creeping eastwards".
+But Dr Moore argued that far from hitting services at other hospitals in the region, vascular services would benefit from a specialised hub.
+"Hubs such as the one we have planned, built on the considerable knowledge, skills and practices already here, would protect connected services at these locations.
+"These include outpatient consultations, investigations, diagnostic procedures, varicose vein and day case surgeries
 ----------------------------------------
-Ground truth Summary: Swansea triathlete Holly Lawrence has won the women's half ironman 70.3 World Championship in Australia.
+Ground truth Summary: Health chiefs in north Wales have confirmed plans to site a specialist vascular unit at Glan Clwyd Hospital in Denbighshire.
 ----------------------------------------
-Generated Summary: Wales' Hannah Lawrence has won the Women's Triathlon World Championship in Australia.
+Generated Summary: Plans to create a vascular surgery unit at Wrexham Maelor Hospital have been announced.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The healthcare policy has serious IT issues, prompting the joke: "In 2008 my slogan was: 'Yes we can.' In 2013 my slogan was: 'Control-alt-delete.'"
-And he ridiculed media commentators for their apparent obsession with Mr Putin's bare chest.
-Dozens of celebrities, journalists and politicians were at the dinner.
-The roll-out of healthcare.gov, Mr Obama's main policy initiative of his second term, provided much of the humour.
-The president made several references to computer malfunctions.
-"Does anybody know how to fix this," he asked, pretending that the overhead projector had failed to work.
-Health Secretary Kathleen Sebelius, who quit as a result of the IT issues, stepped up and said: "I got this. I see it all the time."
-The president used Mr Putin as a way of lampooning some conservative commentators and political opponents.
-"Last year [conservative commentator] Pat Buchanan said Putin is headed straight for the Nobel Peace Prize... to be fair they give those to just about anybody these days. So it could happen," he said. Mr Obama was given the award in 2009 having been nominated for it after less than two weeks in office.
-"[Republican] Mike Huckabee and [conservative commentator] Sean Hannity keep talking about his bare chest, which is kind of weird."
-The charity event is traditionally used by presidents to ridicule their opponents, but also laugh at themselves.
+Article text: "His condition is considered stable" and "it is too early to make any predictions about his future health," Lola Karimova-Tillyaeva wrote on her Instagram account.
+Ms Karimova-Tillyaeva pleaded for people to "refrain from speculations".
+Mr Karimov, 78, has been leader of the former Soviet republic since before independence in 1991.
+In an unusual move on Sunday, the Uzbek government admitted he was receiving treatment but did not give details.
+The BBC's Abdujalil Abdurasulov says that the announcement caught many by surprise in authoritarian Uzbekistan, a country where any information about the president's health is treated like a state secret.
+President Karimov is known to have had health issues, but the government has never previously issued a statement about his health.
+It has become a tradition in Uzbekistan for the president to dance during major holiday festivities.
+By doing so Mr Karimov sends a message to the nation that he is fit and healthy.
+Everyone was expecting the president to attend Independence Day celebrations - perhaps the government's confirmation that he is in hospital was a necessary move to prepare the public for his non-appearance.
+Tashkent-based human rights campaigner Surat Ikramov says that most people are too afraid to talk openly about Mr Karimov's hospitalisation in one of the most repressive countries in the world.
+"Any vocalisation that Mr Karimov's power is not absolute is seen as a threat to the entire system," says Human Rights Watch spokesman Steve Swerdlow.
+"Even if he survives this illness or whatever it is, this is an acknowledgement of [Mr] Karimov's mortality, and of the fact that the system is about to change."
+Uzbekistan opens up on president's health
+Profile: Islam Karimov
+The Kremlin said on Monday that it deeply regretted Mr Karimov's illness
 ----------------------------------------
-Ground truth Summary: Barack Obama has used the annual White House correspondents' dinner to crack jokes about his healthcare policy, his political opponents and Vladimir Putin.
+Ground truth Summary: Uzbek President Islam Karimov is in intensive care after suffering a brain haemorrhage, his daughter says.
 ----------------------------------------
-Generated Summary: US President Barack Obama has poked fun at himself and Russian President Vladimir Putin at the annual White House Correspondents' Association dinner.
+Generated Summary: The wife of Uzbekistan's President Islam Karimov has said he is recovering well after being admitted to hospital for treatment.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The Scotland full-back, 30, joined the Warriors in 2009 from London Welsh and has since played more than 100 games.
-"I've witnessed huge growth at the club and we're now selling out Scotstoun for the majority of our home games and it's a great place to play rugby," he said.
-Meanwhile, 24-year-old full-back Glenn Bryce, who has made 13 appearances, will join Edinburgh in the summer.
-He joins team-mate Duncan Weir in switching to the Warriors' Scottish rivals.
-Bryce told the Warriors website: "It was a really hard decision to leave Glasgow but I'm hoping to kick on at Edinburgh and play as regularly as possible next season.
-"Getting involved during the Rugby World Cup period for Glasgow was a high for me
+Article text: Some people have been waiting up to three hours to clear passport controls, with freight traffic building up on roads approaching the Kent port.
+A Port of Dover spokesman advised customers to allow plenty of time for their journey.
+France has been under a state of emergency since last November.
+The country's National Assembly voted to extend the measure by six months in response to last week's attack in Nice in which 84 people were killed and scores injured when a lorry was driven into crowds.
+The state of emergency was brought in after terror attacks in Paris on 13 November that left 130 people dead.
+Latest updates on the Port of Dover and other Kent stories
+A P&O Ferries spokesperson said: "We are doing everything we can to allow passengers to begin their journey as quickly as possible.
+"If passengers miss their allocated ferry they will be able to board the next available ferry at no additional cost."
+Disgruntled travellers have taken to Twitter to express their dismay.
+John Hippisley said "terrible PR for the French Authorities I appreciate the need to protect the border but clearly all tourist not terrorists".
+The extra security checks have been causing delays since the early hours.
+DFDS Seaways advised customers on Twitter at 13:00 BST that they should "allow 180 minutes to complete the check-in process..
 ----------------------------------------
-Ground truth Summary: Peter Murchie has signed a new one-year contract with Glasgow Warriors, keeping him at Scotstoun until May 2017.
+Ground truth Summary: Thousands of Cross-Channel ferry passengers are facing long delays at the Port of Dover amid heightened French security checks.
 ----------------------------------------
-Generated Summary: Gregor Townsend has signed a new two-year contract with Glasgow Warriors.
+Generated Summary: Passengers on P&O Ferries and DFDS Seaways have been stranded at the Port of Dover after France extended its state of emergency.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: During a visit to County Down in June, Theresa May said a Leave vote would end an open north-south border.
-She also said it was inconceivable to suggest a Leave vote would not have a negative impact on the border.
-However, she said she wants to see no return to old style border controls.
-In her first interview as prime minister with a journalist from Northern Ireland, she said she wants to see free movement.
-As home secretary, Mrs May visited County Down in June and told the BBC: "If we are out of the European Union with tariffs on exporting goods into the EU, there would have to be something to recognise that between Northern Ireland and the Republic of Ireland.
-"And if you pulled out of the EU and came out of free movement, then how could you have a situation where there was an open border with a country that was in the EU and had access to free movement?"
-But speaking to BBC News NI at Downing Street on Friday, Mrs May said she agreed with the Irish government and Northern Ireland Executive about not seeing a "return to the borders of the past".
-She would work "closely together" with them to ensure free movement across the border, she added.
-Mrs May denied that she had changed her view.
-"What I said was that of course if we leave and there is a land border with a country within the European Union, that does bring a change to that relationship across the border," she said.
-"All parties are clear about the intent and will to ensure we have an arrangement that isn't a return to the borders of the past."
-Questioned on how the border would be policed or controlled after Brexit, Mrs May said: "We are discussing with the Irish government at the moment how we can develop these ideas in ways that are going to ensure that we deliver on the intention of all parties."
-One of Ms May's first acts as prime minister was to visit Belfast, and she has pledged that the Northern Ireland Executive would be fully involved in Brexit discussions.
-"We are going to make a success of Brexit, there are real opportunities for the United Kingdom," she said.
-"We need to grasp those opportunities around the world but the devolved administrations will all be - and the government in Belfast will be - involved and fully engaged in the discussions we are having."
-It is 100 days days since the EU referendum and the result has transformed the political landscape.
-The issue of Brexit is likely to dominate the Conservative Party conference which begins this weekend.
-The annual gathering in Birmingham marks Theresa May's first as leader and she will make her keynote address next Wednesday.
-Although the UK voted to leave the European Union, 56% of people in Northern Ireland voted to remain.
+Article text: Geoffrey Sutcliffe admitted causing the death of Lucille Abraham, 92.
+When applying to renew his driving licence, a court heard, Sutcliffe said he met the "required eyesight standard" and did not need glasses to drive.
+He was sentenced to eight months in prison, suspended for two years.
+Sutcliffe hit Ms Abraham, from Baildon, at the junction of Godwin Street and Kirkgate, in Bradford, last October.
+During an eye test the previous month, Prosecutor Michael Smith said, Sutcliffe told the optometrist he was not a driver.
+Had he done so, Mr Smith said, she would have said that his eyesight had failed the visual acuity test.
+"The defendant suffers from cataracts in both eyes and it seems that the medical opinion here is that he should not undergo an operation on his right eye because effectively that's the only eye that can see," said Mr Smith.
+Barrister Ken Green, for Sutcliffe, said he had been driving for over 60 years without any previous offending and his client intended never to drive again and had surrendered his licence.
+"He will never forget that day and I am sure he will never forgive himself for that error that he made," said Mr Green.
+Passing sentence, Judge Colin Burn said "It is obvious that you should not, with the benefit of hindsight, have been driving at all on that day.
+"Your eyesight wasn't up to it as a matter of objective fact."
+He added: "The misrepresentation you made about your eyesight was a contributory cause of this collision because you shouldn't have been driving at all."
 ----------------------------------------
-Ground truth Summary: The prime minister appears to have rowed back on her comments during the EU referendum campaign that there could be Irish border controls if the UK left the EU.
+Ground truth Summary: An 81-year-old driver whose poor eyesight meant he should not be on the road has been given a suspended jail sentence after he hit and killed a woman.
 ----------------------------------------
-Generated Summary: The prime minister has said she wants to see no return to the "borders of the past" after Brexit.
+Generated Summary: A 93-year-old man has been given a suspended prison sentence for causing the death of an elderly woman in a hit-and-run collision.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: He was a reserve player at Derby before his career was ended by injury.
-Guthrie became the Rams' trainer and then kit manager, working with more than a dozen managers including Brian Clough over the course of six decades.
-He was appointed an MBE in 2009 for services to football and has a stand named after him at the iPro Stadium.
-Despite falling ill four years ago, he was still a regular on match days and usually sat in his familiar seat in the home dugout until very recently.
-"It goes without saying everyone at Derby County is saddened to learn of the passing of Gordon," said Sam Rush, the club's president and chief executive.
-"Our thoughts and condolences are with Gordon's family and friends at this time."
-A minute's silence will be held in memory of Guthrie prior to Derby's EFL Cup third-round tie against Liverpool on Tuesday.
-Former striker Andy Garner, who began his career at Derby and more recently was part of their coaching staff, said Guthrie was like a father figure to youngsters at the club.
-"I found it quite daunting, being a young man and coming to Derby from a small village," Garner told BBC Radio Derby.
-"Although I was a big, strong lad, I needed somebody like Gordie
+Article text: He said at an industry event that Britain's largest carmaker by volume would like to double production from 500,000 to one million cars a year.
+But it would depend on the government helping to upgrade power supplies and invest in surrounding infrastructure.
+The firm would also like a guarantee on access to engineering talent.
+A company spokesman said the production target was "very much a want, rather than a will", but declined to commit on precise job numbers.
+The 10,000 figure was mentioned by Lord Kumar Bhattacharyya, chairman of Warwick Manufacturing Group, which is part of Warwick University
 ----------------------------------------
-Ground truth Summary: Derby County's longest-serving staff member Gordon Guthrie MBE, who spent more than 60 years with the club, has died at the age of 86.
+Ground truth Summary: Jaguar Land Rover's chief executive Dr Ralf Speth has laid out a future vision which could see 10,000 new jobs created in the West Midlands.
 ----------------------------------------
-Generated Summary: Gordon Guthrie, the longest-serving member of Derby County's coaching staff, has died at the age of 85.
+Generated Summary: General Motors wants to create up to 10,000 new jobs at its plant in Coventry, the company's chief executive, Alan Mulally, has said.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Saints director of rugby Jim Mallinder confirmed the news following his side's 25-23 defeat at London Irish.
-England international Brookes, 25, had surgery on Thursday after suffering an injury against Racing 92 in the European Champions Cup.
-"It's a big blow for us as he's been playing well all season and will be out for quite a while," Mallinder said.
-Brookes, capped 15 times by his country, joins fellow prop Alex Corbisiero on Northampton's injury list.
-Hooker Dylan Hartley did return for Saints at the Madejski Stadium on Boxing Day, lasting 60 minutes in his first appearance since 7 November having recovered from concussion.
+Article text: The Cumbrians have gone 11 League Two games without defeat since the start of the campaign - a club record - and are up to third in the table.
+Carlisle's early pressure failed to yield too many clear-cut chances although Michael Raynes was inches off sliding home a Jason Kennedy flick-on after Danny Grainger swung over a corner from the right.
+The home side were second best for periods before half-time, but improved after the break and Raynes forced Sam Walker to tip his close-range header on to the crossbar.
+Raynes was involved again when Kennedy gave Carlisle the lead in the 50th minute, the defender heading Nicky Adams' corner back across the face of goal for Kennedy to force home.
+Colchester missed a great chance to level the scores in the 66th minute when Sammie Szmodics found himself one-on-one with Gillespie but lifted the ball over the goalkeeper and over the bar from eight yards.
+Szmodics then had a diving header cleared off the line, but substitute Ibehre relieved the tension in the 79th minute when his header from Grainger's corner on the left slipped through Walker's hands and into the net.
+Report supplied by the Press Association.
+Match ends, Carlisle United 2, Colchester United 0.
+Second Half ends, Carlisle United 2, Colchester United 0.
+Glen Kamara (Colchester United) wins a free kick in the defensive half.
+Foul by Charlie Wyke (Carlisle United).
+Attempt blocked. Dion Sembie-Ferris replaces Tarique Fosu-Henry.
+Attempt blocked. Drey Wright (Colchester United) right footed shot from outside the box is blocked.
+Attempt saved. Drey Wright (Colchester United) right footed shot from the right side of the box is saved in the centre of the goal.
+Attempt missed. Jason Kennedy (Carlisle United) left footed shot from outside the box is high and wide to the left.
+Goal!  Carlisle United 1, Colchester United 0. Jason Kennedy (Carlisle United) right footed shot from very close range to the high centre of the goal following a corner.
+Corner,  Carlisle United. Conceded by Lewis Kinsella.
+Attempt saved. Michael Raynes (Carlisle United) header from the centre of the box is saved in the top left corner.
+Corner,  Carlisle United. Conceded by Sam Walker.
+Attempt saved. Danny Grainger (Carlisle United) left footed shot from outside the box is saved in the bottom right corner.
+Luke Prosser (Colchester United) is shown the yellow card for a bad foul.
+Shaun Miller (Carlisle United) wins a free kick in the defensive half.
 ----------------------------------------
-Ground truth Summary: Northampton prop Kieran Brookes is set for an extended spell on the sidelines after having an operation on his knee.
+Ground truth Summary: Second-half goals from Jason Kennedy and Jabo Ibehre helped Carlisle beat Colchester 2-0 and extend their unbeaten start to the season.
 ----------------------------------------
-Generated Summary: Northampton prop Josh Brookes will miss the rest of the season after suffering a knee injury.
+Generated Summary: Jabo Ibehre scored his first goal for Carlisle United as they beat Colchester United at Brunton Park.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Horne won her first national title in the team pursuit at the National Track Championships in Manchester last week.
-The 26-year-old says she is leaving her road cycling team in order to turn her attention to the 2016 Rio Games.
-"This is the right thing for me to do now and put my eggs into one basket and try and make the Games," Horne said.
-Warwickshire-born Horne, who represented Wales at the 2014 Commonwealth Games, won the national team pursuit title with Joanna Rowsell Shand, Dame Sarah Storey and Katie Archibald.
-Horne has spent four years working alongside Storey, who has announced her team Podium Ambition will turn professional for the start of the Women's World Tour in 2016.
-But with just four competitions left to gain selection, Horne insists her main concern is being part of the team pursuit in Rio.
-"For me moving forward, the main focus between now and Rio, will be team pursuit," Horne told BBC Radio Wales Sport.
-"Everything is about going quicker over that 4km distance with the girls.
-"The smartest thing to do is to focus solely on that and leave the road."
+Article text: Chief Inspector of Constabulary Sir Thomas Winsor said forces had mainly "done well" with 20% cuts in four years and more savings were likely.
+Sir Thomas said a "smaller service" would have to "work smarter".
+In December, the chief of the Met Police warned public safety would be at risk unless radical measures were taken to deal with funding cuts.
+But speaking on BBC Radio 4's The World This Weekend, newly knighted Sir Thomas said: "Austerity is here to stay.
+"The police have already made, and done it well in the main, cuts of 20% in the last four years and they are facing cuts of a further 5% next year.
+"There will inevitably be a time where they can't take any more but let us remember that measured crime has fallen dramatically - but so have the demands made on the police."
+Asked if there was room for further cuts, Sir Thomas said: "In some respects there are further efficiencies to be obtained, that is undoubtedly the case.
+"They [police forces] need to work smarter because they will be working smaller."
+Sir Thomas said forces had not done enough work to analyse new demands being made on them, particularly with regards to cyber crime.
+He also said that while any crime reported to the police had to be taken seriously, there were some crimes that were "more serious than others".
+"Nobody would argue that shoplifting is as serious as a violent assault and therefore the police need to look for the crimes that matter most to people, that do greatest harms to communities - serious and organised crime, drugs, violent offences, the grooming and sexual exploitation of children," he said.
+Last month, Metropolitan Police commissioner Sir Bernard Hogan-Howe said that unless police "act fast" and with "courage" to implement far-reaching reforms, the cuts would endanger public safety.
+He suggested police forces in England and Wales should merge and share resources with other emergency services.
+Sir Hugh Orde, the Association of Chief Police Officers' president, has also recently warned that police forces were struggling to deal with reductions in funding.
 ----------------------------------------
-Ground truth Summary: Welsh cyclist Ciara Horne is giving up the chance to ride professionally on the Women's World Tour next year in a bid to win an Olympic title.
+Ground truth Summary: Police cuts in England and Wales are "here to stay", the head of the police watchdog has said.
 ----------------------------------------
-Generated Summary: Welsh cyclist Ciara Horne says she is leaving her road racing team to concentrate solely on the team pursuit at the Rio Olympics.
+Generated Summary: Police forces in England and Wales are facing cuts of 5% next year, a senior officer has said.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The National Enquirer and RadarOnline reported a 35-minute recording, apparently of the actor, making threats about former porn star Scottine Ross.
-Ms Ross has taken legal action against Sheen, claiming he physically abused her and had sex with her without disclosing his HIV positive status.
-Sheen has not commented on the reports.
-Earlier this week, police officers served a search warrant on the New York headquarters of American Media Inc, the parent company of both RadarOnline and the Enquirer.
-According to the warrant, the Los Angeles police investigation was triggered when Ms Ross made a complaint on 31 March saying she feared for her life after reading the reports.
-On Thursday, the publications - neither of which have published the audio alleged to contain the star saying he would like to see a former fiancee "have her head kicked in" - refused to hand over the material to police.
-Dylan Howard, the Enquirer's editor-in-chief and editorial director of RadarOnline, told Reuters the outlets had no plans to turn over documents or identify their sources.
-He said the search warrant, signed by an LA County Superior Court judge, was illegal under both state and federal law preventing the use of such warrants against media organisations relating to "newsworthy" information.
-He said: "We do believe that a judge did issue this order against the law, and that's why we will not be complying with its order."
-In a televised interview in November 2015, Sheen said he had been diagnosed with HIV four years earlier.
-The former star of Two and Half Men and films including Wall Street and Platoon admitted his history of drink and drug abuse was a "bad decision" but said it was "impossible" he would have passed HIV on to anyone else.
-In December, Ms Ross - who was engaged to Sheen in 2014 before the relationship was broken off - filed a legal action against him accusing him of "physical, psychological and emotional abuse".
+Article text: The Environment Department published its Island Development Plan setting out planning policy for the island.
+It took three years to produce and includes proposals for increasing the amount of affordable housing and the regeneration of old vinery sites.
+Environment Minister Deputy Yvonne Burford claimed the plan balances the improving the economy with environment.
+If approved by the States, housing developers building five or more units would be required to make up to 30% available as affordable accommodation.
+Before the draft Island Development Plan is adopted by the States it will be subject to independent review by two planning inspectors.
 ----------------------------------------
-Ground truth Summary: Actor Charlie Sheen is facing a police investigation over claims he made threats against an ex-girlfriend, who is suing him for assault and battery.
+Ground truth Summary: Housing developers could be made to make 30% of a development affordable housing under new government plans.
 ----------------------------------------
-Generated Summary: Two US media outlets have refused to hand over audio recordings they say they have of Charlie Sheen threatening to kill his ex-fiancee.
+Generated Summary: A draft plan for development on the Isle of Man has been published.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Heritage, tourism, climate change and innovation projects will be backed.
-North and west Wales and south-east Ireland stand to benefit the most.
-Finance Minister Jane Hutt said the Ireland-Wales Co-operation Programme was "a unique partnership" and the cash would build on "our shared aspirations for economic growth and job creation".
+Article text: He is backed by 152 constituency parties, with Andy Burnham in second place with 111, then Yvette Cooper with 106 and Liz Kendall with 18.
+The supporting nominations have no weight in the vote but give an insight into the views of active party members.
+Mr Corbyn also has the backing of the UK's two largest trade unions.
+All registered Labour Party supporters and affiliated supporters who join before midday on the 12 August can vote in the contest
 ----------------------------------------
-Ground truth Summary: A plan to spend £80m enhancing economic links between Wales and Ireland has been approved by the European Commission.
+Ground truth Summary: Jeremy Corbyn is the most popular candidate for Labour leader among local constituency groups, according to the latest party nomination figures.
 ----------------------------------------
-Generated Summary: The UK and Irish governments have agreed to invest more than £1bn in projects between the two countries.
+Generated Summary: Labour leadership candidate Jeremy Corbyn has secured the backing of more than a third of the party's MPs and MEPs.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The debate over the legislation reflected deep divisions in Argentina, which is a mainly Roman Catholic country.
-BBC Mundo looks at the key aspects of the law and the situation across Latin America:
-What does the law consist of?
-The law foresees a modification of article 2 of the Argentine Civil Code, which establishes matrimony as being between two individuals of different gender.
-The new legislation will replace the expression "man and woman" with "couple".
-Homosexuals will have exactly the same rights as heterosexuals.
-This includes the right to adopt, which was one of the most controversial aspects of the proposed bill, inheritance, pension rights and other rights relating to social security.
-When does the law come in to force?
-The law will take effect when it has been published in the official gazette, which could take a couple of days.
-What is the difference between civil union and marriage?
-Civil partnerships bestow many but not all of the rights and obligations of marriage.
-The scope of same-sex marriage and civil union laws vary from country to country.
-For example, Portugal's gay marriage law does not allow adoption, while Uruguay's civil partnership legislation does.
-However, the difference in scope is not just legal but often has a significant symbolic and cultural component.
-For those who support same-sex marriage, it is a historic advance that grants rights to people irrespective of sexual orientation.
-For those opposed, recognising same-sex unions as marriage undermines the traditional concept of family.
-Where else is same-sex marriage recognised?
-Just a handful of countries recognise gay marriage - see box.
-In the US, same-sex couples can marry in five states and in Washington DC.
-Some of the countries that recognise civil partnerships are: Andorra, Australia, Austria, Czech Republic, Denmark, Slovenia, Finland, France, Hungary, Iceland, Israel
+Article text: The musician was sued by Daniel Ramos after the photographer said West attacked him outside an LA airport.
+Gloria Allred, the lawyer representing Ramos, says the case has now been resolved a week before the trial was due to start.
+She has released a photo of the pair shaking hands and smiling.
+The lawsuit said that West attacked Ramos in 2013 after the paparazzo asked the rapper why he wouldn't talk to photographers.
+"Celebrities are not above the law, and they have no right to physically attack someone simply because they were asked a question," Allred wrote in a statement.
+Shawn Holley, West's lawyer, has not made a comment about the settlement.
+In a statement, Allred says the other details relating to the legal agreement will not be made public, but the apology was an important part of the deal.
+West, 37, pleaded no contest last year to misdemeanour battery over the attack
 ----------------------------------------
-Ground truth Summary: Argentina has become the first country in Latin America to legalise same-sex marriage.
+Ground truth Summary: Kanye West has settled a lawsuit with a paparazzo with a handshake and an apology, the photographer's lawyer says.
 ----------------------------------------
-Generated Summary: Argentina's President Cristina Fernandez de Kirchner has signed into law a bill that will allow same-sex couples to marry.
+Generated Summary: Kanye West has apologised to a paparazzo who accused him of attacking him, his lawyer has said.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Downie, 15, became the first British woman to win an international all-around medal in her first senior year.
-Purvis also finished third in the men's competition to claim his second career European all-around bronze.
-Media playback is not supported on this device
-Fellow Britons Sam Oldham and Claudia Fragapane finished sixth in their respective overall competitions.
-Downie, in her first senior year, scored 56.623, behind winner Giulia Steingruber of Switzerland and Russia's Maria Kharenkova.
-"I'm over the moon
+Article text: The Dutch-Romanian pairing won 7-6 (7-5) 6-4 6-4 in one hour and 52 minutes.
+Murray had hoped to claim a first men's doubles Slam title having won the mixed doubles with Jelena Jankovic in 2007.
+The 29-year-old was watched by younger brother Andy on Centre Court, 24 hours after his singles semi-final defeat.
+"I didn't know he was coming till I heard him shouting," said Jamie Murray.
+"He was shouting all the time, encouragement. "It's a big tie for us. There's going to be a lot of people coming out to support. Motivation is high for the match."
+Murray and Peers had three chances to break serve in the first five games of the doubles final but could not convert, and Rojer and Tecau took advantage.
+Rojer hammered away a smash to convert their third set point in the tie-break, and when Peers netted a volley to drop serve early in the second, the lead was convincing.
+A Peers double fault invited huge pressure at 4-4 in the third and Rojer proved more solid than Murray at the net to earn the decisive break.
+The fourth seeds served out the match to love and fell to their knees in celebration, with Tecau finally getting his hands on the trophy after three times finishing runner-up.
+"It was a good tournament for us," added Murray, who had never previously been past the quarter-finals of the men's doubles in a Slam.
+"We got to the final of Wimbledon, which is not so easy to do.  I mean, my best result in a Grand Slam by quite some distance, I guess.
+"It's sad to lose but I guess overall it was a positive tournament."
 ----------------------------------------
-Ground truth Summary: Ellie Downie and Dan Purvis each delivered Great Britain a bronze medal at the European Gymnastics Championships in Montpellier.
+Ground truth Summary: Britain's Jamie Murray and Australian John Peers missed out on a first Grand Slam doubles title together as they lost to fourth seeds Jean-Julien Rojer and Horia Tecau in the Wimbledon final.
 ----------------------------------------
-Generated Summary: Britain's Ellie Downie and James Purvis won bronze medals at the European Gymnastics Championships in Glasgow.
+Generated Summary: Britain's Jamie Murray and Australia's John Peers were beaten in the Wimbledon men's doubles final by Jean-Julien Rojer and Horia Tecau.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: In the latest mishap, US citizens Bob Weise and Steve Shapiro, both 71, had to seek help in Hayle Harbour, Cornwall, when their sailing boat tipped over, causing a fire on board.
-Veteran sailor Sir Robin Knox-Johnston is among those criticising the pair.
-The duo previously told BBC News they were experienced enough for the trip.
-The boat, named Nora, left Norway in July and is aiming for the US state of Maine.
-Sir Robin said: "This is no longer a joke.
-"It costs between Â£6,000 and Â£8,000 every time a lifeboat is launched
+Article text: The broadcaster's media service was one of the most prominent online platforms to use Flash.
+Adobe's plug-in has been criticised by some security experts, who said it was a weak point of many sites.
+Flash use has been decreasing and the move will provide a further blow, but it will not kill off Adobe's product, said one security expert.
+The BBC announced the decision to move towards HTML5 on Tuesday. In a blogpost, it said it was "now confident [it could] achieve the playback quality you'd expect from the BBC without using a third-party plug-in" such as Flash player.
+Users have been invited to visit a BBC site where they can set a cookie in their browsers that will allow them to access the HTML5 player when they visit iPlayer in future. However, the Flash version will remain available.
+The BBC said it was testing the new player on a range of browsers, including Google Chrome on all platforms, Firefox 41 and Safari on iOS 5 and above.
+Others chosen for the test are Opera 32, Internet Explorer 11 and Microsoft Edge on Windows 10 and Blackberry OS 10.3.1.
+The BBC added that it was also going  to "move away from the BBC Media Player app on Android devices" with users invited to join a limited beta test in the blogpost.
+"We've been working for the last few months to upgrade our existing HTML5 player to make it usable on the desktop as well as mobile and tablet," wrote James East, the BBC's product manager for media playout.
+"We'll be working over the coming months to improve the HTML5 player to match the abilities of our Flash player and to refine the functionality and design based on your feedback."
+He said that most video programmes would be available on HTML5 on iPlayer immediately but, for those that took longer to become playable, users would be able to use the old player.
+Adobe's Flash is one of many plug-ins used to display multimedia content on websites. HTML5, the latest version of the dictionary used by the majority of the worldwide web, incorporates video hosting, where its predecessors did not.
+The BBC has joined Netflix and other major firms in adopting HTML5 and information from analytics website Built With shows a downward trend in the number using Flash over the last 12 months.
+The iPlayer, which the BBC said received 250 million TV and radio requests in July this year, was one of the most prominent.
+However, many of the internet's largest sites still do use Flash, including Amazon, IMDB and the US video site Hulu.
+The plug-in has been repeatedly criticised over its security record and, in June this year, Adobe had to release an emergency software patch after a serious vulnerability was found.
+But the security expert Chris Green said Flash still had an important role to play and was sometimes unfairly maligned.
+"The industry has moved on from trying to shoehorn one thing in, whether that is Flash or Microsoft's Silverlight. It continues to be very effective in delivering rich content into web pages."
+He added that media outlets tended to focus on Flash's weaknesses because it was so widely used.
 ----------------------------------------
-Ground truth Summary: Two yachtsmen who have been rescued nine times in seven months have been described as a "catastrophe waiting to happen" and urged to "leave UK waters".
+Ground truth Summary: The BBC's iPlayer has been made available using the HTML5 web language, at the expense of Adobe's Flash player.
 ----------------------------------------
-Generated Summary: Two men attempting to become the first to sail solo around the world have been criticised after their boat capsized.
+Generated Summary: The BBC is to stop using Adobe's Flash plug-in for its iPlayer video player.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Heidi Gannon was born in Wales and her sister Jo Baines was born in England about two hours afterwards.
-Their mum didn't know she was having twins.
-A set of twins were born in England and Scotland in 2012 and were thought to be the first to be born in different countries but Heidi and Jo were born much earlier, in 1976.
-The family has been in touch with Guinness World Records which has confirmed they will update their records.
-A spokesperson said: "We were made aware of Ms Baines and Ms Gannon's claim for this record last week and after some research involving our twins consultant we have been able to verify that they are indeed the first twins born in different countries."
+Article text: Mrs Foster said:  "We would like to see the petition of concern got rid of".
+Any vote in the assembly can be made dependent on a petition of concern if it is supported by 30 MLAS - meaning the motion will only pass if it has cross-community support.
+The purpose is to protect one community from legislation that would favour another.
+Mrs Foster added: "I think we need to talk about, maybe after the election, getting rid of the petition of concern altogether."
+If a petition of concern is presented to the assembly speaker, any motion or amendment will need cross-community support.
+In such cases, a vote on proposed legislation will only pass if supported by a weighted majority (60%) of members voting, including at least 40% of each of the nationalist and unionist designations present and voting.
+Effectively this means that, provided enough MLAs from a particular community agree, that community can exercise a veto over the assembly's decisions.
+A valid petition requires the signatures of 30 MLAs.
+Introduced as part of the Good Friday Agreement, the procedure was originally designed as a way to safeguard minority rights in the assembly.
+However, its use has become controversial, and the DUP have been criticised for using the mechanism to stop votes on same-sex marriage being passed, and for preventing motions of no confidence going through.
+According to figures compiled by an investigative website, The Detail, over a five-year period from 2011 to 2016  the petition of concern procedure was used 115 times.
+The DUP was the only party with more than 30 MLAS so it presented petitions without other party support.
+Over the five years, they signed 86 petitions, while the SDLP and Sinn FÃ©in signed 29.
+The Green Party endorsed four, Alliance three, and the Ulster Unionists two.
+Speaking to BBC Northern Ireland, Arlene Foster made it clear that she wanted to see change
+"We talk a lot about the petition of concern and our opponents talk a lot about the petition of concern," she said.
+"We would actually like to see the petition of concern got rid of for everything, but I think our opponents would like to keep it for the things they want to to use the petition of concern for and not allow us to use it."
+Alliance Party leader Naomi Long has called for reform of the petition of concern.
+She said the veto was the main reason developments such as same-sex marriage had not yet been introduced in Northern Ireland.
+"We need to get it back to its original intent and away from what it has become, which is used and abused to protect parties' selfish interests," Mrs Long said.
 ----------------------------------------
-Ground truth Summary: Twins claim world record title as the first pair to be born in different countries - nearly 40 years later.
+Ground truth Summary: DUP leader Arlene Foster has told the BBC she would like to see the petition of concern scrapped at Stormont.
 ----------------------------------------
-Generated Summary: A set of twins who were thought to be the first to be born in different countries are to have their records updated.
+Generated Summary: DUP leader Arlene Foster has said she would like to see the petition of concern procedure abolished in the Northern Ireland assembly.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Shadow chancellor John McDonnell will vow to protect low and middle earners by also ruling out rises in VAT and employee national insurance rates.
-But he will say the top 5% of earners would pay more to fund public services.
-The Tories, who have also ruled out a rise in VAT, say there is a £45bn black hole in Labour's tax proposals.
-Theresa May has said she has "no plans" to raise other taxes after the election, but has so far declined to say whether a manifesto pledge not to raise direct taxes ahead of the 2015 election will be retained.
-Chancellor Philip Hammond appeared to distance himself from the commitment when he said recently that "greater flexibility" would be needed in future to pay down the deficit and reduce levels of debt.
-After a poor showing in Thursday's council elections, Labour has admitted it faces a "historic" challenge to win the snap election on 8 June, but Mr McDonnell has urged the party to "come out fighting".
-In a major speech on Sunday, he will argue Labour is on the side of working families and seek to reassure middle earners about his plans.
-At the same time, he will accuse his opponents of keeping people "in the dark" about their own intentions.
-He will say that if Labour wins power, 95% of taxpayers would see no rise in their overall tax burden until 2022 - the end of the parliamentary term.
-This would be achieved by ruling out increases to the standard 20% rate of VAT, personal national insurance contributions and income tax rates for those earning under £80,000.
-However, he will say those earning more than £80,000 would have to pay more, without giving specific details.
-At the moment, those earning more than £150,000 a year pay 45% tax on earnings above that level.
-"The choice at this election is very clear on tax as there is currently only one party which is committing not to raise taxes on middle and low earners," he will say.
-"The Tories are the party of tax handouts for the super-rich and big corporations."
-Mr McDonnell will contrast the certainty around Labour's plans with what he says is obfuscation from the Conservatives.
-"Every time Theresa May and the Conservatives are asked whether they are planning tax increases if they are re-elected on 8 June, they run and hide," he will say.
-Labour's spending commitments so far include:
-The majority of these, it says, will be covered by the reversal of cuts to corporation, capital gains and inheritance taxes.
-The Conservatives are not expected to confirm their own plans until their manifesto launch later this month.
-Mr Hammond abandoned proposals in March's Budget to increase national insurance contributions for the self-employed following a Tory rebellion, with MPs claiming the move breached its 2015 manifesto.
-During the coalition years, the focus of Conservative policy was steady increases in the personal tax allowance, the point at which people start paying income tax.
-The threshold rose to £11,500 last month and is due to increase to £12,000 by 2020.
-After winning the 2015 election, the Conservatives also raised the level at which people start paying income tax at 40% - which has now reached £45,000 - to address the growing number of middle earners being pulled into the higher-rate bracket.
-The Taxpayers Alliance campaign group said Labour's plans "sounded good" but there were "gaping holes" which could potentially allow it to increase employers' national insurance contributions and VAT on zero-rated items such as medicines.
-Raising income tax for those earning more than £80,000 would require "very significant" changes to tax thresholds, it said.
-"A better way for the parties to demonstrate they are on the side of taxpayers would be to pledge to cut the overall tax burden and leave more money in the pockets of those who earned it," said its chief executive John O'Connell.
-For the Conservatives, Chief Secretary to the Treasury David Gauke said: "Jeremy Corbyn will have to raise taxes because his nonsensical economic ideas don't add up and he'll make a mess of the Brexit negotiations."
-The Lib Dems have pledged to put 1p on income tax to pay for increased health spending.
-Its Treasury spokeswoman, Susan Kramer, said: "John McDonnell has no credible plan for the future of our economy and no guarantee to employers that they won't be hit with a jobs tax."
+Article text: A 35-year-old woman had to be cut out of a pair after her calves ballooned in size, the medics said in the Journal of Neurology, Neurosurgery and Psychiatry.
+She had spent hours squatting to empty cupboards for a house move in Australia
 ----------------------------------------
-Ground truth Summary: Labour is pledging not to raise income tax for those earning less than £80,000 a year as part of a "personal tax guarantee" for 95% of taxpayers.
+Ground truth Summary: Skinny jeans can seriously damage muscles and nerves, doctors have said.
 ----------------------------------------
-Generated Summary: Labour will promise to raise income tax rates for those earning more than £150,000 a year if it wins the general election.
+Generated Summary: A woman had to have her legs amputated after her calves became so large that they had to be cut out of her shoes, doctors have said.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The bag rocks alarmingly from side-to-side and threatens to overturn.
-Now, scientists have investigated this conundrum of everyday physics
+Article text: Richard Ratcliffe's wife, Nazanin Zaghari-Ratcliffe, was arrested in April while visiting family with their two-year-old daughter and is accused of seeking to "overthrow the regime".
+Mr Ratcliffe has asked David Cameron to help, and says the Foreign Office is doing more "as this gets more serious".
+His daughter is with family in Iran.
+Mrs Zaghari-Ratcliffe, 37, of north London, works for the London-based Thomson Reuters Foundation charity.
+She travelled to Iran on an Iranian passport with daughter Gabriella and was arrested at Tehran's Imam Khomeini Airport on 3 April and taken to Kerman in the south-east of the country.
+Her family had expected her to be released last week, but a statement from the Islamic Revolutionary Guard Corps now claims she heads a "foreign-linked hostile network".
+Mr Ratcliffe, who has been trying to get a visa to visit his wife, told BBC Radio 4 she had spent 45 days in solitary confinement and this had made her "very weak".
+"When she came out she wasn't able to walk without blackouts and she had a problem with her hair falling out and she'd lost quite a lot of weight," he said.
+Her condition improved during a spell living alongside other inmates and she was then told she would be released, Mr Ratcliffe said.
+Mrs Zaghari-Ratcliffe left Kerman prison on 5 June but, instead of being released, her parents were told she was being moved to a different prison.
+Mr Ratcliffe said the family then heard "nothing from her for a number of days", adding: "Last week we celebrated Gabriella's birthday and we had no idea where she was."
+On Monday Mrs Zaghari-Ratcliffe called her parents to say she was in a prison in Tehran - and Mr Ratcliffe believes that may help her.
+"Now she's in Tehran then, if nothing else, the Iranian authorities can look more seriously at what's going on and look at these crazy theories coming out from the provincial office," he said.
+He said the reasons for the accusations against his wife were "not at all clear", but he believed they came from the Kerman branch of Iran's Revolutionary Guard - and in part they might be "justifying that they've held her for 70 days".
+He said the accusations were not detailed but they suggested his wife was "in charge of this great network of media organisations and espionage agencies and that she and Gabriella are there running the whole thing".
+He added: "It feels this is wrapped up in Iranian politics and different factions fighting and holding her as some sort of bargaining chip."
+The Foreign Office said it was urgently seeking information on Mrs Zaghari-Ratcliffe's situation.
 ----------------------------------------
-Ground truth Summary: It's a common experience when dashing for a train or plane while lugging a two-wheeled suitcase.
+Ground truth Summary: The husband of a British-Iranian woman in jail in Iran says he hopes "senior intervention" from UK and Iranian authorities will lead to her release.
 ----------------------------------------
-Generated Summary: How do you keep a bag in place when you're about to throw it out?
+Generated Summary: The husband of a British woman jailed in Iran for allegedly plotting to overthrow the country's government has said she is "very weak".
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Barca will be investigated for alleged misappropriation of funds in the £48.6m (57m euros) deal with Santos.
-The signing of Neymar has been correct and his signing has caused despair and envy in some of our adversaries
-Rosell, speaking at a news conference after a Barca board meeting, insisted he had "acted correctly".
-Vice-president Josep Maria Bartomeu now takes over from the 49-year-old Rosell, who came to power in 2010.
-Rosell's future has been a real source of concern ever since a Spanish national court judge accepted a lawsuit this week from Barcelona club member Jordi Cases, who alleged that the amount paid for Neymar was more than the reported fee.
-Rosell maintains the accusation is "unfair and reckless".
-He added: "For some time, my family and myself have suffered threats and attacks in silence
+Article text: The trial of Edwin McLaren began in September 2015 with the 15 jurors needed for a Scottish criminal trial and ended more than a year and a half later with just 12.
+There were concerns that if they had lost another juror the case would have collapsed.
+That is what happened with another mammoth fraud case at the Old Bailey in London in 2005.
+The London Underground Jubilee Line case heard evidence for about 140 days over a 21-month period before one juror "went on strike".
+The court had already lost two jurors when one became pregnant and another was arrested for benefit fraud.
+After missing work for almost two years one juror became aware that he owed thousands in pension contributions, which his employer had not been liable for while he was on the jury.
+He refused to take part in the jury until his financial situation was sorted out, claiming loss of earnings threatened his ability to pay Oxford university fees for a course he was due to start.
+The Attorney General in England at the time, Lord Goldsmith, brought forward legislation to allow complex fraud trials to be held without juries.
+It was defeated in the Lords two years later with peers arguing that trial by jury was a bedrock of the criminal justice system.
+The UK government had said major trials put too much pressure on jurors.
+"The use of a jury is a bulwark of not just Scottish justice but British justice and I would say there should be a presumption that the jury system continues," Douglas Mill, former chief executive of the Law Society of Scotland, told the BBC.
+But Mr Mill added that fraud was now so "specialised" that the police, the Crown office prosecutors and defence lawyers all had experts who dealt only with such cases.
+He said the only people who were not specialists were the jury.
+"It is left to 15 very lay people who are being asked to assimilate vast numbers of documents over an endless number of days," he said.
+"Is that in the interests of justice? Big question."
+Law lecturer Andrew Tickell also said fraud cases were complex and difficult to follow.
+In the case of Edwin McLaren, the indictment carried 29 separate charges and it was the Crown's job to prove every one.
+This required a large number of witnesses and mountains of documents.
+The Glasgow Caledonian University law lecturer said: "If the Crown is going to bring forward a mega case then it really has to bring forward quite substantial evidence to buttress that claim.
+"Juries have to decide on the guilt in the cases and so have to sit through many months of evidence
 ----------------------------------------
-Ground truth Summary: Barcelona football club chief Sandro Rosell has resigned following a Spanish court's decision to look into last year's signing of Brazil star Neymar.
+Ground truth Summary: A fraud trial has just concluded at the High Court in Glasgow after 20 months, raising questions about whether juries should be used in such complex cases.
 ----------------------------------------
-Generated Summary: Barcelona president Sandro Rosell has resigned in the wake of the club's signing of Brazil forward Neymar.
+Generated Summary: The trial of a man accused of defrauding the NHS of more than £1.3m has ended with just 12 jurors.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: It is a year since Iymen Baerli, a refugee from Syria, arrived in Sydney with his wife and three young children.
-Within days, the skies above the harbour of Australia's biggest city sparkled and glowed as arguably the world's finest fireworks display ushered in another new year.
-The newcomers shared their adopted homeland's optimism about the journey ahead. "I have been struggling and it is not easy but I am hoping that in the future it is going to be easier for me."
-Iymen's English is rudimentary and, although he is receiving tuition, his lack of language skills has been a major hindrance, as has a chronic back injury.
-Most of the new arrivals have been staying with relatives in Sydney, but community workers believe that, for many, the transition has been hard.
-Ahmad Hemmed, a migration agent, who has helped many Syrian families in Sydney, told the BBC that the majority of the refugees have been unable to adapt.
-"There are people that after I meet them here after even a year, they do not like the country and they are scared to mix with the Australian community," Mr Hemmed explained.
-"They are still isolating themselves with similar cultural background people and I think they are raising their kids in the same way, which for me it is really concerning. They live in Australia but they are not actually carrying Australian values."
-It is a harsh assessment, but officials have conceded that many of those fleeing the Syrian conflict have found life tough in Australia and that finding jobs in particular has not been easy.
-"It is that extraordinary mixed feeling," said Prof Peter Shergold, the New South Wales co-ordinator general for refugee resettlement.
-"At one level I think their first feeling as they get out of the airport is just sheer relief, expectations that they can build a new life, but of course absolute fear of what they have left behind, is this the right decision?"
-He believes it is crucial the migrants mix with the broader community.
-"They are coming to a society in which 27% of Australians were born overseas and a similar number had a parent born overseas.
-"They are coming to a society which is used to diversity and that helps integrate into society and, yes, initially you'll tend to live in areas where other people from your ethnicity or religion live, [but] they need to get outside that if they are going to get employment," Prof Shergold added.
-The remaining 6,000 refugees from the Syrian crisis are expected to arrive in Australia within a year.
-But Alex Greenwich, an independent MP in the New South Wales state parliament, believes the humanitarian programme needs to move faster.
-"The refugee and asylum seeker immigration process is intensely bureaucratic," he said.
-"It is much better for a refugee to spend less time in a camp and get into being welcomed into a community. It is better for their health, their mental health. It is obviously something that we should be prioritising and fast-tracking."
-In Canberra, the government has indicated it could resettle more of those displaced by atrocities and fighting in Syria.
-"If we get this programme right, [it allows us] to say to the Australian people that we may want to expand this programme," Immigration Minister Peter Dutton told local media.
-"If people have faith in the integrity of the process, then it does give the government the ability to expand beyond the 12,000."
-As the conflict grinds on in Syria, 14,000km away in Sydney, Iymen's wife Abir Baerli closely follows developments on Arabic TV channels and online. With relatives and friends still in harm's way in Syria, or seeking sanctuary in neighbouring countries, these are frightening times.
-"I am scared and I wish that the war would end," she told me with the help of a translator.
-While her three children - a 10-year old daughter and two younger boys - are at school in Sydney, making friends, playing football and gradually conquering English, Abir and her husband yearn for just one thing - to one day be able to peacefully return home to their beloved Syria.
+Article text: The Basque side are marooned near the bottom of La Liga - they are above the relegation zone on goal difference - and a limp performance in Friday's 2-0 defeat against lowly Las Palmas was the final straw.
+This is how his 364 days in charge went.
+After three days of speculation, the news was finally confirmed with a brief statement from the Basque club on Monday afternoon.
+"Real Sociedad would like to thank David Moyes and [his assistant, also departing] Billy McKinlay for the professional conduct, commitment and dedication which they showed during their roles in the running of the first team," the club said.
+"At the same time, we would like to wish them all the best in their future ventures, both professional and personal."
+The Scot leaves behind a team marooned near the foot of La Liga, and a limp performance in Friday night's 2-0 defeat against lowly Las Palmas was the final straw.
+The dismal display, as much as the result, forced club president Jokin Aperribay into holding crisis talks over the weekend.
+Aperribay did not want to rush into a hasty decision on the back of one bad game, but even after the dust had settled a couple of days later he still felt that a change was necessary.
+The official announcement was supposed to have been made on Sunday evening, but it was delayed for a few hours because Moyes's flight back to Bilbao from Manchester was cancelled.
+But once he returned to Spain on Monday and met personally with Aperribay, there was no need to delay the inevitable any longer and the former Everton and Manchester United coach's spell in La Liga was brought to a swift end.
+After La Real's recent struggles, the trip to Las Palmas was always billed as a significant encounter for Moyes's regime, but the general feeling was that his job was safe unless his team delivered a disastrous display.
+Unfortunately for the former Everton and Manchester United boss, 'disastrous' is pretty much the right word to describe the way his team performed - or didn't - against a Las Palmas outfit which had previously only won one game all season.
+The hosts were clearly superior, deserved their goals from Jonathan Viera and Sergio Araujo, and were rarely seriously threatened by Moyes's team
 ----------------------------------------
-Ground truth Summary: Australia has resettled about half of the 12,000 refugees it agreed to take in over the past 13 months from the conflict in Syria, but how are they adapting to life in their new country?
+Ground truth Summary: David Moyes has been sacked as Real Sociedad boss.
 ----------------------------------------
-Generated Summary: As Australia celebrates the first anniversary of the arrival of 25,000 Syrian refugees, the BBC's Alex Greenwich looks at how the newcomers are adapting to life in the country.
+Generated Summary: David Moyes has been sacked as manager of Real Sociedad.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Reports say at least 16 suspected militants were killed in the strikes.
-They come days after a militant attack on Karachi airport - 39 people were killed, including the 10 attackers.
-Washington agreed to suspend its drones programme in December to allow Islamabad to pursue peace talks with the Pakistani Taliban (TTP).
-But pressure has been mounting on the Pakistani authorities to launch a ground offensive in North Waziristan amid a breakdown in peace talks.
-The two drone strikes took place within hours of each other, striking a compound in a village near Miranshah, the main town in North Waziristan.
-The first attack, carried out late on Wednesday night, is said to have killed four ethnic Uzbek militants and two Punjabi Taliban.
-The second attack on Thursday morning targeted another 10 suspected militants.
-On Wednesday, Uzbek militants of the Islamic Movement of Uzbekistan (IMU) claimed to have carried out the attack on the airport, saying it was in retaliation for Pakistani military air strikes last month.
-The group, which is highly-trained and has bases in North Waziristan, has previously carried out large-scale co-ordinated attacks with al-Qaeda and Taliban militants in Pakistan.
-Washington uses unmanned drones to carry out strikes on Taliban and al-Qaeda targets in Pakistan's border region with Afghanistan.
-However, US strikes have not taken place since 25 December 2013 in response to calls by Pakistan to halt strikes and enable peace negotiations.
-Pakistan carried out air strikes this week as well, saying its forces had killed at least 15 militants in the north-west Khyber region on Tuesday.
-Who are the Pakistani Taliban?
-•With its roots in the Afghan Taliban, the Pakistani  Tehreek-e-Taliban movement came to the fore in 2007 by unleashing a wave of violence
-•Its leaders have traditionally been based in Pakistan's tribal areas but it is really a loose affiliation of militant groups, some based in areas like Punjab and even Karachi
-•The various Taliban groups have different attitudes to  talks with the government - some analysts say this has led to divisions in the movement
-•Collectively they are  responsible for the deaths of thousands of Pakistanis and have also co-ordinated  assaults on numerous security targets
-•Two former TTP leaders,  Baitullah Mehsud and Hakimullah Mehsud, as well as many senior commanders have been killed in US drone strikes
-•It is unclear if current leader Maulana Fazlullah, who comes from outside the tribal belt, is even in Pakistan, but he has a reputation for ruthlessness
-Who are the Taliban?
-Pakistan's 'fanatical' Uzbek militants
+Article text: Locations for the Guy Ritchie-directed movie included near the Bealach na BÃ , a pass in Applecross, and Devil's Pulpit, near Killearn.
+Charlie Hunnam, who plays Arthur, said: "One of my favourite places in the UK is the Highlands of Scotland."
+"When I found out that we were shooting there I was very, very excited."
+The star of Pacific Rim and former TV series Sons of Anarchy and Byker Grove, added: "The Highlands of Scotland are absolutely sensational."
+Hunnam made the comments in a video for VisitBritain, which has created a tourism campaign around the film.
+The actor's experience of filming in the Scottish Highlands was starkly different from those of other film stars to have shot scenes there.
+Scarlett Johansson described shooting scenes in Glen Coe in November 2011 for sci-fi Under the Skin as "brutal, cold and wet".
+At the movie's world premiere at the Venice Film Festival, she told a news conference: "It was as if you had just picked us up and dropped us into the middle of absolutely nowhere.
+"It was harsh and it was brutal and it was cold, it was wet and it was terrifying but we pulled through."
+Michael Fassbender and Paddy Considine told of battling the elements on Skye while shooting 2015's Macbeth.
+Fassbender, who starred in the lead role, described the island as "cold, wet and beautiful".
+Considine said some of the other members of the cast succumbed to hypothermia during the filming.
+He told the BBC at the film's Edinburgh premiere: "It got pretty bad there."
+"A few people got hypothermia
 ----------------------------------------
-Ground truth Summary: The US has resumed its drones programme in Pakistan, with two strikes on militant strongholds in the North Waziristan tribal region overnight.
+Ground truth Summary: The star of new movie King Arthur: Legend of the Sword has told of being "very excited" when told scenes were to be shot in the Scottish Highlands.
 ----------------------------------------
-Generated Summary: The US has carried out two drone strikes in Pakistan's North Waziristan tribal region.
+Generated Summary: The actor who plays Arthur in the new Batman film The Dark Knight has described shooting scenes in the Scottish Highlands as "sensational".
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

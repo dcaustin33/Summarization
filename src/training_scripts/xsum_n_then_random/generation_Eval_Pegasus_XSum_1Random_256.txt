@@ -1,319 +1,383 @@
 Generations for Eval_Pegasus_XSum_1Random_256
-Article text: The President's press secretary, Jay Carney, has said that he welcomed the Prime Minister's call for Britain to remain in the European Union, adding that the US believed the UK was stronger for being in the EU, and the EU was stronger for having the UK as a member.
-In the modern version of the special relationship, what Carney called the essential relationship, Britain is valued as an ally precisely because it is one of the leaders of the biggest economy in the world.
-Some in Washington think Mr Cameron's speech threatens that role and introduce more unnecessary uncertainty to an already uncertain world.
-Until recently, the promise of a referendum from Mr Cameron was seen in Washington as just another phase in the rocky relationship between the UK and continental Europeans.
-But now alarm bells are ringing. He is publicly saying that referendums could turn countries inwards.
-"We have a growing relationship with the EU as an institution, which has an increasing voice in the world, and we want to see a strong British voice in that EU. That is in America's interests. We welcome an outward-looking EU with Britain in it," he said.
-President Obama repeated this view in a phone call to Mr Cameron.
-The Americans are worried for several reasons.
-They fear the debate that will rage for the next few years will undermine Britain's voice in the EU and diminish its power.
-Indeed, insiders say that has already happened - they find other EU members aren't taking Britain seriously.
-While US officials would agree with Mr Cameron's push for a more competitive, less rule-bound Europe, they fear he will now be less able to achieve it.
-There is internal politics too. There is an argument inside the administration over whether or not to seek a free-trade agreement with the EU.
-Those who want to go ahead may fear their position has been undermined.
-They may feel that Mr Cameron has given ammunition to those who argue it is not worth the bother. Some suggest it would be an irony if such a deal was negotiated - and Britain found itself outside the new free-trade area.
-Although the prime minister clearly intends to sell a deal that keeps Britain inside the EU there are fears that he will fail.
-The Obama administration values the European Union as an ally that largely shares its vision, and acts with it in the Middle East, over Iran and North Africa.
-Officials will fret over the next few years that Britain really could leave and that would badly weaken the EU.
-At the risk of hurting British egos, they simply don't see Britain - especially with a declining defence budget - as anything more than a medium-sized power in its own right.
-As one insider put it to me: "At the moment Britain is a leader in the biggest economy in the world - what's the strategy for being out? Just trail around behind us?"
+Article text: Scotland's Information Commissioner has described proposed reforms to freedom of information law as setting a "worrying precedent".
+Rosemary Agnew is due to give evidence to Holyrood's Finance Committee.
+It is looking at changes to the Freedom of Information (Scotland) Bill.
+As part of the reforms, ministers want to give an "absolute" exemption to communications between the Scottish government and senior members of the royal family.
+At the moment, information about the Royal Family can be published in Scotland if it passes a public interest test.
+Ministers want to remove that test thereby banning any release and bringing the situation in Scotland into line with legislation in other parts of the UK.
+The amendment would exempt communications with the monarch, the heir to the throne or a member of the royal household acting on their behalf.
+But in her response to the proposed changes, Ms Agnew said: "The amendment will create a provision which requires absolute secrecy in relation to any aspect of communications with senior royals in all circumstances - regardless of how far removed the information is from the content of communications, or of the weight of the public interest in favour of release.
+"It is my considered view that it will..
 ----------------------------------------
-Ground truth Summary: The Obama administration has made no bones about it - it wants a strong Britain within a strong Europe.
+Ground truth Summary: Plans by the Scottish government to keep any communication between ministers and the royal family secret are in direct conflict with the public interest, MSPs are to hear.
 ----------------------------------------
-Generated Summary: David Cameron's call for a referendum on Britain's membership of the European Union has been welcomed by the White House.
+Generated Summary: Scotland's Information Commissioner has said proposed changes to freedom of information law will set a "worrying precedent".
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The former party leader's victory came as the SNP won all six seats in the north east of Scotland.
-Callum McCaig won Aberdeen South from Labour, and Kirsty Blackman did likewise in Aberdeen North.
-Stuart Donaldson won West Aberdeenshire and Kincardine, Angus Robertson held Moray, and Eilidh Whiteford was re-elected in Banff and Buchan.
-However, Alistair Carmichael retained Orkney and Shetland for the Liberal Democrats.
-Mr Salmond, speaking after defeating the Liberal Democrats in Gordon, said: "The Scottish lion has roared this morning across the country.
-"There is a swing under way in Scotland the like of which has not been seen in recorded politics.
-"I look forward to representing every constituent, regardless of their political views."
-Mr Salmond claimed a 47.7% share of the vote, over Christine Jardine on 32.7%, as the SNP saw a 25.5% increase.
-Mr McCaig's win, with a 29.8% increase, saw Anne Begg lose her seat
+Article text: Michelle Rocks' baby was in a sideways position but Dr Rachel O'Flaherty advised a junior colleague not to admit her, an inquest heard.
+Dr O'Flaherty apologised to Mrs Rocks and her husband Barry.
+Cara Rocks was stillborn at Coleraine's Causeway Hospital on 26 June 2013.
+The inquest is the first in Northern Ireland to focus on a stillbirth.
+Dr O'Flaherty said she could not recall why she had decided not to admit the patient on 5 June 2013.
+"I don't know what information I was given at that time and I honestly can't remember the reasoning behind that decision," she said.
+When asked whether a Caesarean section would also have been offered, if it had been requested by Mrs Rocks at that time, Dr O'Flaherty said this would have been arranged.
+Dr O'Flaherty first came into contact with Mrs Rocks at a hospital appointment when she was 36-weeks pregnant, Belfast Coroners Court heard on the third day of the hearing.
+The doctor said that, in retrospect, she would have kept the patient in for observation.
+Dr O'Flaherty apologised to Mr and Mrs Rocks and their family for the distress they have experienced.
+The Northern Health and Social Care Trust has already admitted a number of mistakes played a part in the death of Cara Rocks.
+These included wrongly categorising Michelle Rocks, who had a previous Caesarean section, as "low risk", incorrect recording of the baby's heart rate and delays in the decision to proceed to an emergency C-section because of time spent trying to locate a foetal heart beat.
+The hearing continues.
 ----------------------------------------
-Ground truth Summary: Alex Salmond said the Scottish lion had "roared", after he won the Gordon seat for the SNP in the general election.
+Ground truth Summary: The mother of a stillborn baby left court in tears after a doctor accepted she should have been kept in hospital when she was 38-weeks pregnant.
 ----------------------------------------
-Generated Summary: Alex Salmond has been re-elected as the SNP's first minister in Scotland.
+Generated Summary: A doctor has apologised to the family of a woman who died after she was refused a Caesarean section.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Davies suffered an ankle injury during Spurs' 1-0 defeat by Bayer Leverkusen in the Champions League on 2 November.
-He then missed the 1-1 draw at Arsenal in the Premier League on Sunday.
-The 23-year-old had been included in the Wales squad for the qualifier in Cardiff but has now been replaced by Sunderland's Adam Matthews, who is on loan at Bristol City.
-Davies has started in Wales' opening three qualifiers.
-Serbia are top of Group D after three matches on seven points, with Wales third on five points.
+Article text: The 59-year-old spent last season at the Daggers under boss John Still, whom he worked with at Luton.
+Harris has become Wood boss Luke Garrard's number two on an undisclosed-length contract.
+"I can bring experience with me because I have been very fortunate during my time with John Still," Harris said.
+He added to the club's official website: "If you are a number two then you are the eyes and ears of the players and you certainly have an input into the coaching side and an input into the game management side and, as I said, I have been fortunate in the clubs that I have been with.
+"With Dagenham, for instance, we got out of the Ryman league and then we got out of the Conference, as it called then, and we then took Dagenham into League One in the Play-off final against Rotherham."
 ----------------------------------------
-Ground truth Summary: Tottenham defender Ben Davies has been ruled out of Wales' World Cup qualifier with Serbia on 12 November.
+Ground truth Summary: National League side Boreham Wood have named former Luton, Stevenage and Dagenham coach Terry Harris as the club's new assistant manager.
 ----------------------------------------
-Generated Summary: Tottenham midfielder Ben Davies has been ruled out of Wales' World Cup qualifier against Serbia on Wednesday.
+Generated Summary: National League side Boreham Wood have appointed former Dagenham and Redbridge assistant manager Mark Harris as their new number two.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The marathon runner crossed the line in second place with his arms above his head in solidarity with Oromo activists who are staging protests in Ethiopia.
-He repeated the gesture later at a press conference, saying his life would be in danger if he returned home.
-The government has been accused of brutally cracking down on protesters.
-The country's Information Minister Getachew Reda told the BBC at the time that he had nothing to fear and would be welcomed home as a hero.
-But speaking after the race, Mr Feyisa said he might be killed if he returned.
-"If not kill me, they will put me in prison
+Article text: St Mary's Church in Llanfair Kilgeddin, between Abergavenny and Raglan, was targeted between 2 and 3 August.
+An oak door, valued at about Â£1,000, was damaged, along with four oil lamps dating back 300 years
 ----------------------------------------
-Ground truth Summary: Ethiopian Olympian Feyisa Lilesa, who said he wanted to seek asylum after making an anti-government gesture in Rio, has arrived in the US.
+Ground truth Summary: "Monstrously disrespectful" thieves have wrecked and ransacked a church in Monmouthshire.
 ----------------------------------------
-Generated Summary: Ethiopia's Feyisa Lilesa has threatened to return to his homeland if he is not allowed to run in the London Olympics.
+Generated Summary: Vandals have targeted a church in Gwynedd.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: A Royal Navy Frigate and submarine are also thought to be involved in the search, along with Canadian and French maritime patrol aircraft.
-The Telegraph reports the French plane has searched for the submarine for at least 10 days.
-The RAF currently has no maritime patrol aircraft of its own.
-But according to the BBC's defence correspondent Jonathan Beale, this lack of patrol aircraft is expected to be addressed in Monday's Strategic Defence and Security Review.
-The submarine was detected north of Scotland
+Article text: Without a national uniform to wear because he was competing under the Olympic flag following Kuwait's suspension from the Rio Games, he decided to don an Arsenal shirt.
+Whether he knows the football club's nickname is the Gunners is doubtful.
+Nevertheless, the top helped him win Olympic bronze in the men's skeet.
+Asked why he had worn it, he replied: "I don't know, I just bought it."
+Some didn't waste any time cracking a few jokes at Arsenal's expense.
+Christopher Flux suggested on Facebook that they could do with a sharp-shooter of their own, while Ash Dolan ‏tweeted his surprise that Al-Rashidi finished third and not fourth, which has often been the side's fate in recent times.
+The Gunners were second to champions Leicester City in May but have finished fourth on six occasions in the last 11 seasons.
 ----------------------------------------
-Ground truth Summary: An RAF plane is "conducting activity" off the Scottish coast, the Ministry of Defence says, amid reports of a Russian submarine being spotted in the area.
+Ground truth Summary: It seemed like the ideal solution but the significance was perhaps lost on Abdullah al-Rashidi.
 ----------------------------------------
-Generated Summary: A French air force plane has joined the search for a missing submarine in the North Sea.
+Generated Summary: Rashed Al-Rashidi, the Olympic bronze medallist in skeet shooting, has become an unlikely fan of Arsenal.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The University of East Anglia undergraduate had followed a link to the page from the "course materials" for a politics module.
-It has since removed the link, but said "legitimate academic study" was key to countering extremist causes.
-Police confirmed they spoke to the third-year, but took no further action.
-"Officers were satisfied this was not a deliberate act and words of advice were given," a spokesman added.
-The Clash of Fundamentalisms course, which "examines the clash between competing ideologies of neoliberalism and Islamism", is available to a maximum of 18 students in the autumn semester.
-UEA's student newspaper Concrete quoted a "shocked" student on the course, who said: "People need to be allowed to learn about this stuff in order to know they disagree with it."
-In September, a postgraduate student in counter-terrorism received an apology from Staffordshire University after concerns were raised when he was seen reading a book called Terrorism Studies.
+Article text: The Briton double-faulted 10 times as she struggled with her serve but was still able to see off her American opponent 7-5 6-3 in Acapulco.
+Watson, 24, plays second seed Kristina Mladenovic of France in round two.
+Fellow Briton Kyle Edmund plays Sam Querrey of the US in the men's draw later on Tuesday.
 ----------------------------------------
-Ground truth Summary: A student has been questioned by police after accessing an "extremist" website found on his course's reading list, it has emerged.
+Ground truth Summary: Heather Watson moved into the second round of the Abierto Mexicano Telcel with a straight sets win over Bethanie Mattek-Sands.
 ----------------------------------------
-Generated Summary: A student has been questioned by police after posting a link to an Islamic State (IS) propaganda video on his Facebook page.
+Generated Summary: Britain's Heather Watson overcame a poor start to beat qualifier Taylor Townsend in the first round of the Mexican Open.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: James Isbister caught the 6ft-long ling while fishing off Muckle Flugga on Saturday.
-Mr Isbister is awaiting confirmation from the relevant authorities of its possible record-breaking status.
-The fish is currently being kept in his mother's freezer
+Article text: Among them was Roberto Hernandez.
+In a small, dank apartment in a rundown neighbourhood of Havana, I paid him a visit as he was reunited with his family and fellow government opponents.
+He said his time in jail had only strengthened his resolve against the Castro government.
+"My ideas won't budge," said Mr Hernandez. I'm more sure than ever about what I believe."
+Mr Hernandez was jailed for five years, and served two, for taking part in a demonstration with the anti-government Patriotic Union of Cuba (UNPACU).
+But just as Roberto Hernandez was being released, another dissident was being detained - a graffiti artist called Danilo Maldonado, commonly known as "El Sexto", whose work is unrelentingly critical of the Cuban government.
+On this occasion, the authorities decided he had gone too far: he had mocked the leaders of the revolution.
+On 25 December 2014, he painted the names Fidel and Raul on two pigs and intended to release them in a plaza in Havana.
+His idea was that people would try to catch the pigs and the winner could keep them.
+Whether you see it as a cheap publicity stunt or a valid artistic expression, the event was never likely to be allowed to happen in Cuba.
+Maldonado was stopped by state security officers before he got to the square and was put in jail, reportedly without trial.
+The government say "El Sexto" is a mercenary in the pay of anti-Castro groups in Washington and Miami.
+But Amnesty International recently deemed him a prisoner of conscience.
+"To jail an artist for painting a name on a pig is ludicrous," said Carolina Jimenez, the organisation's Americas Deputy Director for research.
+Now, there is some expectation that Maldonado might be released soon, after he spent days on hunger strike and US President Barack Obama apparently discussed his case in person with Cuban President Raul Castro earlier this year.
+No official release date has yet been confirmed.
+Either way, the Obama administration will hope he is out soon.
+The arrest of what they consider seemingly harmless young opponents does not bolster their argument that engagement with Cuba is the right approach after decades of hostility.
+"They're hoping that the Cubans will begin to ease up on human rights and open up politically. That would enormously helpful," says Michael Shifter, of the Inter-American Dialogue organisation  in Washington DC.
+"It makes it more difficult for Obama to make his case with Congress on the embargo - which is that it should be lifted - when these kind of practices continue and there is really no sign of significant change so far."
+The US broke off diplomatic relations with Cuba in 1959 after Fidel Castro and his brother Raul led a revolution toppling US-backed President Fulgencio Batista. The Castros established a revolutionary socialist state with close ties to the Soviet Union.
+The following year, the US imposed a trade embargo covering nearly all exports to Cuba. This was expanded by President Kennedy into a full economic embargo that included stringent travel restrictions.
+The embargo is estimated to have cost the Cuban economy more than $1.1trillion, and to cost the US economy $1.2bn a year.
+In September, the US announced eased restrictions on business and travel with Cuba, the latest move by President Barack Obama to improve relations with the country.
+US businesses will now be allowed to open up locations in Cuba.
+Even small overtures by the Castro government towards dialogue with some of the more high-profile human rights activists would go a long way to helping Obama's position, says Mr Shifter.
+But he also points out that even the sight of the Cuban government sitting at the negotiating table with the Ladies in White opposition movement or UNPACU activists would not be enough to appease those members of Congress staunchly opposed to lifting the embargo.
+Some analysts believe they would "keep changing the goalposts" over human rights and would not back removing the embargo under any conditions.
+None of this is necessarily a surprise to Washington.
+Raul Castro indicated the one-party system in Cuba was not up for negotiation in his closing speech to parliament in December.
+"We shouldn't expect that in order for relations to improve with the US, Cuba is renouncing the ideas for which we have fought for more than a century and for which our people have spilled so much blood and run such great risks," he told the deputies gathered in the chamber, as well as millions of ordinary Cubans watching at home.
+Cuba did not not expect the US to change its political system, "so we demand that they respect ours", he said.
+A new diplomatic relationship has begun and further economic easing could come with it.
+But even if El Sexto is released soon, it is unlikely to herald any new political winds on the island.
 ----------------------------------------
-Ground truth Summary: A Shetland fisherman is celebrating after reeling in a giant fish weighing more than 67lbs (30kg).
+Ground truth Summary: In the days after last December's historic announcement that the US and Cuba were to re-establish diplomatic relations, a number of dissidents were released from Cuban jails as part of the deal.
 ----------------------------------------
-Generated Summary: A 14-year-old boy has caught what could be the world's largest ling tuna.
+Generated Summary: Last week, Cuba's government released more than 100 political prisoners.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Donaldson is back in training following a lengthy lay-off with a heel injury which has kept him out for the whole of Gianfranco Zola's 16 games in charge.
-Wigan have lost Sam Morsy, who starts a two-game ban after being booked for the 10th time this season at Blackburn.
-They are also waiting form a verdict on the severity of fellow midfielder Shaun MacDonald's knee injury.
-MacDonald went off early at Ewood Park, but the Latics are hopeful he has not suffered ligament damage.
-Boss Warren Joyce could be back in the Wigan dug-out having watched from the stand on Saturday after undergoing minor surgery.
+Article text: The defence ministry had been told to develop plans for a "modest military industrial complex," the president, who came to power in May, said
+Nigeria has been battling the militant Islamist group Boko Haram for the last six years.
+The US has refused to sell arms to Nigeria citing human rights abuses.
+President Buhari told a gathering of newly graduated military officers that Nigeria "must evolve viable mechanisms for near-self-sufficiency" in defence equipment that it usually imports.
+On a visit to Washington last month, Mr Buhari said that the US had "aided and abetted" Boko Haram in the past by refusing to sell weapons to Nigeria.
+A US law prevents the government from selling arms to countries which fail to tackle human rights abuses.
+On Tuesday, a group of visiting US Congress members said Washington could lift its ban on shipping arms to Nigeria's military if the country improved its human rights record.
+The US's stance has effectively stopped other Western countries from selling sophisticated military hardware to the country, the BBC's Bashir Sa'ad Abdullahi reports from the capital, Abuja.
+Nigeria's only weapons factory in the northern city of Kaduna mainly produces rifles and civilian tools, Mr Buhari's spokesman Garba Shehu told the Reuters news agency.
+He said that defence chiefs had now been asked to "re-engineer" it.
+Boko Haram has killed some 10,000 people since 2009 and has also kidnapped hundreds of girls and women.
+Last month, human rights group Amnesty International said that some 8,000 men and boys had died in Nigerian military custody after being detained as suspected militants.
+The military rejected this allegation and Mr Buhari promised an investigation, although there have been no further details.
+Why Boko Haram remains a threat
+Who are Boko Haram?
 ----------------------------------------
-Ground truth Summary: Birmingham City remain without Clayton Donaldson and Michael Morrison for the visit of Wigan Athletic to St Andrew's.
+Ground truth Summary: Nigeria is going to establish a domestic weapons factory in an effort to cut its dependence on imported arms, President Muhammadu Buhari has said.
+----------------------------------------
+Generated Summary: Nigeria's President Muhammadu Buhari has ordered the country's military to set up its own weapons factory.
+----------------------------------------
+----------------------------------------
+----------------------------------------
 ----------------------------------------
-Generated Summary: West Ham could be boosted by the return of striker Clayton Donaldson for the visit of Wigan.
+Article text: Bolton Wanderers legend Nat Lofthouse was absent from a plaque listing every England player's debut.
+The FA was alerted by a Bolton fan shocked to see the "Lion of Vienna" missing from a pride of England stars.
+Les Medley, who was a star of the "push and run" Tottenham team of the early 50s, was also missed out.
+The FA has apologised to the families of both players.
+"We appreciate this matter being brought to our attention and, following an investigation, have ascertained that it was due to a formatting error," said a spokesman.
+"The panel is in the process of being taken down and will be replaced imminently"
+The omission of England's sixth highest scorer, who netted 30 goals in 33 games, was spotted in the week when Wayne Rooney scored his 50th goal for England to break Sir Bobby Charlton's record.
+Bolton's club historian Simon Marland said: "How can you miss a guy a who scored 30 goals in 33 games?"
+"Anyone can make a mistake but on the positive side it's probably got people talking about Nat."
+Lofthouse earned the nickname "The Lion of Vienna" because of his winning goal for England in 1952 against Austria following a run from the halfway line.
 ----------------------------------------
+Ground truth Summary: The Football Association has apologised for its own-goal in omitting one of England's most prolific scorers from a roll of honour at Wembley Stadium.
 ----------------------------------------
+Generated Summary: The Football Association has apologised after missing two players from a list of England's 1966 World Cup winners.
 ----------------------------------------
 ----------------------------------------
-Article text: The company said staff who walk out in the ongoing dispute over the role of conductors would be paid the money when industrial action came to an end.
-The RMT union described it as "another outrageous and bullying attack on staff fighting for public safety".
-General secretary Mick Cash said staff were "signing away basic human rights".
-Passengers on Southern services have suffered months of delays and disruption caused by the industrial action over the introduction of Driver Only Operated trains.
-The next 48-hour walkout takes place next week, with further strikes planned in the run-up to Christmas and over the new year.
-Mr Cash said it was "despicable" that Southern "felt it necessary to try and hoodwink staff" into signing an agreement with the "sole purpose to stop lawful industrial action".
-In a statement, Southern said: "Passengers have had to endure 17 days of strikes so far with 11 more to come, causing misery and hardship to people's work and family lives.
-"We feel we cannot make these payments to conductors who are planning to take industrial action.
-"They will be paid once the industrial action is over."
 ----------------------------------------
-Ground truth Summary: Southern rail has been accused of bullying after it asked staff to sign a pledge not to strike in exchange for getting backdated holiday pay early.
+----------------------------------------
+Article text: Media playback is not supported on this device
+The victory means the Irish will face France in Sunday's final at the World League 2 tournament.
+Wales will also make the final qualifiers in Johannesburg if they beat Scotland in the third place play-off.
+Gareth Furlong put Wales ahead before Shane O'Donoghue, Ben Walker and Neal Glassey netted for the Irish.
+Ireland, 10th in the world rankings, were strong favourites to account for the 34th-ranked Welsh but the visitors produced a strong challenge.
+Furlong's early goal from a penalty corner left Wales ahead after the opening quarter but O'Donoghue and Walker struck in quick succession in the second quarter to give the hosts a half-time lead.
+Wales had a couple of chances in the third quarter - including a missed penalty corner - before Glassey sealed Ireland's win by netting early in the final quarter.
+France earned a 2-0 win over the Scots in Saturday's second semi-final.
 ----------------------------------------
-Generated Summary: Southern rail has been accused of "bullying" conductors who are planning to strike after it said they would not be paid.
+Ground truth Summary: Ireland's men guaranteed themselves a spot at the final World Cup qualifying tournament in the summer by beating Wales 3-1 at Stormont on Saturday.
 ----------------------------------------
+Generated Summary: Ireland beat Wales 3-1 to reach the final of the Hockey World League in Dublin.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The man grabbed hold of a child's bag outside Heronsgate School in Lichfield Down, Walnut Tree, at about 08:20 GMT on Wednesday.
-The man said, "you're coming with me" before the pupil broke free.
-"The incident has been reported to police who are now investigating," the school said
 ----------------------------------------
-Ground truth Summary: A man tried to abduct a boy outside a primary school in Milton Keynes, the school said.
+Article text: The 21-year-old joined the Millers on loan in January and has made two appearances so far.
+Bray never played a first-team game for the Swans but did appear five times for the club's under-21 side in the EFL Trophy this season.
+Rotherham are bottom of the Championship, 19 points adrift of safety.
+Find all the latest football transfers on our dedicated page.
 ----------------------------------------
-Generated Summary: Police are investigating after a man tried to grab a pupil's bag outside a school in Staffordshire.
+Ground truth Summary: Rotherham United have signed Swansea winger Alex Bray for an undisclosed fee until the end of the 2018-19 season.
 ----------------------------------------
+Generated Summary: Rotherham United have extended the loan spell of Swansea City defender Connor Bray until the end of the season.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Friend, 28, was withdrawn during the 1-0 defeat by Nottingham Forest on 23 January after landing awkwardly.
-Former Doncaster and Wolves full-back Friend has missed just one league game this season, scoring once.
-Boro are already without centre-back Ben Gibson with a hip injury, who can also play wide, while full-back James Husband is on loan at Huddersfield.
 ----------------------------------------
-Ground truth Summary: Middlesbrough defender George Friend will be out for approximately four weeks after fracturing a shoulder.
+Article text: Media playback is not supported on this device
+As Test Match Special celebrates its 60th anniversary, BBC Radio 5 live Sport brings you Our TMS.
+People of all ages tell their stories of enjoying Test Match Special - from those who have listened for all 60 years to those who have only tuned in recently.
+We hear about the sailors who listened to Geoffrey Boycott's 100th first-class hundred while aboard the Ark Royal, the mother following the Ashes from a maternity ward, and the boy who would take his transistor radio and watch the Test outside a TV shop.
+Discover more about the captain of a sinking boat pumping out sea water as Devon Malcolm took nine wickets against South Africa, people listening at Lord's when John Arlott commentated on his final spell, and the listener who had the infamous 'leg over' incident played at her funeral.
+There will also be the odd recognisable voice or two paying their tribute to the programme.
+Our TMS will be on BBC Radio 5 live at 19:30 BST on Tuesday, 25 July.
+Media playback is not supported on this device
 ----------------------------------------
-Generated Summary: Middlesbrough defender Kevin Friend will be out for up to six weeks with a groin injury.
+Ground truth Summary: What is a programme without its listeners?
 ----------------------------------------
+Generated Summary: Test Match Special celebrates its 60th anniversary, BBC Radio 5 live Sport brings you Our TMS.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: President Cecile Richards told members of Congress on Tuesday she was "proud" that Planned Parenthood donates foetal tissue for research.
-The anti-abortion group behind the videos has alleged that the healthcare provider profits from the practice.
-The allegations have set off an effort to pull the group's federal funding.
-Ms Richards said foetal tissue donation is legal and noted its small role in what Planned Parenthood does.
-Planned Parenthood has said it charges small fees - between $30 (Â£20) and $100 - to cover processing costs, but does not make a profit from foetal donations.
-"These outrageous accusations based on videos are offensive and untrue," Ms Richards said
 ----------------------------------------
-Ground truth Summary: The head of Planned Parenthood has defended her organisation before Congress, calling a series of secretly recorded videos a "smear campaign".
+Article text: The last two successful squads were happy to profit from their hosts' misfortune at crucial moments.
+A celebrated error from the great David Campese got the 1989 vintage over the line in the decisive third Test in Australia.
+The Lions have faced Australia in Brisbane on eight occasions and have won all of them.
+Tom and Ben Youngs were the first brothers to play for the Lions in a Test match since Gavin and Scott Hastings in 1989.
+Prop Alex Corbisiero gained more metres (30) in the first half than all of Australia's forwards combined (26).
+Source: OptaJonny
+In 1997 the Springboks scored three tries to none and battered the Lions for long periods in the second Test in Durban. In which case heaven help the players when we get to the championship rounds.
+As in Pretoria, the Lions led for long periods before being pegged back towards the end. Again, the outcome was decided by the last kick of the game, only this time Kurtley Beale could not do what Morne Steyn did and break Lions' hearts, twice missing penalty chances to land the killer blow.
+And again, the body count was huge. But it was Australia, rather than the Lions, who lost four players to injury and ended with others playing out of position.
+While Gatland was adamant the Lions deserved victory, ultimately they got out of jail.
+They found themselves on the wrong side of referee Chris Pollock at the start and end of the match, and so nearly paid for it.
+Were it not for James O'Connor and Beale, who between them missed five kicks, and 14 points, the Wallabies could have won despite enjoying less possession and territory, and conceding 14 turnovers to the Lions' three.
+The hosts were clinical, scoring two tries from three line breaks, both finished in style by Israel Folau on a highly promising Test debut.
+But the Lions' wings were no slouches either. In the same city where Jason Robinson and Brian O'Driscoll dazzled 12 years ago, George North scored a sensational individual try to sit alongside those two in Lions folklore.
+"When the ball dropped out of the sky my first thought was just to run," said the Welshman, who fielded Australia full-back Berrick Barnes' high kick, eluded the attempted tackles of Pat McCabe and O'Connor, then left Barnes for dead before evading the covering Will Genia. "I can't begin to tell you how good it felt when I crossed that line."
+Nine minutes into the second half, Wales' other out-sized wing, Alex Cuthbert, was experiencing a similar sensation after surging onto Jonny Sexton's pass.
+Yet while both showed their potency in attack, there were also lapses in defence. Tommy Bowe's return to fitness - he will be available for the second Test after coming through a contact training session - means Cuthbert's place could be under threat.
+Manu Tuilagi is also set to be given a run in Tuesday's final midweek game against the Melbourne Rebels after recovering from a nerve problem in his neck.  If he comes through that, the Lions will be able to summon even greater firepower.
+While prop Alex Corbisiero received treatment for a tight calf and will be further assessed, that was the extent of their injury concerns.
+The Australians are already reeling. Berrick Barnes (jaw) and Pat McCabe (neck) must be regarded as doubtful starters next week, while Christian Leali'ifano was knocked out inside the first minute of his Test debut, and another centre, Adam Ashley-Cooper, was also forced off with a shoulder injury.
+A backline reshuffle is inevitable, but one player who will definitely start is Beale. The late kicking lapses aside, he was a constant threat with his incisive running and probing passing after replacing Barnes at full-back. If he had started the game, it is easy to imagine a different outcome.
+With O'Connor an unconvincing presence at fly-half, it would be no surprise if they swapped positions in Melbourne.
+Where Australia's kicking failed them at critical junctures, the Lions had the reassuring right boot of Leigh Halfpenny, who nailed five out of six. That's 27 from 29 on tour now. It is a shock when he misses, whatever the distance or angle.
+If the Wales full-back is one of the Lions trump cards, their line-out, a cause for concern at times on this tour, was another source of comfort to take into the next two weeks.
+An immaculate return of 12 from 12 on their own ball reflected well on hooker Tom Youngs, even if a majority were safe throws to Jamie Heaslip or Tom Croft at the front.
+Elsewhere, there were issues for Gatland and his coaches to ponder. The scrum was a mixed bag, getting the upper hand early on but faltering after the early removal of props Corbisiero and Adam Jones.
+Losing their own ball at a scrum in front of Australia's posts, and then yielding the penalty that gave Beale the chance to win the game, will make for a grisly review.
+The Lions' game management "wasn't as good as it should have been" either, according to Gatland, as they conceded penalties immediately after Cuthbert's try, and Halfpenny's final kick.
+Defence coach Andy Farrell felt his charges hadn't trusted their system sufficiently. Or maybe they stopped trusting the referee to make the right call.
+Brian O'Driscoll was clearly infuriated by twice being penalised for going off his feet early on, to the extent "he was afraid to go and compete after that because he felt there was a yellow card situation", Gatland said.
+The breakdown was predictably ferocious, with Australia - and the impressive Ben Mowen in particular - successfully disrupting the speed of the Lions' ball, and scrum-half Mike Phillips.
+Gatland is optimistic that with a different referee - South African Craig Joubert - next week, the Lions will have more success in "clearing away some of the defenders who are hanging around at the back of the ruck and causing a nuisance."
+If they can find a solution to that problem, the Lions showed they have the guile - through Sexton and O'Driscoll - and firepower to clinch the series in Melbourne.
+If they don't, they will still be better off than four years ago, with one last "shot at forever" - as Paul O'Connell likens the prospect of a series win - heading for the finale in Sydney.
 ----------------------------------------
-Generated Summary: The head of Planned Parenthood has defended the organisation's practice of donating tissue from aborted babies, in response to "outrageous" videos released by an anti-abortion group.
+Ground truth Summary: No-one said a Lions Test series victory has to be a thing of beauty, or a clear demonstration of superiority.
 ----------------------------------------
+Generated Summary: The British and Irish Lions have not won a Test series in Australia since 1989.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: It was over in seconds
 ----------------------------------------
-Ground truth Summary: The flash of brown fur was difficult to see as it raced across the muddy field, but the dog was easy to spot.
+Article text: It was the final major barrier to building an additional 20,000 homes in the city over the next decade.
+The Local Development Plan (LDP) sets out where new houses can be built, based on a forecast that the population will grow by a quarter over 20 years.
+Cardiff council said the city was in "dire need" of the plan, to help it manage its growth.
+A final decision will be made by the local authority in the coming weeks, but it is expected to be rubber stamped by the council.
+Under the plan:
+The inspector has not given as much protection to the greenbelt on the edge of the city as a number of councillors and residents had campaigned for.
+The process has been long and controversial.
+Supporters say the expansion is needed to deal with the shortage of housing in the city, while opponents claim the city's infrastructure will not be able to cope.
+The plan is based on projections of a growth in the population from the 320,000 to nearly 400,000 over the period between 2006 and 2026.
+The last time Cardiff grew at this scale was at the height of the coal industry a century ago.
+Cardiff council cabinet member for planning and sustainability Ramesh Patel said the city was "in dire need" of the plan.
+"The last plan was approved 19 years ago and has led to insufficient land being made available for urgent housing needs," he said.
+"When the new plan is finally adopted at the end of January, we will ensure that developments in the city are managed effectively with new transport infrastructure, schools, health facilities and other community facilities.
+"The plan gives us the control to guide development and manage the growth of the city."
 ----------------------------------------
-Generated Summary: It's been a long time coming, but it's finally here.
+Ground truth Summary: A controversial plan for the biggest expansion of Cardiff in a century has been approved by a planning inspector.
 ----------------------------------------
+Generated Summary: A plan to expand the city of Cardiff has been given the go-ahead by a planning inspector.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The controversial memo broke the firm’s code of conduct, Google’s chief executive Sundar Pichai said on Monday in an email to employees.
-The memo, shared widely at the weekend, suggested there were fewer women at Google due to biological differences.
-Mr Pichai said the text crossed the line due to it "advancing harmful gender stereotypes in our workplace”.
-Entitled Google’s Ideological Echo Chamber, the paper argued that "the abilities of men and women differ in part due to biological causes and that these differences may explain why we don't see equal representation of women in tech and leadership”.
-The author wrote: "We need to stop assuming that gender gaps imply sexism."
-Google has not confirmed who the employee is, but media reports name him as James Damore.
-"[I was fired for] perpetuating gender stereotypes," he told Reuters.
-He also claimed to have received "many personal messages from fellow Googlers expressing their gratitude" for speaking out.
-In his note to staff sent on Monday afternoon, Mr Pichai spoke at length about protecting free speech in Google’s ranks, and that "much of what was in that memo is fair to debate, regardless of whether a vast majority of Googlers disagree with it”.
-But he added: "To suggest a group of our colleagues have traits that make them less biologically suited to that work is offensive and not OK.
-"It is contrary to our basic values and our Code of Conduct, which expects 'each Googler to do their utmost to create a workplace culture that is free of harassment, intimidation, bias and unlawful discrimination’."
-The tech firm's new head of diversity, Danielle Brown, had earlier criticised the memo saying it had "advanced incorrect assumptions about gender".
 ----------------------------------------
-Ground truth Summary: A Google employee who wrote a controversial memo about workplace diversity has been fired, the BBC can confirm.
+Article text: David Cameron also nominated Tory and Labour members, including former attorney general Dominic Grieve.
+Mr Robertson was among a number of MPs who had called on the committee to investigate an RAF drone strike in which two British citizens were killed.
+He is expected to use his position on the committee to re-affirm those calls for an investigation.
+It was confirmed on Monday by the UK government that Cardiff-born Reyaad Khan, 21, and Ruhul Amin, from Aberdeen, died in Syria, alongside another fighter, in the first targeted UK drone attack on a British citizen.
+The men had gone to the conflict zone to fight for the so-called Islamic State group.
+Defence Secretary Michael Fallon said the drone strike was a "perfectly legal act of self defence".
+He added that the UK would not hesitate to launch more secret drone strikes in Syria to thwart terror plots.
+The new appointments to the intelligence and security committee, which can summon intelligence chiefs to give evidence, include;
 ----------------------------------------
-Generated Summary: Google has fired an employee for "perpetrating harmful gender stereotypes" in an internal memo.
+Ground truth Summary: The prime minister has appointed SNP MP Angus Robertson to Westminster's intelligence and security committee.
 ----------------------------------------
+Generated Summary: SNP MP Angus Robertson has been appointed to the House of Commons intelligence and security committee.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Members of the EIS Further Education Lecturers' Association were already set to go on strike on Thursday next week.
-The union has now confirmed it plans to hold two strikes the following week and more after Easter.
-If the dispute is not settled, they plan to go on strike three days a week indefinitely from the last week of April onwards.
-The planned strike dates are:
-The dispute is linked to the return of national pay bargaining in the sector.
-Lecturers at most colleges are angry about a 1% pay offer and are concerned about the differences between pay at different colleges.
-They claim there are disparities of up to Â£10,000 a year.
-The dispute at colleges in Glasgow is over a distinct issue - the union wants these colleges to join the national pay bargaining set-up.
-Colleges Scotland, the body that represents Scotland's colleges, has said the pay offer which it put before the union is the best deal possible.
 ----------------------------------------
-Ground truth Summary: Lecturers at further education colleges across Scotland have announced more details of a planned series of strikes.
+Article text: Bowie received posthumous nominations for best British male and best album, for his haunting swansong Blackstar.
+After a row over diversity at last year's ceremony, the rest of the best male category comprises artists from BAME backgrounds.
+Craig David, Kano, Michael Kiwanuka and Skepta, who beat Bowie at the Mercury Prize, are all up for the title.
+Skepta has three nominations in total, with additional nods in the best breakthrough and best album categories.
+Girl band Little Mix also have three - including best group and best single, for their song Shout Out To My Ex.
+Meanwhile, Beyonce and her younger sister Solange Knowles are both up for best international female, after releasing albums about race and politics last year.
+Brit Awards 2017: Nominations in full
+There were calls for a boycott of last year's Brits, after BAME (black, Asian and minority ethnic) artists were absent from all but the international categories.
+Organisers later overhauled the voting system, improving the representation of both women and people from ethnic minority backgrounds.
+Grime star Stormzy, who called the Brits "embarrassing" in his single One Take Freestyle, this year receives a nomination in the best British breakthrough category.
+Craig David said he felt grime, urban and R&B artists had excelled themselves in the past year.
+"What they're doing for British music is pivotal, and it's moving a whole scene forward," he told BBC News.
+"Diversity is the key," added Michael Kiwanuka. "His career has been so epic. He influenced me and so many other artists. There's no competition."
+The best female category sees competition between Ellie Goulding, Lianne La Havas, Emeli Sande, NAO and Anohni - who formerly performed under the name Antony and the Johnsons.
+In the international categories, there was also recognition for Leonard Cohen, who died late last year.
+For the first time, the nominations were revealed in a live programme on ITV1.
+The show included performances from best international female nominee Christine & The Queens and Britain's Got Talent contestant Callum Scott, whose cover of Dancing On My Own was a major international hit last year.
+Blues singer Rag 'N' Bone Man also performed, after being presented with the Brits Critics' Choice Award, singling him out as one to watch in 2017.
+The prize, which has previously gone to the likes of Adele, Sam Smith and Florence + The Machine, is one of only two awards to be announced in advance.
+The other - the Brits Icon award - will be given to Robbie Williams. It is the 18th Brit he has won, either as a solo artist or as a member of Take That.
+Little Mix, Emeli Sande and The 1975 will all perform at the event, at London's O2 Arena on Wednesday, 22 February, with more acts to be announced soon.
+Singer Michael Buble is due to host - but it is unclear whether he will be able to fulfil the role after his son was diagnosed with cancer last year.
+Follow us on Facebook, on Twitter @BBCNewsEnts, or on Instagram at bbcnewsents. If you have a story suggestion email entertainment.news@bbc.co.uk.
 ----------------------------------------
-Generated Summary: Lecturers in Scotland's further education colleges are to go on strike in a dispute over pay.
+Ground truth Summary: David Bowie, Skepta and Craig David are up for some of the biggest prizes at the 2017 Brit Awards.
 ----------------------------------------
+Generated Summary: David Bowie has been honoured with two nominations at this year's Brit Awards.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Meyiwa, 27, was shot on Sunday, apparently after burglars entered his girlfriend's house near Johannesburg.
-A suspect appeared in court on Friday and was charged with the murder of the popular goalkeeper.
-Meyiwa's death shocked South Africa and has highlighted the high rates of violent crime in the country.
-The funeral took place at the Moses Mabhida Stadium in Meyiwa's hometown of Durban.
-Many of the mourners were wearing T-shirts with a picture of Meyiwa, who was widely seen as an inspiring figure.
-Others wore red or black replica football shirts in the colours of Meyiwa's team, Orlando Pirates.
-Meyiwa's coffin was driven into the stadium, followed by Orlando Pirates players and officials.
-Mourners cried as videos were played showing Meyiwa training and playing football.
-Celebrating Senzo Meyiwa's life was the main theme for the tens of thousands of fans who packed into the stands. The chairman of the country's football association said he hoped that this could be a "turning-point" in the long-running debate over violent crime.
-And Senzo Meyiwa's father Sam told me he wanted more random searches, to cut the number of guns in South Africa. "We are no longer safe in our houses," he said.
-"The entire nation is crying. We have all lost. Our condolences to Orlando Pirates and Bafana Bafana," said Durban Mayor James Nxumalo, AFP reported, using a nickname for South Africa's national team.
-"Our hearts are bleeding."
-President Zuma ordered the national flag to be flown at half-mast on Saturday to honour the goalkeeper.
-Following Meyiwa's death, South Africa's domestic football league postponed this weekend's scheduled Johannesburg derby between Orlando Pirates and rivals Kaiser Chiefs.
-The Durban stadium was also named as the venue for host South Africa's next Africa Cup of Nations qualifier.
-The funeral of another South African sporting hero, former 800m world champion Mbulaeni Mulaudzi, also took place on Saturday.
-Mulaudzi was killed in a car accident the day before Meyiwa's death.
-Police said on Friday that a suspect had been identified in Meyiwa's killing after an identity parade.
-The man, named as Zanokuhle Mbatha, 25, faced charges of murder and armed robbery at a court hearing and is due to appear again on 11 November. Police had offered a reward for information on the attack.
-"There are still other suspects outstanding and we appeal to the public to continue providing information in support of the investigation," a police statement said.
 ----------------------------------------
-Ground truth Summary: Tens of thousands of people have attended the funeral of South African football captain Senzo Meyiwa in Durban.
+Article text: The club's fans have previously booed to express anger at European football's governing body over a number of issues.
+Uefa opened disciplinary actions against City in October 2015, but decided against any sanctions.
+The new 2017 disciplinary regulations contain no reference to causing a disturbance during competition anthems.
 ----------------------------------------
-Generated Summary: Thousands of mourners have attended the funeral of South African football star Senzo Meyiwa, who was shot dead during a burglary.
+Ground truth Summary: Manchester City will not face punishment from Uefa this season if their fans boo the Champions League anthem after a change to regulations.
 ----------------------------------------
+Generated Summary: Manchester City will not face disciplinary action from Uefa for their fans' behaviour during the Champions League match against Borussia Dortmund.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The Scottish Chambers of Commerce's (SCC) quarterly business survey found firms were still performing strongly.
-But a number cited continued difficulties in the eurozone and world economies as a challenge to growth.
-SCC said the "exceptional" performance of the second quarter would be hard to replicate in the final quarter of 2014.
-However, it added that stability was "returning to the Scottish economy".
-The business survey, carried out in conjunction with the Fraser of Allander Institute of Strathclyde University, drew responses from more than 420 firms across five major sectors - construction, financial and business services, manufacturing, retail and wholesale and tourism.
-It found international events such as the Commonwealth Games and the Ryder Cup at Gleneagles boosted tourism performance, with average room rates increasing for the sixth consecutive quarter.
-But in the retail and wholesale sector, more firms reported a fall in sales revenue than a rise.
-SCC said that trend was expected to remain largely unchanged in the next quarter.
-Orders/sales grew in the third quarter for the construction and manufacturing sectors, but at a lower rate than the previous quarter.
-Sales revenue growth was broadly unchanged for financial and business services firms.
-Recruitment difficulties were still a concern for businesses, particularly in the construction sector, where almost half of firms that recruited said they had experienced difficulties.
-SCC chief executive Liz Cameron said: "The construction sector and manufacturing sectors are still performing well but face ongoing challenges as both sectors experienced lower sales growth compared with the previous high performing quarter.
-"Businesses have indicated that employment trends remain promising and are expected to grow, as more firms report increased levels of hiring.
-"In particular, the retail sector reported its highest increase in employment for 10 years.
-"As business looks to hire more people, continued challenges exist, as key sectors are often unable to find the right talent to employ, potentially slowing down the pace of economic growth."
 ----------------------------------------
-Ground truth Summary: The Scottish economy continued to grow in the last quarter but at a slower pace than the previous three months, according to a report.
+Article text: However, when you're at the very top of an organisation and juggling multiple demands it's even tougher.
+To drive their organisations to success, chief executives need to be crystal clear about their goals.
+They also need to not get distracted when carrying them out.
+The key to keeping on top of your workload and not getting overwhelmed includes:
+Delegating work, keeping meetings fairly short and working intensely in only short bursts.
+You should also remember to stay focussed, and keep a decent work-life balance otherwise you will risk burning out.
+Here some of the world's top business leaders share their secrets to not getting bogged down by the details.
+"You really have to evolve into a headset where you're only going to hold yourself accountable for the things you can control. They say 'yin yang'. It's a balance. Everything in life is a balance. So you have to balance your life. It'll make you stronger in the things you do, it'll make you better at what you do.
+"I've always believed that exercise helps to clear your body, helps to clear your mind. The more you abuse your body, the more stress you put on your body, it will hinder you from doing good business or being a good person. So I try to balance the things I do."
+"Everybody wants to change your agenda. Everybody wants a piece of your time and to try to persuade you why what they're working on is more important than what you were working on.
+"And what I think you have to be is incredibly focused. You've got to stay very true to a few core points that you will pursue relentlessly. Now you can't be so strait-jacketed by that to ignore issues that warrant your attention, but nor can you afford to be blown about by trivial items."
+This feature is based on interviews by leadership expert Steve Tappin for the BBC's CEO Guru series, produced by Neil Koenig.
 ----------------------------------------
-Generated Summary: The Scottish economy grew at its fastest rate in two years in the third quarter of 2014, according to a survey.
+Ground truth Summary: Getting things done can be hard for anyone.
 ----------------------------------------
+Generated Summary: It's easy to get overwhelmed at work.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Members of the Bournemouth e-Panel mailing list, who had signed up to take part in surveys, received an email with all the recipients' addresses visible.
-The council apologised and asked recipients to delete the original email which was sent last week.
-Service director Richard Saunders said "further investigations" were being carried out to prevent a repetition.
-An Information Commissioner's Office spokesman said it was aware of the breach and would be keeping a note on its system.
-He said as it was not regarded as significant enough to take further action and the council had followed the recommended procedures following the error.
 ----------------------------------------
-Ground truth Summary: Hundreds of email addresses have been inadvertently circulated following a mistake by Bournemouth Borough Council.
+Article text: Private Gareth Bellingham, 22, from Stoke on Trent, of 3rd Battalion The Mercian Regiment, was shot while on patrol with Afghan troops in the Nahr-e Saraj district on Saturday.
+He was described as an "extremely hardworking and committed Warrior who was wholly respected".
+The number of UK service personnel killed in Afghanistan stands at 374.
+Private Bellingham's parents Leslie and Suzanne said he died doing the job he loved.
+"We are all proud of the job he did
 ----------------------------------------
-Generated Summary: Bournemouth Council has apologised after an email containing the personal details of thousands of people was sent to the wrong recipients.
+Ground truth Summary: A British soldier killed on patrol in Helmand province, Afghanistan, has been named by the Ministry of Defence.
 ----------------------------------------
+Generated Summary: A soldier killed in Afghanistan has been named by the Ministry of Defence.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Organisers campaigning to save Lewisham Hospital say the plans are "crazy and ill thought out".
-Under proposals, its A&E will close and the maternity unit be downgraded after neighbouring South London Healthcare NHS Trust ran up debts of Â£150m.
-The government said "doing nothing is not an option" and is to make a decision on 1 February.
-Campaigners are angry Lewisham Hospital, which is not part of the South London Healthcare NHS Trust, is being targeted in a re-organisation of services across the area following the trusts's financial problems.
-Under the plans, the trust's Queen Elizabeth Hospital site in Woolwich would come together with Lewisham Healthcare NHS Trust to create a new organisation.
-Lewisham's A&E unit would then be downgraded to an urgent care centre, meaning emergency cases would be seen at nearby hospitals
 ----------------------------------------
-Ground truth Summary: At least 15,000 people have marched in protest against proposals to close services at a hospital in south London.
+Article text: Images posted on social media showed flames emerging from many of the building's 24 floors.
+There were no immediate reports of fatalities from the blaze, the cause of which is unknown.
+A number of people were treated for smoke inhalation at the scene, officials told the Gulf News newspaper.
+Residents were evacuated from the building and the power was cut, Brigadier Abdullah Al Suwaidi, head of civil defence in Sharjah, told Gulf News.
+Around 200 families live in the tower, the newspaper said.
+Images suggested that the fire started on one of the building's lower floors before spreading rapidly upwards
 ----------------------------------------
-Generated Summary: Plans to close a hospital in south-east London and downgrade its A&E unit have been given the go-ahead by the government.
+Ground truth Summary: A high-rise residential building in Sharjah in the United Arab Emirates has caught fire, sending plumes of thick black smoke into the air.
 ----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The Speaker announced the clerks, who advise him on conduct and constitutional issues, would also no longer wear wing collars and white tie.
-Conservative Sir Gerald Howarth said the tradition of wearing wigs went back "several centuries".
-But Mr Bercow said there was an even older tradition of not wearing wigs.
-He announced the changes on Monday, but added that clerks would keep part of their garb - black gowns, to signify they are experts on procedure and constitutional issues.
-Mr Bercow said changes to clothing and headgear represented the "overwhelming view" of clerks themselves.
-They would "convey to the public a marginally less stuffy and forbidding image of this chamber at work".
-But Sir Gerald, MP for Aldershot, raised a point of order, telling the Commons: "I was surprised by [the] statement, which had the sort of appearance of an executive order."
-He added that traditional clerks' dress was "key to the dignity of the House" and had been so "for several centuries", adding that MPs "should discuss this".
-Mr Bercow replied that it was "a matter that can properly be decided by the Speaker", adding that the House of Commons Commission had approved the changes, which clerks themselves had suggested.
-He said that, if one went back more than a "couple of hundred years", the situation was different from that presented by Sir Gerald, and that "several centuries ago", clerks "did not wear wigs".
-Mr Bercow has refrained from wearing a wig himself in the Commons since becoming Speaker in 2009, as did his predecessors Michael Martin and Betty Boothroyd.
-----------------------------------------
-Ground truth Summary: John Bercow has defended the decision that Commons clerks will no longer have to wear wigs, after one MP likened the move to an "executive order".
-----------------------------------------
-Generated Summary: Commons Speaker John Bercow has defended his decision to ban the wearing of wigs by House of Commons clerks.
+Generated Summary: A fire has engulfed a high-rise residential building in the United Arab Emirates (UAE) city of Sharjah.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

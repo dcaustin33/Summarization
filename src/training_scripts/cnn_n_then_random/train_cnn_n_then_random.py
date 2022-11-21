@@ -38,8 +38,8 @@ class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
         
         max_idx = max(1, len(text) - 1)
         final = text[:self.first_selection]
-        if args.first_selection < max_idx:
-            choice = np.random.randint(args.first_selection, max_idx)
+        if self.first_selection < max_idx:
+            choice = np.random.randint(self.first_selection, max_idx)
             final = final + text[choice:]
         text = '. '.join(final)
 
@@ -90,7 +90,7 @@ def training_step(data, model, metrics, step, log = False, wandb = None, args = 
     out =  model(input_ids = data['article']['input_ids'], labels = data['summary']['input_ids'], attention_mask = data['article']['attention_mask'])
     metrics['loss'] += out['loss'].detach().cpu().numpy()
     if log:
-        log_metrics(metrics, step, args, wandb = wandb, train = True)
+        log_metrics(metrics, step, args, wandb = wandb, train = False)
         reset_metrics(metrics)
     return out['loss']
 
@@ -121,6 +121,7 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
         if log:
             log_metrics(metrics, steps, args, wandb = wandb, train = False)
             reset_metrics(metrics, val = True)
+            print(metrics)
         return None
 
 

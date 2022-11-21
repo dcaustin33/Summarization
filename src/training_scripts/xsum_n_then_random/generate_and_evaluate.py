@@ -128,7 +128,7 @@ if __name__ == '__main__':
     device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print("Using device:", device)
 
-    val_dataset = XSumDatasetNRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation')
+    val_dataset = XSumDatasetNRandom(model_name = args.model_name, max_length=args.max_length, split = 'validation', first_selection = args.first_selection)
     val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
 
     val_metrics = {}

@@ -46,7 +46,6 @@ class Trainer:
         if self.current_step: steps = self.current_step
         else: steps = 0
         device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-        #device = torch.device('cpu')
 
         self.model = self.model.to(device)
 
@@ -61,7 +60,6 @@ class Trainer:
             os.system('rm -r -f {path}'.format(path = check_path))
             os.mkdir(check_path)
         check_path = check_path + '/'
-        scaler = torch.cuda.amp.GradScaler()
 
         while steps < self.args.steps:
 
