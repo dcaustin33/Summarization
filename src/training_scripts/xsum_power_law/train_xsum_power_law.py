@@ -14,12 +14,11 @@ from torch.utils.checkpoint import checkpoint_sequential
 import numpy as np
 
 class XSumDatasetPowerLaw(torch.utils.data.Dataset):
-    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1, divisor = 2):
+    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', divisor = 2):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
         self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
-        self.first_selection = first_selection
         self.probability = np.ones(1000) * 1000000
         for i, val in enumerate(self.probability):
             if i == 0: continue
@@ -150,15 +149,14 @@ if __name__ == '__main__':
     parser.add_argument('--workers', nargs='?', default = 8,  type=int)
     parser.add_argument('--num_beams', nargs='?', default = 5,  type=int)
     parser.add_argument('--warmup_steps', default = 100, type = int, help = 'Number of warmup steps')
-    parser.add_argument('--first_selection', nargs='?', default = 1,  type=int)
     parser.add_argument('--divisor', nargs='?', default = 2,  type=int)
     parser.add_argument('-log', action='store_true', help='Use wandb')
 
     args = parser.parse_args()
 
     #create the dataset
-    dataset = XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'train', first_selection=args.first_selection, divisor = args.divisor)
-    val_dataset =XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'validation', first_selection=args.first_selection, divisor = args.divisor)
+    dataset = XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'train', divisor = args.divisor)
+    val_dataset =XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'validation', divisor = args.divisor)
 
     #create the dataloader
     dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
