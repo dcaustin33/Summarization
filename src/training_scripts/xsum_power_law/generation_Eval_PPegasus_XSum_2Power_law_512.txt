@@ -1,0 +1,252 @@
+Generations for Eval_PPegasus_XSum_2Power_law_512
+Article text: Bentaleb played only 13 times for Spurs last season because of injuries. 
+The 21-year-old midfielder has not trained with the Tottenham first-team since July after being told he was not in manager Mauricio Pochettino's plans. 
+"He is 100% fit but we must give him time to integrate into the team," Schalke director Christian Heidel said. 
+Find all the latest football transfers on our dedicated page. 
+----------------------------------------
+Ground truth Summary: Algeria international Nabil Bentaleb has joined German side Schalke 04 on a season-long loan from English Premier League side Tottenham.
+----------------------------------------
+Generated Summary: Tottenham midfielder Nabil Bentaleb has joined Schalke on a season-long loan deal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The men turned up at the pensioner's house in Carluke, South Lanarkshire, at about 12:30 on Wednesday, offering to carry out repair work at his home. 
+After agreeing to the work, the man paid the conmen in cash but they made off without carrying out any repairs. 
+One of the men was white, aged 50 to 59, about 6ft tall, of heavy build and spoke with a Scottish accent. 
+The other man was white, about 5ft 8in, and of slim build. 
+It is believed they may have used a small white van. 
+"My officers are currently reviewing CCTV footage and carrying out door-to-door inquiries to glean any information about these two men who are responsible for this despicable crime
+----------------------------------------
+Ground truth Summary: A 91-year-old man has been conned out of a four-figure sum of money by two bogus workmen.
+----------------------------------------
+Generated Summary: Police have appealed for information after two men conned an 83-year-old man out of thousands of pounds.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: After their defiance of the government on Monday, peers are waiting to see what instrument the government will devise for their punishment.  And in particular they're keen to guess whether their former leader, Lord Strathclyde, will place a silken noose about their noble necks, or merely slap their noble wrists. 
+Conservative MPs are not amused about Monday's rebuff: "they've got to bleed," growled one senior Tory backbencher,  but the options for punishment are far from simple.  Despite the chuntering from sources close to ministers about "suspending" the Lords, or otherwise clipping its wings, such extreme constitutional surgery is simply not in the gift of the government
+----------------------------------------
+Ground truth Summary: As every viewer of the Alec Guiness comedy classic, Kind Hearts and Coronets, knows, when peers are hanged, the execution is performed with a silken cord.
+----------------------------------------
+Generated Summary: The House of Lords is in a state of flux.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: HMP Kingston is one of six jails in England to be closed by the Ministry of Justice (MoJ) as part of spending cuts. 
+Officers left the prison, by marching out the front gate together, at midday.  Friends and family were then taken on a tour of the buildings and grounds. 
+Kingston housed around 800 Category C prisoners with indeterminate sentences.  The government said the closures would save Â£63m per year in running costs. 
+Unions have previously claimed up to 300 jobs could be lost in the closure of HMP Kingston and Camp Hill on the Isle of Wight
+----------------------------------------
+Ground truth Summary: A Portsmouth prison built in 1877 has closed its doors for the last time.
+----------------------------------------
+Generated Summary: The last prisoners have been released from a prison in south-east London.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jones, 39, and Cardiff Blues pair Danny Wilson and Matt Sheratt have been added to Wales' staff for the Pacific Islands tour in June 2017. 
+Wales head coach and assistant Rob Howley are away with the British and Irish Lions next summer. 
+"Stephen will obviously get a lot out of it but I think there'll be more going the other way," said Pivac. 
+Jones played well over 200 matches for Llanelli and Scarlets and returned to west Wales as a backs coach in 2015 after a spell as part of Dai Young's coaching team at Wasps. 
+"He's been identified as a coach with a lot of potential and someone I believe will be a fine international coach going forward
+----------------------------------------
+Ground truth Summary: Scarlets coach Wayne Pivac says Wales will gain when Stephen Jones joins their coaching team next summer.
+----------------------------------------
+Generated Summary: Scarlets backs coach Stephen Jones will have a "big role" in Wales' 2017 summer tour, says head coach Wayne Pivac.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Agents arrested more than 150 people on sex-trafficking charges in dozens of cities including Atlanta, Denver and Seattle. 
+The youngest victim found was 12 years old, the FBI said. 
+The FBI targeted hotels, casinos and lorry stops to find underage victims. 
+The majority of the teens found were girls. 
+The FBI worked with local police departments and the National Center for Missing and Exploited Children to help the teenage victims to find shelter and get medical attention. 
+The agencies want to ensure the teenagers do not return to prostitution
+----------------------------------------
+Ground truth Summary: The FBI has broken up several sex trafficking rings across the US, uncovering more than 100 sexually exploited teenagers in a nationwide operation.
+----------------------------------------
+Generated Summary: The US Federal Bureau of Investigation (FBI) has rescued more than 100 teenagers who were forced into prostitution.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: More than 220 million people were immunised across 16 countries in the continent's meningitis belt. 
+In 2013 there were just four cases across the entire region, which once faced thousands of deaths each year. 
+However, there are fresh warnings from the World Health Organization that "huge epidemics" could return unless a new vaccination programme is started. 
+The meningitis belt stretches across sub-Saharan Africa from Gambia in the west to Ethiopia in the east. 
+In the worst epidemic recorded, in 1996-97, the disease swept across the belt infecting more than a quarter of a million people and led to 25,000 deaths
+----------------------------------------
+Ground truth Summary: A mass vaccination programme against meningitis A in Africa has been a "stunning success", say experts.
+----------------------------------------
+Generated Summary: The number of cases of meningitis in sub-Saharan Africa has dropped to its lowest level in more than a decade, according to the World Health Organization.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+Morgan's men are through to the semi-finals after beating New Zealand, but have the chance to put Australia out. 
+"If we're going to be contenders, we need to beat the best and Australia are one of the best," said Morgan. 
+"So to go in to a game like that with no other attitude than winning is very important to us. "
+England will go through to the semis as Group A winners regardless of the result against Australia, but Saturday's clash could be the final time the two sides meet before this winter's Ashes series
+----------------------------------------
+Ground truth Summary: England captain Eoin Morgan says his side will show no let-up when they meet Australia in the Champions Trophy at Edgbaston on Saturday.
+----------------------------------------
+Generated Summary: England captain Eoin Morgan says Saturday's Women's World Twenty20 semi-final against Australia will be a "must-win" game for his side.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 26-year-old Senegal international was airlifted to hospital after a crash on the M4 motorway in London on Sunday. 
+The injury also means he will miss the Africa Cup of Nations in January. 
+"He isn't having the best of times, but we're all very supportive," said Pardew.  "We love Pape and can't wait to have him back. "
+Souare is expected to be released from hospital on Saturday. 
+When asked how much of the season Souare would miss, Pardew said: "Four, five months.  Maybe six, he should be up and running again.  It was a broken thigh, that should repair as normal
+----------------------------------------
+Ground truth Summary: Crystal Palace defender Pape Souare will be out for up to six months after breaking his thighbone in a car crash, says manager Alan Pardew.
+----------------------------------------
+Generated Summary: Newcastle United defender Pape Souare will miss the rest of the season after breaking his leg in a car crash, manager Alan Pardew has confirmed.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The businessman headed to Clacton-on-Sea after he admitted he knew "nothing" about the Essex town. 
+But following his visit, he said he would be backing local party councillor Jeff Bray. 
+Mr Banks initially planned to take on current MP Douglas Carswell, before he announced he would not be standing. "
+Mr Banks previously said he only knew Clacton from a "fabulous day out" during the referendum campaign, and as one of the strongest supporting areas for Euro-scepticism. 
+He said he has agreed to give the local UKIP party financial assistance to fight the election
+----------------------------------------
+Ground truth Summary: Former UKIP donor Arron Banks has said he will not stand for the Clacton seat in the general election after a fact-finding mission to the town.
+----------------------------------------
+Generated Summary: Leave campaigner Arron Banks has said he will not stand for UKIP in the general election.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+Currie's anticipated appointment was confirmed at Shamrock Park on Monday evening as his five-year stint as Ards manager came to an end. 
+Currie, who has been handed an 18-month contract, takes over a side that are 13 points adrift at the bottom of the Premiership table. 
+Portadown started the season with a 12-point deduction for making irregular payments to players and were also handed a number of fines, in addition to being prevented from signing players on professional deals this season
+----------------------------------------
+Ground truth Summary: Niall Currie has been unveiled as the new manager of Portadown.
+----------------------------------------
+Generated Summary: Portadown have appointed former Ards boss David Currie as their new manager.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Benzema is being investigated for his part in an alleged plot to blackmail France team-mate Mathieu Valbuena. 
+The Real Madrid player - who denies wrongdoing - was not allowed to contact Valbuena, meaning they could not be in the same squad, but an appeals court has partially lifted some restrictions. 
+However Benzema, who is injured, was suspended from France duty in December. 
+An investigating judge last month lifted the order keeping Benzema and Lyon playmaker Valbuena apart, but the prosecutor appealed.  That was dismissed on Friday
+----------------------------------------
+Ground truth Summary: Striker Karim Benzema will be eligible to play for France at Euro 2016 after some legal restrictions were lifted.
+----------------------------------------
+Generated Summary: France striker Karim Benzema will not be allowed to play for the national team again, a court has ruled.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: As Republican National Committee head Reince Priebus has pointed out, the rules are the rules, and they aren't a secret. 
+But Mr Trump is right that there are forces coalescing to stop him. 
+Neither Mr Cruz nor Mr Kasich can win the 1,237 delegates necessary to secure the Republican nomination for themselves. 
+As the two campaigns explained in dual press releases, Mr Cruz will focus on Indiana on 3 May, while Mr Kasich will be given free rein to challenge Mr Trump head-on in the Oregon and New Mexico contests over the following weeks
+----------------------------------------
+Ground truth Summary: For the past few weeks Donald Trump has been railing against what he calls a "rigged" and "crooked" Republican nomination process and silent efforts to deny him the party's presidential bid.
+----------------------------------------
+Generated Summary: Ted Cruz and John Kasich have announced that they are suspending their campaigns for the Republican presidential nomination.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: His 16 years in office made him the longest-serving German chancellor since Bismarck and he was once described as the greatest European leader in the second half of the 20th Century. 
+He was a passionate supporter of greater European integration and was one of the main architects of the Maastricht Treaty. 
+Yet the end of his career was marred by economic problems in the old East Germany and a financial scandal within his own CDU party. 
+Helmut Josef Michael Kohl was born on 3 April 1930 into a conservative, Catholic family,
+His political outlook was shaped by his experiences in his hometown of Ludwigshafen in the Rhineland during World War Two
+----------------------------------------
+Ground truth Summary: Helmut Kohl earned his place in history by securing the successful reunification of Germany after the collapse of communism.
+----------------------------------------
+Generated Summary: Former German Chancellor Helmut Kohl has died at the age of 83.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: At an emergency meeting in Ghana, ministers promised better collaboration to fight what has become the world's deadliest outbreak to date. 
+So far, 759 people have been infected with the virus in Guinea, Liberia and Sierra Leone and 467 of them have died. 
+The two-day meeting was called by the World Health Organization (WHO). 
+Under the new strategy, the WHO will open a sub-regional control centre in Guinea to co-ordinate technical support. 
+"I really hope to see a turnaround where we begin to see a decrease in cases in the next several weeks
+----------------------------------------
+Ground truth Summary: Health ministers from 11 West African countries have adopted a common strategy to fight a deadly Ebola outbreak in the region.
+----------------------------------------
+Generated Summary: Health ministers from West Africa have agreed a new strategy to tackle the Ebola outbreak.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But his term in office has been dogged by the deep schism between his own Fatah movement in the West Bank and the militant Hamas movement, which controls the Gaza Strip. 
+Mr Abbas, opposed to armed struggle and committed to pursuing an independent Palestinian state through negotiations, has enjoyed strong support from the international community. 
+Under his leadership, US and European money has flowed into the West Bank to build up security forces which he has used to crack down on militant activity and Hamas's political infrastructure
+----------------------------------------
+Ground truth Summary: Mahmoud Abbas, also known as Abu Mazen, has led the Palestinian Authority since he was elected as its president in January 2005.
+----------------------------------------
+Generated Summary: Palestinian Authority President Mahmoud Abbas has been in power for more than a decade.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 16-year-old girl and the 36-year-old married man were in love and killed by the girl's relatives, they said. 
+The bodies were later cremated.  One man has been arrested. 
+So-called honour crimes are common in India, where many still prefer arranged marriages within their own caste and love matches are often frowned upon. 
+The latest incident took place in Amaitha village in Bihar's Gaya district on Wednesday. 
+Reports said the couple had eloped a few days ago, but were found by the girl's family and brought back to village on Wednesday morning
+----------------------------------------
+Ground truth Summary: A couple who had eloped in the northern Indian state of Bihar have been lynched by villagers in what is suspected to be a case of honour killing, police said.
+----------------------------------------
+Generated Summary: A couple have been killed in a village in the eastern Indian state of Bihar, police say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Kirsty Maxwell, from Livingston, died on Saturday in the tourist area in south east Spain. 
+It is thought that she was part of a group of more than 30 women who had travelled to the resort for a hen weekend. 
+A British man was arrested by police in Benidorm in connection with the incident, before being later released. 
+A Foreign Office spokesman said: "We are supporting the family of a British national who sadly died in Benidorm on 29 April. "
+Mrs Maxwell's body is understood to be found near the swimming pool at the Apartamentos Payma on Saturday. 
+----------------------------------------
+Ground truth Summary: A West Lothian woman has died at a holiday apartment block in Benidorm during a hen party.
+----------------------------------------
+Generated Summary: A 21-year-old woman from Scotland has died in Benidorm in Spain.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 26-year-old, who has joined Saints on loan until January, was a team-mate of Inverness Caledonian Thistle's Boyce while the pair were at Cliftonville. 
+"If you look at his career stats in the Irish League, he's scored a lot of goals," Wright told his club website. 
+"He's also a former team-mate of Liam Boyce, who has done well up here. "
+Fellow Northern Irishman Wright stressed: "They are different types of players, but Joe has the potential to do well. "
+Gormley had joined Peterborough from Cliftonville last summer, but he has made only seven appearances for the English League One side - one this season after recovering from a knee injury picked up in September
+----------------------------------------
+Ground truth Summary: St Johnstone manager Tommy Wright hopes Joe Gormley will make as big an impact in Scotland as Liam Boyce after signing the Peterborough United striker.
+----------------------------------------
+Generated Summary: St Johnstone manager Tommy Wright says the loan signing of Peterborough United striker Joe Gormley is similar to Liam Boyce.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: How long does it take to drive from Scotland to Russia? James Parker took his camera and found out by driving 9,898 miles in a classic 1972 Morris Minor, raising money for charity on the way. 
+Passing through 19 countries, across three deserts and over two seas, Parker spent 53 days on the road. 
+He particularly focused on capturing male subjects, wanting to find out if gender expectations changed from the West to East. 
+On his journey, Parker realised: "I was being quite reflective with who I was photographing. . .  I was focusing on situations that I recognised myself in
+----------------------------------------
+Ground truth Summary: All photographs by James Parker.
+----------------------------------------
+Generated Summary: How long does it take to drive from Scotland to Russia?
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

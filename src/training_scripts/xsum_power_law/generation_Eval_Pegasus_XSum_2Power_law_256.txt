@@ -1,0 +1,220 @@
+Generations for Eval_Pegasus_XSum_2Power_law_256
+Article text: Police said the Bolton man was riding a BMW motorbike when it collided with a Citroen car driven by a local man on Hailwood's Rise on the (A18) Mountain Road at 06:45 BST. 
+The rider was treated at the scene but was pronounced dead on arrival at Noble's Hospital
+----------------------------------------
+Ground truth Summary: A 55-year-old motorcyclist from Greater Manchester has been killed in a crash involving a car on the Isle of Man.
+----------------------------------------
+Generated Summary: A motorcyclist has been killed in a collision with a car in Bolton.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+Owen Farrell moves from centre to fly-half to replace Charlie Hodgson, who has a finger injury. 
+Northampton's Lee Dickson steps in for Ben Youngs at scrum-half, while Scarlets' Ben Morgan starts at number eight in place of Phil Dowson
+----------------------------------------
+Ground truth Summary: Centre Manu Tuilagi returns to the England side as interim head coach Stuart Lancaster makes four changes for the Six Nations game against Wales.
+----------------------------------------
+Generated Summary: England head coach Stuart Lancaster has made three changes for Saturday's Six Nations match against Wales at Twickenham.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It said fracking could be safe for human health and the environment, but added that the industry needed to be more transparent. 
+The report did not look at fracking's cost and climate change implications. 
+The task force is an independent body funded by the oil and gas industry
+----------------------------------------
+Ground truth Summary: Fracking could potentially be done safely in the UK under "rigorous regulation", but it is too early to say whether it would be "a good idea", the Task Force on Shale Gas has reported.
+----------------------------------------
+Generated Summary: Fracking could be used to unlock shale gas in the UK, a task force has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But the focus on the manhunt - and the shock and grief inspired by the attack - cannot hide the fact that there are also major questions about the atrocities and the response which lie unanswered. 
+After attacks in the UK, there are often questions about "intelligence failures"
+----------------------------------------
+Ground truth Summary: There was applause for the French security services and police in the National Assembly on Thursday when it was announced that they had caught - and killed - the planner of the Paris attacks, Abdelhamid Abaaoud.
+----------------------------------------
+Generated Summary: The manhunt for the killers of 22 people at the Ariana Grande concert in Manchester has dominated the news in the wake of the attack.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Donaldson is back in training following a lengthy lay-off with a heel injury which has kept him out for the whole of Gianfranco Zola's 16 games in charge. 
+Wigan have lost Sam Morsy, who starts a two-game ban after being booked for the 10th time this season at Blackburn
+----------------------------------------
+Ground truth Summary: Birmingham City remain without Clayton Donaldson and Michael Morrison for the visit of Wigan Athletic to St Andrew's.
+----------------------------------------
+Generated Summary: West Ham will be boosted by the return of full-back Clayton Donaldson for Saturday's game at Wigan.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 18-year-old has played 18 games since making his debut in the 2-0 loss to Leeds in January and made his first start against Rotherham a week later. 
+Brereton came off the bench to score his first Forest goal in the dramatic 2-1 win over Aston Villa in February
+----------------------------------------
+Ground truth Summary: Teenage Nottingham Forest striker Ben Brereton has signed a new contract which will keep him at club until 2021.
+----------------------------------------
+Generated Summary: Nottingham Forest midfielder Jack Brereton has signed a new two-year contract with the Championship club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+The pair deny several charges including kidnapping, attempted murder and possession of an illegal firearm. 
+He told the Middleburg High Court that his mother had sent him to Middleburg, a small farming town, to buy stock for her shop, when he came across one of the suspects while using a foot path as a short-cut through the farm
+----------------------------------------
+Ground truth Summary: The victim in South Africa's coffin assault case has broken down during the trial of his alleged attackers.
+----------------------------------------
+Generated Summary: A South African farmer has told a court how he rescued his mother from two armed robbers who were holding her at gunpoint.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "I am not a fan of discrimination and bullying of anybody on the basis of race. . .  religion. . .  sexual orientation or gender," he said. 
+In the wide-ranging interview with the BBC's North America editor Jon Sopel before he left Washington, President Obama also said:
+Read the full transcript of his interview
+It will be Mr Obama's first visit to Kenya since becoming president
+----------------------------------------
+Ground truth Summary: US President Barack Obama has told the BBC he will continue to deliver his "blunt message" to African leaders about gay rights and discrimination.
+----------------------------------------
+Generated Summary: US President Barack Obama has said he is "not a fan of discrimination" in an interview with the BBC ahead of his visit to Kenya.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Shipping containers are a common feature of the Kenyan landscape. 
+You'll find these steel boxes converted into comfortable homes, clinics and offices. 
+Others are turned into shops and granaries to store farm products. 
+But now shipping containers have entered the sphere of learning
+----------------------------------------
+Ground truth Summary: In our series of letters from African journalists, Joseph Warungu, a former high-school teacher, examines the measures the Kenyan government has put in place to tackle cheating in national exams, which begin in early November.
+----------------------------------------
+Generated Summary: Kenya's shipping containers are being used as classroom furniture in a rural school in the country's Rift Valley region.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mr Anderson said he was angry his track record "wasn't good enough". 
+Unite Union aide Dan Carden, 30, has been selected in the safe seat. 
+Steve Rotheram, the constituency's MP since 2010, said he was standing down from Westminster after being elected mayor of the Liverpool City Region last week
+----------------------------------------
+Ground truth Summary: Liverpool Mayor Joe Anderson has said Labour "is not always a meritocracy" after being overlooked as the party's Liverpool Walton candidate for the general election on 8 June.
+----------------------------------------
+Generated Summary: The Labour Party has selected a new candidate to contest the Liverpool East seat at the next general election.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The suspects reportedly used automatic weapons and an anti-tank missile in the heist last September. 
+Their colleagues in the police helped identify them to investigators, said Dragan Lukak, interior minister of Bosnia's Serb-run region. 
+Two other people have been arrested for alleged involvement in the raid
+----------------------------------------
+Ground truth Summary: Five members of Bosnia's special police have been held over an armed raid on a bank van that netted 617,000 marka ($344,000; Â£241,000), officials say.
+----------------------------------------
+Generated Summary: Three police officers have been arrested in connection with a raid on a bank in the Bosnian capital, Sarajevo.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Bees debutant Marco Djuricin had given his side the lead when he found the net with a curling strike. 
+And the Austria international almost doubled his tally after the break when his first-time shot clipped the post. 
+But, after Chris Wood saw his attempt turned onto the woodwork at the other end, substitute Antenucci dispossessed Ryan Woods before firing in to level
+----------------------------------------
+Ground truth Summary: Mirco Antenucci's second-half strike saw Uwe Rosler's Leeds rescue a point against his old club Brentford.
+----------------------------------------
+Generated Summary: Barnet's hopes of reaching the League One play-off places suffered a setback as they were held to a draw at home by Crawley.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Mr Brokenshire was responding to questions from East Belfast MP Gavin Robinson and Foyle MP Mark Durkan. 
+He said said he did not "want to see a return to the borders of the past". 
+It was Mr Brokenshire's first appearance at Northern Ireland Questions since he was appointed secretary of state last week
+----------------------------------------
+Ground truth Summary: Secretary of State James Brokenshire has told the House of Commons the continuation of the Common Travel Area between Northern Ireland and the Republic will be a "priority issue".
+----------------------------------------
+Generated Summary: Northern Ireland Secretary of State James Brokenshire has said he does not want to see a return to the Troubles.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 14% fall in net income to $4bn (Â£3bn) was not as bad as feared.  In June, chief executive Michael Corbat warned of a 25% fall in net income. 
+Consumer banking in North America had a weak quarter. 
+But its trading operations were strong in the April-to-June period, with a 10% increase in revenue to $4. 7bn. 5bn
+----------------------------------------
+Ground truth Summary: Citigroup's profits fell in the second quarter because of weakness at its consumer banking business.
+----------------------------------------
+Generated Summary: Royal Bank of Scotland has reported a drop in profits for the second quarter in a row.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A mouse was seen running around the cabin floor of the Chicago-bound flight. 
+Staff tried to trap the tiny rodent but they couldn't find him. 
+It's not the first time a tiny stowaway has caused problems; two flights from New York to London were cancelled in 2009 after mouse sightings. 
+----------------------------------------
+Ground truth Summary: When passengers started boarding a flight from Stockholm in Sweden they spotted an unusual passenger scurrying between the seats.
+----------------------------------------
+Generated Summary: A flight from London to Chicago has been delayed after a mouse was spotted on board.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Melvyn Marcel was appealing against the decision, made by a judge earlier this year, that burials should be organised for his mum Hilda and his dad Eugenios. 
+Mr Marcel wanted to build a fridge at his Edinburgh home then plans to build a private mausoleum in the grounds of his property. 
+He eventually planed to take his parents' bodies to be buried in the West Bank in the Middle East
+----------------------------------------
+Ground truth Summary: The son of a couple whose bodies have spent almost 15 years in an Edinburgh mortuary has lost a legal bid to stop the council arranging their funerals.
+----------------------------------------
+Generated Summary: A man who wants to have his parents buried in the grounds of his home has lost an appeal against a court ruling.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A police watchdog inquiry into circumstances surrounding the death of Bijan Ebrahimi, who was wrongly branded a paedophile, has been completed. 
+"I have provided the acting chief constable with a report detailing our findings as to whether or not those individuals have a case to answer for either misconduct or gross misconduct and should face disciplinary proceedings," she added
+----------------------------------------
+Ground truth Summary: Prosecutors are to decide whether to charge two police civilian staff over events leading up to a murder.
+----------------------------------------
+Generated Summary: Five police officers involved in the arrest of a man who died in custody could face disciplinary proceedings, the Independent Police Complaints Commission (IPCC) has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Measles is highly contagious, but it has been rarely fatal in the US. 
+The woman was on medication that had weakened her immune system, Washington State Department of Health spokesman Donn Moyer told reporters. 
+"She was there at the same time as a person who later developed a rash and was contagious for measles," he added
+----------------------------------------
+Ground truth Summary: The death of a woman in Washington state in spring has been confirmed as the first US fatality from measles in 12 years, health authorities say.
+----------------------------------------
+Generated Summary: A woman in the US state of Washington has died from measles, health officials say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Tory manifesto says elderly people requiring care in their own homes would have to meet the cost - but would be allowed to keep £100,000. 
+Mrs May says the changes will secure the social care system and ensure fairness "across the generations". 
+But a Tory think tank says it could be the "biggest stealth tax in history"
+----------------------------------------
+Ground truth Summary: Tory plans to shake-up the funding of social care in England are likely to go down badly with the party's core voters, Theresa May has been warned.
+----------------------------------------
+Generated Summary: Theresa May says she will introduce a "generosity tax" to help pay for care for the elderly.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Our first job was to go to the editorial planning meeting to find out how the BBC team decide what news stories to cover. 
+We created our own running order for the programme and had a debate about what topics should go on air. 
+Then we compared our running order with the actual one for the Radio 4 show
+----------------------------------------
+Ground truth Summary: School Reporters Berdan and Sudnaz, from Heron Hall Academy, Enfield, went behind the scenes at BBC Radio 4's The World at One and asked presenter Mark Mardell to reveal his most awkward moment.
+----------------------------------------
+Generated Summary: When we were asked to be part of the editorial team for BBC Radio 4's The World at One, we had a lot of work to do.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

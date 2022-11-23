@@ -1,0 +1,215 @@
+Generations for Eval_Pegasus_XSum_2Power_law_128
+Article text: The court made the decision after a case was brought by protester Samira Ibrahim. 
+Human rights organisations say the Egyptian military has used the practice widely as a punishment
+----------------------------------------
+Ground truth Summary: A Cairo court has ordered forced virginity tests on female detainees in military prisons to be stopped.
+----------------------------------------
+Generated Summary: A court in Egypt has sentenced a female protester to three years in prison for protesting against the military's use of tear gas.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In a letter to the PM, the group of 27 charities - including Oxfam and Amnesty International - say the UK should take a "proportionate" share of refugees
+----------------------------------------
+Ground truth Summary: David Cameron's response to the refugee crisis is "clearly inadequate", leading aid and refugee agencies claim.
+----------------------------------------
+Generated Summary: More than two dozen charities have called on David Cameron to take in more Syrian refugees.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The central bank had originally hoped to lend up to 450bn euros to stop another credit crunch crippling the banking system. 
+Over 500 banks raced to borrow from the scheme, which was far beyond market expectations
+----------------------------------------
+Ground truth Summary: Eurozone banks have rushed to take out cheap three-year loans offered by the European Central Bank, borrowing 489bn euros ($643bn; Â£375bn).
+----------------------------------------
+Generated Summary: The European Central Bank (ECB) has announced that it will end its emergency lending scheme at the end of the month.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Florida-based Scot finished The Barclays event on the PGA Tour in New York with a one-under-par 70, leaving him four over for the tournament
+----------------------------------------
+Ground truth Summary: It was a final chance to catch the eye of European Ryder Cup captain Darren Clarke before he confirms his three wildcard picks on Tuesday, but things did not quite go as planned for Russell Knox.
+----------------------------------------
+Generated Summary: Scotland's Russell Knox has missed the cut at The Barclays for the first time in his career.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Later this month, the city will launch a new public bicycle hire scheme, following the lead of London, Dublin, Paris, Madrid, and Milan, where similar initiatives have proven popular
+----------------------------------------
+Ground truth Summary: The cycling revolution has begun and now Belfast is hoping to join in.
+----------------------------------------
+Generated Summary: The city of Barcelona is set to become one of the first in Europe to introduce a public bike share scheme.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Read the team news for Saturday's matches below. 
+Kick-off 15:00 unless stated.  All times GMT. 
+Manchester City v Chelsea (12:30)
+Crystal Palace v Southampton
+Stoke City v Burnley
+Sunderland v Leicester City
+Tottenham Hotspur v Swansea City
+West Bromwich Albion v Watford
+West Ham United v Arsenal (17:30)
+Birmingham City v Barnsley
+Blackburn Rovers v Huddersfield Town
+Bristol City v Ipswich Town
+Burton Albion v Rotherham United
+Cardiff City v Brighton and Hove Albion
+Fulham v Reading
+Norwich City v Brentford
+Sheffield Wednesday v Preston North End
+Wigan Athletic v Derby County
+Leeds United v Aston Villa (17:30)
+----------------------------------------
+Ground truth Summary: Four of the Premier League's top five are in action on Saturday, while there is a packed programme in the Championship.
+----------------------------------------
+Generated Summary: Manchester City, Chelsea, Arsenal, Tottenham Hotspur, Swansea City and West Bromwich Albion will all be in action on Saturday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Foreign Office sought to identify countries that could pose "similar risks" as Afghanistan, a senior former diplomat told the Iraq Inquiry. 
+Stephen Pattison said the phrase was dropped after it emerged it had been taken from a magazine article
+----------------------------------------
+Ground truth Summary: The UK drew up a list of countries seen as potential threats after 9/11 in a process known as "draining the swamp".
+----------------------------------------
+Generated Summary: The UK sought to identify countries that could pose a threat to the UK in the run-up to the invasion of Iraq, an inquiry has heard.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: With just one game remaining and only the group winners to qualify, Nigeria cannot make up their five-point deficit to table-toppers Egypt
+----------------------------------------
+Ground truth Summary: Nigeria have failed to qualify for the 2017 Africa Cup of Nations after falling to a 1-0 defeat in Egypt in their Group G match on Tuesday.
+----------------------------------------
+Generated Summary: Nigeria's hopes of reaching the Africa Cup of Nations quarter-finals are over after a 1-0 defeat by Egypt in Cairo.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Each course teaches students, who must be 18 or older when attending, about GCHQ's work to combat cyber-threats and helps them develop their "cyber-skills"
+----------------------------------------
+Ground truth Summary: UK intelligence agency GCHQ has announced it will pay £250 per week to students attending its Cyber Summer Schools this year.
+----------------------------------------
+Generated Summary: The government's cyber-security agency GCHQ has launched a series of online courses aimed at young people.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Middlesex began the day on 27-0, still needing another 273 runs to avoid an innings defeat, and got off to the worst possible start when Nick Gubbins (16) was caught by Alastair Cook
+----------------------------------------
+Ground truth Summary: Spinner Simon Harmer took a career-best 9-95 as Essex beat Middlesex with just moments of a dramatic final evening at Chelmsford remaining.
+----------------------------------------
+Generated Summary: Middlesex's hopes of a first County Championship win of the season came to an end as they were bowled out for a lowly 142 on the final day against Hampshire at Lord's.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The fire at Shorrocks Hill Country Club in Lifeboat Road, Formby, was discovered at about 05:40 BST. 
+The dead man is believed to be Andrew Coogan, although formal identification has yet to take place
+----------------------------------------
+Ground truth Summary: A man's body has been found by firefighters tackling a blaze that killed a number of horses.
+----------------------------------------
+Generated Summary: A man has died in a fire at a country club in Liverpool.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+It was a consortium of Cambridgeshire and Peterborough NHS Foundation Trust and Cambridge University Hospitals NHS Foundation Trust
+----------------------------------------
+Ground truth Summary: The collapse of an £800m NHS out-sourcing contract is to reviewed by independent experts.
+----------------------------------------
+Generated Summary: The NHS in Cambridgeshire and Peterborough has been given the green light to open its doors to the public for the first time.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 25 October 2013 Last updated at 09:08 BST
+The mummies of an adult and a child were found at an old religious site in the capital Lima. 
+Experts also found other offerings including the remains of guinea pigs and jars with cat designs
+----------------------------------------
+Ground truth Summary: Two ancient mummies more than a thousand years old have been found in Peru in South America.
+----------------------------------------
+Generated Summary: Two mummified skeletons have been found in Peru, archaeologists say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+"We went from disaster to rescuing some pride," Wenger said. "
+Reading boss Brian McDermott said the defeat was the "worst" of his career
+----------------------------------------
+Ground truth Summary: Arsene Wenger says Arsenal's recovery in their incredible 7-5 victory over Reading in the Capital One Cup took them from "disaster to pride" .
+----------------------------------------
+Generated Summary: Arsenal manager Arsene Wenger praised his side's character after they came from behind to beat Reading and reach the FA Cup semi-finals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Vidot, 26, joined Salford in November 2015 and the Samoa international scored six tries in 10 games during an injury-affected season
+----------------------------------------
+Ground truth Summary: Salford Red Devils have released winger Daniel Vidot to return to Australia, with National Rugby League side Gold Coast Titans reportedly keen.
+----------------------------------------
+Generated Summary: Salford Red Devils winger Paul Vidot has been ruled out for the rest of the season with a knee injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+A number of homes had been evacuated, but people have been allowed to return. 
+Part of the Belsize Road, which had been closed, has now reopened. 
+----------------------------------------
+Ground truth Summary: A security alert at an Army base in Lisburn in County Antrim has ended.
+----------------------------------------
+Generated Summary: Parts of a road in north London have reopened following a burst water main.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 37-year-old was detained following a joint investigation between Lancashire Police and the RSPCA. 
+A member of the public filmed the dog being punched at about 15:15 GMT on 10 December in Hendon Road, Nelson
+----------------------------------------
+Ground truth Summary: A man has been arrested on suspicion of animal cruelty after a dog was attacked on a Lancashire street.
+----------------------------------------
+Generated Summary: A man has been arrested on suspicion of causing unnecessary suffering to a dog after a video emerged of him punching the animal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+He was first given a coaching role at Walsall by then boss Dean Smith before leaving in November 2014 to become first-team coach at Oldham
+----------------------------------------
+Ground truth Summary: League One promotion hopefuls Walsall have brought back their former defender Dean Holden to join the club's coaching team under interim boss Jon Whitney.
+----------------------------------------
+Generated Summary: League One side Walsall have parted company with head coach Dean Smith.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The cities of Gatlinburg and Pigeon Forge have suffered the worst damage. 
+On Thursday, country music legend Dolly Parton said her charity would donate $1,000 (Â£797) a month to families affected by the fires
+----------------------------------------
+Ground truth Summary: The death toll from wildfires across the US state of Tennessee has risen to 11 as search and rescue continues.
+----------------------------------------
+Generated Summary: Wildfires in the US state of Tennessee have killed at least 14 people and destroyed hundreds of homes and businesses.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Rose, 26, was replaced by Ben Davies during Tuesday's 0-0 draw at Sunderland and had a knee scan on Thursday. 
+"We need to wait until Monday to see the specialist," said Pochettino
+----------------------------------------
+Ground truth Summary: Tottenham left-back Danny Rose will see a specialist on Monday to confirm the extent of his knee injury, manager Mauricio Pochettino has confirmed.
+----------------------------------------
+Generated Summary: Tottenham left-back Danny Rose could be out for up to six weeks with a knee injury, manager Mauricio Pochettino has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
