@@ -144,7 +144,7 @@ if __name__ == '__main__':
     parser.add_argument('--workers', nargs='?', default = 8,  type=int)
     parser.add_argument('--write_steps', nargs='?', default = 10,  type=int)
     parser.add_argument('--num_beams', nargs='?', default = 4,  type=int)
-    parser.add_argument('--divisor', nargs='?', default = 2,  type=int)
+    parser.add_argument('--divisor', nargs='?', default = 2.0,  type=float)
     parser.add_argument('-log', action='store_true', help='Use wandb')
 
     #create model and load weights

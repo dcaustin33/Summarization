@@ -148,7 +148,7 @@ if __name__ == '__main__':
     parser.add_argument('--workers', nargs='?', default = 8,  type=int)
     parser.add_argument('--num_beams', nargs='?', default = 5,  type=int)
     parser.add_argument('--warmup_steps', default = 100, type = int, help = 'Number of warmup steps')
-    parser.add_argument('--divisor', nargs='?', default = 2, type = int)
+    parser.add_argument('--divisor', nargs='?', default = 2.0, type = float)
     parser.add_argument('-log', action='store_true', help='Use wandb')
 
     args = parser.parse_args()
