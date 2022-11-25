@@ -1,0 +1,241 @@
+Generations for Eval_Pegasus_CNN_2Power_law_128_1.5
+Article text: (CNN)Three French sports stars were among 10 people killed when two helicopters collided in Argentina on Monday evening, authorities said. The helicopters were reported to be heading to a gorge in northwestern Argentina for the filming of the reality TV show "Dropped" for the French broadcaster TF1. Eight French passengers and the choppers' two Argentinian pilots died in the midair crash near the town of Villa Castelli in La Rioja province, Argentina's state news agency Telam reported, citing local authorities. "I'm sad for my friends," he tweeted
+----------------------------------------
+Ground truth Summary: Paris prosecutor's office opens a manslaughter investigation into the crash .
+The dead include French athletes Camille Muffat, Alexis Vastine and Florence Arthaud .
+The helicopters were on their way to a gorge for the filming of a reality TV show .
+----------------------------------------
+Generated Summary: Three French sports stars were among 10 people killed when two helicopters collided in Argentina. The helicopters were reported to be heading to a gorge in northwestern Argentina for the filming of a reality TV show. Eight French passengers and the choppers' two Argentinian pilots died in the midair crash near the town of Villa Castelli in La Rioja province, Argentina's state news agency Telam reported.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)If you feel a ripple in the Force today, it may be the news that the official Star Wars universe is getting its first gay character. According to the sci-fi website Big Shiny Robot, the upcoming novel "Lords of the Sith" will feature a capable but flawed Imperial official named Moff Mors who "also happens to be a lesbian." The character is the first gay figure in the official Star Wars universe -- the movies, television shows, comics and books approved by Star Wars franchise owner Disney -- according to Shelly Shapiro, editor of "Star Wars" books at Random House imprint Del Rey Books.
+----------------------------------------
+Ground truth Summary: Official "Star Wars" universe gets its first gay character, a lesbian governor .
+The character appears in the upcoming novel "Lords of the Sith"
+Characters in "Star Wars" movies have gradually become more diverse .
+----------------------------------------
+Generated Summary: "Lords of the Sith" will feature a capable but flawed Imperial official named Moff Mors. The character is the first gay figure in the official Star Wars universe.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He allegedly recommended certain women to his 'customers', who were inquiring about paying for sex with young females fleeing the Syrian warzone for what they had believed to be the safety of Yumuşak's native Hatay region of southern Turkey. Sick: Ahmet Yumuşak was originally accused of helping would-be jihadis reach ISIS' de facto capital Raqqa (pictured). Location: The young girls forced into prostituon had fled Syrian warzones for what they had believed to be the safety of Ahmet Yumuşak's native Hatay region in southern Turkey 
+----------------------------------------
+Ground truth Summary: Police investigating ISIS terror attack in Turkey uncovered prostitution ring .
+Wiretaps said to have linked people trafficker to pimping of underage girls .
+Ahmet Yumuşak allegedly forced Syrian refugee children into prostitution .
+He is also accused of helping ISIS smuggle would-be jihadis into Syria .
+----------------------------------------
+Generated Summary: Ahmet Yumu ⁇ ak was originally accused of helping would-be jihadis reach ISIS' de facto capital Raqqa. He allegedly recommended certain women to his 'customers', who were inquiring about paying for sex with young females fleeing the Syrian warzone for what they had believed to be the safety of Yumu ⁇ ak's native Hatay region in southern Turkey.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scottish Premiership leaders Celtic remain on course for a domestic treble having defeated ten-men Dundee United 2-0 in the League Cup final. Kris Commons and James Forrest fired in the goals to beat Dundee United, who had captain Sean Dillon sent off to compound their misery. Find out how each player performed at Hampden Park... Dundee United's captain Sean Dillon is sent off by referee Bobby Madden for a tackle on Emilio Izaguirre . RADOSLAW CIERZNIAK 6 . Not a prayer as Forrest settled the issue but saved penalty. A helpless bystander as Commons struck
+----------------------------------------
+Ground truth Summary: Ronny Deila's Celtic side won their 15th Scottish League Cup .
+Kris Commons and James Forrest scored but Dundee United captain Sean Dillon sent off for late challenge on Celtic defender Emilio Izaguirre .
+Anthony Stokes and Stefan Johansen impressed for the Bhoys .
+----------------------------------------
+Generated Summary: Celtic beat Dundee United 2-0 in the Scottish League Cup final. Kris Commons and James Forrest scored for Celtic. Dundee United captain Sean Dillon was sent off for a tackle on Emilio Izaguirre.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The trouble-making Melbourne brothers who turned their father - aka 'Angry Dad' - into an Internet sensation have launched yet another prank. This time, the boys sneak in on Mark Orval taking a shower as they pour a beer-filled shoe over him. And in true 'Angry Dad' form, Mr Orval unleashes in a rather expletive-filled rant. Scroll down for video . The Melbourne brothers sneak in on their dad, Mark Orval, taking a shower then pours a beer-filled shoe over him . The stunt has had more than 19,400 views since it was uploaded on March 15
+----------------------------------------
+Ground truth Summary: Melbourne brothers pull a prank of their father as he takes a shower .
+Mitchell and Dylan Orval pour a can of beer into a shoe and ask their father to drink from it .
+When he declines, one of the boys throws the alcohol over his father .
+The brothers say the joke was celebrating hitting 300,000 'Likes' on their Facebook page 'Angry Dad'
+The boys have uploaded a number of videos of their father Mark Orval launching expletive-laden tirades .
+The clips have had more than one million views on Facebook and YouTube .
+----------------------------------------
+Generated Summary: The stunt has had more than 19,400 views since it was uploaded on March 15. It is the latest in a series of pranks the brothers have pulled on their father. In the first prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the second prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the third prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the fourth prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the fifth prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the sixth prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the seventh prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the eighth prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the ninth prank, the boys sneaked in on their father and poured a beer-filled shoe over him. In the tenth prank, the boys sneaked in on their father and poured a beer over him.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Manchester United legend Peter Schmeichel has urged his former club to sign PSG talisman Zlatan Ibrahimovic in the summer. The well travelled Sweden international has been linked with a move to Old Trafford in the past and could be tempted to leave Ligue 1 should the big spending Parisians not qualify for the Champions League next season. Schmeichel, who won five Premier League titles and the Championships League during his time at United, believes Ibrahimovic has the 'personality' required to succeed at the club in the same mould as former greats Eric Cantona and David Beckham. I then said that Zlatan was built for the club, he was born to play there
+----------------------------------------
+Ground truth Summary: Peter Schmeichel believes Zlatan Ibrahimovic has the 'personality' to play for Manchester United, like David Beckham and Eric Cantona .
+Louis van Gaal is expected to be in the market for a new striker as doubts persist over Radamel Falcao's long-term future at Old Trafford .
+Sweden international scored twice in 2-0 Euro 2016 win over Moldova .
+----------------------------------------
+Generated Summary: Manchester United legend Peter Schmeichel has urged his former club to sign PSG talisman Zlatan Ibrahimovic in the summer. Ibrahimovic has been linked with a move to Old Trafford in the past and could be tempted to leave Ligue 1 should the big spending Parisians not qualify for the Champions League next season. Schmeichel, who won five Premier League titles and the Championships League during his time at United, believes Ibrahimovic has the 'personality' required to succeed at the club in the same mould as former greats Eric Cantona and David Beckham. Ibrahimovic has been linked with a move to Old Trafford in the past and could be tempted to leave Ligue 1 should the big spending Parisians not qualify for the Champions League next season. Schmeichel, who won five Premier League titles and the Championships League during his time at United, believes Ibrahimovic has the 'personality' required to succeed at the club in the same mould as former greats Eric Cantona and David Beckham. Ibrahimovic has been linked with a move to Old Trafford in the past and could be tempted to leave Ligue 1 should the big spending Parisians not qualify for the Champions League next season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A 16-year-old boy has been banned from travelling abroad after his two elder brothers were killed fighting jihad in Syria. A judge made the ruling after social services at Brighton and Hove City Council raised fears that the boy could follow in his brothers' footsteps and travel to the war-torn region. The teenager, who cannot be named, was made a ward of the court at a hearing in the Family Division of the High Court in London (pictured) today. Barrister Martin Downs, representing the council, told the court that three of his brothers had gone to fight for the al-Nusra Front - a group with links to al-Qaeda
+----------------------------------------
+Ground truth Summary: Teenager's brothers were killed while waging jihad in war-torn Syria .
+Social services raised fears the 16-year-old could follow in their footsteps .
+Judge made him a ward of court, stopping him from travelling abroad .
+----------------------------------------
+Generated Summary: A 16-year-old boy has been banned from travelling abroad after his two elder brothers were killed fighting jihad in Syria. A judge made the ruling after social services at Brighton and Hove City Council raised fears that the boy could follow in his brothers' footsteps and travel to the war-torn region. The teenager, who cannot be named, was made a ward of the court at a hearing in the Family Division of the High Court in London.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Crystal Palace manager Alan Pardew has had his players training at Selhurst Park in the hope of exploiting a set-piece advantage over Queens Park Rangers in Saturday's lunchtime kick-off. Palace’s home form this season is the second worst in the Barclays Premier League, with bottom-side Leicester City the only club worse than them on home turf. The Selhurst Park pitch has been re-laid twice this season, and with Pardew admitting the surface ‘isn’t perfect’, he has called his players into the stadium that they face QPR in on Saturday to practice their dead-ball routines. Alan Pardew admits Crystal Palace have been training at Selhurst Park ahead of their match against QPR 
+----------------------------------------
+Ground truth Summary: Crystal Palace face Queens Park Rangers at Selhurst Park on Saturday .
+Palace have been training at Selhurst Park in preparation for the game .
+Alan Pardew said that Palace are 'a good set-play team so we’ve been getting used to the co-ordinates' at Selhurst Park .
+QPR are desperate for a win after seven defeats in their last eight .
+CLICK HERE for all the latest Crystal Palace news .
+----------------------------------------
+Generated Summary: Crystal Palace manager Alan Pardew has had his players training at Selhurst Park in the hope of exploiting a set-piece advantage over Queens Park Rangers in Saturday's lunchtime kick-off.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: David Gibson, 28,  fractured his skull, nose and both eye sockets after he fell face first into a barrier at the side of the pitch after a horror tackle . A footballer fractured his skull, nose and both eye sockets after he fell face first into a barrier at the side of a pitch during a horror tackle. David Gibson, 28, was playing for Felixstowe Harpers against Ipswich Valley Rangers in the Bob Coleman Cup quarter final when he careered off the pitch on Saturday. Former Ipswich Town right-back Kevin Steggles, the father of David's girlfriend, was at the match
+----------------------------------------
+Ground truth Summary: David Gibson, 28, left completely unrecognisable following the incident .
+He   fractured his skull, nose and both eye sockets in the fall into barrier .
+Was kept in hospital for two days as medics tended to his horrific injuries .
+----------------------------------------
+Generated Summary: David Gibson, 28, fractured his skull, nose and both eye sockets after he fell face first into a barrier at the side of the pitch. He was playing for Felixstowe Harpers against Ipswich Valley Rangers in the Bob Coleman Cup quarter final. Former Ipswich Town right-back Kevin Steggles, the father of David's girlfriend, was at the match.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Sweden's foreign minister Margot Wallstroem has claimed that her criticism of Saudi Arabia over its treatment of blogger Raif Badawi resulted in her speech being cancelled at the meeting in Cairo. Ms Wallstroem had been invited as an honorary guest to the Arab ministers' meeting in praise of her government's decision to recognise Palestine as a state. However, an Arabic diplomat confirmed that Riyadh had stopped her from making her opening speech. Ms Wallstroem had been invited as an honorary guest to the Arab League headquarters in Cairo, pictured, in praise of her government's decision to recognise Palestine as a state 
+----------------------------------------
+Ground truth Summary: Swedish minister Margot Wallstroem was due to address the Arab League .
+Was invited to give a speech as an honorary guest at the meeting in Cairo .
+But she later learned her speech had been cancelled by Saudi Arabia .
+She said it was because she had criticised kingdom's human rights record .
+Ms Wallstroem had previously slammed Saudi Arabia's treatment of blogger Raif Badawi .
+----------------------------------------
+Generated Summary: Sweden's foreign minister Margot Wallstroem had been invited as an honorary guest to the Arab League headquarters in Cairo. Ms Wallstroem had criticised Saudi Arabia's treatment of blogger Raif Badawi. However, an Arabic diplomat confirmed that Riyadh had stopped her from making her opening speech. Ms Wallstroem had been invited as an honorary guest to the Arab League headquarters in Cairo, pictured, in praise of her government's decision to recognise Palestine as a state.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The new Rangers regime have suspended Derek Llambias, Barry Leach and Sandy Easdale from the club’s football board pending an investigation. The move against the last remnants of the old order at Ibrox came four days after Dave King and his allies swept to power with an emphatic EGM victory. That shareholder vote saw chief executive Llambias and finance director Leach – associates of Mike Ashley - removed from the PLC board. It’s understood all three are no longer welcome to visit Ibrox. A statement from Rangers yesterday confirmed the suspensions and the new make-up of the football board
+----------------------------------------
+Ground truth Summary: Dave King was voted on to the Rangers board on Friday .
+Derek Llambias and Barry Leach suspended 'pending an investigation'
+Llambias was chief executive with Leach finance director .
+Sandy Easdale has also been suspended as chairman of the club board .
+----------------------------------------
+Generated Summary: The new Rangers regime have suspended Derek Llambias, Barry Leach and Sandy Easdale from the club's football board. The move against the last remnants of the old order at Ibrox came four days after Dave King and his allies swept to power with an emphatic EGM victory.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The culprit? According to the Harvard School of Engineering and Applied Sciences, in a news report published Monday, rising humidity that helps microbes flourish on the mummies' skin is to blame. Egypt dig unearths 3,600-year-old mummy . But Mitchell said he was concerned about potentially hundreds more mummies buried just below the sandy surface in the valleys of northern Chile. "You have these bodies out there and you're asking the question: How do I stop them from decomposing? It's almost a forensic problem," he is quoted as saying
+----------------------------------------
+Ground truth Summary: Scientists find that higher humidity levels cause microbes to flourish on the mummies' skin .
+Some specimens at a Chile museum have started to decompose into  a "black ooze"
+----------------------------------------
+Generated Summary: Researchers at Harvard School of Engineering and Applied Sciences say rising humidity is to blame. They're concerned about potentially hundreds more mummies buried just below the sandy surface in the valleys of northern Chile. "You have these bodies out there and you're asking the question: How do I stop them from decomposing?" they are quoted as saying.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A former male model and a restaurant bus boy are both missing after a building exploded in New York City on Thursday afternoon. Nicholas Figueroa, a 23-year-old former Hollister model who lives in Harlem, was on a second date at Sushi Park on Second Avenue with a girl he met at work. Police said they also are trying to determine whether six other people reported missing - but not thought to have been in the destroyed buildings - were connected to the explosion. Scroll down for video . Search: His family said payment records show he was there but they cannot trace him 
+----------------------------------------
+Ground truth Summary: Nicholas Figueroa, 23, took a co-worker to Sushi Park on Thursday afternoon when a massive explosion  set the building alight .
+His date was taken to Bellevue Hospital after the blast with a broken nose but Figueroa failed to turn up for work and is still missing .
+A bus boy at the restaurant, Moises Lucon, is also missing .
+Three buildings collapsed and firefighters haven't searched the rubble yet .
+----------------------------------------
+Generated Summary: Nicholas Figueroa, 23, was on a second date at Sushi Park on Second Avenue with a girl he met at work. His family said payment records show he was there but they cannot trace him. Police said they also are trying to determine whether six other people reported missing - but not thought to have been in the destroyed buildings - were connected to the explosion.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Murdered in prison: Carlos Manuel Perez Jr., 28, was handcuffed when he died from multiple gunshot wounds to the head, neck, chest and arms . A Nevada prison inmate was handcuffed when was shot and killed by a guard last November, according to a lawyer who said Wednesday that her client was wounded in the same shooting but survived. Carlos Manuel Perez Jr. 'This is what I clearly consider to be an excessive use of force,' she said in an email to The Associated Press. Plunkett said she represents Arevalo, not Perez, and plans to sue the guard, prison officials and the state. 'This is a terribly tragic and completely unnecessary shooting,' Plunkett said
+----------------------------------------
+Ground truth Summary: Carlos Manuel Perez Jr. was  serving an 18-to-48-month sentence for battery .
+Shot dead inside High Desert State Prison in Indian Springs in November .
+Death  in the 'hole', or administrative segregation, now ruled a homicide .
+Perez and another inmate had started fighting, but both were handcuffed .
+That inmate, Andrew Jay Arevalo, was shot three times in the face but survived .
+Three guards have been placed on administrative leave .
+Perez's family say they were not even told he was shot .
+----------------------------------------
+Generated Summary: Carlos Manuel Perez Jr., 28, was handcuffed when he died from multiple gunshot wounds to the head, neck, chest and arms. He was shot by a guard at the Nevada State Prison in Carson City in November. Perez's lawyer said she plans to sue the guard, prison officials and the state.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Taken during the twilight hours, a British photographer has gone to extraordinary lengths to get the perfect shot including climbing rooftops, hanging from helicopters and even entering restricted military areas. And Paul Reiffer's dedication to his work has enabled him to put together a portfolio showcasing the  beauty of some of the world's most famous cities by night. Each of the series of spectacular shots captures the pulsing energy of its location through vivid light trails. The winding bridges of Yanan East Interchange in Shanghai are portrayed beautifully in the collection 
+----------------------------------------
+Ground truth Summary: Paul Reiffer has put together a portfolio showcasing the beauty of some of the world's most famous cities by night .
+The British photographer has spent  over three years amassing the collection of nightscapes .
+Included in his spectacular collection are New York City skyline, the winding bridges of Shanghai, and the wispy reflections of Singapore's harbour .
+----------------------------------------
+Generated Summary: British photographer Paul Reiffer has taken some of the world's most spectacular shots. He has been working on his portfolio for the past two years. The photographer has been working in China for the past two years.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Armed robbers are suspected of stealing $4million in gold from an 18-wheeler taking the precious  from Florida to Massachusetts on Interstate 95. The Wilson County Sheriff's Office in North Carolina said Monday that two security guards working for Transvalue Inc of Miami reported pulling to the side of the interstate on Sunday evening after their vehicle began having mechanical problems. Search: Armed robbers are suspected of stealing $4million in gold from an 18-wheeler taking the precious from Florida to Massachusetts on Interstate 95. Locks on the back of the truck were sawed off, according to WITN
+----------------------------------------
+Ground truth Summary: Metal was en route from Miami to Massachusetts when truck stopped .
+Three armed men in white van tied guards and marched them into woods .
+Owner of transport company TransValue says his guards weren't injured .
+Goods transported with company are insured for up to $100million .
+----------------------------------------
+Generated Summary: The Wilson County Sheriff's Office in North Carolina said Monday that two security guards working for Transvalue Inc of Miami reported pulling to the side of the interstate on Sunday evening after their vehicle began having mechanical problems.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The State-backed lender’s annual pay report showed 110 staff received more than 1million euros (£720,000) last year, despite it racking up a £3.5billion loss. Still on the books: Stephen Hester, left with a Warwickshire Hunt,  is set to pocket a £1million bonus from the Royal Bank of Scotland - one of around 70, £1million-plus, payments in 2014 . He handed in his resignation in June 2013, after being pushed out by Chancellor George Osborne. Last night the awards were branded ‘excessive’ and ‘unacceptable’, with campaigners criticising Mr Osborne for failing to stamp out fat-cat pay at RBS. This restricted his total pay for 2014 to £1.85million
+----------------------------------------
+Ground truth Summary: Former boss Stephen Hester is also set to pocket a £1m bonus from RBS .
+Bank announced £3.5bn loss for 2014 - its seventh consecutive fall .
+Yet around 70 people were still paid more than £1m, 'modest' fall from 2013 .
+The taxpayer pumped £46billion into the troubled bank after the 2008 crash .
+Boss Ross McEwan says it could be years before bank could be sold off .
+----------------------------------------
+Generated Summary: The State-backed lender's annual pay report showed 110 staff received more than 1million euros (£720,000) last year. Stephen Hester is set to pocket a £1million bonus from the Royal Bank of Scotland - one of around 70, £1million-plus, payments in 2014. He handed in his resignation in June 2013, after being pushed out by Chancellor George Osborne.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: As part of one of their latest promotions, supermarket giant Woolworths has been handing out Disney Pixar domino packs with each $20 spent. But the toys have garnered somewhat of a cult following online, with parents willing to splash hundreds of dollars to secure particular ones missing from their collections, or an entire set. People are selling full sets of Wooloworths' Disney Pixar dominos for hundreds of dollars . The supermarket giant has been handing them out with ever $20 spent as part of a recent promotion 
+----------------------------------------
+Ground truth Summary: Woolworths give away the dominoes with every $20 spent in store .
+Parents are willing to pay hundreds for full sets for their kids .
+The toys are part of a promotion with Disney Pixar .
+Individual 'rare' dominos are also on sale on ebay .
+----------------------------------------
+Generated Summary: Woolworths has been handing out Disney Pixar domino packs with each $20 spent. But the toys have garnered a cult following online, with parents willing to splash hundreds of dollars to secure particular ones. People are selling full sets of Wooloworths' Disney Pixar dominos for hundreds of dollars.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Labour party has upset its own MPs after selling mugs promising a control on immigration. The £5 souvenirs were supposed to drum up cash for the party's election fighting fund. Ed Miliband's promise to control immigration has been used as an unlikely slogan for a £5 red mug on sale on the Labour website . Labour released five mugs to coincide with the Launch of Ed Miliband's five election pledges. Each red mug, sold through the party's website, has one of the pledges written in white. But he refused to set a limit on the number of people he thought could live in Britain before it was full
+----------------------------------------
+Ground truth Summary: £5 red mugs feature the party's five pledges for the general election .
+'Controls on immigration' mug condemned as 'shameful' by Diane Abbott .
+Party also selling t-shirts with Ed Miliband's unlikely 'hell yes' slogan .
+----------------------------------------
+Generated Summary: Labour released five mugs to coincide with the Launch of Ed Miliband's five election pledges. Each red mug, sold through the party's website, has one of the pledges written in white. But he refused to set a limit on the number of people he thought could live in Britain before it was full.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A radio DJ has spoken of her nightmare being stalked by a man for 13 years - who would call her 66 times an hour and even threatened to throw acid in her face. Gail Sayles became so terrified of her stalker that she began to self-harm and was afraid to go in to work at Sunrise Radio, in Bradford, alone. Gail Sayles (pictured left and right, at work at Sunrise Radio) endured 'sheer hell' thanks to a stalker who harassed her for 13 years. Stalker Mohammed Basharat Feroz was detained indefinitely in hospital . Ms Sayles revealed seeing her stalker in court was only the second time she had seen him in person
+----------------------------------------
+Ground truth Summary: Gail Sayles says she was so afraid of her stalker that she self-harmed .
+The 40-year-old says she finally has her life back after years of harassment .
+Stalker Mohammed Basharat Feroz was detained in hospital indefinitely .
+Ms Sayles says police refused to act as he never physically attacked her .
+Until last year, when Feroz threatened her with acid attacks and rape .
+Feroz was found to be mentally unfit to plead to a charge of stalking involving fear of violence, but a jury found he committed the acts alleged .
+----------------------------------------
+Generated Summary: Mohammed Basharat Feroz was jailed for 13 years at Bradford Crown Court. He threatened to throw acid in her face and called her 66 times a day. Ms Sayles said she was terrified to go to work at Sunrise Radio, in Bradford, alone.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

@@ -1,6 +1,6 @@
-cd cnn_n_then_random;
-bash cnn_n_then_random.sh;
-cd ../xsum_n_then_random;
-bash xsum_n_then_random.sh;
+cd cnn_power_law;
+bash cnn_power_law.sh;
+cd ../xsum_power_law;
+bash xsum_power_law.sh;
 
 sudo shutdown -h;

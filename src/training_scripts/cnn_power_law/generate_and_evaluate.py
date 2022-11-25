@@ -62,7 +62,7 @@ class PegasusCNNPowerLaw(torch.utils.data.Dataset):
         final = list(np.array(text)[choices])
         text = '. '.join(final)
 
-        summary_text = self.dataset[idx]['summary']
+        summary_text = self.dataset[idx]['highlights']
         return {'article_text':text, 'summary_text': summary_text}
 
 def reset_metrics(metrics, val = False):
