@@ -1,1 +1,242 @@
 Generations for Eval_Pegasus_CNN_2Power_law_512_1.5
+Article text: The doomed Malaysia Airlines flight MH370 was taken on an emotional ‘last farewell’ fly-past of the pilot’s home island of Penang before being deliberately landed on the water and sinking intact thousands of miles away, according to a British pilot who claims to have identified its final resting place. He has concluded that the search in the vast Indian ocean being conducted by the Australian Transport Safety Board (ATSB) is about 100 nautical miles away from the where the aircraft actually is. Details are reported in the Sunday Times
+----------------------------------------
+Ground truth Summary: Theory of Simon Hardy, a senior Boeing 777 captain, has gained support from one of Britain’s top flight safety specialists .
+Overflying of Penang is ‘perhaps the only clue to the perpetrator’ he says .
+Captain Hardy spent six months analysing flight data of stricken aircraft .
+Concludes search in the Indian ocean being conducted is about 100 nautical miles away from the where the aircraft actually is .
+----------------------------------------
+Generated Summary: Flight MH370 was taken on an emotional ‘last farewell’ fly-past of Penang before being deliberately landed on the water and sinking intact thousands of miles away, according to a British pilot who claims to have identified its final resting place. He has concluded that the search in the vast Indian Ocean being conducted by the Australian Transport Safety Board (ATSB) is about 100 nautical miles away from the where the aircraft actually is.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Neymar was back in training with the Brazil national team less than 24hours after playing in Barcelona's 'El Clasico' defeat over  Real Madrid on Sunday. The Catalans opened up a four-point lead over their arch rivals at the top of La Liga following Sunday's 2-1 victory at the Nou Camp. While former Liverpool striker Luis Suarez stole the headlines with his winning goal, Neymar cut a more subdued figure - missing an early opportunity that led to Madrid breaking away and equalising through Cristiano Ronaldo. Neymar (2nd left) joins Brazil team-mates for a training session at the Charlety Stadium in Paris 
+----------------------------------------
+Ground truth Summary: Barcelona defeated Real Madrid 2-1 in El Clasico on Sunday .
+Neymar has headed to Paris with the Brazil national team for friendly with France before coming to London to play Chile at the Emirates .
+Gunners defender Gabriel Paulista was a late call-up by the Selecao .
+----------------------------------------
+Generated Summary: Neymar was back in training with the Brazil national team less than 24hours after playing in Barcelona's 'El Clasico' defeat over Real Madrid on Sunday. Barcelona opened up a four-point lead over their arch rivals at the top of La Liga following Sunday's 2-1 victory at the Nou Camp.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: When applying for a job as a litter picker, a 'head for heights' is not usually required. But for these abseiling cleaners collecting rubbish thrown down the cliff of a Chinese mountain, it's a necessity. The 'spider men' abseil from the side of the 4,500ft cliff edge of Tianmen Mountain, risking their lives to pick up litter thrown away by visitors, according to The People's Daily Online . A worker throws a sack tied on a long rope onto the cliff before abseiling to clean the side of the mountain, located in the central Chinese province of Hunan . The beauty spot is popular with tourists looking to ride the cable cars and visit the temple at the summit 
+----------------------------------------
+Ground truth Summary: 'Spider men' litter pickers use ropes to abseil down Tianmen Mountain .
+Tourists have thrown plastic bags, bottles and food containers off edge .
+Chinese authorities urging visitors to stop defacing the beauty spot .
+----------------------------------------
+Generated Summary: The'spider men' abseil from the side of the 4,500ft cliff edge of Tianmen Mountain, risking their lives to pick up litter thrown away by visitors. The beauty spot is popular with tourists looking to ride the cable cars and visit the temple at the summit.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Captain Eoin Morgan will not entertain thoughts of a premature World Cup exit even though a nine-wicket defeat by Sri Lanka left England on the brink of disaster. Defeat leaves England needing to beat lower-ranked Bangladesh and Afghanistan in their remaining pool games and, even then, it might not be enough to keep them alive. VIDEO Scroll down to watch Cricket World Cup Highlights: England vs Sri Lanka . Morgan was not willing to consider the prospect, however, of an early flight home after his side's third loss in four games at the tournament
+----------------------------------------
+Ground truth Summary: Sri Lanka beat England by nine wickets at the Cricket World Cup .
+The defeat leaves England with three losses from their first four matches .
+Eoin Morgan will not entertain thoughts of a premature World Cup exit .
+England need to beat Bangladesh and Afghanistan in their final two matches, and even that might not be enough to see them through .
+----------------------------------------
+Generated Summary: England face Bangladesh and Afghanistan in their remaining pool games. Defeat leaves England needing to beat lower-ranked Bangladesh and Afghanistan in their remaining pool games. Even then, it might not be enough to keep them alive.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Adrian Ernest Bayley, the sex offender who murdered Jill Meagher, has been found guilty of raping three more women prompting her father to slam the system for failing to protect his daughter. Mr McKeon has spoken out following his daughter's killer, who has been described as deriving pleasure from inflicting pain, being convicted of three more rapes - two sex workers and a Dutch backpacker - bringing his number of victims to 12. Adrian Ernest Bayley, the sex offender who murdered Jill Meagher, has been found guilty of raping three more women as an expert claims the notorious predator gained pleasure from inflicting pain 
+----------------------------------------
+Ground truth Summary: Adrian Ernest Bayley, the sex offender who murdered Jill Meagher, has been found guilty of raping three more women .
+Ms Meagher's father says the system failed his daughter after her killer was mistakenly allowed back on the streets .
+Bayley, 43, raped an 18-year-old sex worker in his car in St Kilda in 2000 .
+He also raped another sex worker in April 2012 and a Dutch backpacker three months later .
+These three rapes were eerily near identical circumstances .
+Bayley picked up three women in St Kilda and drove to secluded laneway parking with passenger side door against fence, blocking their escape .
+He is serving a life sentence with a 35-year-minimum for the rape and murder of Ms Meagher in a Brunswick laneway in September 2012 .
+Bayley has been found guilty of raping 10 women and attempting to rape two more .
+----------------------------------------
+Generated Summary: Adrian Ernest Bayley has been found guilty of raping three more women. He was convicted of raping two sex workers and a Dutch backpacker. Jill Meagher's father has slammed the system for failing to protect his daughter. Mr McKeon has spoken out following his daughter's killer, who has been described as deriving pleasure from inflicting pain.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A British couple on holiday in Goa were left with just 10p after their £2,000 spending money was stolen from their hotel's safe. Dominique Pattrick, 29 and her husband Brett, 31, had been advised by staff at their three star hotel to store their valuables in a safety deposit box housed near the reception, but just four days into their trip it was raided. Dominique Pattrick, 29, and her husband, Brett, 31, were left with just 10p to their name after £2,000 was stolen from their hotel's safety deposit box . Now they are only be able to reclaim £250 due to a clause in their travel insurance policy
+----------------------------------------
+Ground truth Summary: Dominique Pattrick and husband Brett were on holiday in Goa, India .
+Advised to store valuables in a secure locker close to hotel's reception .
+Four days into their trip £2,000 was stolen from locked safety deposit box .
+Safe room at three star hotel had no CCTV due to guest privacy concerns .
+A rogue member of staff using a duplicate key is thought to be behind theft .
+Hotel then charged the couple £13 for use of the safe during their stay .
+Couple can only claim £250 back due to a clause on insurance policy .
+Say it ruined their holiday and caused lots of 'stress' and 'upset' for them .
+----------------------------------------
+Generated Summary: Dominique Pattrick, 29, and her husband Brett, 31, had been advised by staff to store their valuables in a safety deposit box. But just four days into their trip it was raided. They were left with just 10p to their name after £2,000 was stolen from their hotel's safe. Now they are only be able to reclaim £250 due to a clause in their travel insurance policy.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)Last November, the American people placed a great amount of trust in Republicans when they gave them complete control of Congress. Voters bought the illusion that a Republican Congress would govern effectively, help the middle class and focus on important issues like jobs and the economy. Over the last two weeks, we have seen the Republican Congress manufacture, then escalate, a political crisis by threatening to shut down the Department of Homeland Security. And yet Republicans are recklessly putting our national security at risk to protect their own political security
+----------------------------------------
+Ground truth Summary: Ben Lujan: Americans voted in a GOP Congress on promise of effective governance that prioritized middle class .
+He says that was an illusion. On DHS funding, other issues, GOP has prioritized catering to its extreme wing and special interests .
+----------------------------------------
+Generated Summary: Republicans threaten to shut down the Department of Homeland Security. President Obama says he'll veto the measure. House Speaker John Boehner says he'll vote for the measure.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Detroit Red Wings star Darren Helm was looking to get a little sleep on Sunday night after an impressive overtime win by his team. That was not to be however, as shortly after midnight his girlfriend, Devon Englot, informed him that she was in labor. And this was a quick delivery, so quick in fact that the two did not make it to the hospital in time and Helm had to step up and deliver his daughter Rylee in the back of his car. Detroit Red Wings star and his longtime girlfriend Devon Englot welcomed a baby girl, Rylee (above) on Monday 
+----------------------------------------
+Ground truth Summary: Detroit Red Wings star and his longtime girlfriend Devon Englot welcomed a baby girl, Rylee on Monday .
+After Helm won in overtime Sunday night, he went home and got to bed but was woken up shortly after midnight by Englot who was in labor .
+A mile away from the hospital she said she could not wait any longer, and within five minutes the baby was out .
+All three, and the couple's daughter Reece, 3, are doing fine .
+----------------------------------------
+Generated Summary: Detroit Red Wings star Darren Helm was looking to get a little sleep on Sunday night after an impressive overtime win by his team. Shortly after midnight his girlfriend Devon Englot informed him that she was in labor. The two did not make it to the hospital in time and Helm had to step up and deliver his daughter Rylee in the back of his car.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Arrested: Gina Louise Causey has been arrested for a false rape claim against a fictitious police officer . A Louisiana woman has been arrested after falsely claiming she was raped to hide from her husband the fact she had fallen pregnant through an extramarital affair say police. Gina Louise Causey, 40, was charged with criminal mischief after she arrived at Mandeville Police station with her husband on Tuesday crying rape. Causey spun an outlandish tale, claiming she was sexually assaulted by a police officer. According to Mandeville Police Cpl
+----------------------------------------
+Ground truth Summary: Gina Louise Causey was charged with criminal mischief but wont face jail .
+----------------------------------------
+Generated Summary: Gina Louise Causey, 40, was charged with criminal mischief after she arrived at Mandeville Police station with her husband on Tuesday crying rape. Causey spun an outlandish tale, claiming she was sexually assaulted by a police officer.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: As death-defying stunts go, hurling yourself off a 60-foot high platform on the back of the horse into just 12 feet of water must surely be up there with one of the most insane. What's more, the ability to do it well could win you fame. Unbelievable: The horses plummeted off 40 or 60 foot high platforms into 12 feet of water . Death-defying: The stunt had gained popularity in the state circuses which traveled America . Star attraction: But it was when it arrived in Atlantic City in the late 1920s that the stunt really took off 
+----------------------------------------
+Ground truth Summary: Horse diving developed in America in the early part of the 20th century .
+Stunt saw a woman launching her horse off a 40 or 60 foot platform .
+The horse and the rider would then land in a pool of water just 12 feet deep .
+Became one of the most popular attractions in Atlantic City in the 1920s .
+Amazingly, despite animal welfare concerns, stunt continued until 1978 .
+----------------------------------------
+Generated Summary: The stunt had gained popularity in the state circuses which traveled America. But it was when it arrived in Atlantic City in the late 1920s that the stunt really took off.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A Fashion Police insider has claimed that Kathy Griffin was about to be fired from the show before her unexpected Twitter resignation. In yet another twist to the saga, TMZ has claimed that producers had met and discussed booting her from the show. Jumped or pushed?: A Fashion Police insider has reportedly claimed Kathy Griffin was about to be fired from the show when she suddenly announced she was quitting on Twitter . She then went on a rant blasting the show as 'old school and tired' which infuriated production staff, who felt she was being hypocritical as her comedy routines have always been exactly what she was complaining about
+----------------------------------------
+Ground truth Summary: Show insider claims Griffin was going to be fired right before she tweeted her resignation .
+Griffin allegedly emailed an undisclosed number of celebrity friends asking them to back her up on Twitter .
+The comedienne quit the show  just days after fellow co-host Kelly Osbourne walked away .
+Claimed she no longer wanted 'contribute to a culture of intolerance towards difference'
+But critics say her comedy routine has always been about cruelly making fun of others .
+Osbourne, Lena Dunham and Rosie O'Donnell are among the first to rally behind her .
+----------------------------------------
+Generated Summary: Kathy Griffin was about to be fired from the show before her Twitter resignation. In yet another twist to the saga, TMZ has claimed that producers had met and discussed booting her from the show.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Queen was certainly in a springtime mood  as she arrived to open The Wing at the National Memorial to the Few, in Capel-le-Ferne, Kent, on Thursday. Her Majesty wore a sky blue wool coat with a royal blue collar and matching pockets and trim, topping off the look with a blue hat. Queen Elizabeth II smiles at schoolchildren as she leaves the National Memorial to the Few after opening a new wing dressed in a vibrant blue outfit . The royal couple viewed the video wall and other special effects that bring to life the Battle of Britain and the life of 'The Few', who fought in the skies overheard to keep Britain free from invasion during the summer and early Autumn of 1940
+----------------------------------------
+Ground truth Summary: The Queen, 88, and Prince Philip were in Capel-le-Ferne, Kent .
+Opened The Wing at the National Memorial to the Few .
+The Few fought in the skies overheard to keep Britain free from invasion .
+----------------------------------------
+Generated Summary: The Queen opened a new wing at the National Memorial to the Few in Capel-le-Ferne, Kent. The Queen wore a sky blue wool coat with a royal blue collar and matching pockets and trim. Her Majesty smiled at schoolchildren as she left the National Memorial to the Few.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)Everywhere you look there are two-wheeled drivers waiting ominously for passengers to hop on board. The boda boda motorbike taxi is a staple used by all sectors of society. "Bodas are the main thing getting people from A to B," says Alastair Sussock, co-founder of SafeBoda, "and we're trying to professionalize this transportation in the city." The motorbike taxis have their greatest popularity globally in Uganda, with over 80,000 riding the streets of Kampala, according to Sussex who wants to seize upon the country's burgeoning young population
+----------------------------------------
+Ground truth Summary: Ugandan start-up SafeBoda are changing the face of boda-boda motorbike taxis .
+A click of their app brings you a bike complete with a safety trained driver and protective gear .
+----------------------------------------
+Generated Summary: The boda boda motorbike taxi is a staple used by all sectors of society. The boda boda motorbike taxi is a staple used by all sectors of society. The boda boda motorbike taxi is a staple used by all sectors of society.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Simone Matthews felt a tummy tuck was the 'perfect way' to mark her 50th birthday . With her 50th birthday approaching, Simone Reeves decided that celebrating with a cruise or party wasn’t going to be enough. Instead the grandmother from Kent treated herself to a new stomach. The £4,800 operation was, she says, the ultimate 50th birthday treat to herself. ‘It was a lot of money to spend on a birthday treat but I felt I deserved it, and because I had divorced and downsized, for the first time in my life I had the money available
+----------------------------------------
+Ground truth Summary: Simone Reeves spent £4,800 on a new tummy for her birthday .
+She was unhappy with caesarean scar after three births .
+Surgeons removed 2lb of excess skin during the procedure .
+----------------------------------------
+Generated Summary: Simone Reeves, 50, from Kent, spent £4,800 on tummy tuck. She says it was the 'perfect way' to mark her 50th birthday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 2014 was the year of the beard, with fuzz appearing on every other man on the street. The general public are the only ones to have caught the bug either - celebrities have been just as keen to sport some bristles on their chin. Scroll down for video . David Beckham is the latest star to develop a mature bush on the lower half of his face, with a  dark brown rug slowly edging across his features since the beginning of February. Read on to judge for yourselves which males celebrities look best with a beard, by sliding the arrow left or right across each picture..
+----------------------------------------
+Ground truth Summary: In last couple of years, beards have become a must-have male accessory .
+Some men like David Beckham and Brad Pitt fail to pull off the look .
+Others like Ashton Kutcher and Robert Pattinson benefit from some fuzz .
+FEMAIL looks at the best (and worst) beards in show business .
+----------------------------------------
+Generated Summary: David Beckham is the latest star to develop a mature bush on the lower half of his face. A dark brown rug slowly edging across his features since the beginning of February.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A Nigerian woman filed for divorce from her husband because his penis was too big, according to media reports. Aisha Dannupawa, a housewife and mother-of-three, asked for her marriage to husband Ali Maizinari to be dissolved due to his large manhood. Their divorce was granted after just one week of marriage in a Islamic Sharia court in Nigeria's Zamfara State. Decision: The court in Zamfara State, Nigeria, granted the divorce. As part of the local tradition, before settling into her husband's home the bride was invited to move into his parents' house
+----------------------------------------
+Ground truth Summary: Aisha Dannupawa asks court to dissolve one-week old marriage .
+She complained husband Ali Maizinari's manhood was too large .
+Told court: 'We had sex but the experience was a nightmare'
+----------------------------------------
+Generated Summary: Aisha Dannupawa, a housewife and mother-of-three, asked for her marriage to husband Ali Maizinari to be dissolved due to his large manhood. Their divorce was granted after just one week of marriage in a Sharia court in Nigeria's Zamfara State.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Nicola Sturgeon yesterday vowed to work with Labour to ‘lock the Tories out’ of power. In an extraordinary speech in London, Scotland’s first minister claimed voters across the UK would welcome her party’s influence at Westminster, saying she would end austerity. But, following mounting pressure from senior colleagues, Ed Miliband last night tried to draw a line under speculation about a Labour-SNP government by ruling out a formal coalition. ‘This was a lot of hype to rule out something no one was proposing,’ the first minister said
+----------------------------------------
+Ground truth Summary: SNP chief said she would vote Green in England and Plaid Cymru in Wales .
+But she called for deal with Labour after the election to keep the Tories out .
+Ms Sturgeon she she would impose left-wing policies across the UK .
+She said the SNP wanted to do more than just serve Scotland's interests .
+----------------------------------------
+Generated Summary: Nicola Sturgeon said she would work with Labour to 'lock the Tories out' of power. She said voters would welcome her party's influence at Westminster. But Ed Miliband ruled out a formal coalition with the SNP.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: You've heard of wedding crashers. For weeks, the father-of-one from the Seattle suburbs found himself getting emails from people he didn't know about a bachelor party 2,800 miles away in Philadelphia and a groom he's never met. He saw names of the city's landmarks like Reading Terminal Market thrown around in the emails but couldn't put his finger on where they were located until he searched the names online. The wrong guest: Joey DiJulio of Burien, Washington, started receiving emails from people he had never met about a bachelor party
+----------------------------------------
+Ground truth Summary: Joey DiJulio was mistaken for a friend of the groom with similar name .
+Father from Burien, Washington, received emails about plans for a night out in Philadelphia before Jeff Minetti's wedding .
+Finally told the group he didn't know them, but they asked him to come along anyway .
+He then set up a GoFundMe page to raise the money to buy a plane ticket .
+----------------------------------------
+Generated Summary: Joey DiJulio of Burien, Washington, started receiving emails from people he didn't know about a bachelor party 2,800 miles away in Philadelphia. He saw names of the city's landmarks like Reading Terminal Market thrown around in the emails but couldn't put his finger on where they were located until he searched the names online.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A former Special Forces soldier is rounding up supporters for a leadership bid against Ed Miliband if he does not win the General Election, The Mail on Sunday has learned. During the debate, Mr Danczuk asks: ‘What has Nigel Farage got that Ed Miliband doesn’t?’ The peer – a former adviser to Mr Miliband – responds: ‘He has got the ability to sit in the pub and be at his complete ease, which is a very magical gift. In any leadership contest, Mr Jarvis is likely to face the more experienced figures of health spokesman Andy Burnham, Shadow Home Secretary Yvette Cooper, Shadow Business Secretary Chuka Umunna, education spokesman Tristram Hunt and ambitious frontbencher Liz Kendall
+----------------------------------------
+Ground truth Summary: Dan Jarvis is gathering supporters for a leadership bid against Ed Miliband .
+He is prepared to run if Mr Miliband fails to dislodge PM David Cameron .
+Two senior party figures will debate the Labour leader's failings  this week .
+Some   argue that the ex-Para’s military career would be more appealing .
+----------------------------------------
+Generated Summary: Former Special Forces soldier wants to challenge Ed Miliband if he does not win the General Election. Former adviser to Mr Miliband says he has the ability to sit in the pub and be at his 'complete ease' Peer Richard Jarvis is likely to face the more experienced figures of health spokesman Andy Burnham, Shadow Home Secretary Yvette Cooper, Shadow Business Secretary Chuka Umunna, education spokesman Tristram Hunt and ambitious frontbencher Liz Kendall.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Arsenal manager Arsene Wenger has made the stunning claim that his side would be better off in the Europa League next season, after repeatedly failing to make an impact in the Champions League. And Wenger, who has been in the competition for 17 straight seasons, says that his side might even be better away from the top-tier competition in future given their recent trend of exiting almost as soon as the knockout stages have begun. Arsene Wenger had admitted that Arsenal might have a better chance of winning in the Europa League . Wenger's Arsenal side could only find two goals in Monaco on Tuesday, when they needed at least three . Wenger has never won a European trophy but perhaps the Europa League would offer a better opportunity 
+----------------------------------------
+Ground truth Summary: Arsenal crashed out of the Champions League despite 2-0 win in Monaco .
+It was 17th consecutive year of qualification and then failure for Arsenal .
+Arsene Wenger feels he has a better chance of winning Europa League .
+Arsenal manager was unhappy with the referee's performance on Tuesday .
+READ: Wenger accused of disrespecting former club Monaco .
+CLICK HERE for all the latest Arsenal news .
+----------------------------------------
+Generated Summary: Arsene Wenger says Arsenal would be better off in the Europa League next season. Wenger's side have failed to make an impact in the Champions League this season. Wenger has never won a European trophy but believes the Europa League would offer a better opportunity.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

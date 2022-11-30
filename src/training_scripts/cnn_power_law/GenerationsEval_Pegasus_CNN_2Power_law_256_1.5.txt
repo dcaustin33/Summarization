@@ -1,232 +1,226 @@
 Generations for Eval_Pegasus_CNN_2Power_law_256_1.5
-Article text: A  man wanted by police made a couple of critical mistakes that led to his capture - he sent out Snapchat messages pinpointing his location. The Somerset County Sheriff's Office had been looking for Christopher Wallace, of Fairfield, Maine for several weeks in connection with a burglary in January. Police told the Morning Sentinel that on Sunday night they received tips from people who said Wallace, 24, had posted on Snapchat that he had returned to his Fairfield home. The Somerset County Sheriff's Office posted on Facebook on Monday: 'Over the past few weeks, since our press release looking for the public's assistance in locating him, Mr Wallace had become cocky
+Article text: Robert Freeman is undeniably one of the greatest lost photographers of the modern age, most famous for shooting the first five album covers for the Beatles and the first Pirelli calendar. Now, aged 78 and in poor health, it is both himself and his legacy - a historic archive of iconic photographs spanning 60 years - that could be lost forever. All previous reproductions of his work have sold for thousands of pounds so this auction is set to raise a huge sum. Speaking about Robert, Paul McCartney once said: 'Although other people were taking photos of us at the time, I think we all felt that his stuff somehow summed up our own feelings
 ----------------------------------------
-Ground truth Summary: The Somerset County Sheriff's Office had been looking for Christopher Wallace, of Fairfield, Maine in connection with a burglary in January .
-Police had been looking for Wallace for several weeks when they were alerted to his Snapchat post saying he had returned home .
-He then posted on Snapchat that he was hiding in a cabinet - leading police straight to him .
+Ground truth Summary: Captured by Robert Freeman, now 78, and in poor health .
+Put on sale by his son to raise funds for his ongoing care .
+He was a close friend of the Beatles and their favourite photographer .
 ----------------------------------------
-Generated Summary: Christopher Wallace, 24, of Fairfield, Maine, had been on the run for several weeks in connection with a burglary in January. Police received tips from people who said Wallace had posted on Snapchat that he had returned to his home. The Somerset County Sheriff's Office posted on Facebook on Monday: 'Over the past few weeks, since our press release looking for the public's assistance in locating him, Mr Wallace had become cocky.
+Generated Summary: Robert Freeman is one of the greatest lost photographers of the modern age, most famous for shooting the first five album covers for the Beatles and the first Pirelli calendar. Now aged 78 and in poor health, it is both himself and his legacy that could be lost forever. All previous reproductions of his work have sold for thousands of pounds so this auction is set to raise a huge sum.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: (CNN)Iraqi forces say they've captured key areas in their offensive to take back Tikrit, which has been under ISIS control since June. The security forces, backed by Shia militias, raised the Iraqi flag over the governorate and the main hospital buildings in the city Monday night, a security official with the forces in Tikrit told CNN. At least 26 militants were killed in the operation, the official said. Earlier Monday, Iraqi federal police said in a statement aired on Iraqi television that the forces had liberated four neighborhoods in southern Tikrit
+Article text: (CNN)It turns out that Jupiter may be more than just an enormous ball of gas spinning a few hundred million miles farther out in the solar system. We earthlings might have the giant planet to thank for our very existence. Two scientists are suggesting that the inner solar system once played host to a bunch of "super-Earths" -- planets that were larger than our own but smaller than Neptune. Jupiter, however, put an end to those early occupiers of the inner orbits, bulldozing in and sweeping them into the sun, according to a paper published this week in the Proceedings of the National Academy of Sciences
 ----------------------------------------
-Ground truth Summary: A push to retake Tikrit stalled as ISIS repositioned its forces around the city .
-Spokesman: Iraq's leader requested help because coalition has "advanced" capabilities .
-Leaders of predominantly Shiite militia fighting in area had resisted such intervention .
+Ground truth Summary: Scientists: An epic migration by Jupiter led to destruction of "super-Earths"
+The planet-shattering journey laid foundations for Earth, they say .
 ----------------------------------------
-Generated Summary: Iraqi forces say they've captured key areas in their offensive to take back Tikrit, which has been under ISIS control since June. The security forces, backed by Shia militias, raised the Iraqi flag over the governorate and the main hospital buildings. At least 26 militants were killed in the operation, a security official says.
+Generated Summary: Two scientists suggest that the inner solar system once had a bunch of "super-Earths" Jupiter is the largest planet in the solar system, but it's not the largest planet in the solar system, according to a new study. The study suggests that the inner solar system once had a bunch of "super-Earths" Jupiter is the largest planet in the solar system, but it's not the largest planet in the solar system, according to a new study.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: English football agents are to take legal action against the FA unless a compromise can be reached over the introduction of ‘unworkable’ new regulations next month. The Association of Football Agents agreed unanimously this week to injunct the FA to prevent them from bringing in ‘unacceptable’ rules from April 1 - after FIFA washed their hands of responsibility for managing the middle men, passing the buck to the national associations. The AFA have engaged the QC and sports law expert Lord Pannick to fight their corner - with the threat of an injunction hovering over a summit with the FA called to resolve the issue
+Article text: Robin McBryde has predicted 'an arm-wrestle for 80 minutes' when RBS 6 Nations heavyweights Wales and Ireland slug it out at the Millennium Stadium on Saturday. Wales assistant coach McBryde has stressed the winner-takes-all nature of a game that sees both teams featuring prominently at the tournament's business end. Ireland are two victories away from a first Six Nations Grand Slam since 2009, while Wales must triumph on Saturday to remain in the mix for silverware. Wales coach Warren Gatland (centre) leads his players onto the pitch at the Millenium Stadium 
 ----------------------------------------
-Ground truth Summary: The AFA have engaged sports law expert Lord Pannick to fight their corner .
-AFA unanimously agreed to injuct FA from bringing in 'unacceptable' rules .
-It is understood Christian Horner was asked to succeed  Alex Horne .
-F1 Red Bull team principal asked to become FA general secretary .
-Split developing in FA over proposals to fund coaching development at the expense of cuts .
+Ground truth Summary: Wales welcome unbeaten Ireland to the Millenium Stadium on Saturday .
+Ireland are two wins away from a first Six Nations Grand Slam since 2009 .
+Wales lost their opening game against England in round one .
+But wins over Scotland and France have reignited their title bid .
+Warren Gatland's side must win on Saturday to stay in contention .
 ----------------------------------------
-Generated Summary: The Association of Football Agents agreed unanimously this week to injunct the FA to prevent them from bringing in 'unacceptable' rules from April 1. The AFA have engaged the QC and sports law expert Lord Pannick to fight their corner. The threat of an injunction hovers over a summit with the FA called to resolve the issue.
+Generated Summary: Robin McBryde has predicted 'an arm-wrestle for 80 minutes' at the Millennium Stadium on Saturday. Ireland are two victories away from a first Six Nations Grand Slam since 2009. Wales must triumph to remain in the mix for silverware.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: (CNN)A man suspected of killing two people during a "street race" has turned himself in to Los Angeles Police. Henry Gevorgyan, 21, surrendered to authorities Saturday night in connection with the fatal hit-and-run that left two onlookers dead. He was charged Sunday with murder, according to LAPD spokesman Officer Jack Richter, and held at the LAPD jail in Van Nuys with bail set at $2 million. The crash happened Thursday in the San Fernando Valley neighborhood of Chatsworth. Authorities said he fled the scene of the accident along with the driver of the other car
+Article text: A deaf man was moved to tears after learning that his neighbourhood had learned sign language just for him to promote the heartwarming message: 'A world without barriers is our dream'. Muharrem was unwittingly placed at the centre of an elaborate stunt in which he was secretly filmed encountering a host of strangers  in a series of staged meetings through Istanbul. The footage begins with him setting out for the day with his sister Ozlem, who is in on the set-up. Before long, Muharrem is taken aback when he encounters a stranger who signs 'good morning' to him
 ----------------------------------------
-Ground truth Summary: Suspect in hit-and-run that left two onlookers dead is charged with murder .
-Henry Gevorgyan, 21, surrendered to authorities Saturday night .
+Ground truth Summary: Muharrem secretly filmed encountering strangers in heartwarming stunt .
+His surprise turns to bewilderment as more and more people sign to him .
+They include a shopkeeper, taxi driver and even an electronic billboard .
+Filmed for ad to promote message: 'A world without barriers is our dream'
 ----------------------------------------
-Generated Summary: Henry Gevorgyan, 21, surrenders to authorities Saturday night in connection with the fatal hit-and-run that left two onlookers dead. He was charged Sunday with murder, according to LAPD spokesman Officer Jack Richter. The crash happened Thursday in the San Fernando Valley neighborhood of Chatsworth. Authorities said he fled the scene of the accident along with the driver of the other car.
+Generated Summary: Muharrem was unwittingly placed at the centre of an elaborate stunt in which he was secretly filmed. He was unwittingly filmed meeting a host of strangers in a series of staged meetings through Istanbul. Muharrem was taken aback when he encounters a stranger who signs 'good morning' to him.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Olivia-Grace (pictured with mother Jessica Steele-Smith), now two years old, battled though surgery and chemotherapy to beat ovarian cancer . Happy and smiling in her mother’s arms, Olivia-Grace Steele looks a picture of health. But the two-year-old is one of the youngest ovarian cancer sufferers and has battled through surgery and chemotherapy. Her mother Jessica Steele-Smith, of Oxford, said: ‘Call it mother’s instinct, but I felt very strongly for months that there was something wrong with Olivia-Grace. ‘I had spoken to medical professionals at least ten times because of her large belly and because she couldn’t keep her milk down
+Article text: The emotion of gaining a career breakthrough and striking a blow for the less gilded outfits at Cheltenham proved too much for Warren Greatrex. The unsung 40-year-old trainer was unable to blink back the tears behind his spectacles after Cole Harden had provided him with a first Festival winner, and in the biggest race of the day, the World Hurdle. Gavin Sheehan  celebrates winning the Ladbrokes World Hurdle, his first victory at the Cheltenham Festival . Cole Harden had struck out for the front from the off and stayed there for three miles, winning by three-and-a-quarter lengths
 ----------------------------------------
-Ground truth Summary: Olivia-Grace first started showing symptoms when she was ten days old .
-She was diagnosed with ovarian cancer after doctors found a 10cm tumour .
-After surgery and chemotherapy, she was in remission by her first birthday .
+Ground truth Summary: Cole Harden won the World Hurdle from the front at Cheltenham .
+The six-year-old was allowed an easy lead and was never caught .
+Saphir Du Rheu finished second with stablemate Zarkandar in third .
+Jockey Gavin Sheehan enjoyed his first Festival victory .
 ----------------------------------------
-Generated Summary: Olivia-Grace Steele, now two years old, was diagnosed with ovarian cancer. Her mother Jessica Steele-Smith, of Oxford, said: 'Call it mother's instinct, but I felt very strongly for months that there was something wrong with Olivia-Grace. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down. 'I had spoken to medical professionals at least ten times because of her large belly and because she couldn't keep her milk down.
+Generated Summary: Cole Harden wins the Ladbrokes World Hurdle by three-and-a-quarter lengths. Gavin Sheehan wins his first Festival winner for trainer Warren Greatrex. Cole Harden had struck at the front from the off and stayed there for three miles, winning by three-and-a-quarter lengths.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The products have been cut from the fast food restaurant giant's menu as it gets rid of low-selling items to make way for new  products. McDonald's has cut the McSpicy burger from its menu as the fast food restaurant gets rid of low-selling items . McDonald's often removes other less-popular products, like the McChamp, as part of menu review processes . 'Part of it is frankly looking at low moving items and taking them off the menu, but some of that is looking at how we actually display and market it,' the company's chief administrative officer Pete Bensen told the Sydney Morning Herald
+Article text: A Red Bull adviser has warned that the team could pull out of Formula One unless changes were made to the current regulations. Red Bull are among a number of teams frustrated by their inability to keep up with Mercedes, who dominated Formula One last year and cruised to an easy victory in Sunday's season-opening Australian Grand Prix after a virtual procession. Marko even suggested that Red Bull, who won four championships in a row before being left in the Mercedes slipstream, might pull out if billionaire owner Dietrich Mateschitz lost interest. 'If we are totally dissatisfied we could contemplate an F1 exit
 ----------------------------------------
-Ground truth Summary: McDonald's has cut the McChamp, McGrilled or McSpicy chicken burgers .
-Fast food restaurant is trying to get rid of low-selling items from its menu .
-McDonald's experienced sales increase in Australia over past six months .
+Ground truth Summary: Adviser Helmut Marko says Red Bull will pull out if 'totally dissatisfied'
+He also warns team could leave if owner Dietrich Mateschitz loses interest .
+Daniel Ricciardo finished sixth in Australian Grand Prix on Sunday .
+CLICK HERE for all the latest Formula One news .
 ----------------------------------------
-Generated Summary: The McSpicy burger has been removed from McDonald's menu as part of menu review process. The McChamp has also been removed from the menu as part of the review process. McDonald's chief administrative officer Pete Bensen told the Sydney Morning Herald that 'part of it is frankly looking at low moving items and taking them off the menu, but some of that is looking at how we actually display and market it'
+Generated Summary: Red Bull are among a number of teams frustrated with their inability to keep up with Mercedes. Red Bull adviser Dr Helmut Marko has warned that the team could pull out of Formula One. Marko said that Red Bull were 'totally dissatisfied' with the current regulations. Red Bull won four championships in a row before being left in the Mercedes slipstream.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Whether you use it to share news and emotions, or to complain about brands, what you write on Twitter may say more about you than you think. Now, an interactive tool can analyse your most recent tweets and its creator claims it can reveal your personality, by looking at how you use words. Called Analyse Words, it generates a user’s emotional style and says whether they are upbeat, worried, angry or depressed, as well as revealing someone’s social and thinking styles. Try the interactive tool below . A results page is then generated that counts the number of recent words studied and lists the latest tweets
+Article text: Swatch, the world's . largest watchmaker unveiled its riposte to Apple's smartwatch. It plans to put cheap . programmable chips in watches that will let wearers from China . to Chicago make payments with a swipe of the wrist. Swatch Group will start offering watches with near . field communication (NFC) chips within two months, said at a news conference on the company's . annual results which were released last month. Scroll down for video . The rewards are potentially huge for whoever comes up with a winning formula. firm, to create all-in-one smartwatches combining many 
 ----------------------------------------
-Ground truth Summary: Interactive tool analyses recent tweets to create a user's profile .
-'Analyse words' reveals a person's emotional, social and thinking styles .
-Says Barack Obama is upbeat, while Katy Perry is  depressed in tweets .
+Ground truth Summary: Swatch will use low cost NFC chips to add payment capabilities to watch .
+CEO Nick Hayek said Apple's launch was a 'fantastic opportunity'
+Refused to reveal details of watch - which will be on sale in two months .
 ----------------------------------------
-Generated Summary: Called Analyse Words, it generates a user's emotional style and says whether they are upbeat, worried, angry or depressed. It also reveals someone's social and thinking styles. A results page is then generated that counts the number of recent words studied and lists the latest tweets.
+Generated Summary: Swatch Group, the world's largest watchmaker, unveiled its riposte to Apple's smartwatch. It plans to put cheap. programmable chips in watches that will let wearers from China. to Chicago make payments with a swipe of the wrist. Swatch Group will start offering watches with near. field communication (NFC) chips within two months, said at a news conference on the company's. annual results which were released last month.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Jeb Bush, the former governor of Florida who is considering a run for president, used his private account while he was in office to discuss a variety of topics. These included 'security and military issues such as troop deployments to the Middle East and the protection of nuclear plants.' Scroll down for video . 11, 2001, attacks.' Bush aides told the paper that none of the emails contained classified information and that most of the information was already public knowledge. This comes just over a week after Bush publicly attacked Clinton for using her personal email while serving as Secretary of State
+Article text: Barcelona forward Neymar Jnr has been gearing up for this weekend's crucial Clasico in the only logical way - freestyling in the gym wearing his underpants and not much else. The Brazil international showed off an impressive repertoire of tricks and flicks as he was filmed in a short video that was later uploaded to his official Instagram page. The former Santos player, donning socks, gloves and a hat in addition to the aforementioned under garments, pulled out all the stops ahead of Sunday's showdown against Real Madrid. Neymar has been gearing up for Sunday's Clasico by freestyling in his underpants in the gym 
 ----------------------------------------
-Ground truth Summary: Jeb Bush used his private account while he was governor of Florida to discuss a variety of topics .
-These included 'security and military issues such as troop deployments to the Middle East and the protection of nuclear plants'
-This news comes just one week after he attacked Hillary Clinton for using her personal email while Secretary of State .
+Ground truth Summary: Barcelona take on Real Madrid at the Nou Camp on Sunday night .
+Barca can extend their lead at the top of La Liga to four points with a win .
+Neymar prepared for the match with a freestyle session in his pants .
 ----------------------------------------
-Generated Summary: Jeb Bush, the former governor of Florida who is considering a run for president, used his private email account while in office. Bush aides told the paper that none of the emails contained classified information and that most of the information was already public knowledge. This comes just over a week after Bush publicly attacked Hillary Clinton for using her personal email while serving as Secretary of State.
+Generated Summary: Barcelona forward Neymar has been preparing for Sunday's Clasico by freestyling in the gym. The Brazil international showed off an impressive repertoire of tricks and flicks as he was filmed in a short video that was later uploaded to his official Instagram page. The former Santos player, donning socks, gloves and a hat, pulled out all the stops ahead of Sunday's showdown against Real Madrid.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: From March 2018, every new car sold in the EU will legally have to be equipped with eCall technology. And the rules are expected to become law after a full European Parliament in April. Emma Carr, of civil liberties group Big Brother Watch, said: ‘Motorists will not be comfortable forcibly having a black box installed which is capable of recording and transmitting their exact location when they are driving.’ The technology contains a mobile phone-like SIM card designed to transmit the vehicle’s location to emergency services
+Article text: Ahead of this weekend's Premier League action, Sportsmail will be providing you with all you need to know about every fixture, with team news, provisional squads, betting odds and Opta stats. Here is all the information you need for West Brom's home clash with Stoke City... Tony Pulis has doubts over strikers Saido Berahino, Brown Ideye and Victor Anichebe for the Barclays Premier League clash with Stoke on Saturday. Berahino and Ideye have been playing through the pain barrier recently while Anichebe has a groin problem
 ----------------------------------------
-Ground truth Summary: Under EU plans, cars sold from March 2018 will have a 'black box' device .
-Gadget contains a phone-like SIM card which tracks drivers' movements .
-Designed to help emergency services find vehicles in the event of crash .
-Government believes the device will add at least £100 to the cost of cars .
-But officials fear it could be used by police to monitor motorists' moves .
+Ground truth Summary: Saido Berahino, Brown Ideye and Victor Anichebe doubts for West Brom .
+Ryan Shawcross could return for Stoke City following injury absence .
+West Brom failed to score in eight of 11 Premier League games with Stoke .
 ----------------------------------------
-Generated Summary: From March 2018, every new car sold in the EU will have to be equipped with eCall technology. The technology contains a mobile phone-like SIM card designed to transmit the vehicle's location to emergency services. The rules are expected to become law after a full European Parliament in April.
+Generated Summary: Saido Berahino, Brown Ideye and Victor Anichebe are all doubts for West Brom's Premier League clash with Stoke City on Saturday. Berahino and Ideye have been playing through the pain barrier recently while Anichebe has a groin problem. West Brom have won just one of their last six Premier League games.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: It's the biggest week of the year for chocolate sales, eclipsing demand at Christmas and even Valentine's Day. And just in time for Easter, one of the world's foremost food scientists - Bernard Lahousse - has explained why Easter eggs taste so good. According to Mr Lahousse, it's all down to smell of chocolate which, when presented in Easter egg form, is enhanced. 'Chocolate contains a lot of different aroma molecules,' he said. 'These molecules contain a lot of complexity which makes it possible for chocolate to be paired with a lot of ingredients
+Article text: They are the foods we hear horror stories about, and have been told to avoid at all costs. Coffee, eggs, coconut oil and whole milk are just some of the items which have been on the receiving end of bad press over the years . But it’s now time to dispel the myths and embrace these real foods. Scroll down for video . Eggcellent news: Eggs are an essential breakfast food for those who want to lose weight . And whilst consuming a lot of any sort of food in excess is bad for you, some of these items have got such bad press in the past that we’ve all but stopped eating them out of fear
 ----------------------------------------
-Ground truth Summary: Food scientist Bernard Lahousse reveals the science behind our obsession .
-The smell of chocolate, when presented in Easter egg form, is enhanced .
-Chocolate eggs are associated with happy childhood memories of holidays .
+Ground truth Summary: Nutritionist Sarah Flowers explains why these foods are good for you .
+Steer clear of refined foods as they are the ones which cause illness .
+Be sensible when indulging; moderation is always key to health .
 ----------------------------------------
-Generated Summary: Bernard Lahousse, one of the world's foremost food scientists, has explained why Easter eggs taste so good. He said chocolate contains a lot of different aroma molecules, which make it possible for chocolate to be paired with a lot of ingredients. The smell of chocolate is enhanced when it is presented in Easter egg form, he said.
+Generated Summary: Eggcellent news: Eggs are an essential breakfast food for those who want to lose weight. Coconut oil and whole milk have been on the receiving end of bad press over the years. But now it's time to dispel the myths and embrace these real foods.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: A 25-year-old man has been arrested after a mother found him naked in her 10-year-old son's bed. Ernest Reed Johnson was picked up by police in Tampa Bay, Florida, on Sunday morning after officers responded to a burglary call. They arrived at the residence at 4am when the distressed woman told him she had found the intruder lying next to her boy. Ernest Reed Johnson was picked up by police in Tampa Bay, Florida, on Sunday morning after officers responded to a burglary call. A woman said she found him naked in bed with her 10-year-old son 
+Article text: This is the moment a group of pall-bearers dropped a corpse to the ground - but carried on oblivious to their mishap. In the footage from a funeral procession in Indonesia, the pall-bearers hurriedly walk past a group of onlookers on the side of the road. But, unbeknown to them, the corpse falls out of the coffin and lands with a thump on the tarmac. The six pall-bearers enter the scene carrying the coffin during the funeral procession in Indonesia . Without realising, the corpse falls to the road, as the pall-bearers walk on unaware of any problem 
 ----------------------------------------
-Ground truth Summary: Ernest Reed Johnson, 25, was picked up by police in Tampa Bay, Florida .
-Responded to a burglary call from a distressed woman who found him lying nude next to her son .
-He managed to escape but was tracked down by the K9 unit  4 hours later .
+Ground truth Summary: Video footage shows moment pall-bearers drop corpse on to the road .
+Seemingly unaware, they carried on with funeral procession in Indonesia .
+Only when alerted by onlookers did they turn around to retrieve body .
 ----------------------------------------
-Generated Summary: Ernest Reed Johnson was picked up by police in Tampa Bay, Florida, on Sunday morning after officers responded to a burglary call. A woman said she found him naked in bed with her 10-year-old son.
+Generated Summary: The six pall-bearers enter the scene carrying the coffin during the funeral procession in Indonesia. Without realising, the corpse falls to the road, as the pall-bearers walk on unaware of any problem.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Nigel Farage today claimed mass immigration had left parents too uneasy to let their children play in the street - as he appeared shift Ukip policy by backing a cap on numbers. The Ukip leader used an election campaign launch beneath the White Cliffs of Dover to demand that net migration be cut to 30,000. It comes less than four weeks after he insisted he would not set 'caps or targets' for controlling Britain's borders. Ukip leader Nick Clegg  used an election campaign launch beneath the White Cliffs of Dover to demand that net migration be cut to 30,000 
+Article text: Brittany Maynard's widower has described their final moments together in an interview with Oprah Winfrey. Dan Diaz was lying in the bed beside his 29-year-old wife when she drank medication to end her life last month. Having been diagnosed with terminal brain cancer just six months before, Maynard became the face of America's Right To Die campaign after moving from California to Oregon and setting a date for her own death. Now, her widower is continuing that battle calling for all states to approve legislation that supports life-ending options for people with terminal illnesses. SCROLL DOWN FOR VIDEO . Campaign: Maynard documented her final six months and fought for relaxed laws on the right to die 
 ----------------------------------------
-Ground truth Summary: Ukip leader ruled out a target for net migration at policy launch this month .
-Now he says he would like roughly the levels seen between 1950 and 2000 .
-Tories: 'All we've seen from Ukip on immigration is chaos and confusion'
+Ground truth Summary: Dan Diaz, widower of Brittany Maynard, is campaigning for Right To Die .
+He tells Oprah in interview on Sunday of moment she passed away .
+Seven loved-ones told a memory each then she drank the lethal medicine .
 ----------------------------------------
-Generated Summary: Ukip leader Nigel Farage today claimed mass immigration had left parents too uneasy to let their children play in the street. It comes less than four weeks after he insisted he would not set 'caps or targets' for controlling Britain's borders.
+Generated Summary: Brittany Maynard was diagnosed with terminal brain cancer just six months before she died. The 29-year-old moved from California to Oregon and set a date for her own death. Her husband, Dan Diaz, has spoken out about his wife's final moments.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The BBC was last night accused of suppressing an interview that called for corporation boss Rona Fairhead to resign over her £10,000-a-day second job at scandal-hit HSBC bank. It’s a new blow to Mrs Fairhead, chairman of the BBC Trust and a non-executive director of HSBC, who is facing growing calls to quit one of her high-profile jobs over claims of a conflict of interest. ‘I couldn’t understand why a non-executive director who is there to protect the shareholders ignored us when we told her on numerous occasions in the past about illegal behaviour that was going on involving HSBC
+Article text: The Louisiana Tech chapter is the third SAE house accused of using the horrifying song that was sung by members of the fraternity at the University of Oklahoma over the weekend. On Wednesday, the president of the University of Texas said he had ordered an investigation into claims brothers at SAE in Austin had used the tune. The fraternity headquarters is investigating in Texas, as well. SAE is also investigating reports that the song was used at the SAE chapter at the University of Texas-Austin . He added that the university didn't make up the song, claiming it had been 'going around' the fraternity for years
 ----------------------------------------
-Ground truth Summary: Called for Rona Fairhead to resign over £10,000-a-day second job .
-Due to be questioned by MPs after Mail On Sunday revealed payments .
-Figure dwarfs £110,000 salary of main job overseeing BBC .
-Axed interview said she was not 'fit and proper person' to be in charge .
+Ground truth Summary: Former member of Sigma Alpha Epsilon at Louisiana Tech University said he heard the racist song a dozen times in 2010 and 2011 .
+SAE headquarters investigating reports of song at Louisiana Tech and at the University of Texas-Austin .
+Song was 'taught in private' and didn't originate at Louisiana Tech, either, former pledge claims .
 ----------------------------------------
-Generated Summary: Rona Fairhead, chairman of the BBC Trust and a non-executive director of HSBC, is facing growing calls to quit over claims of a conflict of interest. The BBC Trust has been accused of suppressing an interview that called for Mrs Fairhead to resign over her £10,000-a-day second job at scandal-hit HSBC bank.
+Generated Summary: The Louisiana Tech chapter is the third SAE house accused of using the song that was sung by members of the fraternity at the University of Oklahoma over the weekend. On Wednesday, the president of the University of Texas said he had ordered an investigation into claims brothers at SAE in Austin had used the tune. SAE is also investigating reports that the song was used at the University of Texas-Austin.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: The 53-year-old president and his family paid tribute to civil rights legends sung and unsung by leading a symbolic march across the Alabama town's Edmund Pettus Bridge on Saturday afternoon. Speaking on the bridge in the sunshine, Obama said of his 13-year-old and 16-year-old daughter: 'I want to say what an extraordinary honor this has been, especially to have Sasha and Malia here.' He had previously said he hoped the girls - who wore  dresses and boots for the 50th anniversary march - would be reminded 'of their own obligations' to continue America's fight for civil rights
+Article text: Courtney Lawes insists England fans will see a changed man at Twickenham on Saturday as he believes controlling his recklessness will preserve his career. The 26-year-old Northampton lock returns to Stuart Lancaster’s starting line-up against Scotland after recovering from ankle surgery in January and will be charged with running the line-out. ‘If I’m reckless then I’ll probably hurt myself which is why I keep a lid on things these days,’ said Lawes, who will win his 37th cap. ‘I’ve always been pretty chilled but when you’re younger, frustrations can get the better of you and you can be a bit rash
 ----------------------------------------
-Ground truth Summary: President Barack Obama was joined by daughters in Selma on Saturday .
-He said he hoped the trip would 'remind them of their own obligations'
-First Family led symbolic march across town's Edmund Pettus Bridge .
-They were paying tribute to marchers on 'Bloody Sunday' 50 years ago .
-Obama said he was 'especially' pleased that two daughters were there .
-On Sunday, thousands of people marched over bridge for second day .
+Ground truth Summary: England take on Scotland in the Six Nations on Saturday at Twickenham .
+Courtney Lawes returns to the England starting XV alongside Mike Brown .
+26-year-old lock Lawes has recovered from ankle surgery in January .
 ----------------------------------------
-Generated Summary: Barack Obama led a symbolic march across the Edmund Pettus Bridge in Selma, Alabama. The 53-year-old president and his family paid tribute to civil rights legends sung and unsung by leading a symbolic march across the Alabama town's Edmund Pettus Bridge on Saturday afternoon.
+Generated Summary: Courtney Lawes returns to England's starting line-up against Scotland. The 26-year-old Northampton lock returns to Stuart Lancaster's starting line-up after recovering from ankle surgery in January.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Andres Iniesta wants Manchester City to ‘suffer’ in tomorrow’s Champions League tie in the Nou Camp. Barcelona lead 2-1 from the first leg at the Etihad and are expected to progress to the quarter-final of the competition. Iniesta said: ‘We play in a comprehensive manner, we want ball possession so that they suffer. We need to find our superior skills and minimise their potential. We want to control what goes on at every moment. Andres Iniesta, rested in Barca's weekend win over Eibar, is expected to return to the staring line-up to take on City on Wednesday 
+Article text: Josh Campbell, who has anger management issues, injured the infant by his rough handling of it, a court heard . A man who broke a baby's arm and leg through  'reckless cruelty' has been spared jail. Doctors said the infant's broken leg may have been caused by Josh Campbell 'yanking' it out of its cot, while its broken arm appeared to be the result of a 'forceful rapid rotation injury'. At Newcastle Crown Court, the 20-year-old pleaded guilty to child cruelty on the basis of 'reckless rough handling'. Michael Hodson, prosecuting, said: 'The Crown are opening the case on the basis of rough handling and reckless behaviour
 ----------------------------------------
-Ground truth Summary: Barcelona train ahead of crucial last-16 second leg against Manchester City at the Nou Camp .
-Spanish side lead City 2-1 after first leg, when Luis Suarez scored twice at Etihad stadium .
-But Barca star Andres Iniesta insists the tie is not over, and says Barcelona are fully focused on Wednesday's game .
+Ground truth Summary: Josh Campbell had broken the infant's leg and arm lifting it out of its cot .
+The 20-year-old admitted child cruelty due to his 'reckless rough handling'
+Court heard Campbell, 20, had anger issues and had been 'impatient'
 ----------------------------------------
-Generated Summary: Andres Iniesta wants Manchester City to'suffer' in Barcelona's Champions League tie. Barca lead 2-1 from the first leg at the Etihad and are expected to progress to the quarter-final of the competition.
+Generated Summary: Josh Campbell, 20, pleaded guilty to child cruelty on the basis of'reckless rough handling'
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Last year’s Champions League finalists Atletico Madrid are still in the Champions League... just. After 120 exhausting minutes Diego Simeone’s side won on penalties with Fernando Torres scoring the home side’s last spot-kick and Stefan Kiessling missing his to put Atletico through. Substitute goalkeeper Jan Oblak saved Hakan Calhanoglu’s awful spot-kick hit low and straight down the middle to put the Spaniards back in with a chance of progress. Leverkusen's goalkeeper Bernd Leno is unable to stop Torres' penalty, leaving the German side with a mountain to climb 
+Article text: For Italy manager Antonio Conte, Tuesday's friendly against England in Turin should have represented a triumphant homecoming to the stadium where he led Juventus to three Serie A titles before leaving last summer. After all, he remains unbeaten in charge of the Azzurri and Saturday night's 2-2 draw in Bulgaria keeps them firmly on course to qualify for Euro 2016. John Elkann, an influential figure at Juventus, said Marchisio's knee sprain on Friday - originally diagnosed by the Italian FA medical staff as ligament damage - was due to being over-worked and said: 'Perhaps Conte would like to be remembered as the cherry-picker with the highest number of injuries.' It was inflammatory talk and the Italian football federation claimed Conte had received death threats from Juve fans over the internet as a result
 ----------------------------------------
-Ground truth Summary: Atletico Madrid earn Champions League quarter-final spot after penalty shootout victory against Bayer Leverkusen .
-After Raul Garcia blazed over the bar, substitute goalkeeper Jan Oblak saved Hakan Calhanoglu's woeful spot kick .
-Leverkusen's Stefan Kiessling missed the final penalty to hand Atleti victory .
-Fernando Torres scored Atletico's final penalty to put pressure on Kiessling .
-Mario Suarez had given Diego Simeone's side lead with deflected strike in the 27th-minute .
+Ground truth Summary: Antonio Conte's Italy side face England in a friendly game on Tuesday .
+The Azzurri remain unbeaten under Conte's watch .
+Italy and England both failed to qualify from Group D at the last World Cup .
 ----------------------------------------
-Generated Summary: Atletico Madrid beat Bayer Leverkusen on penalties to progress to the last 16 of the Champions League. Fernando Torres scores the winning spot-kick after Stefan Kiessling misses for Leverkusen. Jan Oblak saves Hakan Calhanoglu's spot-kick to put Atletico through.
+Generated Summary: Italy drew 2-2 with England in a friendly in Turin on Tuesday. The draw keeps Italy on course to qualify for Euro 2016. Italy coach Antonio Conte has received death threats from Juventus fans.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Atletico had the better chances at Espanyol's Cornella-El Prat stadium in Barcelona before centre back Miranda was shown a straight red card when he felled Abraham with a leading arm as the pair jumped for a bouncing ball. Forward Fernando Torres had forced a fine save from Espanyol goalkeeper Kiko Casilla in the 11th minute and midfielder Koke fired narrowly wide a minute later. Playing with a man fewer in the second period Atletico struggled to create scoring opportunities but Raul Garcia came close to breaking the deadlock 13 minutes from time when his low shot was brilliantly tipped away by Casilla
+Article text: Lausanne, Switzerland (CNN)Nuclear talks intensified Sunday between world powers and Iran, but key sticking points remained unresolved as the countries tried to reach a deal to curb Tehran's nuclear program ahead of a Tuesday deadline. As the negotiations entered their fourth day, Israeli Prime Minister Benjamin Netanyahu warned the agreement coming together is worse than Israel's deepest fears. The talks had hit a snag on Saturday, with diplomats describing Iran as refusing to budge, but as the French, German and Chinese foreign ministers arrived, the mood seemed more optimistic
 ----------------------------------------
-Ground truth Summary: Espanyol earn 0-0 draw against Atletico Madrid at the Power 8 Stadium .
-Atleti defender Miranda sent off for foul on Cornella-El Prat .
-Diego Simeone's side are now fourth in La Liga .
+Ground truth Summary: One key sticking point: What would be the limits on Iranian nuclear research?
+Another sticking point: When would U.N. sanctions be lifted?
+Israeli Prime Minister Benjamin Netanyahu warns the deal would be a disaster .
 ----------------------------------------
-Generated Summary: Atletico Madrid were held to a goalless draw by Espanyol in La Liga. Miranda was shown a straight red card for a challenge on Abraham. Espanyol goalkeeper Kiko Casilla saved well from Fernando Torres and Raul Garcia.
+Generated Summary: Talks between world powers and Iran have hit a snag. Key sticking points remain unresolved ahead of a Tuesday deadline. Israeli Prime Minister Benjamin Netanyahu warns an agreement coming together is worse than Israel's deepest fears.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Two Michigan police officers have been applauded for their kindness after buying a child car seat for a hard-up couple rather than issuing them a ticket. Officers Jason Pavlige, 32, and James Hodges, 26, of Fruitport Township, Michigan responded to a call made by a McDonald's worker who was concerned that a baby was not properly secured in a car seat when her parents picked up some food from the restaurant. When the officers stopped the couple's car, they found the 10-month-old girl sitting in her mother's lap while her father drove the vehicle. The couple, who have not been identified, explained that they did not have the means to buy a seat
+Article text: (CNN)After a handful events in two months, Hillary Clinton has filled her March with a mix of women's events, nonprofit speeches and at least one paid appearance. In January and February, Clinton headlined three events -- only one of which was in the United States. But as Clinton moves closer to her expected 2016 presidential campaign announcement, the former secretary or state has at least seven events scheduled for the month of March. The following week, Clinton will headline two New York events tied to her 1995 speech to the U.N
 ----------------------------------------
-Ground truth Summary: Fruitport Township Officers Jason Pavlige and James Hodges responded to a call about a couple who had not secured their baby a proper seat .
-They found the 10-month-old girl sitting on her mother's lap .
-But they learned that the couple could not afford a car seat for the girl so decided against issuing them a ticket .
-They pooled their money and bought them a car seat from Walmart .
-The good deed came to light when a Walmart employee called the police station to report their kindness .
+Ground truth Summary: Clinton currently has seven events in March, with one paid speech and many focused on women .
+This comes after Clinton gave only three speeches in January and February .
+Clinton is expected to announce some official move towards the presidency in April, according to Democrats close to her .
 ----------------------------------------
-Generated Summary: Officers Jason Pavlige, 32, and James Hodges, 26, of Fruitport Township, Michigan responded to a call from a McDonald's worker who was concerned that a baby was not properly secured in a car seat. The couple, who have not been identified, explained that they did not have the means to buy a child car seat.
+Generated Summary: Hillary Clinton has at least seven events scheduled for the month of March. The former secretary of state will headline two New York events tied to her 1995 speech to the U.N.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: It is not yet known why Bernal decided to flee from authorities, who had been trying to pull him over in Vacaville around 2pm on Tuesday. Scroll down for video . The vehicle, which California Highway Patrol had wanted to pull over, lost multiple tires before its dramatic flip . The chase started in Vacaville, in the north of California's Bay Area, and stretched about 100 miles south, to Los Altos . The driver maneuvered around other vehicles, none of whom were hit, even after losing his front left tire and driving on the SUV's rims for miles
+Article text: With less than a week before the biggest shake-up in the pensions market for more than a century, insurance giant Prudential was last night accused of ‘greed’ after revealing the extraordinary awards lavished on its senior executives. MPs and pension experts said the scale of the awards would be particularly galling for millions of savers trapped in poor-value annuities or paying excessive charges. But his pay was dwarfed by the £15.4million scooped by fund manager Richard Woolnough – who runs almost £35billion of savers’ money for the Pru’s investment arm M&G
 ----------------------------------------
-Ground truth Summary: Ramon Bernal, 24, of Davis, led authorities around Bay Area for an hour .
-He was charged with felony evasion and driving under influence of drugs .
-Gold 1999 Nissan Pathfinder  was driving on its rims after losing tires .
-Driver exited the SUV with ease despite running into median and flipping .
+Ground truth Summary: Prudential dished out £49million in pay and perks to its bosses last year .
+Tidjane Thiam, the Pru’s Ivorian chief executive, received £11.8million .
+But fund manager Richard Woolnough scooped a massive £15.4million .
+Claimed figures will be galling for savers trapped in poor-value annuities .
 ----------------------------------------
-Generated Summary: The chase started in Vacaville, in the north of California's Bay Area, and stretched about 100 miles south to Los Altos. The driver maneuvered around other vehicles, none of whom were hit, even after losing his front left tire and driving on the SUV's rims for miles.
+Generated Summary: Richard Woolnough was paid £15.4million. He runs almost £35billion of savers' money for the firm's investment arm M&G. Mr Woolnough's pay dwarfs that of chief executive Mark Catlin.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: Eight teenage girls from the same school have been radicalised under the noses of their teachers, it emerged last night. Four girls from Bethnal Green Academy in East London have already run away to Syria to join Islamic State. Now four more from the same school have expressed an interest in Islamic extremism. The worrying rise in fanaticism among girls at the school was laid bare at the High Court yesterday. All eight girls attended the Bethnal Green Academy in Tower Hamlets, east London . The trio followed in the footsteps of 15-year-old Sharmeena Begum, also from Bethnal Green Academy, who left for Syria in December
+Article text: ITV’S sporting shake-up continued with Jacqui Oatley brought in as a major player in their football coverage next season. Oatley, who was the first female commentator on BBC’s Match of the Day in 2007, has stepped across to take a major position within ITV 4, where she will anchor football programmes during the 2015-16 season. Jacqui Oatley has been signed up by ITV and will host football coverage from the start of next season . Oatley has previously worked for the BBC, and was the first female commentator on Match of the Day 
 ----------------------------------------
-Ground truth Summary: Five teenage girls given travel bans all went to Bethnal Green Academy .
-Same London school as three girls who have already fled to join ISIS .
-Judge lifts order preventing the naming of the school in the public interest .
+Ground truth Summary: Jacqui Oatley is to join ITV's football coverage from next season .
+She will present football, and darts, on both ITV4 and the main channel .
+Oatley was the first female commentator on BBC's Match of the Day .
+She says she is delighted to have been asked to join the ITV team .
 ----------------------------------------
-Generated Summary: Four girls from Bethnal Green Academy in East London have already run away to Syria to join Islamic State. Now four more from the same school have expressed an interest in Islamic extremism. The worrying rise in fanaticism among girls at the school was laid bare at the High Court yesterday. All eight girls attended the Bethnal Green Academy in Tower Hamlets, east London.
+Generated Summary: Jacqui Oatley has been signed up by ITV and will host football coverage from the start of next season. Oatley, who was the first female commentator on BBC's Match of the Day in 2007, has stepped across to take a major position within ITV.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

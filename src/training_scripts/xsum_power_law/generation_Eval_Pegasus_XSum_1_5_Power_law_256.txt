@@ -1,0 +1,220 @@
+Generations for Eval_Pegasus_XSum_1_5_Power_law_256
+Article text: The state's media watchdog said the press had a duty to cover a story about the supposed offshore dealings of opposition politician and recent presidential candidate Guillermo Lasso. 
+The watchdog and the media companies have accused each other of censorship
+----------------------------------------
+Ground truth Summary: Ecuador has fined seven media companies for not publishing a story that it deemed of public interest.
+----------------------------------------
+Generated Summary: Venezuela's President Nicol ⁇ s Maduro has ordered the closure of the country's largest newspaper, El Universal.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The quake happened at about 21:10 local time on Friday (04:10 GMT on Saturday) and its epicentre was 1 mile (2km) east of the town of La Habra. 
+There were no immediate reports of significant damage or injuries. 
+A 4. 4-magnitude quake was felt near Los Angeles earlier this month, rattling nerves but causing no major damage. 2 miles (2km) deep, according to the USGS
+----------------------------------------
+Ground truth Summary: A magnitude 5.1 earthquake has struck the Los Angeles area of southern California, the US Geological Survey says.
+----------------------------------------
+Generated Summary: A magnitude-4.5 earthquake has rocked the Los Angeles area, the US Geological Survey (USGS) says.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "
+He could also be heard shouting "Death to the enemies of America". 
+"Leave this country if you hate our freedom - death to antifa," he said, using a common abbreviation for the anti-fascist movement. 
+Portland's mayor is meanwhile trying to ban a forthcoming right-wing rally in the West Coast city
+----------------------------------------
+Ground truth Summary: A suspect accused of fatally stabbing two people on a train in Oregon, after they intervened in his alleged anti-Muslim rant, has appeared in court.
+----------------------------------------
+Generated Summary: A far-right rally in Portland, Oregon, has ended in violence after a man tried to stab a counter-protester.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: President Wulff was entitled to what is called a Grosser Zapfenstreich, or Grand Tattoo, in front of the presidential palace. 
+In the dark of night, by the Tiergarten in Berlin, soldiers in full ceremonial uniform carried burning torches.  Trumpets sounded. 
+President Wulff had requested four pieces instead of the usual three
+----------------------------------------
+Ground truth Summary: The president of Germany marked his early departure from office with the grandest of torchlight parades in the full tradition of the Prussian military - and with a squabble over what tunes should be played.
+----------------------------------------
+Generated Summary: Germany's new president, Christian Wulff, has been given a tattoo of the country's national flag.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The O's lost 5-0 at Accrington on Tuesday, six days before a winding-up petition is due to be heard. 
+"I'm trying to take on a lot, carry a lot of things on my shoulders. 
+Orient have lost five of their last six games and are seven points from safety with nine matches remaining
+----------------------------------------
+Ground truth Summary: Leyton Orient manager Danny Webb says the club's off-field problems are weighing on him heavily after they slipped to the bottom of League Two.
+----------------------------------------
+Generated Summary: Leyton Orient manager Russell Slade says he is trying to "carry a lot of things on my shoulders" as the League Two club prepare for a winding-up petition.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mr Mallon said businesswoman Christine Bell and councillor Len Junier had criticised him and his fellow councillors for selling land at Acklam Hall for development. 
+"What those people have got to do now is produce the evidence of malpractice, corruption, or criminality and I will give you a cast iron guarantee they will not be able to produce one shred of evidence
+----------------------------------------
+Ground truth Summary: Middlesbrough Mayor Ray Mallon has referred himself to his council's standards committee in response to accusations a land sale was "dodgy".
+----------------------------------------
+Generated Summary: A former councillor has said he will not be able to produce "one shred of evidence" against two of his former colleagues.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Early results, in the journal Science Translational Medicine, showed the "iKnife" could accurately identify cancerous tissue on the spot. 
+It is now being tested in clinical trials to see if it saves lives. 
+They can even send samples off for testing while the patient is still in theatre, but this takes time
+----------------------------------------
+Ground truth Summary: An "intelligent" knife that can sniff out tumours to improve cancer surgery has been developed by scientists.
+----------------------------------------
+Generated Summary: Scientists have developed a new way to diagnose cancer in the operating theatre.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+The developer plans to build new homes on the site as well as retail and leisure facilities by 2018. 
+It has also been in talks with the family of former West Ham and England captain Bobby Moore about the possibility of placing a landscaped garden named in his honour at the centre of the site, as well as a statue of him
+----------------------------------------
+Ground truth Summary: West Ham have agreed to sell Upton Park to London developer the Galliard Group once they have completed their move to the Olympic Stadium in 2016.
+----------------------------------------
+Generated Summary: Plans to redevelop the site of the former Olympic Stadium in Stratford-upon-Avon have been given the go-ahead.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The direct funding scheme for school sport, announced last year, is going to be extended for a further five years. 
+Each year primary schools will continue to receive £8,000, plus £5 per pupil. 
+The funding - the Primary PE and Sport Premium - provides money directly to primary school head teachers, carrying on the sporting legacy of the Olympics
+----------------------------------------
+Ground truth Summary: Primary schools in England are going to share an extra £150m per year sports funding until 2020, Prime Minister David Cameron has announced.
+----------------------------------------
+Generated Summary: Primary school pupils in England will continue to benefit from the legacy of the London 2012 Olympics, Education Secretary Michael Gove has announced.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Zookeepers say it is very unusual to see a koala with fur this light and with eyes and skin remaining the usual brown black. 
+But said the koala's white coat is not caused by a condition called albinism, which is when a human or animal doesn't have the chemical in its hair, skin and eyes that creates colour. 
+Australia Zoo have now asked the public to help name the rare koala
+----------------------------------------
+Ground truth Summary: A rare white koala joey has been born at a zoo in Queensland, Australia.
+----------------------------------------
+Generated Summary: A rare white koala has been born at Australia Zoo in Melbourne.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 20-year-old was granted a work permit by the Home Office after a hearing in London on Tuesday. 
+"I'm feeling very happy, it's a very important step in my career," Coutinho told Liverpool's official website. 
+"Liverpool is a great club with great players.  I know they believe in me and my football
+----------------------------------------
+Ground truth Summary: Liverpool have completed the £8.5m signing of Brazilian midfielder Philippe Coutinho from Inter Milan.
+----------------------------------------
+Generated Summary: Liverpool have signed Brazil midfielder Philippe Coutinho on a five-year contract.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Harry Dunn worked for clubs including Chelsea, Liverpool and Rangers. 
+Police said an 84-year-old man was arrested and charged with a number of "non-recent sexual offences". 
+Mr Dunn is understood to have worked with Liverpool and Rangers in the 1980s and later with Chelsea
+----------------------------------------
+Ground truth Summary: A former youth football scout has been arrested by police investigating allegations of historical sex abuse.
+----------------------------------------
+Generated Summary: A former football club scout has been charged with historical sex offences.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Dr Helen Nicoll, 53, was pronounced dead at the house in Frog End, Great Wilbraham, Cambridgeshire on 5 June. 
+Opening and adjourning the inquest into Dr Nicoll's death, coroner David Morris said Mr Nicoll had discovered his wife hanging from a banister with what looked like a ski jacket belt around her neck. 
+Mr Morris said he was satisfied there was no third party involvement in her death
+----------------------------------------
+Ground truth Summary: A dentist who was found dead by her husband at their home died as a result of hanging, an inquest has heard.
+----------------------------------------
+Generated Summary: An inquest into the death of a GP who was found hanged at her home has heard she was found by her husband.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Turkey accuses the cleric, Fethullah Gulen, of orchestrating last July's failed coup. 
+In a video interview, Mr Woolsey told the Wall Street Journal he was present at a discussion about removal methods beyond the legal extradition process. 
+"You might call it brainstorming
+----------------------------------------
+Ground truth Summary: President Trump's former national security adviser, Michael Flynn, discussed removing from the US a Muslim cleric wanted by Turkey, according to ex-CIA director James Woolsey.
+----------------------------------------
+Generated Summary: Former US ambassador to Turkey James Woolsey has said he was present at a meeting between Turkish officials and a US-based Muslim cleric.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Valuations expert David Brookes said he had never seen anything like them in a 35-year career and would love to know where they were made and how they ended up in the modern house near Ulverston. 
+"We know the Victorians loved their busts and statues; everything from knights in armour, angels and lions to athletes wrestling serpents
+----------------------------------------
+Ground truth Summary: Two statues found during a Cumbrian house clearance have baffled experts.
+----------------------------------------
+Generated Summary: Two Victorian busts have been found in a house in Cumbria.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: China's government asked the National Audit Office (NAO) in July to do a round-up of the debts outstanding at a local level. 
+Persistent fears over the level of non-performing bad debt have affected perceptions of the world's second-largest economy, as some worry whether the loans can be paid back
+----------------------------------------
+Ground truth Summary: China has local government debts of 17.7 trillion yuan ($2.9tn), up 70% from three years ago, according to an official report.
+----------------------------------------
+Generated Summary: China's auditor general has said the country's debt levels are "not as bad as many people think", as the government seeks to address concerns over bad loans.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Colin Patterson, 51, from Newcastle, contacted a fake profile created by the Dark Justice group. 
+At Newcastle Crown Court, prosecutor Tim Gittins said the vigilante group had set up the profile on the website Badoo as a girl named Tasha. 
+"They were careful that contact was initiated by the defendant and he contacted the profile in January," he said
+----------------------------------------
+Ground truth Summary: A man who thought he was meeting a 14-year-old girl for sex but had been ensnared by internet paedophile hunters has been jailed for two years.
+----------------------------------------
+Generated Summary: A man who posed as a 14-year-old girl on a revenge porn website has been jailed for two years.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Ruth Davidson said people were angry at the SNP for putting "its own narrow political interests before those of the wider country". 
+On Friday, Nicola Sturgeon launched a "new conversation" on independence. 
+"We do not look back at the referendum on independence with much in the way of nostalgia
+----------------------------------------
+Ground truth Summary: The Scottish Conservative leader has accused the Scottish government of allowing "the lead weight of separatism" to drag Scotland backwards.
+----------------------------------------
+Generated Summary: The Scottish Conservatives have accused the SNP of trying to "re-write history" by calling for a second independence referendum.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Irina Bokova, director-general of Unesco, said the sinking of the Titanic was "anchored in the memory of humanity" and it was important to protect the site where 1,500 people lost their lives. 
+The 2001 convention only protects vessels that sank more than a century ago
+----------------------------------------
+Ground truth Summary: The wreck of the Titanic is to come under the protection of the United Nations cultural agency Unesco.
+----------------------------------------
+Generated Summary: The site of the Titanic shipwreck in the North Atlantic has been added to the UN's list of world heritage sites.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "
+Sotherton later said on her Twitter account: "I've had to keep my gob shut for over 2 months about this! So it's a relief it's out! #heptathlon"
+Since ending her hepathlon career, Sotherton has been supplanted as British number one by Jessica Ennis and she has previously said that, at her best, she could have run the 2009 world champion from Sheffield close
+----------------------------------------
+Ground truth Summary: Former Olympic bronze medallist Kelly Sotherton is to return to heptathlon and hopes to compete at London 2012.
+----------------------------------------
+Generated Summary: Former British heptathlon champion Laura Sotherton says she has had to keep her appendix shut for two months.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

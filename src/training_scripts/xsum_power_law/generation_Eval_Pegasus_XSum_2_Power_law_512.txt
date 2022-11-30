@@ -1,0 +1,251 @@
+Generations for Eval_Pegasus_XSum_2_Power_law_512
+Article text: The match was played in N'Djamena and was settled by a goal early in the second half. 
+Leger Djimrangar struck for the hosts in the 47th minute to give them the advantage going into the second leg. 
+The result will be seen as a blow to Sierra Leone who are ranked 54 places higher than Chad in the world rankings. 
+The Leone Stars are still barred from hosting matches because of fears over the Ebola virus. 
+They will therefore play the return leg on 13 October in Port Harcourt in Nigeria. 
+It will be the second time that Sierra Leone have used the venue for one of their qualifiers
+----------------------------------------
+Ground truth Summary: Sierra Leone suffered a 1-0 defeat away to Chad in the first leg of their 2018 World Cup preliminary round qualifier on Saturday.
+----------------------------------------
+Generated Summary: Chad beat Sierra Leone 1-0 in the first leg of their 2017 Africa Cup of Nations qualifier.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The money was raised in a funding round led by the Royal Mail Group and backed by investors, including the Scottish Investment Bank, Par Equity and technology entrepreneurs. 
+The company was founded in 2013 by 27-year-old Edinburgh-based entrepreneur Cally Russell. 
+Mr Russell pressed ahead with developing the app after turning down an offer of investment on the BBC's Dragons' Den programme. 
+Mallzee is a personalised shopping app, which allows users access to more than 100 fashion stores at one go. "
+Earlier this year, Mallzee secured an exclusive promotional link-up with tech giant Samsung
+----------------------------------------
+Ground truth Summary: Fashion shopping app developer Mallzee is set to expand after securing £2.5m from investors.
+----------------------------------------
+Generated Summary: Mallzee, the fashion shopping app, has raised £1m in funding.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He is also a firm believer in the Northern Powerhouse and close relations with China. 
+Both have found themselves under scrutiny since Theresa May became Prime Minister. 
+Lord O'Neill was very much a George Osborne hire.  The former chancellor was delighted when he agreed to join the Treasury team. 
+And the Prime Minister has been clear - this is a new chapter in Conservative politics and Lord O'Neill, as anyone who has met him will attest, is not a natural Tory. 
+There were reports before the summer that Lord O'Neill was considering his position
+----------------------------------------
+Ground truth Summary: The former Goldman Sachs banker Jim O'Neill is passionate about a lot of things - Man Utd being one of them.
+----------------------------------------
+Generated Summary: Lord O'Neill, the new Treasury chief, is a former Northern Ireland secretary who is a strong supporter of the UK's membership of the European Union.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: His 16 years in office made him the longest-serving German chancellor since Bismarck and he was once described as the greatest European leader in the second half of the 20th Century. 
+Yet the end of his career was marred by economic problems in the old East Germany and a financial scandal within his own CDU party. 
+Helmut Josef Michael Kohl was born on 3 April 1930 into a conservative, Catholic family,
+His political outlook was shaped by his experiences in his hometown of Ludwigshafen in the Rhineland during World War Two
+----------------------------------------
+Ground truth Summary: Helmut Kohl earned his place in history by securing the successful reunification of Germany after the collapse of communism.
+----------------------------------------
+Generated Summary: Former German Chancellor Helmut Kohl has died at the age of 85.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But Mr Obama said those who looted and started fires on Monday "should be treated like criminals". 
+The rioting came after the funeral of Freddie Gray, a black man fatally injured in police custody in Baltimore. 
+A week-long curfew has been announced and thousands of troops have been deployed to the city. 
+On Tuesday evening, hundreds of protesters took to the streets to express their frustration with what they see as excessive police force. 
+The peaceful demonstrations were a contrast to the day before, when about 200 people were arrested as more than 100 cars were set alight and 15 buildings destroyed
+----------------------------------------
+Ground truth Summary: President Barack Obama has said police violence against African-Americans is a "slow-rolling crisis" after a night of violence in Baltimore.
+----------------------------------------
+Generated Summary: US President Barack Obama has condemned the rioting in the US city of Baltimore, calling it "despicable".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jordon Saxton, from Faringdon, Oxfordshire, was convicted of the manslaughter of 11-week-old Jayden Saxton, but cleared of his murder. 
+Jayden died in November after suffering 18 bone fractures as well as multiple brain and spinal injuries, a trial at Oxford Crown Court heard. 
+Saxton, 21, was sentenced to nine years in prison. 
+During the two-week trial, jurors heard the baby was living at a flat with his parents and had been left alone with Saxton on 17 November. 
+They heard that Jayden never recovered from what the prosecution described as a "violent assault", in which he was squeezed so hard several of his ribs were broken
+----------------------------------------
+Ground truth Summary: A man has been jailed for killing his baby son after squeezing his chest and shaking him.
+----------------------------------------
+Generated Summary: A man has been found guilty of the manslaughter of his girlfriend's baby son.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 29-year-old, competing in her first international sprint regatta, came second in the K1 1,000 event in Montemor-o-Velho. 
+Broughton said: "I was happy to get out there and put a good race together. 
+"I'm always a bit slow off the start so I knew I had to stick at my own thing but I knew in the middle it would all settle down. "
+----------------------------------------
+Ground truth Summary: Great Britain's Lizzie Broughton has won silver at the Canoe Sprint World Cup in Portugal.
+----------------------------------------
+Generated Summary: Great Britain's Sophie Broughton has won a silver medal at the World Cup in France.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "Is it always sunny here?" asked The Van T's from the stage during a pause between songs. 
+The reply from the audience inside the big top to the Glasgow band's question was wry laughter. 
+Outside the sun was blazing, as it had done the previous day, but at the back of the tent were muddy puddles.  The marshy patch was a reminder of the heavy rain and gale-force winds that battered the north-west Highlands only a few days earlier. 
+Colourful wellies, today's must-have festival footwear, looked as out of place in the sunshine as the t-shirts and sunburns did on Friday's last day of September and Saturday's first of October
+----------------------------------------
+Ground truth Summary: The Loopallu music festival was held at the weekend in Ullapool, bringing together well-known acts, newcomers and several thousand music fans.
+----------------------------------------
+Generated Summary: It was the final day of this year's Highlands and Islands Music and Arts Festival.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Glasgow Kelvin MSP Sandra White is proposing legislation which would also make it illegal for vehicles to double park. 
+Her bill won unanimous support, but is unlikely to complete its passage through Parliament before the election. 
+The SNP government has pledged to legislate to tackle irresponsible parking if it returns to power after the May poll. 
+The Footway Parking and Double Parking (Scotland) Bill would make it illegal to park on pavements and dropped kerbs, and restrict double parking on roads. 
+It gained broad support from the public during consultation
+----------------------------------------
+Ground truth Summary: MSPs have voted in principle to make it an offence to park on pavements.
+----------------------------------------
+Generated Summary: The Scottish Parliament has backed a bill which would make it illegal to park on pavements and dropped kerbs.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Wilkinson, 21,  who has recently been on loan at Newport, would be eligible to play in the League Two play-offs should Portsmouth be involved. 
+He is not available for Pompey until after Easter, when he returns from Republic of Ireland Under-21 duties. 
+Wilkinson made 12 appearances for Newport and has previously spent time with Torquay, Oldham and Barnsley. 
+Find all the latest football transfers on our dedicated page. 
+----------------------------------------
+Ground truth Summary: Portsmouth have signed striker Conor Wilkinson on loan from Bolton Wanderers until the end of the season.
+----------------------------------------
+Generated Summary: Portsmouth have agreed a one-year contract extension with midfielder Ryan Wilkinson.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The producers of 20% of the world's oil and gas say they share the ambition to limit warming to 2C. 
+They promise to work to reduce the greenhouse gas intensity of the global energy mix. 
+But green groups were dismissive, saying that "arsonists don't make good firefighters". 
+The Oil and Gas Climate Initiative represents major producers including BP, Shell, Saudi Aramco and Total among others.  Over the coming years we will collectively strengthen our actions and investments to contribute to reducing the greenhouse gas intensity of the global energy mix
+----------------------------------------
+Ground truth Summary: The leaders of 10 of the world's biggest oil companies have offered their qualified support for a new global treaty on climate change.
+----------------------------------------
+Generated Summary: The world's biggest oil and gas companies have pledged to work together to tackle climate change.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Romania face action after fans set off fireworks and threw objects, with Albania accused of the same offences in addition to allowing a pitch invasion. 
+The charges mean that eight of the 24 teams competing in the tournament are the subject of disciplinary probes. 
+Albania won the Group A match 1-0 to maintain slim hopes of progressing while eliminating Romania. 
+----------------------------------------
+Ground truth Summary: Uefa has opened proceedings against Albania and Romania after incidents in Sunday's Euro 2016 match in Lyon.
+----------------------------------------
+Generated Summary: Romania and Albania have been charged by European football's governing body for crowd trouble during their Euro 2016 match in Lyon.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The first leg of the Champions League qualifier at Windsor Park in Belfast was marred by incidents. 
+Play was held up when a bottle was thrown at Griffiths and there was an attempted pitch invasion at full-time. 
+Linfield have been charged by Uefa with the "throwing of objects" and a "field invasion". 
+Scottish champions Celtic have also been charged with "improper conduct of the team" after they picked up more than five bookings. 
+One of the players booked was Griffiths, who was shown a yellow card by referee Alejandro Hernandez as he picked up a bottle that had been thrown at him while he was taking a corner
+----------------------------------------
+Ground truth Summary: Celtic striker Leigh Griffiths has been charged with "provoking spectators" after he tied a scarf to the goal following Friday's 2-0 win at Linfield.
+----------------------------------------
+Generated Summary: Linfield and Celtic have been charged by Uefa after trouble marred their Champions League play-off first leg.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: England beat France 2-0 in a friendly at Wembley on Tuesday but do not play again until March. 
+Hodgson wants to spend time with the players to keep the team spirit intact, after a run of 13 wins from 16 games since the 2014 World Cup. 
+"I would like an afternoon or early evening with the players," he said. 
+"We can go through a little bit of what we have done in the Spain game and the France game and see what we want to do going forward.  To be honest there wasn't an enormous amount of opposition to it last time around
+----------------------------------------
+Ground truth Summary: Boss Roy Hodgson wants to resurrect plans for a winter meeting for his England squad - an idea previously vetoed by Premier League clubs.
+----------------------------------------
+Generated Summary: England manager Roy Hodgson wants to hold a team meeting before the start of the new season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The city council is considering plans to build a Go Ape attraction in Roundhay Park, featuring aerial zip wires and rope walks. 
+A petition against the plans has been signed by 1,500 people, who have said say they are concerned it will be too noisy and cause traffic problems. 
+The consultation has been extended by the council until 17 January. 
+Ben Davies from Go Ape said the issue of parking had been considered and would be addressed. 
+"We are confident that we can overcome those issues and with any luck provide some additional car parking spaces for users," he said
+----------------------------------------
+Ground truth Summary: Plans to build a high-wire adventure course in a Leeds park are being opposed by local residents.
+----------------------------------------
+Generated Summary: Plans to build a zip wire attraction in a Cardiff park have been put on hold after a petition was signed against them.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Another car ploughed into the parked vehicles in Emlyn Street in Talywain near Pontypool on Sunday. 
+A 45-year-old woman has been charged with aggravated taking of a vehicle, driving without a licence and insurance, theft and possession of a class C drug. 
+She has also been bailed on suspicion of driving while unfit through drugs. 
+Gwent Police have talked to some witnesses but have appealed for more people who saw the incident at 15:50 BST to contact them on 101. 
+----------------------------------------
+Ground truth Summary: Motorists are counting the cost after a trail of car damage was left on a street in Torfaen.
+----------------------------------------
+Generated Summary: A woman has been charged after a car was stolen from a car park and crashed into a number of parked vehicles.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Apple won a ban on the devices, claiming Samsung had copied its iPhone and iPad. 
+South Korean Samsung had been unable to sell products in Australia since July. 
+The two companies are engaged in legal battles in more than 10 countries since April accusing each other of infringing smartphone and tablet patents. 
+Last month, Samsung won an appeal against a temporary ban on sales. 
+However, Apple was awarded a stay of the orders.  On Friday Apple's bid to extend the ban was turned down by the High Court. 
+The ruling is a rare win for Samsung as it allows the company to sell its Galaxy Tab 10
+----------------------------------------
+Ground truth Summary: Australia's High Court has lifted a ban on the sale of Samsung's Galaxy tablet in the country in time for the Christmas shopping season.
+----------------------------------------
+Generated Summary: Samsung has won an appeal against a temporary ban on sales of its Galaxy Tab 10.1 in Australia.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 29 May 2015 Last updated at 11:20 BST
+Tapirs are relatives of the horse and rhino and are usually found in South America. 
+This one was born at a zoo in Prague, in the Czech Republic. 
+Once the baby is about two months old, he will lose his stripes and turn brown. 
+----------------------------------------
+Ground truth Summary: This stripy little cutie is a baby tapir that was born on Thursday morning.
+----------------------------------------
+Generated Summary: The world's first baby tapir has been born.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Iain Henderson, Dan Tuohy and Peter Nelson are the latest to join a long-term casualty list which already includes Tommy Bowe and Jared Payne. 
+Darren Cave is also set to miss the back-to-back games against Toulouse. 
+"Despite all the injuries, I believe we have the capability to win this weekend," said Ulster skipper Best. 
+Ireland star Henderson could miss the remainder of this season after tearing a hamstring in Friday's Pro12 win over Edinburgh with Nelson out for the rest of the campaign after suffering a dislocated foot in the same game
+----------------------------------------
+Ground truth Summary: Rory Best has urged Ulster not to wallow in their injury woes and instead produce a big performance in Friday's European game against Toulouse.
+----------------------------------------
+Generated Summary: Rory Best has backed Ulster's injury-hit squad to bounce back from last weekend's European Champions Cup defeat by Toulouse.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 26-year-old man smuggled the alcohol from neighbouring Gujarat state and delivered it to local dealers in Mumbai, the police said. 
+The liquor was then sold from illegal liquor vends in Mumbai. 
+Toxic alcohol deaths are a regular occurrence in India, where people often drink cheap bootleg liquor. 
+The death toll in the latest incident has risen to 102, and 40 others, suffering from symptoms of poisoning, are being treated in hospitals. 
+Seven people, including two women, have been already arrested in Mumbai in connection with the incident
+----------------------------------------
+Ground truth Summary: Police in the Indian capital Delhi say they have arrested a man who supplied the toxic alcohol which has killed more than 100 people in the city of Mumbai.
+----------------------------------------
+Generated Summary: A man has been arrested in connection with the deaths of more than 100 people who consumed toxic bootleg liquor in India's financial capital, Mumbai.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

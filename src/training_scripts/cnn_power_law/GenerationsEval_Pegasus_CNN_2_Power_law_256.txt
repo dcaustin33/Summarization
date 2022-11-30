@@ -1,0 +1,233 @@
+Generations for Eval_Pegasus_CNN_2_Power_law_256
+Article text: Paris (CNN)French lawmakers are weighing a ban on extremely thin models. New legislation debated in Parliament Tuesday would require modeling agencies to get medical certificates from models proving that their body mass index is at least 18. Models would also be required to undergo regular weight checks. And agencies that violate the law could face fines and even possible prison sentences. Dr. The average BMI for a woman in France is 23.2 -- the lowest average in Western Europe, according to a 2009 study from France's National Institute of Demographic Studies
+----------------------------------------
+Ground truth Summary: French lawmakers are considering measures setting limits for how thin models can be .
+"We want to combat the idea that an agency could urge a model to stop eating," lawmaker says .
+Spain, Italy and Israel have passed similar measures .
+----------------------------------------
+Generated Summary: French lawmakers are weighing a ban on extremely thin models. Models would be required to prove their body mass index is at least 18. Models would also be required to undergo regular weight checks.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The deaths of three people who developed a foodborne illness linked to some Blue Bell ice cream products has prompted the Texas icon's first product recall in its 108-year history. Five people, in all, developed listeriosis in Kansas after eating products from one production line at the Blue Bell creamery in Brenham, Texas, according to a statement Friday from the U.S. The FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars
+----------------------------------------
+Ground truth Summary: Five people total develop listeriosis in Kansas after eating products from the production line at the Blue Bell creamery in Brenham, Texas .
+Listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars .
+That contamination has been traced to a machine that extrudes the ice cream into forms and onto cookies, which remains off line .
+----------------------------------------
+Generated Summary: The FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars. Five people, in all, developed listeriosis in Kansas after eating products from one production line at the Blue Bell creamery in Brenham, Texas, according to a statement Friday from the U.S. FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars. The FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars. The FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars. The FDA says listeria bacteria were found in samples of Blue Bell Chocolate Chip Country Cookies, Great Divide Bars, Sour Pop Green Apple Bars, Cotton Candy Bars, Scoops, Vanilla Stick Slices, Almond Bars and No Sugar Added Moo Bars.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Law enforcement: Holritch Rivette was a Seminole County Sheriff's Office deputy for six months when authorities apprehended him Saturday . A Florida deputy has been accused of sexually battering and molesting a teenage girl. Holritch Rivette was a Seminole County Sheriff's Office deputy for six months when authorities apprehended him Saturday, WESH reported. The 33-year-old now faces three felony counts of lewd or lascivious battery, and two felony counts of lewd or lascivious molestation, according to the television station
+----------------------------------------
+Ground truth Summary: Holritch Rivette was a Seminole County Sheriff's Office deputy for six months when authorities apprehended him Saturday .
+The 33-year-old now faces three felony counts of lewd or lascivious battery, and two felony counts of lewd or lascivious molestation .
+A teenage girl claimed Rivette engaged in intercourse with her over a twelve-month period .
+----------------------------------------
+Generated Summary: Holritch Rivette was a Seminole County Sheriff's Office deputy for six months when authorities apprehended him Saturday. The 33-year-old now faces three felony counts of lewd or lascivious battery, and two felony counts of lewd or lascivious molestation.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Beijing (CNN)Five years ago, Beijinger Robert Zhao went on a trip to Tibet. What he encountered left him confused but intrigued. A science graduate from China's elite Tsinghua University, he had been taught to mistrust superstition and religion, but in the culture and devotion of the Buddhists he met he found something worth knowing. Now 25, he is considering giving up his job and becoming a monk. "It means I will have to give up everything of the ordinary world," he told CNN. Zhao works as an assistant to the boss of an environmental company
+----------------------------------------
+Ground truth Summary: A growing number of Chinese are rediscovering the country's Buddhist traditions .
+It's not always easy to combine Buddhist beliefs with the demands of modern life .
+Buddhism has a long history in China but was repressed during the Maoist era .
+----------------------------------------
+Generated Summary: Beijinger Robert Zhao is considering giving up his job and becoming a monk. The 25-year-old says he is inspired by the Dalai Lama's message. Zhao says he is inspired by the Dalai Lama's message of peace.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Paris Saint-Germain captain Thiago Silva has shown off his black eye suffered during their 2-0 win over Monaco to reach the Coupe de France semi-finals on Wednesday. Silva took a knock from former Manchester United, Fulham and Tottenham Hotspur striker Dimitar Berbatov that left the centre-back with a shiner but he got the last laugh. PSG remain on course for the domestic treble in France as they made the final four thanks to David Luiz and Edinson Cavani's goals, and their skipper gave a thumbs up on Instagram. PSG's David Luiz (centre) and Edinson Cavani (right) scored and their captain Silva (left) took the knock 
+----------------------------------------
+Ground truth Summary: Paris Saint-Germain captain Thiago Silva has shown off his black eye .
+Silva clashed with Dimitar Berbatov as the pair went for a high ball during PSG's 2-0 win over Monaco .
+PSG remain on course for the domestic treble as they made the final four of the Coupe de France with the quarter-final victory .
+----------------------------------------
+Generated Summary: Thiago Silva took a knock from former Manchester United, Fulham and Tottenham Hotspur striker Dimitar Berbatov. The PSG captain took to Instagram to show off his black eye. PSG beat Monaco 2-0 to reach the semi-finals of the Coupe de France.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A two-year-old polar bear named Pixel has arrived at a wildlife park in Yorkshire to join England's only other polar bear. Victor, a 16-year-old, half-tonne bear who has lived at the Yorkshire Wildlife Park in Doncaster since August has now been joined by younger male Pixel. The park said Pixel is 14 years younger and a third of the size of his new compound-mate. Pixel (pictured) a two-year-old polar bear from a zoo just outside Eindhoven in the Netherlands has arrived at the Yorkshire Wildlife Park in Doncaster, where he joins resident 16-year-old polar bear Victor . On Monday, Pixel was transported in a specialist lorry to Rotterdam for the overnight ferry trip to Hull 
+----------------------------------------
+Ground truth Summary: Two-year-old Pixel the polar bear has arrived at the Yorkshire Wildlife Park .
+He has come from a zoo just outside Eindhoven in the Netherlands .
+Joins England's only other polar bear Victor, 16, who weighs half a tonne .
+Little Pixel is just a third of the size of his new compound mate .
+----------------------------------------
+Generated Summary: Pixel is 14 years younger and a third of the size of his new compound-mate Victor. Victor, a 16-year-old, half-tonne bear who has lived at the Yorkshire Wildlife Park in Doncaster since August.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Andre Schurrle showed he was a man of many talents after deciding to take the plunge and have a go at bobsleighing at the Winterberg track. The former Chelsea man completed a move to Wolfsburg in January and appears to be enjoying his time back in his native Germany. The 24-year-old took to Instagram having just completed a run down the intimidating icy track. He said: 'Awesome experience here in Winterburg.' Schurrle's new side are currently second and 11 points behind Bayern Munich in the Bundesliga, with Champions League qualification looking more and more likely
+----------------------------------------
+Ground truth Summary: Andre Schurrle attempted to bobsleigh at the Winterberg track .
+The former Chelsea man posted the photo on his Instagram page .
+Schurrle moved to Wolfsburg from the Premier League leaders in January .
+----------------------------------------
+Generated Summary: Andre Schurrle took to Instagram to show off his bobsleigh skills. The 24-year-old completed a run down the intimidating icy track. Schurrle completed a move to Wolfsburg in January.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Pippa Middleton was positively glowing in a tailored plum dress at a Spectator party at Belgraves Hotel in London, on Tuesday night. The 31-year-old, who is a regular columnist for the weekly cultural and political magazine appeared relaxed and happy at the event. And just weeks away from the birth of a new niece or nephew, she looked demure in the purple number by with a coral belt and matching high heels, which served to showcase her slim physique. Scroll down for video . Plum dream: Pippa looked happy and relaxed in the purple dress at Spectator Life's third birthday party at Belgraves Hotel in London 
+----------------------------------------
+Ground truth Summary: The Duchess of Cambridge's sister attended the party at Belgraves Hotel .
+She wore a Tabitha Webb dress and Hoss Intropia clutch .
+The 31-year-old is a columnist for main magazine, The Spectator .
+TOWIE's Lucy Mecklenburgh and royal chum Guy Pelly also attended .
+----------------------------------------
+Generated Summary: Pippa Middleton looked happy and relaxed in the purple dress at Spectator Life's third birthday party at Belgraves Hotel in London. The 31-year-old, who is a regular columnist for the weekly cultural and political magazine, appeared relaxed and happy at the event.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Andy Murray said it was impossible to choose between brother Jamie, and friends Ross Hutchins and Carlos Mier as best men, so will invite all three . Andy Murray has announced he will have three best men at his wedding when he marries to long-term girlfriend Kim Sears next month. The British tennis star says the honour will be shared between his brother Jamie, close friend and fellow tennis player Ross Hutchins, and former training partner Carlos Mier. He said he couldn't choose who should be his best man and so decided on asking all three to keep up with Kim, who is having four bridesmaids
+----------------------------------------
+Ground truth Summary: Murray to marry Kim Sears at £1.8million Cromlix House Hotel next month .
+Brother Jamie, and friends Ross Hutchins and Carlos Mier to be best men .
+Isn't worried about married life, but is nervous about starting a family .
+Murray was best man at Jamie's wedding when he married back in 2010 .
+----------------------------------------
+Generated Summary: Andy Murray said it was impossible to choose between brother Jamie, and friends Ross Hutchins and Carlos Mier as best men.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Tragedy struck a Florida family after a bear broke into their yard and killed their dog. The Bentley family, of Longwood, say they grew concerned when they could not find their 5-year-old Yorkie Toby on Monday, and that is when son David went looking for the animal. He found him dead in the woods behind their house, beneath a 600-pound black bear. Scroll down for video . This bear is believed to have killed a Florida woman's pet dog and then went for a swim in her in-ground pool . 'I came across a large black bear, probably 600 pounds
+----------------------------------------
+Ground truth Summary: The Bentley family of Longwood, Florida lost their 5-year-old Yorkie Toby when he was killed by a 600-pound black bear who broke into their yard .
+The bear then dragged the dog into the woods where David, the family's son, found the animal .
+The family has reported seeing three black bears in the woods behind their house, and one of the bears once took a swim in their fenced-in pool .
+----------------------------------------
+Generated Summary: The Bentley family, of Longwood, Florida, say they grew concerned when they could not find their 5-year-old Yorkie Toby on Monday. When they could not find him, son David went looking for the animal. He found him dead in the woods behind their house, beneath a 600-pound black bear.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)In the 1950s it was cancer. Hush, hush, whisper, whisper. "They called it the 'C' word, and it didn't get talked about in doctor's offices," said Beth Kallmyer of the Alzheimer's Association. "It certainly wasn't talked about in the general public, it was whispered." Today it's Alzheimer's, and 55% of patients and their caregivers say their doctors never told them they have the devastating disease, according to a special report of the Alzheimer's Association released this week. It's a disease, it's nothing to be ashamed about." "This is very current, very well done, and pretty dramatic findings, let's be honest," said Dr
+----------------------------------------
+Ground truth Summary: Only 45% of patients and their caregivers say their doctor told them they have Alzheimer's .
+Yet more than 90% of common cancer patients were given their diagnosis .
+Advocates say truthful diagnosis is critical to quality of life and future planning .
+----------------------------------------
+Generated Summary: The Alzheimer's Association released a special report this week. It found that more than half of patients and their caregivers don't know they have the disease. The association says it's time for doctors to talk to patients about the disease.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A man who released a record more than 20 years ago and now works in a bar has become an overnight sensation thanks to an army of line-dancing fans. Ethan Allen, 41, from Aughton, Lancashire, released Somethin' In The Water with his band  Cheap Seats back in 1996, a track from their album, Call It What You Will. However, now, thanks to its new following, it is now number 20 in the Country Music Chart . The song has long been a staple at line-dancing events but when a video of the performance taken at the 19th Crystal Boot Awards in Blackpool in February and posted to Ethan Allen's Facebook page, it went wild
+----------------------------------------
+Ground truth Summary: Ethan Allen had more than four million hits with Somethin' In the Water .
+Song released two decades ago and has gathered a line dancing fan base .
+Received text telling him about comeback: 'I thought it was a wind up'
+----------------------------------------
+Generated Summary: Ethan Allen, 41, from Aughton, Lancashire, released Somethin' In The Water with his band Cheap Seats back in 1996. It is now number 20 in the Country Music Chart. The song has long been a staple at line-dancing events.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A bank robber who hurriedly prepared his heist in a taxi on the way to the scene of the crime – then used the same vehicle to make his escape – has been jailed. Ryan Fuller, 24, of no fixed abode, took a taxi from a McDonald's in Milton Keynes to a NatWest branch in Bletchley, four miles away, on January 12. There, he asked the driver to wait, and went into the bank where he handed a note he had scribbled in the back of the taxi to the cashier, saying: 'Remain calm, stay silent, do not cause a panic. When asked if he wanted the money in an envelope, Fuller replied: 'No, I'm in a hurry.' He then ran back to the taxi, telling the driver someone had robbed the bank with a gun
+----------------------------------------
+Ground truth Summary: Ryan Fuller, 24, took a taxi from McDonald's in Milton Keynes to the bank .
+He hurriedly scribbled a note on the journey which he handed to cashier .
+It read: 'Remain calm... I have a knife and I will take hostages if I have to'
+The Natwest cashier handed him £3,379 but secretly activated the alarm .
+Ran back to taxi and told driver someone had robbed the bank with a gun .
+Fled to the Channel Islands but police found him and brought him back .
+----------------------------------------
+Generated Summary: Ryan Fuller, 24, of no fixed abode, took a taxi from a McDonald's in Milton Keynes to a NatWest branch in Bletchley, four miles away. He handed a note he had scribbled in the back of the taxi to the cashier, saying: 'Remain calm, stay silent, do not cause a panic' He then ran back to the taxi, telling the driver someone had robbed the bank with a gun. He was arrested after he used the same vehicle to make his escape.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Are you scared of lifts, or fed up of taking the stairs? A hotel in Taichung City in Taiwan has created the most exciting solution for guests to descend between floors. RedDot Hotel has installed a 30 metre long slide for guests to make the ultimate exit from their room. Scroll down for video . A stainless steel slide has been installed at the RedDot Hotel in Taiwan for guests to enjoy on their way down from their rooms . The spiral feature was inspired by the innovative Google offices, and allows guests to swiftly travel from the second to the first floor
+----------------------------------------
+Ground truth Summary: RedDot Hotel in Taiwan has installed a 30 metre long stainless steel slide so guests don't have to wait for the lift .
+The slippery attraction was inspired by the creative Google offices and designed by General Manager, Stephen Wu .
+Wu said that the slide brings people back to their childhoods and has guests laughing on their way down .
+----------------------------------------
+Generated Summary: RedDot Hotel has installed a 30 metre long slide for guests to make the ultimate exit from their room. The spiral feature was inspired by the innovative Google offices, and allows guests to swiftly travel from the second to the first floor.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: If Louis van Gaal is struggling for inspiration he might be pleased to see that Sir Alex Ferguson has written a book on leadership. The former Manchester United manager, who released his last autobiography in 2013, will be back on the shelves in the autumn. Ferguson, like Van Gaal, endured a torrid time to his start in the Old Trafford hotseat before going on to usher in an unheralded era of success at the club. Former Manchester United manager Sir Alex Ferguson will release a new book on leadership this autumn . The man himself, now 73, said: 'Since stepping into retirement I have had the opportunity to reflect on my time as a football manager, and to consider the reasons behind my success through personal recollections, conversations with Mike Moritz and my role at Harvard Business School
+----------------------------------------
+Ground truth Summary: Sir Alex Ferguson will release a new book, Leading this autumn .
+Co-authored with Michael Moritz, it reveals tactics and boardroom politics .
+Ferguson is the most successful Manchester United manager of all time .
+He led the club to 13 Premier League titles and two European Cups .
+The book could provide inspiration for new boss Louis van Gaal .
+----------------------------------------
+Generated Summary: Former Manchester United manager Sir Alex Ferguson will release a new book on leadership this autumn. The 73-year-old will reflect on his time as a football manager and consider the reasons behind his success. Ferguson, like Louis van Gaal, endured a torrid time to his start in the Old Trafford hotseat before going on to usher in an unheralded era of success at the club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Curva Sud section, which usually hosts the hardcore supporters, was almost deserted while banners, written in English, read 'Game Over' and 'Insert Coin To Save AC Milan.' The Curva Sud had called on fans to stay away because the hierarchy, they say, have undermined coach Filippo Inzaghi with their rudderless leadership and confused transfer policy. The Frenchman took his tally to 15 this season, making him joint Serie A top scorer alongside Argentines Carlos Tevez of Juventus and Mauro Icardi of Inter Milan
+----------------------------------------
+Ground truth Summary: AC Milan fans boycotted the game in protest at leadership at the club .
+Jeremy Menez scored an impressive double for the Serie A giants .
+Phillipe Menez also found the net with a thumping effort .
+----------------------------------------
+Generated Summary: The Curva Sud section, which usually hosts the hardcore supporters, was almost deserted. The Curva Sud had called on fans to stay away because the hierarchy, they say, have undermined coach Filippo Inzaghi. The Curva Sud had called on fans to stay away because the hierarchy, they say, have undermined Inzaghi with their rudderless leadership and confused transfer policy.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Collective breaths were inhaled this week when Britain’s foremost glamour queen bumped into the country’s future queen. But the Duchess of Cornwall showed her royal pedigree by appearing delighted to meet the perma-tanned, Botox-frozen and thrice-married Katie Price during Ladies’ Day at the Cheltenham Festival. In fact, the pair appeared to get on famously, both beaming from ear-to-ear when photographed together. But, strangely, this unlikely couple have more things in common than you would think, as CLAUDIA CONNELL reveals..
+----------------------------------------
+Ground truth Summary: Katie Price and Camilla met during Ladies' Day at the Cheltenham Festival .
+Duchess of Cornwall seemed to be delighted to meet the glamour queen .
+Pair appeared to get on famously, beaming when photographed together .
+And the unlikely couple have more things in common than you would think .
+----------------------------------------
+Generated Summary: The Duchess of Cornwall met Katie Price at the Cheltenham Festival this week. The pair appeared to get on famously, both beaming from ear-to-ear. But the pair have more things in common than you would think.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The robbery of a South African news team has sent shock waves through the country after the brazen muggers were filmed on the crew's camera stealing their equipment at gunpoint. Vuyo Mvoko, a contributing editor for SABC News, was preparing for a 7pm live report outside Johannesburg's Milpark Hospital when the incident occurred. Footage of the robbery shows him standing under lights and in front of the camera, while two men can be seen walking past in the background. Scroll down for video . He added: 'So I gave him the phone, then I think they took about two or three phones
+----------------------------------------
+Ground truth Summary: Robbery of South African news presenter Vuyo Mvoko caught on camera .
+He was preparing for a live TV cross on SABC's 7pm news bulletin .
+Two men can be seen approaching the news crew demanding valuables .
+Carrying a gun, they stole several mobile phones and group's work laptop .
+Johannesburg police have now launched a robbery and theft investigation .
+----------------------------------------
+Generated Summary: Vuyo Mvoko, a contributing editor for SABC News, was preparing for a 7pm live report outside Johannesburg's Milpark Hospital. Footage shows him standing under lights and in front of the camera, while two men can be seen walking past in the background.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: St Helens needed a supercharged second half show to maintain their 100 per cent First Utility Super League record with a 30-20 win at Widnes. Both sides were without several key players but Widnes deserved their 14-6 interval lead before the champions ran in 24 second half points. Lance Hohaia crossed for two of the visitors' five tries, with others from the outstanding Atelea Vea, Luke Thompson and Jordan Turner. Travis Burns kicked five goals. Lance Hohaia  scores first try forÂ of St Helens on Friday night . Widnes led at the break thanks to tries from Eamon O'Carroll and Patrick Ah Van in front of 7,772 fans
+----------------------------------------
+Ground truth Summary: Lance Hohaia scored two of the five tries scored by St Helens .
+The champions fought back from 14-6 down with 24 second half points .
+----------------------------------------
+Generated Summary: Lance Hohaia scored two tries for St Helens. Luke Thompson and Jordan Turner also crossed. Travis Burns kicked five goals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Shocking footage shows the moment a car driving down the wrong side of the freeway ploughed into a family car, causing a fatal accident. The dash-cam footage was tendered as evidence in the Coronial Inquest into the death of the driver responsible, 38-year-old Jason Rea after the head-on collision on February 4, 2014. The court heard that at the time of the accident Mr Rea was a crystal meth junkie who was driving with five-times the 'lethal dose' of ice in his system after a five day bender, according toThe Daily Telegraph
+----------------------------------------
+Ground truth Summary: Shocking footage shows the moment a car driving down the wrong side of the freeway ploughed into a family car .
+The driver responsible died in an ambulance on the way to the hospital .
+Jason Rea, 38,was driving with five-times the 'lethal dose' of ice in his system after a five day bender .
+The dash-cam footage was tendered as evidence in the Coronial Inquest .
+Court heard that Rea intimidated oncoming drivers by speeding towards them as they tried to swerve away on the M1 .
+----------------------------------------
+Generated Summary: dash-cam footage was tendered as evidence in the Coronial Inquest into the death of the driver responsible, 38-year-old Jason Rea. The court heard that at the time of the accident Mr Rea was a crystal meth junkie who was driving with five-times the 'lethal dose' of ice in his system.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

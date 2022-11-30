@@ -1,0 +1,201 @@
+Generations for Eval_Pegasus_XSum_1_5_Power_law_128
+Article text: 
+It said there were signs NHS services were "under increasing stress". 
+The Scottish government said it was committed to having the right mix of skills and staff in the right places
+----------------------------------------
+Ground truth Summary: Scotland's government and health boards have failed to plan effectively for long-term staffing challenges, Audit Scotland has said.
+----------------------------------------
+Generated Summary: The NHS in Scotland is facing a "crisis" in its ability to recruit and retain staff, a report has warned.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Four birdies in the first six holes set the Northern Irishman on his way at the London Golf Club near Maidstone. 
+Other winners on day one were Joost Luiten, Thongchai Jaidee, Jonas Blixt and Victor Dubuisson
+----------------------------------------
+Ground truth Summary: Graeme McDowell began the defence of his World Match Play title by beating France's Alexander Levy 3&2 in Wednesday's opening match.
+----------------------------------------
+Generated Summary: Rory McIlroy carded a six-under-par 66 to lead by two shots after the first round of the Dunhill Links Championship.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+It has proposed adding the words "or leave the European Union?"
+The government has said it will accept the changes although the final decision will be made by Parliament. 
+However, the development has been welcomed by those campaigning to exit the EU
+----------------------------------------
+Ground truth Summary: The elections watchdog has recommended a change to the question to be put to voters in a future EU referendum.
+----------------------------------------
+Generated Summary: The UK government has proposed changing the wording of the referendum question on the UK's membership of the European Union.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He was due to open in the Arthur Miller play Death of a Salesman at the Royal & Derngate in Northampton on 10 April, but died three days beforehand
+----------------------------------------
+Ground truth Summary: Theatre directors have confirmed a show will go on despite the death of its star, the actor Tim Pigott-Smith.
+----------------------------------------
+Generated Summary: Tributes have been paid to the late actor Colin Firth, who died of a heart attack at the age of 53.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Quad doubles world number one Andy Lapthorne said: "We've made massive strides since I first started and we're breaking glass ceilings
+----------------------------------------
+Ground truth Summary: It was Great Britain's most over-performing sport at both the Rio Olympics and Paralympics.
+----------------------------------------
+Generated Summary: Great Britain's men's and women's teams have qualified for the Rio 2016 Olympic Games.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The report said there is a fear of failure within the PSNI college in east Belfast, with "an unhealthy leaning towards punitive discipline". 
+The PSNI has now ended some of the practices identified in the report
+----------------------------------------
+Ground truth Summary: The training regime for new police officers in Northern Ireland is at times like a military-style boot camp, according to an internal PSNI review.
+----------------------------------------
+Generated Summary: A police college in Northern Ireland has been criticised in a report by the Independent Police Complaints Commission (IPCC).
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Mrs Norman's landlady, Christina Miller, told the inquest as soon as her tenant raised concerns she had called in a structural engineer who warned about the risk of "catastrophic collapse"
+----------------------------------------
+Ground truth Summary: A council ought to have known a grandmother faced "a real and immediate risk of death" from landslides, jurors have said.
+----------------------------------------
+Generated Summary: An inquest into the death of a woman who was killed when a wall collapsed on her flat has heard that a tenant had raised concerns about the safety of the building.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: England won the day-night Test - the first game in the three-match series - by an innings and 209 runs inside three days at Edgbaston
+----------------------------------------
+Ground truth Summary: The remainder of England's series against West Indies will be "sad to watch", says former England captain Michael Vaughan.
+----------------------------------------
+Generated Summary: England have won the first Test against South Africa by an innings and 322 runs at Edgbaston.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The monarch was speaking as she formally opened the fifth session of the Scottish Parliament. 
+She stressed the need for political leaders to make "room for quiet thinking and contemplation"
+----------------------------------------
+Ground truth Summary: The Queen has acknowledged the difficulty of "staying calm and collected" in an "increasingly challenging world".
+----------------------------------------
+Generated Summary: The Queen has urged politicians in Scotland to work together for the good of the country.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: While the City of London tends to grab more headlines, Edinburgh is the UK's second largest financial centre, employing thousands of people in financial services. 
+Financial firms have fewer physical constraints to consider compared to a shipyard or a distillery
+----------------------------------------
+Ground truth Summary: As Scotland decides whether to become an independent nation, some financiers are asking themselves what this could mean for two of the oldest money centres in the world: London and Edinburgh.
+----------------------------------------
+Generated Summary: Edinburgh's financial district is one of the UK's best kept secrets.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Work to build the Pontio centre at Bangor University began in 2012 - and it is already a year late opening. 
+A full programme of artistic events is due to get under way from December
+----------------------------------------
+Ground truth Summary: A £50m arts and innovation centre project in Gwynedd is finally getting its finishing touches, university officials have said.
+----------------------------------------
+Generated Summary: A new arts centre in north Wales is due to open its doors to the public later this year.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Parts of Pleasure Island Family Theme Park in Cleethorpes were inaccessible to the public due to surface water flooding, manager Neil Ireland said
+----------------------------------------
+Ground truth Summary: Heavy rain and surface water flooding have forced a theme park in Lincolnshire to close.
+----------------------------------------
+Generated Summary: A theme park in East Yorkshire has reopened after being closed due to flooding.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 27-year-old has played in two Tests, 48 one-day internationals and 18 Twenty20 matches for Pakistan. 
+Both men were later bailed until April pending further inquiries
+----------------------------------------
+Ground truth Summary: Pakistan batsman Nasir Jamshed was one of two men arrested by the National Crime Agency in Britain on Monday as part of an investigation into cricket corruption, the BBC understands.
+----------------------------------------
+Generated Summary: Pakistan all-rounder Shoaib Malik has been released on bail after being arrested on suspicion of fraud by false representation.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+She had been cremated in March 1996 at West Hertfordshire crematorium. 
+Ms Bradshaw thanked the skip firm for being "decent human beings"
+----------------------------------------
+Ground truth Summary: The granddaughter of a woman whose ashes were found in a skip said it was a "massive shock".
+----------------------------------------
+Generated Summary: The ashes of a woman who died more than 20 years ago have been returned to her family.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Needing another 132 for victory with eight wickets in hand on the final day at Grace Road, Wells finished unbeaten on 90 as Sussex strolled home on 234-5
+----------------------------------------
+Ground truth Summary: Luke Wells continued his superb batting form to guide Sussex to a five-wicket win over Leicestershire in Division Two of the County Championship.
+----------------------------------------
+Generated Summary: Chris Wells' unbeaten century helped Sussex to a comfortable victory over Glamorgan in the County Championship.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Two men, aged 35 and 49, were detained for breach of the peace while a 23-year-old woman was arrested for obstructing police officers
+----------------------------------------
+Ground truth Summary: Three people have been arrested following a disturbance near a demonstration in Glasgow city centre.
+----------------------------------------
+Generated Summary: Three people have been arrested in connection with a disturbance at a football match in Glasgow.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+Gloucester flanker Ross Moriarty has said he expects to miss the match. 
+"As it stands, George will not be available for that game," Saints team manager Paul Shields said
+----------------------------------------
+Ground truth Summary: Wing George North is not currently available for Wales' Test against Australia but talks between the Welsh Rugby Union and English clubs are ongoing, his club Northampton says.
+----------------------------------------
+Generated Summary: George North will miss Northampton Saints' European Challenge Cup quarter-final against Gloucester on Saturday because of a knee injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Japanese engineer created many popular drum machines, including the iconic TR-808. 
+The firm made amplifiers and primitive drum machines, laying the groundwork for the engineer's future success
+----------------------------------------
+Ground truth Summary: The music world is mourning the loss of Roland founder and electronic instrument pioneer Ikutaro Kakehashi, who has died aged 87.
+----------------------------------------
+Generated Summary: One of the world's most famous drum machines, the TR-808, has been restored to its former glory.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Ritzy Cinema workers in Brixton get paid a minimum of £8. 80 an hour.  Bectu is calling for an increase to £9. 
+Picturehouse said pay would rise to £9
+----------------------------------------
+Ground truth Summary: Staff at a cinema are being balloted by a union calling for the London living wage to be paid.
+----------------------------------------
+Generated Summary: Workers at a cinema in south London have voted to strike over pay.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The incident happened in the Corrigan's Court area on Saturday morning. 
+It is understood the 27-year-old man's injuries are not life-threatening
+----------------------------------------
+Ground truth Summary: A 27-year-old man has been arrested in Armagh in connection with the stabbing of a 24-year-old man in the city.
+----------------------------------------
+Generated Summary: A man has been arrested on suspicion of attempted murder after a man was stabbed in west Belfast.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

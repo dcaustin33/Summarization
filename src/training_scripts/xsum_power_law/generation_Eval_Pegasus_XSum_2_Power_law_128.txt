@@ -1,0 +1,199 @@
+Generations for Eval_Pegasus_XSum_2_Power_law_128
+Article text: Police were called to Ridley Road in Dalston at about 14:10 BST following reports of shots being fired.  He was taken to hospital and is said to be in a "serious but stable" condition
+----------------------------------------
+Ground truth Summary: A man has been shot in the leg and 13 people arrested following an incident in east London.
+----------------------------------------
+Generated Summary: A man is in a serious condition in hospital after being shot in the head in Glasgow.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+According to Italian investigators, the Spanish woman, who was temporarily working at Dr Antinori's Matris clinic in Milan, had her mobile phone taken and was forcibly immobilised and anaesthetised before her eggs were harvested
+----------------------------------------
+Ground truth Summary: Well-known Italian fertility doctor Severino Antinori has been arrested after a woman said he had forcibly removed eggs from her at his clinic.
+----------------------------------------
+Generated Summary: A Spanish doctor has been arrested in Italy on suspicion of kidnapping a woman and implanting her eggs in her body.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Enda Kenny said that the draft bill would bring certainty to pregnant women and legal clarity to doctors
+He was speaking after the cabinet reached agreement on the proposed Protection of Life in Pregnancy Bill
+----------------------------------------
+Ground truth Summary: A controversial abortion bill in the Republic of Ireland does not amount to a change in the law, the Irish prime minister has said.
+----------------------------------------
+Generated Summary: Ireland's prime minister has said he is "very pleased" with the government's draft abortion bill.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: David Lytton's body was discovered at Dove Stone Reservoir in Greater Manchester on 12 December 2015. 
+He had no wallet, phone or other identification and remained unidentified despite numerous public appeals and the release of CCTV footage of his last known movements
+----------------------------------------
+Ground truth Summary: A mystery man who was found dead on Saddleworth Moor had previously changed his name.
+----------------------------------------
+Generated Summary: A man has been jailed for life for the murder of a man whose body was found in a reservoir.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 34-year-old South Africa international was sent off in the first half of Saturday's victory over Gloucester for a punch on Nick Wood. 
+----------------------------------------
+Ground truth Summary: Saracens hooker Schalk Brits has been banned for three weeks after admitting a charge of striking an opponent.
+----------------------------------------
+Generated Summary: Northampton Saints prop Pieter-Steph du Toit will miss the rest of the Premiership season after being suspended by the Rugby Football Union.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Media playback is not supported on this device
+She was beaten by Finland's Enni Rukajarvi, who scored a combined 176. 33 from her two best runs out of three
+----------------------------------------
+Ground truth Summary: British snowboarder Katie Ormerod claimed a silver medal as women made their debut at the Air and Style big air competition in Austria.
+----------------------------------------
+Generated Summary: England women's captain Charlotte Edwards missed out on a place in the semi-finals of the Women's World Twenty20 in Bangladesh.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The roadblocks have caused widespread disruption in all Brazilian states. 
+The government has asked the Supreme Court to suspend the impeachment process for alleged irregularities
+----------------------------------------
+Ground truth Summary: Supporters of Brazil's President Dilma Rousseff have set up burning barricades and blocked roads across the country in protest against moves to impeach her.
+----------------------------------------
+Generated Summary: Police in Brazil's capital, Brasilia, have used tear gas and rubber bullets to break up a protest by thousands of supporters of President Dilma Rousseff.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+The centre posted an updated version of the image to add a pair of earrings. 
+Police believe she died not long before her body was discovered inside a large plastic bag on Deer Island in Boston harbour
+----------------------------------------
+Ground truth Summary: A computer-generated image of a girl who was found dead has been shared millions of times online as US police search for clues about how she died.
+----------------------------------------
+Generated Summary: The FBI has released a new image of a woman who was found dead on a Massachusetts island.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+"I felt I hadn't played that well on the big stage until Australia this year and ever since then I've enjoyed every match on the big stage," said Reid after his latest triumph
+----------------------------------------
+Ground truth Summary: Scotland's Gordon Reid won Paralympics gold in the wheelchair tennis singles final.
+----------------------------------------
+Generated Summary: Scotland's Graeme Reid has won his fourth World Snooker Championship title with victory at the Crucible in Sheffield.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: So what exactly is the problem, and how serious is it?
+By UK standards, air pollution levels are high.  Parts of north-west Norfolk hit level 10 on Tuesday
+----------------------------------------
+Ground truth Summary: Health warnings have been issued for parts of England, as air pollution reaches high levels.
+----------------------------------------
+Generated Summary: Air pollution in Norfolk has been described as "unacceptable" by the chief executive of Norfolk County Council.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+But it now says the newly convened panel "will decide whether to accept or reject that final proposal". 
+More than 250 Russian athletes have so far been cleared to compete
+----------------------------------------
+Ground truth Summary: The International Olympic Committee (IOC) says a three-person panel will have the final say on which Russian athletes can compete at the Rio Games.
+----------------------------------------
+Generated Summary: The World Anti-Doping Agency (WADA) says it has received a "final proposal" from the International Olympic Committee (IOC) for Russian athletes to compete at the Rio Games.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Two brothers and another man are also said to have sold the animal's feet and eaten some of the meat themselves. 
+Police discovered the panda's skin and 10kg of meat in a raid last December
+----------------------------------------
+Ground truth Summary: Three men in south-western China accused of selling 35kg (77lb) of meat from a panda they killed are to be prosecuted, a court has announced.
+----------------------------------------
+Generated Summary: Three Chinese men have been charged with selling the meat of a giant panda to people in the US.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In a major report drawing together findings on Scottish schools over a four-year period, he highlighted "variable" standards in primary education
+----------------------------------------
+Ground truth Summary: Scotland's Chief Education Inspector Bill Maxwell has said key aspects of education need to be improved.
+----------------------------------------
+Generated Summary: The quality of primary education in Scotland is "not good enough", according to the country's chief inspector of schools.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 400 Football League games later, however, Flynn will lead the Exiles to Crewe Alexandra at the weekend as their manager after the sacking of Graham Westley, albeit with the club teetering on the edge of being relegated back to non-league
+----------------------------------------
+Ground truth Summary: When Newport County threw a teenage Michael Flynn out of their youth academy for defying club rules, he feared he would spend his life doing his part time job, stacking shelves in the local supermarket.
+----------------------------------------
+Generated Summary: Newport County manager Michael Flynn says he never thought he would be in charge of the League Two club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The government wants to appeal to expat Turks because they can vote in a key upcoming poll. 
+The referendum is on transferring sweeping powers to President Recep Tayyip Erdogan
+----------------------------------------
+Ground truth Summary: Turkish newspapers are fuming at a diplomatic snub after the Netherlands, Germany, and Austria blocked the Turkish government's attempts to hold rallies in those countries.
+----------------------------------------
+Generated Summary: Turkey's foreign minister has urged Turks living abroad to vote in a referendum on Sunday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The performance will be overseen by Chic's Nile Rodgers, who produced Bowie's hit album Let's Dance in 1983. 
+"He's sort of like an alien prince," she once told chat show host Alan Carr
+----------------------------------------
+Ground truth Summary: Pop star Lady Gaga is to honour David Bowie with "an experiential tribute" at this month's Grammy Awards.
+----------------------------------------
+Generated Summary: David Bowie's widow, Iman, is to pay tribute to her late husband with a performance at London's O2 Arena.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Dublin side Bohemians visit Brandywell Stadium on Friday night in the first home game since Dundalk supporters were attacked earlier this month. 
+Fans, residents and club officials marched from Lecky Road to Brandywell
+----------------------------------------
+Ground truth Summary: Derry City Football Club has held what it describes as "a public act of defiance" to show disapproval at attacks on visiting fans this season.
+----------------------------------------
+Generated Summary: Hundreds of Dundalk fans marched through the streets of the city on Thursday night to protest violence at the club's recent home games.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+"The scale, co-ordination and leadership of a doping system like this is arguably the most heinous crime possible against the Olympic movement," said the former skeleton racer. 
+"So, somewhat reluctantly, I am led to one conclusion: exclusion from Rio
+----------------------------------------
+Ground truth Summary: Russia should be banned from Rio 2016, says British International Olympic Committee member Adam Pengilly.
+----------------------------------------
+Generated Summary: The International Olympic Committee's (IOC) decision not to ban Russian athletes from the Rio Games has been described as "the most heinous crime against the Olympic movement".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Speaking in a debate in London, Richard Ashworth MEP said "we're making ourselves look pretty darned unattractive" as a partner in the EU
+----------------------------------------
+Ground truth Summary: The leader of the UK Conservative MEPs says stridently Eurosceptic opinions give the wrong impression that Britain is one against the rest in the EU.
+----------------------------------------
+Generated Summary: The European Parliament's Brexit co-ordinator has said the UK is "making itself look pretty darned unattractive" as it prepares to leave the EU.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 
+President Bashar al-Assad's ally Russia, which says the Syrian jet had in fact hit a rebel depot full of chemical munitions, denounced the "illegal action" by the US
+----------------------------------------
+Ground truth Summary: Turkey says it has "concrete evidence" the nerve agent Sarin was used in a suspected attack by Syrian government forces a week ago, state media report.
+----------------------------------------
+Generated Summary: US President Barack Obama has said he has "no doubt" that the Syrian government carried out a chemical weapons attack on the outskirts of Damascus last week.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

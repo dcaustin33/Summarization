@@ -1,0 +1,240 @@
+Generations for Eval_Pegasus_CNN_2_Power_law_128
+Article text: The Easter bunny was invented in German folklore, where an 'Easter Hare' was used to determine whether children had been well-behaved. Much like Father Christmas, the brown-coloured animals was often depicted carrying a selection of treats to good children's houses. But while the traditional version of the rabbit was a natural-looking creature, the modern character has become an often terrifying white, pink, purple and yellow creation. The symbol of the Easter often results in a terrifying sight when produced on a budget
+----------------------------------------
+Ground truth Summary: Easter bunnies are supposed to be friendly characters that bring gifts .
+But cheap costumes often leave the rabbit looking odd and scary .
+FEMAIL round up some of the best pictures of creepy Easter bunnies .
+----------------------------------------
+Generated Summary: The Easter Bunny was invented in German folklore, where an 'Easter Hare' was used to determine whether children had been well-behaved. But while the traditional version of the rabbit was a natural-looking creature, the modern version has become an often terrifying white, pink, purple and yellow creation.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A plan to keep David Cameron as Tory leader even if he loses the election to Ed Miliband, is being drawn up by senior allies. Cabinet colleagues, including George Osborne and Michael Gove, will attempt to form a protective ring around Mr Cameron if he falls short in May – provided Mr Miliband does not secure a decisive victory. They believe that continuity at the top will be essential if there is a prospect of a second general election. Senior Tories have hatched a plan to keep David Cameron as Tory leader even if he loses the election to Ed Miliband 
+----------------------------------------
+Ground truth Summary: Senior Tories plan to keep David Cameron as leader if he loses election .
+George Osborne and Michael Gove will form a protective ring around him .
+They believe continuity at top is essential if there is a second election .
+----------------------------------------
+Generated Summary: Senior Tories have hatched a plan to keep David Cameron as Tory leader even if he loses the election to Ed Miliband. They believe continuity at the top will be essential if there is a prospect of a second general election. Cabinet colleagues, including George Osborne and Michael Gove, will attempt to form a protective ring around Mr Cameron. They believe that continuity at the top will be essential if there is a prospect of a second general election.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The family of a young father who is missing with his infant on today claimed that it is not the first time he has taken the child on his own. Kieran Carroll, 22, of Luton, Bedfordshire, has 'left' with his eight-month-old son Louis before, a source close to his family told MailOnline this afternoon. Missing: CCTV footage released yesterday by Bedfordshire Police (left) shows the last sighting of Kieran Carroll, 22, from Luton, who has gone missing with his eight-month-old son Louis (right, together) Taunt: This comment, posted in response to a police appeal, is believed to have come from one of three accounts belonging to Mr Carroll
+----------------------------------------
+Ground truth Summary: Kieran Carroll, 22, was reported missing along with his baby son Louis .
+Eight-month-old thought to be wearing blue cardigan and top with ship on .
+Mr Carroll was last seen leaving a hotel in Luton, Bedfordshire, on Tuesday .
+Police shared CCTV footage of Mr Carroll and photo of Louis on Facebook .
+Account understood to belong to Mr Carroll posted taunting response .
+Police are trying to verify message and still want to see pair in person .
+Baby's great-grandmother asks father to bring Louis back home safely .
+Close friend of Mr Carroll claimed father and Louis were 'safe' last night .
+Today family source said it is not first time Mr Carroll has 'left' with Louis .
+----------------------------------------
+Generated Summary: Kieran Carroll, 22, of Luton, Bedfordshire, has 'left' with his eight-month-old son Louis before. A source close to his family told MailOnline that it is not the first time he has taken the child on his own.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scientists have developed a necklace dubbed the ‘diet choker’ that monitors everything that goes down your throat - and sends you an alert if you overeat. WearSens is a metal ring that goes around your neck and has a sensor which uses the vibrations in your throat to tell when you are eating and drinking. The researchers behind the device have linked it up to a smartphone app which buzzes if you go over your daily calorie limit. Scientists have combined WearSens, a metal ring that goes around the neck (above) to monitor eating, with a smartphone app which counts calories 
+----------------------------------------
+Ground truth Summary: Scientists developed necklace called 'the diet choker' to help lose weight .
+Experts teamed WearSens metal to a smartphone app to create product .
+The cutting edge technology sends users an alert if they begin to overeat .
+----------------------------------------
+Generated Summary: WearSens is a metal ring that goes around your neck and has a sensor which uses the vibrations in your throat to tell when you are eating and drinking. The researchers behind the device have linked it up to a smartphone app which buzzes if you go over your daily calorie limit.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: She's certainly got the moves on the catwalk, now Karlie Kloss is throwing some shapes in a new video that pays tribute to the height of the disco era. Dressed in a series of revealing outfits the 22-year-old model writhes, twists and dances along with I'll Be There, Chic's first new song in decades. Co-founder and lead guitarist Nile Rodgers enlisted the help of the 22-year-old supermodel for the video that harks back to the band's Seventies heyday, when hits like Le Freak dominated the dancefloor. Scroll down for video 
+----------------------------------------
+Ground truth Summary: Chic co-founder Nile Rodgers enlisted former Victoria's Secret beauty .
+Song references Chic's Seventies disco heyday with clips from Soul Train .
+Lady Gaga's stylist picked the clothes including a white Versace catsuit .
+----------------------------------------
+Generated Summary: Karlie Kloss appears in Chic's new video for I'll Be There. The 22-year-old model writhes, twists and dances along with Chic's first new song in decades.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: New York (CNN)When prosecuting attorneys began their closing arguments in the terrorism trial of an accused al Qaeda operative on Monday morning, they spoke of blood. "Blood.  Mangled bodies and dead families," said Assistant U.S.  Attorney Zainab Ahmad.  "Abid Naseer was going to place a car bomb in a crowded ... shopping center and watch people die." Naseer, 28, is accused of communicating with al Qaeda and conspiring to attack the Arndale shopping center in Manchester, England, in April 2009. Prosecutors accuse Naseer of using email addresses with female names to communicate with al Qaeda in planning the bomb attack
+----------------------------------------
+Ground truth Summary: Jury deliberations in the Abid Naseer terrorism case begin after two weeks of testimony .
+Naseer is accused of supporting al-Qaeda and conspiring to bomb a shopping center in England .
+----------------------------------------
+Generated Summary: NEW: Prosecutors say al Qaeda operative was plotting attack in Manchester, England. NEW: Prosecutors say al Qaeda operative was plotting attack in Manchester, England. NEW: Prosecutors say al Qaeda operative was plotting attack in Manchester, England. NEW: Prosecutors say al Qaeda operative was plotting attack in Manchester, England. NEW: Prosecutors say al Qaeda operative was plotting attack in Manchester, England.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: When Rachel Abbott sold her successful media company for £5 million, she set herself two goals: to embark on a new career as a novelist and to find a dream home in Italy. With no previous writing experience, Rachel knew the former would be tricky – but what she hadn’t counted on was how difficult it would be to crack the latter. Despite viewing countless properties in Tuscany, she and husband John were left disappointed until they discovered a ruined 15th Century monastery in neighbouring Le Marche. Instantly smitten, they swapped their home in the Pennines for one in the Apennines
+----------------------------------------
+Ground truth Summary: Rachel Abbott and her husband bought 15th Century monastery in 2000 .
+All that was left of the monastery was chapel (minus the roof) and oratory .
+Near the hilltop town of Treia, in Italy, it cost the couple only £150,000 .
+But a two-year restoration project  set them back a further £1 million .
+Building survived until 1960s, enabling architects to recreate original style .
+But behind the facade, it's a modern eight-bedroom home with seven en suites and a swimming pool .
+----------------------------------------
+Generated Summary: Rachel Abbott sold her successful media company for £5 million. She set herself two goals: to embark on a new career as a novelist and to find a dream home in Italy. Despite viewing countless properties in Tuscany, she and husband John discovered a ruined 15th Century monastery in neighbouring Le Marche. They swapped their home in the Pennines for one in the Apennines.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Ella Woodward, a British health blogger who famously cured her rare but crippling nervous system disease by adopting a radical new diet two years ago, has made history in the U.K. as having the fastest selling debut cookbook since records began. Now, the 23-year-old former model has released her $16 food bible, Deliciously Ella, in the U.S. - with a list of banned foods so long it would make self-described lifestyle guru Gwyneth Paltrow's eyes water - and already it has shot to number one on Amazon's cookbook list
+----------------------------------------
+Ground truth Summary: Ella's debut cookbook, Deliciously Ella, $16, broke all sales records in the U.K. and is proving hugely popular in the U.S. too .
+The 23-year-old former model's diet  contains no meat, dairy, eggs, gluten, refined sugar, processed foods or caffeine .
+Ella, a self-confessed former 'sugar monster', turned her eating habits around after falling ill with a rare nervous system disease, PoTs, in 2011 .
+She claims healthy food cured her, and now hopes to influence the diets of her fans around the world - starting with the U.S.
+----------------------------------------
+Generated Summary: Ella Woodward's new book, Deliciously Ella, is the fastest selling debut cookbook since records began. The 23-year-old former model's diet is based on a list of banned foods so long it would make self-described lifestyle guru Gwyneth Paltrow's eyes water. Woodward's diet is based on a list of banned foods so long it would make self-described lifestyle guru Gwyneth Paltrow's eyes water.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A tiny Scottish restaurant that's open only six months a year, has been crowned the joint winner of the UK's most sustainable venue by the 2015 Sustainable Restaurant Awards. Beating highly acclaimed restaurant's The Hawksmoor, The Pig and Italian chain Carluccio's, sea-food venue The Captain's Galley, run by husband and wife team Mary and Jim Cowie, was praised for its green credentials alongside Daylesford, which runs three organic cafes. Situated in Scotland's most north-eastern county of Caithness, The Captain's Galley lies in the town of Scrabster, a 30-minute drive from the airport of Wick
+----------------------------------------
+Ground truth Summary: The Captain's Galley in north-east Scotland was joint winner with Daylesford, which has three organic cafés in Cotswolds and Kensington .
+Restaurant beat off competition from top eatery The Hawksmoor .
+Owner Jim Cowie refuses to serve seafood unless it's in season .
+----------------------------------------
+Generated Summary: The Captain's Galley, run by husband and wife team Mary and Jim Cowie, was praised for its green credentials alongside Daylesford, which runs three organic cafes. The Captain's Galley lies in Scotland's most north-eastern county of Caithness, a 30-minute drive from the airport of Wick.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)Stylists, a fashion commentator and a luxury-brand exec are speaking out about a movement that sneers at Hollywood's implicit deal: gratis gowns in exchange for money or mentions. Not surprisingly, fashion designers providing free couture dresses don't exactly feel the same way. "Because it has now become a thing where people spend months and make five dresses for them," Tom Ford has said. "If you wear one of those dresses and a company has invested hundreds of thousands of dollars or has paid you, then yeah, you say who it is." In other words, ladies who look like a million bucks (and have been paid that much or more from deals with brands like Dior or Chanel) can't expect not to be asked about what they're wearing
+----------------------------------------
+Ground truth Summary: Reese Witherspoon was among the actresses at the Oscars who called for red carpet interviewers to #AskHerMore .
+While red carpet fashion is a big draw for awards, women in Hollywood say they want to talk about more than their gowns .
+However, in many cases stars are paid to wear and promote the designer dresses. Can they do both?
+----------------------------------------
+Generated Summary: Fashion designer Tom Ford says free couture dresses are "a thing where people spend months and make five dresses for them"
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Former Rangers, Russia and Holland manager Dick Advocaat has moved a step closer to being the next Sunderland boss . The Dutchman was heading to the north-east on Monday night for talks with the club following the sacking of Gus Poyet. Sporting Director Lee Congerton is understood to have identified Advocaat, who stepped down as Serbia coach in November, as the man to take over until the end of the season. Former Rangers, Russia and Holland manager Dick Advocaat is set to hold talks with Sunderland . Sunderland sacked Poyet in the wake of Saturday's humiliating 4-0 defeat at home to Aston Villa
+----------------------------------------
+Ground truth Summary: Dick Advocaat to hold talks with Sunderland over being the next boss .
+The Dutchman was heading to the north-east on Monday night .
+Gus Poyet was sacked on Monday following 4-0 defeat by Aston Villa .
+The Black Cats are one point and one place above the drop zone .
+----------------------------------------
+Generated Summary: Former Rangers, Russia and Holland manager Dick Advocaat is set to hold talks with Sunderland. The Dutchman was heading to the north-east on Monday night for talks with the club. Sporting Director Lee Congerton is understood to have identified Advocaat, who stepped down as Serbia coach in November, as the man to take over until the end of the season. Sunderland sacked Gus Poyet in the wake of Saturday's humiliating 4-0 defeat at home to Aston Villa.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: They were the Kardashians of the 70's - attractive, wealthy and dysfunctional. They were the Louds: Pat and Bill and their five children, ranging from age 14 to 20 - Lance, Delilah, Grant, Kevin and Michele. The Louds were the subjects of the first ever television reality show, An American Family, broadcast on PBS in twelve hour-long episodes beginning on January 11, 1973. The show took viewers up close and personal in the home of the Loud family of Santa Barbara, California. On camera, Pat asked her husband, Bill to move out, and Lance, the oldest son, was the first gay to come out on television
+----------------------------------------
+Ground truth Summary: In Lance Out Loud, Pat Loud, now 89, celebrates her son Lance, who died of complications from AIDS in 2001 .
+Yale University will acquire the original Loud and Lance Loud memorabilia on Wednesday .
+Pat reveals there was nothing negative brewing in their family until the cameras arrived .
+She says PBS viewed the family as California airheads and coerced her into asking her husband for a divorce on camera .
+Pat is now happily living with ex-husband, Bill - again!
+----------------------------------------
+Generated Summary: The Louds were the subjects of the first ever television reality show, An American Family, broadcast on PBS in twelve hour-long episodes beginning on January 11, 1973. The show took viewers up close and personal in the home of the Loud family of Santa Barbara, California. On camera, Pat asked her husband, Bill, to move out, and Lance, the oldest son, was the first gay to come out on television.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In the one and a half years they have been married Andrew and Erica Holloway have never argued, have no secrets and are more in love today than the moment they met. For while Andrew would love to rip his wife's clothes off, Erica  is in fact still a virgin and reveals to the Daily Mail Online that the very idea of making love to her husband is a complete turn off rather than a turn on. Unique arrangement: Erica and Andrew Holloway have been married since October 2012 but have never had sex because Erica is 'repulsed' by the idea 
+----------------------------------------
+Ground truth Summary: Erica Holloway, 30, has known that she was asexual since the age of 15 .
+She and husband Andrew, 30, have been married since 2012 but have never had sex .
+IT consultant Andrew has slept with ten other women, including a number of professional escorts, since he married Erica .
+----------------------------------------
+Generated Summary: Andrew and Erica Holloway have been married since October 2012 but have never had sex because Erica is'repulsed' by the idea.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: An investigation has revealed how factory workers in China risk contracting a potentially fatal disease to produce jeans for fashion labels Abercrombie & Fitch and American Eagle Outfitters. Employees at a factory where the two companies source their products were filmed using a method known as sandblasting - which gives the material a fashionable faded look. The practice is known to be dangerous and has been banned in some countries after being linked to deaths from respiratory disease silicosis. Dangerous method: Secret footage taken during an undercover investigation shows workers in Chinese factory which supplies Abercrombie & Fitch and American Eagle Outfitters continue to use sandblasting 
+----------------------------------------
+Ground truth Summary: Sandblasting has long been used to give jeans the fashionable faded look .
+But practice was banned in some countries after being linked to silicosis .
+In 2011, American Eagle Outfitters joined initiative to boycott the technique .
+Abercrombie & Fitch boast of using 'best practices in workplace safety'
+Undercover investigation revealed both companies were still recently sourcing jeans from factory where sandblasting took place .
+----------------------------------------
+Generated Summary: Secret footage taken during an undercover investigation shows workers in Chinese factory which supplies Abercrombie & Fitch and American Eagle Outfitters continue to use sandblasting. The practice is known to be dangerous and has been banned in some countries after being linked to deaths from respiratory disease silicosis.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Irish Football Association has never before staged an international game on a Sunday but was forced to break new ground by UEFA's 'Week of Football' initiative . Euro 2016 qualifiers are now spread throughout the international period, with dates allocated automatically by computer, and the hosts take on Finland on Sunday. A man hands out religious tracts against the backdrop of a George Best mural on Sunday . The Tyndale Memorial branch of the Free Presbyterian Church has criticised the IFA for failing to seek dispensation and declining to inform local church groups
+----------------------------------------
+Ground truth Summary: A peaceful protest has been held outside Windsor Park .
+Northern Ireland host Finland in a Euro 2016 qualifier .
+It is the first time Northern Ireland have played at home on a Sunday .
+----------------------------------------
+Generated Summary: The Irish Football Association has never before staged an international game on a Sunday. Euro 2016 qualifiers are now spread throughout the international period, with dates allocated automatically by computer. The Tyndale Memorial branch of the Free Presbyterian Church has criticised the IFA for failing to seek dispensation.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)It's not quite from sea to shining sea, but the latest winter storm gets an "A" for effort (or is that an "E"?). For its sheer size, this one is a monster, stretching from New Mexico to southern New England. If you're keeping track on your maps at home, that's 2,000 miles of snowy misery and 94 million people under some sort of winter weather warning, watch or advisory. "Enough," cries a winter-weary nation. Enough of the sleet and ice in the Dallas area.  More than 640 arrivals and departures were canceled at Dallas/Fort Worth International Airport on Wednesday.  Another 540 have been scrubbed for Thursday
+----------------------------------------
+Ground truth Summary: More than 1,000 flights into or out of the U.S. are canceled .
+People in Kentucky will have plenty of snowman-building material .
+Boston is close to a season snow record, but it's iffy this system will provide enough to top the mark .
+----------------------------------------
+Generated Summary: The latest winter storm stretches from New Mexico to southern New England. It's not quite from sea to shining sea, but the latest winter storm gets an "A" for effort. More than 640 arrivals and departures were canceled at Dallas/Fort Worth International Airport. Another 540 have been scrubbed for Thursday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Michael Carrick has given Manchester United a big lift ahead of their clash with arch-rivals Liverpool by signing a new one-year contract at Old Trafford. The England midfielder has emerged as a key figure under Louis van Gaal despite missing the first two-and-half months of the season with an ankle injury sustained in the Dutchman’s first training session last summer. Van Gaal has made Carrick his vice-captain and the midfielder’s impressive displays culminated in him creating the opening goal for Marouane Fellaini in last weekend’s 3-0 win at home to Tottenham before scoring himself with a rare headed effort . Michael Carrick has signed a new one-year deal at Manchester United 
+----------------------------------------
+Ground truth Summary: Michael Carrick has signed a new deal keeping him at the club until 2016 .
+Carrick joined Manchester United from Tottenham in 2006 for £18.6m .
+Carrick scored in the 3-0 win over former club Spurs at the weekend .
+----------------------------------------
+Generated Summary: Michael Carrick has signed a new one-year deal at Manchester United. The England midfielder has emerged as a key figure under Louis van Gaal. Carrick has been an ever-present for United this season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Double-yellow lines in a Scottish village immortalised in the classic novel Sunset Song are to be painted a pale shade of primrose so as not to detract from its historic charms. Councillors voted that the new 'no parking' traffic markings in Auchenblae, Kincardineshire should be light yellow 'in sympathy' with its conservation status. Double-yellow lines in Auchenblae, Kincardineshire, are to be painted a pale shade of primrose so as not to detract from its historic charms . 'If you see primrose or cream lines, well I am sure it's very tasteful but you don't have a clue what they mean
+----------------------------------------
+Ground truth Summary: Double yellow lines in Scottish village to be painted pale shade of primrose .
+Auchenblae immortalised in Lewis Grassic Gibbon's novel Sunset Song .
+Normal yellow shade deemed 'too bright' for town's conservation status .
+Residents branded idea 'mad' and voiced fears that lines would be ignored .
+----------------------------------------
+Generated Summary: Double-yellow lines in Auchenblae, Kincardineshire, are to be painted a pale shade of primrose. Councillors voted that the new 'no parking' traffic markings should be light yellow 'in sympathy' with its conservation status.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A high school student who suffers from autism and Down Syndrome was given a varsity letter by his mother to celebrate that he had begun playing special needs basketball at his high school, and then shockingly told he had no right to wear that letter. Michael Kelley, who attends East High School in Wichita, Kansas, wore the letter, which his mother purchased for him, on a jacket, until he was told to remove it and never wear it again at school. Scroll down for video . The mother of Michael Kelley (above) purchased him a varsity letter to celebrate his participation in a special needs basketball program 
+----------------------------------------
+Ground truth Summary: East High School in Wichita, Kansas told student Michael Kelley, who has autism and Down Syndrome, he could not wear a varsity letter .
+This after his mother purchased him a varsity letter to celebrate his participation in a special needs basketball program .
+'Teachers told the parents they would prefer he not wear the letter on his jacket,' said East High Principal Ken Thiessen .
+Now, a Change.org petition has been started and the Chicago Bulls have donated items to raise money for uniforms for Michael's team .
+In addition, the hashtag #GiveThemLetters is being used by many on Twitter to show support .
+----------------------------------------
+Generated Summary: Michael Kelley, who attends East High School in Wichita, Kansas, was given a varsity letter by his mother to celebrate his participation in a special needs basketball program. He was told to remove the letter, which his mother purchased for him, on a jacket until he was told to remove it and never wear it again.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: From Marlene who requires shots in her eyeballs to Julia who needs an ostomy bag  taped to a hole in her abdomen  - the scenes from this anti-smoking campaign are aimed to make you cringe. The new Tips from Former Smokers ad by the Centers for Disease Control and Prevention highlights two smoking-related conditions macular degeneration, a blinding eye disease, and colorectal cancer. The campaign which originally launched in 2012 will begin running on March 30 featuring five former smokers in a bid to stop people from smoking
+----------------------------------------
+Ground truth Summary: WARNING: GRAPHIC CONTENT .
+Tips from Former Smokers ad by CDC feature sad real-life stories .
+Marlene, 68, shares her story of smoking in high school and is shown during her treatment for a blinding eye disease that requires shots to her eyeballs .
+Julia, 58, smoked for more than 20 years before she developed colon cancer at 59 years old and requires an ostomy bag taped to her abdomen .
+Campaign originally launched in 2012; the new ad will run from March 30 .
+----------------------------------------
+Generated Summary: The new Tips from Former Smokers ad by the Centers for Disease Control and Prevention highlights two smoking-related conditions macular degeneration, a blinding eye disease, and colorectal cancer. The campaign which originally launched in 2012 will begin running on March 30 featuring five former smokers in a bid to stop people from smoking.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

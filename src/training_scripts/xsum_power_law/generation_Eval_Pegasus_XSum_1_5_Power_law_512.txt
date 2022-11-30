@@ -1,0 +1,253 @@
+Generations for Eval_Pegasus_XSum_1_5_Power_law_512
+Article text: Mark Jones, 45, of Cwmbran, denies murdering Amelia Jones in Pontnewydd in November, 2012. 
+His daughter Sarah Jones was asked by the defence barrister, Roger Thomas QC, about a trip to the doctors with Amelia on 7 November 2012. 
+She admitted "exaggerating" about the doctor's diagnosis. 
+Mr Thomas asked her what the diagnosis was and Ms Jones told the court: "She had a cold". 
+The court was told that she had previously said, in a text message: "They want to check her, and they might keep her in overnight". 
+Sarah Jones replied "Don't you over-exaggerate with stuff sometimes"
+----------------------------------------
+Ground truth Summary: The mother of a baby girl allegedly murdered by her own grandfather has admitted she "exaggerates", a court has heard.
+----------------------------------------
+Generated Summary: The daughter of a man accused of murdering his two-year-old daughter has told a court she "over-exaggerated" a doctor's diagnosis.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Groups of tourists, fresh off the ferry from Cape Town, pass by with barely a glance.  And if you stand inside the tiny cell where South Africa's struggle icon spent 18 years hidden from the world, and peer through the barred window into the high-walled courtyard, you can just make out the thin strip of green and brown foliage where he once tended tomatoes and chillies. 
+"A garden was one of the few things in prison that one could controlâ€¦ The sense of being the custodian of this small patch of earth offered a small taste of freedom," Mr Mandela wrote in his autobiography, Long Walk To Freedom - an early draft of which, incidentally, he tried to hide from the prison guards by burying in the garden
+----------------------------------------
+Ground truth Summary: In the sun-bleached corner of Nelson Mandela's old prison yard on Robben Island, the desiccated remains of a tiny, weed-ridden garden lie exposed and sadly neglected.
+----------------------------------------
+Generated Summary: The garden of Nelson Mandela's former prison, in the town of Qunu in South Africa's Eastern Cape province, is one of the few places in the world where you can see it from the outside.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lady Butler-Sloss has been under pressure to quit from MPs and victims concerned about her family links. 
+Her late brother, Sir Michael Havers, was attorney general in the 1980s. 
+Home Secretary Theresa May said she did not regret appointing the peer, adding that she would "not hang around" in naming her successor. 
+Lady Butler-Sloss said she "did not sufficiently consider" whether her family links would cause difficulties in the inquiry. 
+Downing Street said it would "take a few days" to appoint a new chairman and appeared to indicate that whoever was chosen would not be so closely linked to the establishment
+----------------------------------------
+Ground truth Summary: Retired judge Baroness Butler-Sloss has stepped down as head of a probe into child sex abuse saying she was "not the right person" for the job.
+----------------------------------------
+Generated Summary: Baroness Butler-Sloss has resigned as chairman of the inquiry into historical child abuse.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 22-year-old former Bristol City trainee has scored four goals in 29 appearances for Gareth Ainsworth's Chairboys this campaign. 
+He joins a Latics side currently 23rd in League One. 
+"Aaron's been unhappy of late because he hasn't been able to force his way into the team, so this move is best for all parties," said Ainsworth. 
+----------------------------------------
+Ground truth Summary: Oldham have signed striker Aaron Amadi-Holloway on loan from League Two side Wycombe for the rest of the season.
+----------------------------------------
+Generated Summary: League One side Wigan Athletic have signed striker Aaron Wilbraham on loan from League Two side Wycombe Wanderers until the end of the season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It comes despite the party's policy to support renewing the Trident nuclear weapons system remaining unchanged at the recent Labour conference. 
+Mr Corbyn was also criticised by many of his MPs for saying he would never use nuclear weapons if he became PM. 
+However, CND said Mr Corbyn was stepping down as its vice-chairman because of his "increased workload". 
+Mr Corbyn joined the organisation as a teenager in 1966 and has long campaigned against the replacement of Trident. 
+"Privately some are deeply concerned at the uncertainty over Labour's position on such a key issue," she added
+----------------------------------------
+Ground truth Summary: Labour leader Jeremy Corbyn is to become the vice-president of the Campaign for Nuclear Disarmament (CND).
+----------------------------------------
+Generated Summary: Labour leader Jeremy Corbyn has stepped down as vice-chairman of the Campaign for Nuclear Disarmament (CND).
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Having gone behind through Macauley Gillesphey's free-kick after Jason Kennedy had been hauled down, Orient overturned the deficit. 
+Jay Simpson found space to level after half-time, firing into the left corner. 
+Ollie Palmer then streaked clear to put Orient ahead, before Raynes headed in from Alex Gillead's cross to level. 
+The goal denied Kevin Nolan's visitors the chance to go fifth in the table, as they remain seventh, while Carlisle are three points behind in 11th. 
+Leyton Orient player-manager Kevin Nolan told BBC Radio London:
+"You've got to respect the point, especially when you come to a place like this. 
+"I'm delighted with the response
+----------------------------------------
+Ground truth Summary: Michael Raynes' late equaliser earned Carlisle United a key point in a 2-2 draw with fellow League Two promotion hopefuls Leyton Orient.
+----------------------------------------
+Generated Summary: Michael Raynes' late equaliser earned Carlisle a share of the spoils at Leyton Orient.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Medical director Dr Peter Collins admits it was a difficult decision, but Weston General Hospital, which serves more than 200,000 people in North Somerset, will close its doors at night. 
+More hospitals are likely to follow.  The British Medical Association estimates that in 18 areas, health bosses are considering closing or downgrading their A&E departments. 
+The NHS insists closures will only happen when there are viable alternatives in place such as longer GP opening hours, or better centralised care elsewhere
+----------------------------------------
+Ground truth Summary: As a fourth hospital in England closes its casualty ward overnight, and with more downgrades likely to follow, are the alternatives for patients sufficient?
+----------------------------------------
+Generated Summary: One of the UK's busiest A&E departments is to close at the end of the month.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Both teams struggled to find continuity in a game that was punctuated with errors. 
+And whilst always down on the scoreboard, Scotland were in with a chance of winning the game going into the last 10 minutes, which cannot always be said of the fixture. 
+There were a few technical areas that Scotland came second best in and these are the areas I feel had a strong bearing on the game. 
+The aerial battle was lost, which correlates to the possession (Scotland 46%, England 54%) and territory (44%, 56%) statistics. 
+England probably won about 70% of all contestable kicks and it was interesting to see the difference in the techniques from the English
+----------------------------------------
+Ground truth Summary: It was the first round of the Six Nations and, reflecting back on Scotland's defeat by England, that fact was apparent throughout.
+----------------------------------------
+Generated Summary: Scotland's Six Nations campaign came to an end with a disappointing defeat by England in the final round of fixtures.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The catch-up app is not ready to launch alongside the revamped set top box when it goes on sale this week, but the broadcaster signalled it would be soon. 
+"Available on over 10,000 devices, BBC iPlayer is one of the biggest and best on-demand video services in the world, and has transformed how UK audiences watch programmes online," said the BBC's director-general Tony Hall. 
+"I am delighted that iPlayer will be coming to the new Apple TV in the coming months, helping to bring the BBC's distinctive and loved content to an even wider audience. "
+Until now, Sky was the only major British broadcaster to offer an app for the US firm's set top boxes
+----------------------------------------
+Ground truth Summary: The BBC has confirmed that its iPlayer service is coming to the new Apple TV.
+----------------------------------------
+Generated Summary: BBC iPlayer will be available on the new Apple TV, the BBC has announced.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The unfortunate moggy was found by Darren Sumner when the vehicle broke down in Reading, Berkshire. 
+Mr Sumner said: "He was warm and scared so I sat and stroked him for about 30 minutes until I coaxed him out. "
+The RSPCA wants to reunite the cat with his owner, thought to be in Tottenham where the van started its journey. 
+The cat, nicknamed Sparky, was unscathed by his ordeal on 28 August. 
+Mr Sumner, who took the cat home overnight, said: "He used a litter tray so I think he's probably someone's pet.  I hope his owners can be found
+----------------------------------------
+Ground truth Summary: A cat has been rescued from under the bonnet of a van after travelling about 60 miles in a space behind the heater matrix.
+----------------------------------------
+Generated Summary: A cat has been reunited with its owners after being found trapped in a broken-down van.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Bauer Media, which operates the main regional franchises, cited a 10% growth in the reach of its Clyde 1 station since last summer. 
+The industry figures, known as RAJAR, reported that April to June saw an annual rise for Clyde 1 to 643,000 listeners for part of the average week. 
+That was the highest share of the radio market since 2004. 
+The total number of hours during which people listened to the station, which covers west central Scotland, was up by nearly 7% to almost five million hours in total.  It saw a rise of nearly half in the number of hours of listening
+----------------------------------------
+Ground truth Summary: Scotland's main commercial radio broadcaster has welcomed significant increases in listener figures.
+----------------------------------------
+Generated Summary: The number of people listening to Scottish radio stations has risen to its highest level in more than a decade, according to new figures.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The six men and one woman deny servitude and forced labour charges, at Luton Crown Court. 
+Police found men living in squalor at the Green Acres caravan park in Bedfordshire last September. 
+The Connors controlled and exploited the homeless people, making large amounts of money, prosecutors claim. 
+The seven each deny charges of conspiring to hold a person in servitude and conspiracy to require a person to perform forced or compulsory labour. 
+The charges relate to eight alleged victims. 
+Victims were recruited from homeless centres, soup kitchens or simply off the streets and made to carry out daily physical labour, the court was told
+----------------------------------------
+Ground truth Summary: Seven people from one traveller family abused and beat vulnerable men who were kept in captivity and made to work without pay, a court has heard.
+----------------------------------------
+Generated Summary: Seven people have gone on trial accused of being part of a human trafficking ring.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Southampton City Council leader Royston Smith and chief executive Alistair Neill tackled Able Seaman Ryan Donovan on board HMS Astute in April 2011. 
+He had just shot dead Lt Cdr Ian Molyneux, 36, from Standish, Wigan. 
+Donovan was jailed for at least 25 years in September last year for murder and three counts of attempted murder. 
+Father-of-four Mr Molyneux tried to disarm Donovan after hearing shots on board the submarine but was shot in the head. 
+Mr Smith and Mr Neill later pinned Donovan to the floor until police arrived
+----------------------------------------
+Ground truth Summary: Two men who wrestled a gunman to the floor on a Royal Navy nuclear submarine have received the George Medal for bravery from the Queen.
+----------------------------------------
+Generated Summary: A council leader who tackled a gunman on board a nuclear submarine after he shot dead a Royal Navy officer has been awarded a bravery award.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Called The Highlands and Islands Creative Campus, it has been created at Blair Steading on the Altyre Estate near Forres in Moray. 
+GSA describes it as a research and postgraduate teaching centre for "international excellence in creativity and innovation". 
+Highlands and Islands Enterprise has been supporting the creation of the campus. 
+The site is a base for GSA's Institute of Design Innovation. 
+----------------------------------------
+Ground truth Summary: Glasgow School of Art (GSA) has formally launched a new campus.
+----------------------------------------
+Generated Summary: The Glasgow School of Art (GSA) has opened a new campus in the Highlands and Islands.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lawrence, aged 17 years and 290 days, reached three figures from 146 balls with a boundary off Zafar Ansari. 
+Media playback is not supported on this device
+He was eventually caught behind after lunch off left-arm spinner Ansari for 161, having hit two sixes and 17 fours. 
+Essex declared at tea on 610-8, a lead of 270, and Surrey were 95-2 in their second innings at the close. 
+Only two players younger than Lawrence, who left school last summer to concentrate on cricket, have scored a Championship hundred - and he is the youngest to do so at The Oval
+----------------------------------------
+Ground truth Summary: Dan Lawrence became the third youngest batsmen to score a County Championship century on day three of Essex's game against Surrey at The Oval.
+----------------------------------------
+Generated Summary: Teenager Tom Lawrence became the youngest player to score a Championship century at The Oval as Essex took control against Surrey.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: You've probably been calling her Gal Gah-dote or Gal Gah-doh all this time.  Or maybe you're not at all sure and have been mumbling her surname, hoping no one will notice. 
+But the Israeli actress recently cleared up the confusion by telling Jimmy Kimmel it's actually pronounced Gal Gad-dott. 
+She's not the only one who's struggled with name issues.  Here are a few other famous faces whose name you may have been saying wrong. 
+Twenty years ago, no one had heard of Harry Potter author JK Rowling.  But with great fame comes great name mispronunciation
+----------------------------------------
+Ground truth Summary: As Wonder Woman, Gal Gadot can do anything - apart from getting people to pronounce her name correctly.
+----------------------------------------
+Generated Summary: Gal Gadot is one of Hollywood's biggest stars.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But no arrests have been made and authorities are seeking who was responsible for the blaze. 
+A massive explosion which caused a tremor as powerful as a small earthquake left part of the small town of West in ruins. 
+Initially it was blamed on an industrial accident. 
+On the night of 17 April 2013, a fire broke out at the West Fertilizer Co and was followed by an explosion that possessed the force of a 2. 
+They had previously said faulty electrical wiring, a short circuit in a golf cart stored at the plant or arson were among the possible reasons for the blaze
+----------------------------------------
+Ground truth Summary: The fire at a fertiliser plant in the US state of Texas that killed 15 people and wounded hundreds in 2013 was a criminal act, say investigators.
+----------------------------------------
+Generated Summary: The cause of a fire at a Texas fertilizer plant that killed 15 people and injured more than 160 in 2013 has been ruled out as arson.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Eleven million documents held by the Panama-based company Mossack Fonseca were leaked to German newspaper Sueddeutsche Zeitung, then shared with the International Consortium of Investigative Journalists (ICIJ). 
+In Russia, the three main pro-Kremlin TV channels have not reported the story so far. 
+This is quite typical behaviour for Russia's mainstream broadcasters, which often steer clear of controversial topics involving Russian leaders. 
+The leak reveals a suspected money-laundering ring run by a Russian bank and involving close associates of President Vladimir Putin
+----------------------------------------
+Ground truth Summary: Media from Moscow to Beijing are reporting the Panama Papers leak, with some outlets omitting names of local politicians and prominent figures who figure in them.
+----------------------------------------
+Generated Summary: The so-called "Panama Papers", a massive leak of documents from a Panamanian law firm, has shocked the world.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Shaun Ritchie, from Fraserburgh, was last seen with friends at a remote woodland area near Strichen at the end of October last year. 
+The operation is one of Police Scotland's longest-running missing persons inquiries. 
+The force said there was no evidence of a crime. 
+Det Ch Insp Matt Mackay said: "We are trying to bring closure to the family. 
+"It's one of the longest-running inquiries.  It's such a vast area.  It takes time. "
+----------------------------------------
+Ground truth Summary: Police say they want to help bring "closure" to the family of a missing Aberdeenshire man, one year after his disappearance.
+----------------------------------------
+Generated Summary: The family of a man who has been missing for more than a year have been told there is no evidence of foul play.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The royal visit on 7 June will include a look at Europe's most powerful brain scanner, of which there is only one other in the world at Harvard University in the United States. 
+It will allow scientists to look at how brains work in minute detail. 
+The Maindy Park building, finished a year ago, will bring together four hi-tech scanners under one roof. 
+The centre will concentrate on research to hopefully understand more about the causes of conditions like dementia, multiple sclerosis and schizophrenia. 
+It will allow researchers to study brain cells only 1000th of a millimetre across
+----------------------------------------
+Ground truth Summary: The Queen is to open the new £44m Cardiff University Brain Research Imaging Centre (Cubric) next month.
+----------------------------------------
+Generated Summary: The Duke and Duchess of Cambridge are to visit the University of Edinburgh's new Brain Research Centre.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

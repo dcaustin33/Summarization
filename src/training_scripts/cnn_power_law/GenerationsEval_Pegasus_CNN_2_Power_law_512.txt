@@ -1,0 +1,245 @@
+Generations for Eval_Pegasus_CNN_2_Power_law_512
+Article text: Poundland founder Steve Smith has slashed £750,000 off the asking price of his sprawling country home in a bid to sell the 15,000 sq ft luxury property. Mr Smith's house, located in Bridgnorth, Shrophshire, is a seven-bedroom mansion featuring five grand reception rooms, a dance floor, bar and swimming pool. The home has been for sale on and off since 2011 with an initial asking price of £6.5million, but in its online sale listing he has now cut it down to £5.75m. It also features a lavish pool room with a full size heated pool and hot tub 
+----------------------------------------
+Ground truth Summary: Poundland founder Steve Smith cuts £750,000 off price of rural mansion .
+He founded the discount chain in 1990 and sold it for £50m a decade later .
+The seven-bedroom home features a swimming pool, bar and dance floor .
+He has cut his online asking price of £6.5million down to £5.75million .
+----------------------------------------
+Generated Summary: Poundland founder Steve Smith has slashed £750,000 off the asking price of his sprawling country home in a bid to sell the 15,000 sq ft luxury property. Mr Smith's house, located in Bridgnorth, Shrophshire, is a seven-bedroom mansion featuring five grand reception rooms, a dance floor, bar and swimming pool. The home has been for sale on and off since 2011 with an initial asking price of £6.5million, but in its online sale listing he has now cut it down to £5.75m.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Former Southampton star Matt Le Tissier will swap Soccer Saturday for Countdown to become the fourth professional footballer to appear on the Channel 4 show. Le Tissier, 46, announced on Twitter he has passed his contestant audition and will be filming this autumn. The eight-cap England international has previously appeared as the show's 'Dictionary Corner' guest in 2009, memorably solving a numbers round puzzle which had foxed both contestants - including an eventual series semi-finalist - and resident maths expert Rachel Riley
+----------------------------------------
+Ground truth Summary: Matt Le Tissier will appear on Countdown after passing his audition .
+The former Southampton star will film for the Channel 4 show this autumn .
+Le Tissier previously appeared on C4 show as a 'Dictionary Corner' guest .
+----------------------------------------
+Generated Summary: Matt Le Tissier will be the fourth professional footballer to appear on the Channel 4 show. Le Tissier, 46, announced on Twitter he has passed his contestant audition. The eight-cap England international has previously appeared as the show's 'Dictionary Corner' guest in 2009.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 1 RAHEEM DREAM . Naturally Kane-mania has kicked in, but the trio of players who started in forward positions for England are creating a bit of a stir. ‘Europe will fear us now,’ declared Wayne Rooney and although it was a little optimistic, the front three are moving in the right direction. Roy Hodgson calls Raheem Sterling and Danny Welbeck his ‘five yard furies’, two players capable of causing chaos in opposition defences. This was undoubtedly one of Sterling’s best games in an England shirt: he read Rooney’s pass to score and later sent in the left wing cross for Harry Kane’s debut goal
+----------------------------------------
+Ground truth Summary: Wembley was almost full for England's 4-0 win over Lithunia .
+Raheem Sterling linked well with Wayne Rooney and Danny Welbeck .
+Roy Hodgson must prepare his side for the stiffer tests at Euro 2016 .
+Italy are a different proposition to the side that beat England last summer .
+----------------------------------------
+Generated Summary: Raheem Sterling, Danny Welbeck and Harry Kane are England's new stars. Sterling scored his first goal for the Three Lions. Wayne Rooney scored his first goal for the Three Lions.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Liban Mohamed is currently in Somali custody after being named to the list of the FBI's most-wanted . A U.S. law enforcement official says a former taxi driver from northern Virginia included on the FBI's list of most-wanted terrorists has been detained in Somalia. The official said 29-year-old Liban Mohamed is currently in Somali custody. He would not describe what efforts would be made to bring Mohamed to the United States for trial. Mohamed is charged with providing material support to al-Qaeda and al-Shabab and is one of about 30 people on the terrorist list
+----------------------------------------
+Ground truth Summary: 29-year-old Liban Mohamed is currently in Somali custody .
+Though there is no extradition agreement between the two countries, U.S. officials are working to find a way to get him back on American soil .
+Said to be a key figure in terrorist groups, helping recruitment efforts and having knowledge of potential targets in Washington .
+----------------------------------------
+Generated Summary: Liban Mohamed is currently in Somali custody after being named to the list of the FBI's most-wanted. Mohamed is charged with providing material support to al-Qaeda and al-Shabab.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A creepy video shows how a burglar manages to break into a man's house before helping himself to a number of electronic and personal items. The footage was captured by a New Zealand man who installed security cameras around his home after being broken into four times in two and a half years. David Hooper, 56, was at work at a local cinema in Whanganui on the country's North Island and was monitoring the live CCTV footage from his mobile phone when he noticed the signs of a break in. Mr Hooper reviewed the video, which shows the thief knock on his front door before walking around the side of the house to climb through a window he smashed open with a brick
+----------------------------------------
+Ground truth Summary: David Hooper from Whanganui, NZ, got footage of a man robbing his house .
+He installed cameras after being broken into four times in two years .
+The footage was shared on Facebook and was seen by a woman who bought the stolen items, recognised the man and called police .
+----------------------------------------
+Generated Summary: David Hooper, 56, was at work in Whanganui on the country's North Island when he noticed the signs of a break in. He installed security cameras around his home after being broken into four times in two and a half years. The footage was captured by Mr Hooper from his mobile phone.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Some $50,000 in gold and cash has been swiped from the Hollywood Hills home of Grammy-winning songwriter and producer Toby Gad. Gad, 46, who has worked with such A-list performers as Beyonce, Madonna, Fergie and John Legend, said his wife discovered Monday that a safe in the home had been broken into. According to the songwriter, the neighborhood has seen a string of recent burglaries as of late. Gold heist: Renowned music producer Toby Gad (pictured left with Fergie and right with Cassie) became the victim of a house break-in, with the perpetrators getting away with $50,000 in cash and gold 
+----------------------------------------
+Ground truth Summary: A safe in music producer Toby Gad's home in Hollywood Hills was cracked and emptied Monday afternoon .
+$2million house Gad bought with his wife was undergoing renovations .
+Gad, a Danish national, won a Grammy for co-writing Beyonce's hit If I Were A Boy .
+He's worked with some of the biggest names in music industry, including Madonna, Kelly Clarkson, John Legend and Jessie J .
+----------------------------------------
+Generated Summary: Grammy-winning songwriter and producer Toby Gad was the victim of a house break-in in Hollywood Hills. Thieves got away with $50,000 in cash and gold. Gad, who has worked with Beyonce, Madonna, Fergie and John Legend, said his wife discovered Monday that a safe had been broken into.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The soaring Sydney property market will achieve growth of 20 per cent over two years to send the median house price above $1 million, new research suggests. Prices are also set to take off in Brisbane, but growth will be much more subdued in Melbourne and Adelaide, and prices will fall in Perth, according to forecasts from BIS Shrapnel. The economic analysts say there are housing shortages in Sydney and southeast Queensland, and while housing construction activity has lifted, there is limited scope for a long run of growth in construction
+----------------------------------------
+Ground truth Summary: Property market in Sydney and Brisbane set to take off, but Melbourne will post slow  growth and Perth will fall .
+BIS Shrapnel economic analysts say there are housing shortages in Sydney and southeast Queensland .
+Housing construction activity has lifted but there is limited scope for a long run of growth in construction .
+----------------------------------------
+Generated Summary: The soaring Sydney property market will achieve growth of 20 per cent over two years, new research suggests. Prices are also set to take off in Brisbane, but growth will be much more subdued in Melbourne and Adelaide, and prices will fall in Perth. The economic analysts say there are housing shortages in Sydney and southeast Queensland, and while housing construction activity has lifted, there is limited scope for a long run of growth in construction.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Snuggled up together and almost holding hands in their sleep, this is the heart-warming moment twin baby girls were reunited after spending their first six weeks apart as they battled for life. Darcey and Eden Mold, who were born six weeks premature and with holes in their hearts, were immediately placed in separate incubators. After weeks of complications and treatments in hospital, the twins were finally well enough to go home and have their first cuddle in a Moses basket, dressed in matching pink sleep suits. Mrs Mold, who was wheeled in her hospital bed to visit the pair in intensive care nine hours after their birth, said: 'Just seeing them so small and so helpless, it was very hard
+----------------------------------------
+Ground truth Summary: Mother Katy Mold, 31, went into labour at 34-week stage of her pregnancy .
+Twin girls Darcey and Eden born prematurely and with holes in their hearts .
+Eden born with narrowing of the aorta and with ventricular septal defect .
+She had immediate surgery while Darcey deemed well enough to go home .
+While Eden was recovering in hospital, Darcey fell ill with chest infection .
+She was taken into intensive care and girls spent about six weeks apart .
+Both have now returned to Hampshire home and are recovering with family .
+----------------------------------------
+Generated Summary: Darcey and Eden Mold, who were born six weeks premature and with holes in their hearts, were immediately placed in separate incubators. After weeks of complications and treatments in hospital, the twins were finally well enough to go home and have their first cuddle in a Moses basket.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: At the height of her fame she wouldn’t get out of bed for less than $10,000 a day. But now Linda Evangelista is facing rather more prosaic money issues after getting embroiled in a row over who's going to pay a $1.5 million (£980,000) bill to repair the roof of her luxury Manhattan penthouse. The Canadian model and other occupiers of the top-floor units at the Spears Building in Chelsea are suing the owners of the apartment block over the demand they pay the full cost of the work. The Spears Building, where penthouse residents including Miss Evangelista want the cost of replacing the roof to be shared by all residents
+----------------------------------------
+Ground truth Summary: Supermodel and other top-floor Spears Building residents in joint lawsuit .
+Claim all 30 unit owners at Chelsea apartment complex should be liable .
+525 W. 22nd St building owners want just penthouse residents to pay .
+One has  been landed with $177,000 bill, despite having already paid five figure sum into roof repair fund .
+Canadian Miss Evangelista, 49, was one of the original supermodels .
+----------------------------------------
+Generated Summary: Linda Evangelista is suing the owners of the apartment block over the demand they pay the full cost of the work. The Canadian model and other occupiers of the top-floor units at the Spears Building in Chelsea are suing the owners of the apartment block over the demand they pay the full cost of the work. The Spears Building, where penthouse residents including Miss Evangelista want the cost of replacing the roof to be shared by all residents.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lionel Messi is the highest-paid footballer on the planet, banking nearly £1million a week last year in wages and sponsorship deals. The Argentina and Barcelona favourite earned an eye-watering £47.8m in 2014, with his club salary of £26m topped up by lucrative endorsements with the likes of adidas, FIFA 15 and Turkish Airlines. Lionel Messi tops the France Football rich list for 2014 with an annual income of £47.8m . Messi tops up his salary with Barcelona by promoting various companies, including adidas . Cristiano Ronaldo comes in second in the annual France Football list with earnings of £39.7m 
+----------------------------------------
+Ground truth Summary: Lionel Messi tops the France Football rich list with 2014 income of £47.8m .
+His Barcelona club salary of £26m is topped up by sponsorship deals .
+Cristiano Ronaldo comes in second with annual earnings of £39.7m .
+Those two come well ahead of third-placed Neymar on £26.8m .
+Robin van Persie, Wayne Rooney and Sergio Aguero feature in top 10 .
+Chelsea's Jose Mourinho is highest-earning manager on £13.2m a year .
+----------------------------------------
+Generated Summary: Lionel Messi tops the France Football rich list for 2014 with an annual income of £47.8m. Cristiano Ronaldo comes in second with earnings of £39.7m.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The father of a 14-year-old who was killed by a cannabis-smoking driver as she walked to school has told of his devastation as it is claimed the man was texting when he hit her. Robert Blackwell, a 19-year-old drug user, was behind the wheel of the speeding Citroen C2 which mounted the pavement where Liberty was walking. Her mother, Maureen (right with Finley, Liberty's 10-year-old brother) broke down in tears after today's hearing . The schoolgirl's father today described the 'living nightmare' her death has become as prosecutors claimed Blackwell had been distracted by his phone at the time of the crash
+----------------------------------------
+Ground truth Summary: Liberty Baker was killed as she walked to school in Witney, Oxfordshire .
+Robert Blackwell, 19, mounted the pavement in his speeding Citroen .
+He pleaded guilty to causing death by dangerous driving this afternoon .
+Liberty's father told of the schoolgirl's final moments after the hearing .
+Paul Baker said her death had become a 'living nightmare' for his family .
+----------------------------------------
+Generated Summary: Robert Blackwell, 19, was behind the wheel of the speeding Citroen C2 which mounted the pavement where Liberty was walking. Her mother, Maureen, broke down in tears after today's hearing.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Slavisa Jokanovic affords himself a sneaky peak through the green mesh fence at Watford's London Colney training ground. Next door Arsenal are going through their paces. It is not too revealing but for Jokanovic it is a glimpse into what he hopes is the very near future. The former Chelsea midfielder wants to manage a Premier League club and Watford, one of seven teams to have been top of the Championship so far this season, have a foot in the door. 'I take a little look now and again,' he says wryly. 'It's good to have them so close, it's a reminder of what we want to be
+----------------------------------------
+Ground truth Summary: Watford manager Slavisa Jokanovic is targeting promotion to the Premier League this season .
+The Hornets are currently second in the Championship table with seven games left to play .
+Lifelong Watford supporter and former club chairman Sir Elton John has promised the team a big party if they reach the Premier League .
+----------------------------------------
+Generated Summary: Slavisa Jokanovic wants to manage a Premier League club. The former Chelsea midfielder wants to manage Watford, one of seven teams to have been top of the Championship so far this season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Pele will be a guest at Anfield on Sunday to watch the crunch top four battle between Liverpool and Manchester United. The Brazilian great, now 74, appeared in a TV advert with Liverpool striker Daniel Sturridge ahead of last summer’s World Cup in Brazil. He is at Anfield as part of his commercial work with Subway Restaurants, who are one of Liverpool's business partners. Brazil legend Pele will be a guest at Anfield to watch Liverpool take on Manchester United on Sunday . Pele played in Liverpool, across the park at Goodison, for Brazil in 1966, but he limped off injured 
+----------------------------------------
+Ground truth Summary: Brazilian legend will be a guest at Anfield for crunch clash .
+The 74-year-old played in the city during 1966 World Cup .
+Manchester United and Liverpool in battle for Champions League spot .
+READ: Liverpool vs Man United XIs: Steven Gerrard fails to make Jamie Carragher's team as Gary Neville picks Angel di Maria .
+----------------------------------------
+Generated Summary: Pele will be a guest at Anfield on Sunday to watch Liverpool take on Manchester United. The Brazilian great, now 74, appeared in a TV advert with Daniel Sturridge ahead of last summer's World Cup in Brazil. He is at Anfield as part of his commercial work with Subway Restaurants, who are one of Liverpool's business partners.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Shamed: Rolf Harris was jailed for 12 indecent assaults against four girls between 1968 and 1986 . Shamed former children's entertainer Rolf Harris has received tax and VAT rebates amounting to almost £200,000. The paedophile, 84, placed two of his companies - Rolf Harris Enterprises and Rhel Holdings into liquidation - and accounts reveal he and his wife were left with a windfall of £1.2 million. This included a £148,000 tax refund, plus they were entitled to an additional £48,000 in the form of a VAT refund, it has been reported
+----------------------------------------
+Ground truth Summary: Rolf Harris is said to have received rebates amounting to almost £200k .
+Paedophile liquidated two companies and received tax and VAT refunds .
+Harris, 84, could be earning as much as £1,300 a day from his prison cell .
+Jailed in July for 12 indecent assaults against four girls from 1968 and 1986 .
+This week, Harris was stripped of the CBE awarded to him by the Queen .
+----------------------------------------
+Generated Summary: The paedophile placed two of his companies - Rolf Harris Enterprises and Rhel Holdings - into liquidation. Accounts reveal he and his wife were left with a windfall of £1.2 million. This included a £148,000 tax refund, plus they were entitled to an additional £48,000 in the form of a VAT refund.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)After a handful events in two months, Hillary Clinton has filled her March with a mix of women's events, nonprofit speeches and at least one paid appearance. But as Clinton moves closer to her expected 2016 presidential campaign announcement, the former secretary or state has at least seven events scheduled for the month of March. Emily's List has been energized by Clinton's campaign and has pledged to raise and spend more money than any other election cycle because of the prospect of a Clinton White House
+----------------------------------------
+Ground truth Summary: Clinton currently has seven events in March, with one paid speech and many focused on women .
+This comes after Clinton gave only three speeches in January and February .
+Clinton is expected to announce some official move towards the presidency in April, according to Democrats close to her .
+----------------------------------------
+Generated Summary: Hillary Clinton has at least seven events scheduled for the month of March. The former secretary or state has at least one paid appearance scheduled for the month of March. Clinton is expected to announce her 2016 presidential campaign in the coming weeks.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Australia eased past Scotland despite a long rain delay to finish second in World Cup Pool A after a seven-wicket win in Hobart. Scotland were skittled out for 130 in just 25.4 overs by the Australia attack with Mitchell Starc (four for 14) the key man for the tournament co-hosts. Australia then made light work of the reply, which was interrupted for an hour and a half by a rain delay, with Michael Clarke top-scoring with 47 as they eased to victory in 15.2 overs. Clarke plays a pull shot before there was an hour and a half break in play due to rain 
+----------------------------------------
+Ground truth Summary: Australia beat Scotland by seven wickets in Hobart on Saturday .
+Scotland were skittled out for just 130 runs surviving only 25.4 overs .
+Co-hosts chased down the target with ease with almost 35 overs to spare .
+Mitchell Starc was the pick of the Australian bowlers with figures of 4-14 .
+Michael Clarke top-scored with 47 before a long delay due to rain .
+----------------------------------------
+Generated Summary: Scotland were skittled out for 130 in just 25.4 overs by the Australia attack. Australia then made light work of the reply, which was interrupted for an hour and a half by a rain delay. Michael Clarke top-scored with 47 as they eased to victory in 15.2 overs.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: AirAsia passengers were left stranded on the tarmac for about an hour with vomiting travellers on-board after they had to make an unscheduled landing in Melbourne. One of the passengers, known only as Amanda, called 2GB radio station on Tuesday claiming to be on Flight D7 223, which was on its way to Kuala Lumpur to Sydney. The caller said the plane had been diverted to Melbourne after its 11.55am departure and did not know had they ended up there. The caller said the plane had been diverted to Melbourne after its 11.55am departure on Tuesday and did not know had they ended up there 
+----------------------------------------
+Ground truth Summary: Flight D7 223 was on its way from Sydney to Kuala Lumpur on Tuesday .
+It made an unscheduled landing in Melbourne after its 11.55am departure .
+A passenger said fellow travellers had started vomiting on stranded plane .
+They spent the next three hours stranded on tarmac at Melbourne airport .
+An AirAsia spokesman said the plane stopped over for 'technical reasons'
+He said a safety inspection was completed and the flight took off again .
+----------------------------------------
+Generated Summary: One of the passengers, known only as Amanda, called 2GB radio station on Tuesday claiming to be on Flight D7 223, which was on its way to Kuala Lumpur to Sydney. The plane had been diverted to Melbourne after its 11.55am departure on Tuesday and did not know had they ended up there.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A celebrity neighbour row has taken a new twist after Jimmy Page hired architects and engineers to say how Robbie Williams' basement pool could destroy his 'irreplaceable' home. The pop star, who bought Michael Winner's former 46-room home in 2013, first sparked Mr Page's ire last month with plans for an extension including a lift and recording studio. Take that, Robbie! The singer (left) has received a fresh complaint from his neighbour Jimmy Page (right) Then Mr Wiliams submitted plans for a two-storey basement with a swimming pool - prompting drastic action from Mr Page, who has been in his house for 43 years
+----------------------------------------
+Ground truth Summary: Take That star bought £17.5m mansion in London's Holland Park in 2013 .
+Now he wants to build extension with large subterranean swimming pool .
+Plans upset some neighbours - chief among them veteran guitarist Page .
+71-year-old said it could upset the fabric of his Grade I listed tower house .
+He hired architects and engineers who warned of 'damaging' vibrations .
+----------------------------------------
+Generated Summary: Neighbour Jimmy Page has hired architects and engineers to say how Robbie Williams' basement pool could destroy his 'irreplaceable' home. The pop star, who bought Michael Winner's former 46-room home in 2013, first sparked Mr Page's ire last month with plans for an extension. Then Mr Wiliams submitted plans for a two-storey basement with a swimming pool - prompting drastic action from Mr Page, who has been in his house for 43 years.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: English raspberries have made what is thought to be their earliest-ever appearance on supermarket shelves after the sunniest winter on record. Waitrose will stock the Chichester glasshouse-grown Diamond Jubilee berries from today, claiming it is the first time consumers have been able to enjoy locally grown varieties in March. The berries are grown in glasshouses by Harry Hall, who supplied the supermarket with the first strawberries of the season earlier this month. The early delivery is thanks to the weather this winter, which the Met Office has said was the sunniest since records began in 1929 
+----------------------------------------
+Ground truth Summary: Waitrose to stock glasshouse grown berries for the first time ever in March .
+200kg of the berries expected this week with a tonne produced next week .
+The crop is due to mild winter weather, the sunniest since records began .
+----------------------------------------
+Generated Summary: Waitrose will stock the Chichester glasshouse-grown Diamond Jubilee berries from today. It is the first time consumers have been able to enjoy locally grown varieties in March. The berries are grown in glasshouses by Harry Hall, who supplied the supermarket with the first strawberries of the season earlier this month. The early delivery is thanks to the weather this winter, which the Met Office has said was the sunniest since records began in 1929.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Trainer Oliver Sherwood has refused to rule out a shot at next month’s Grand National with his Cheltenham Gold Cup sixth Many Clouds. The Trevor Hemmings-owned winner of November’s Hennessy Gold Cup is a 33-1 chance for the race. The Lambourn trainer said: ‘I am not ruling the National out but Many Clouds is having a quiet week and we will talk about it after that. Oliver Sherwood has refused to rule out a shot at next month’s Grand National with Many Clouds . ‘If you had told me at the start of the season he would be sixth in the Gold Cup I would have bitten your hand off but my gut feeling is he didn’t run his race
+----------------------------------------
+Ground truth Summary: Many Clouds trainer Oliver Sherwood is 'not ruling out the National'
+Lambourn trainer has given Clouds a quiet week following Gold Cup .
+Many Clouds finished sixth in the Cheltenham Gold Cup last week .
+----------------------------------------
+Generated Summary: Many Clouds is a 33-1 chance for the Grand National. Trainer Oliver Sherwood has refused to rule out a shot at next month's race. Many Clouds finished sixth in the Cheltenham Gold Cup.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

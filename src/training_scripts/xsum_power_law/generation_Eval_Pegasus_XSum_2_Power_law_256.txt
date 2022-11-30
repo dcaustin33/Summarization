@@ -1,0 +1,219 @@
+Generations for Eval_Pegasus_XSum_2_Power_law_256
+Article text: Media playback is not supported on this device
+And at Aintree in 2017 we have plenty to play with: it's half a century - to the day as it happens - since Foinavon's shock success at 100-1; and 40 years have elapsed since Red Rum, the all-time greatest Grand National horse, raised the roof with his historic third win
+----------------------------------------
+Ground truth Summary: Programme producers love a 'round-figure' anniversary.
+----------------------------------------
+Generated Summary: The Grand National is the world's most famous steeplechase.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The offers from West Ham and Burnley are in the region of £10m, though the Hammers' is higher. 
+Clarets boss Sean Dyche said there was a "difference" between a fee being agreed and "a player joining". 
+"I think they rejected an offer but we are working, " he added
+----------------------------------------
+Ground truth Summary: West Ham have joined Burnley in having an offer accepted by Hull for Robert Snodgrass, while Middlesbrough say they have also made a bid.
+----------------------------------------
+Generated Summary: Burnley have rejected a bid from West Ham for striker Sam Vokes, who is out of contract at the end of the season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scottish right-back Grimmer, 21, returns to the Town following a seven-game loan spell last season. 
+Former Manchester United youngster Cole, 22, has been at the Greenhous Meadow since September, having so far scored two goals in 19 appearances. 
+Both players are scheduled to stay with Shrewsbury until the end of the season
+----------------------------------------
+Ground truth Summary: League One strugglers Shrewsbury Town have re-signed Fulham defender Jack Grimmer on loan and extended the stay of Cottagers midfielder Larnell Cole.
+----------------------------------------
+Generated Summary: Shrewsbury Town have extended the loan spells of defender Scott Grimmer and striker James Cole.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: American Woods, 40, has not played tournament golf in almost a year and had two operations last autumn in an attempt to cure a back problem. 
+His agent has confirmed he will not play for the rest of this season as he is not ready for "competitive golf". 
+The 14-time major winner has dropped to a world ranking of 628
+----------------------------------------
+Ground truth Summary: Tiger Woods has withdrawn from the US PGA, meaning he will miss all four majors in a calendar year for the first time since his Masters debut in 1995.
+----------------------------------------
+Generated Summary: Tiger Woods will not play again this year, his agent has confirmed.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Pamela Shimwell-Mayo, receives an MBE for services to Parkinson's and said she was "incredibly emotional". 
+Financial expert Tim Cullen, 70, also receives an MBE for services to International Financial Management. 
+The Isle of Man Parkinson's Disease Society Chairman said: "I am in shock
+----------------------------------------
+Ground truth Summary: A founder member of the Isle of Man's Parkinson's Disease Society is one of three Manx residents recognised in the 2014 Queen's Birthday Honours list.
+----------------------------------------
+Generated Summary: An Isle of Man woman with Parkinson's disease has said she is "in shock" after being awarded an MBE in the Queen's Birthday Honours list.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The 32-year-old has joined the Conference Premier leaders from Northampton on loan until the end of the season. 
+Artell has not played since October because of an Achilles injury. 
+Despite his lack of games and with centre-half Martin Riley out with a hamstring injury, Morrell has not ruled out Artell starting should he eligible in time
+----------------------------------------
+Ground truth Summary: Wrexham are hopeful on loan defender David Artell will receive international clearance in time for Saturday's home game against Alfreton Town.
+----------------------------------------
+Generated Summary: Morecambe manager Andy Morrell has signed defender David Artell on loan until the end of the season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Sunderland said they agreed a three-and-a-half-year deal with M'Vila but "decided not to enforce the contract". 
+M'Vila missed just one Premier League game as he helped Sam Allardyce's side avoid relegation last term, with Black Cats fans hopeful the club would sign him on a permanent deal last summer
+----------------------------------------
+Ground truth Summary: Sunderland say they will not be signing Yann M'Vila in January after being told the French midfielder no longer wants to re-join the Premier League club.
+----------------------------------------
+Generated Summary: French midfielder Yann M'Vila has left Sunderland on a season-long loan deal after failing to agree personal terms with the Premier League club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Network Rail said the railway station would be shut between 30 September and 22 October so passenger capacity can be increased. 
+It is part of the rail management company and Liverpool City Region's Â£340m project to upgrade 10 railways. 
+A spokesman for Network Rail said disruption would be "kept to a minimum" and most services would run to and from Liverpool South Parkway instead
+----------------------------------------
+Ground truth Summary: Liverpool Lime Street is to close for three weeks for a major refurbishment.
+----------------------------------------
+Generated Summary: Liverpool Lime Street station is to be closed for three weeks in a major upgrade of the Merseyrail network.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: No-one has applied for the job of lollipop man or woman at Broughton Moor Primary School in Allerdale, Cumbria, despite repeated advertisements since January 2011. 
+Cumbria County Council has proposed scrapping the post and reallocating the money to the town's general budget
+----------------------------------------
+Ground truth Summary: A school crossing patrol could be permanently scrapped after a four-year search for someone to staff it failed.
+----------------------------------------
+Generated Summary: A lollipop man who has been on the job for more than three years is to lose his job because of a lack of applications.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Tourists may have caught a glimpse of the future monarch in uniform riding his horse Wellesley in The Mall. 
+As Colonel of the Irish Guards, Prince William inspected the troops ahead of the parade on 17 June. 
+More than 6,000 spectators watched the inspection in Horse Guards Parade. 
+There were more than 200 military horses on parade and 400 musicians
+----------------------------------------
+Ground truth Summary: The Duke of Cambridge has taken part in the military rehearsal for the Queen's Birthday Parade, also known as Trooping the Colour, for the first time.
+----------------------------------------
+Generated Summary: Prince William has made his first public appearance since his wedding to the Duchess of Cambridge.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Of the 245 families interviewed, 76% said that their child's illness had had a major impact on finances with two in three parents experiencing a loss of earnings. 
+It wants the government to ensure families get more financial support. 
+These costs included travel and car parking to get to hospitals and treatment centres, additional clothing for the child as a result of weight loss, food to supplement that available in hospital, and other costs such as telephone calls and accommodation
+----------------------------------------
+Ground truth Summary: Two-thirds of parents of children with cancer surveyed by a cancer charity say they have been forced to borrow money to make ends meet.
+----------------------------------------
+Generated Summary: The cost of caring for a child with a life-threatening illness is costing families thousands of pounds a year, according to a report.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Tunnicliffe, 24, worked with Wigan boss Warren Joyce when he was coming through the Manchester United youth system. 
+Browne, 19, made his professional debut in the Europa League this season and has also played in the EFL Trophy. 
+"Marcus is a young player with great potential and will strengthen our group," said manager Joyce
+----------------------------------------
+Ground truth Summary: Wigan Athletic have signed midfielders Ryan Tunnicliffe and Marcus Browne from Fulham and West Ham on loan until the end of the season.
+----------------------------------------
+Generated Summary: Wigan Athletic have signed midfielder Ryan Tunnicliffe and defender Marcus Browne on one-year deals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: This means the number of extra deaths from December to March fell to traditional levels after the spike seen during the winter of 2014-15. 
+Death rates rise in the colder weather because of more respiratory illnesses. 
+But during the most recent winter, flu attacked younger groups
+----------------------------------------
+Ground truth Summary: There were 24,300 excess deaths in England and Wales last winter - about half the number of the previous year.
+----------------------------------------
+Generated Summary: The number of flu-related deaths in England and Wales fell sharply in the winter of 2015-16, according to the latest figures.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Captain Lee Wallace's struck to give the home side the lead just after the quarter-hour mark. 
+And Martyn Waghorn doubled their advantage shortly before the break, turning in Barrie McKay's pass. 
+Nicky Law added a third with a shot high into the net as Mark Warburton's side claimed their tenth win in all competitions
+----------------------------------------
+Ground truth Summary: Rangers made it six wins out of six in the Scottish Championship with a comfortable victory over Livingston.
+----------------------------------------
+Generated Summary: Rangers kept up the pressure on Celtic at the top of the Scottish Premiership with a comfortable win over Queen of the South at Ibrox.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: One lane of a busy road was closed to traffic due to emergency repairs on Wednesday during rush hour. 
+A number of businesses reported problems with their water supply and some were even forced to close for a short time. 
+NI Water said that it had now successfully completed the repairs in the city centre area and was working on another burst on the Grosvenor Road
+----------------------------------------
+Ground truth Summary: Disruption caused by burst water pipes in Belfast city centre has ended.
+----------------------------------------
+Generated Summary: A burst water main in Belfast city centre has been repaired, NI Water has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: UK government figures showed Scotland generated 4,590 gigawatt hours (GWh) of renewable energy in the first three months of 2012. 
+This was an increase of 1,435 GWh on the first quarter of 2011. 
+The Scottish government said that, assuming gross consumption in 2011 was similar to 2010, about 35% of Scotland's electricity needs came from renewables in 2011, beating its interim target of 31%
+----------------------------------------
+Ground truth Summary: Scotland's renewable energy output increased by 45% in the first quarter of this year, compared with the same period last year.
+----------------------------------------
+Generated Summary: The amount of renewable energy generated in Scotland in the first three months of 2012 has increased by more than a third on the same period last year.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scientists are recruiting 64 healthy adult volunteers for the trial, which is expected to take up to two years. 
+The work will be split equally between London, the Rwandan capital Kigali and Nairobi in Kenya. 
+This early trial is being run by the International Aids Vaccine Initiative (IAVI), a non-profit organisation
+----------------------------------------
+Ground truth Summary: A fresh effort to find a vaccine for HIV is beginning at laboratories in a London hospital and two centres in Africa.
+----------------------------------------
+Generated Summary: The first human trials of a new HIV vaccine have begun in Africa.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Transport Secretary Philip Hammond cut the ribbon at the 1. 1 mile (1. 
+He said: "This is another one of the missing links in Britain's trunk road network now put in place. "
+Southbound traffic is using the tunnel first, with northbound traffic due to start using it in a few days
+----------------------------------------
+Ground truth Summary: The £371m Hindhead Tunnel under the Devil's Punch Bowl in Surrey has been officially opened after a four-and-a-half year construction project.
+----------------------------------------
+Generated Summary: The first traffic has passed through the newly-opened Dartford Crossing tunnel.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Every year temples in the state organise fireworks displays, often competing to stage the most spectacular ones. 
+"The devotees burst firecrackers to appease the female deity," local MP NK Premachandran told the BBC. 
+Now the Puttingal temple has earned worldwide infamy for Sunday's explosion and fire that killed more than 100 people
+----------------------------------------
+Ground truth Summary: Fireworks and firecrackers are commonly used at temple festivals in the southern Indian state of Kerala, and the Puttingal temple is no exception.
+----------------------------------------
+Generated Summary: A temple in the southern Indian state of Kerala has been engulfed in flames after a fireworks display went horribly wrong.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Apple shares climbed 6. 5% after the tech giant's latest results beat expectations, despite seeing a dip in iPhone sales. 
+The tech-heavy Nasdaq index climbed 29. 76 points to 5139. 81. 
+The Dow Jones fell 1. 58 points to 18472. 17, while the broader S&P 500 slipped 2. 6 to 2166
+----------------------------------------
+Ground truth Summary: (Close): US stock markets were little moved after the Federal Reserve kept rates unchanged, but strong results from Apple helped lift the Nasdaq.
+----------------------------------------
+Generated Summary: (Close): US markets closed mixed on Thursday, with the tech-heavy Nasdaq Composite index rising after Apple reported better-than-expected results.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
