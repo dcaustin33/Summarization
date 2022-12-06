@@ -1,0 +1,247 @@
+Generations for Eval_Pegasus_CNN_tf_idf_256
+Article text: Britain is to give £5million to help efforts to defeat terror group Boko Haram, it emerged today. Foreign Secretary Philip Hammond said the money would support a new regional task force designed to target the Islamic extremists in northern Nigeria and the Lake Chad Basin area. 'I hope that the international community can send an important message of support through the swift adoption of a security council resolution in New York to welcome the force. I commend the commitment and bravery of the troops involved. It was not possible to verify this morning's morale-boosting announcement, which comes just one day before critical presidential elections in Nigeria
+----------------------------------------
+Ground truth Summary: Support for new regional task force designed to target Islamic extremists .
+Nigeria, Chad, Cameroon, Niger and Benin will contribute to the group .
+Nigerian military says it has destroyed the jihadi's headquarters in Gwoza .
+North-east Nigerian city is a Boko Haram stronghold and de facto capital .
+----------------------------------------
+Generated Summary: Britain is to give £5million to help efforts to defeat terror group Boko Haram. Foreign Secretary Philip Hammond said the money would support a new regional task force designed to target the Islamic extremists in northern Nigeria and the Lake Chad Basin.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: (CNN)As planets go, Mercury doesn't get a lot of love. People spend more time on Google searching for Queen singer Freddy Mercury than planet Mercury ... and Freddie's been gone for nearly a quarter-century. Not even NASA spends much time there, making it the least-explored inner planet in the solar system. "We show that carbon acts like a stealth darkening agent," said Peter Schultz, a professor emeritus of geological sciences at Brown University. "From the standpoint of spectral analysis, it's like an invisible paint."
+----------------------------------------
+Ground truth Summary: Mercury was "painted black" by millions of years of micrometeorites, researchers say .
+The research could solve the puzzle of why the planet appears so dark .
+----------------------------------------
+Generated Summary: Mercury is the least-explored inner planet in the solar system. It's also the most-searched planet on Google, according to a new study. It's also the least-visited planet in the solar system.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: This is the college student who was filmed biting the head off a live hamster, DailyMail.com can reveal. The stunt could see him charged with felony animal cruelty. He lost to the Republican incumbent Haley Barbour, winning 42 per cent of the vote, following controversial claims about the state's growing Latino population. Sources told DailyMail.com the students force-fed the hamster vodka and 'hot-boxed' its cage with marijuana. Screaming: Eaves bellows a yell and smiles into the camera as party-goers look on open-mouthed. People who abuse animals rarely do so only once and almost never stop there
+----------------------------------------
+Ground truth Summary: Brady Eaves, 18, was filmed biting the head off a live hamster at a party .
+He is the stepson of John Arthur Eaves Jr, Democratic candidate for Mississippi governor in 2007, now an esteemed pro-life lawyer .
+The teenager is a University of Mississippi scholar, Phi Delta Theta frat member, star soccer player, was a top student at private school in Jackson .
+Sources told DailyMail.com he is an 'animal lover' with a pet raccoon .
+They said Eaves and his friends fed the hamster vodka and 'hot-boxed' its cage with marijuana before the sickening stunt was caught on camera .
+Eaves could be charged with felony animal cruelty charges if it was filmed in Florida, where there is 5-year maximum jail term and $5,000 fine .
+----------------------------------------
+Generated Summary: University of Mississippi student was filmed biting the head off a live hamster. The stunt could see him charged with felony animal cruelty. He lost to Republican incumbent Haley Barbour, winning 42 per cent of the vote, following controversial claims about the state's growing Latino population.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The audience for whom this press conference mattered most was Democratic and independent voters, who may admire Hillary Clinton, but as history has proved, simply cannot be counted on to vote for her in 2016, especially if someone else comes along on her left. That means that the half of the country that was predisposed to like her politics and who already knew who she was chose someone else. And the other half of the country did, too. She's just as vulnerable, if not more, to the same kind of usurpation in 2016, thanks to an even greater sense of inevitability on the left, and the reflexive rush to protect her from valid questions and criticism isn't helping to dissolve it
+----------------------------------------
+Ground truth Summary: S.E. Cupp: At press conference, Hillary Clinton insists there was nothing amiss with her use of personal email while secretary of state .
+Clinton is not invulnerable: She risks losing Democratic and independent voters, who abandoned her in 2008, she says .
+Cupp: She should have assured them that the rules do apply to her, that transparency and accountability matter .
+----------------------------------------
+Generated Summary: The audience for whom this press conference mattered most was Democratic and independent voters. The audience for whom this press conference mattered most was Democratic and independent voters. The audience for whom this press conference mattered most was Democratic and independent voters. The audience for whom this press conference mattered most was Democratic and independent voters. That means that the half of the country that was predisposed to like her politics and who already knew who she was chose someone else.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mr Baird made several new policy announcements including a promise to introduce scholarships for 25,000 TAFE students, new incentive payments that encourage small businesses to take on more staff and an early roll out of the National Disability Insurance Scheme. She was quick to hit back on twitter saying the claim was unfounded as she ‘never supported the sale.’ In the meantime Luke Foley attempted to rally his supporters with claims that a win for him would be the first nail in the Prime Ministers coffin. Labor has vocally opposed Mr Baird plans to privatise the State-owned electricity network
+----------------------------------------
+Ground truth Summary: Mike Baird announced several new initiatives  at his campaign launch .
+They include 150,000 more jobs, scholarships for TAFE students and early roll out of the National Disability Insurance Scheme .
+Playing cards undermining Labor's campaign were also handed out .
+They offer 'facts' to counter Labor's 'lies' about the electricity sell off .
+Luke Foley is featured as Joker and Kristina Keneally as Queen of Hearts .
+Mr Baird's tipped to retain his position as Premier but may lose his majority .
+----------------------------------------
+Generated Summary: NSW Premier Mike Baird made several new policy announcements. Mr Baird made several new policy announcements including a promise to introduce scholarships for 25,000 TAFE students. Mr Baird made several new policy announcements including a promise to introduce scholarships for 25,000 TAFE students. Mr Baird made several new policy announcements including a promise to introduce scholarships for 25,000 TAFE students.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A group known as Safari Users Against Google's Secret Tracking want to take legal action in the English courts over the way Google tracks users of Apple Safari's internet browser. The campaigners also say that Google's 'clandestine' tracking and collation of internet usage between summer 2011 and spring 2012 led to distress and embarrassment among UK users. Lord Dyson, Master of the Rolls, and Lady Justice Sharp said in their joint judgment, with which Lord Justice McFarlane agreed: 'On the face of it, these claims raise serious issues which merit a trial
+----------------------------------------
+Ground truth Summary: Group claims Google bypassed security to track their online browsing .
+Action taken over the way Google tracked users of Apple Safari's internet browser .
+Appeal court ruling means Google users have the right to sue internet giant .
+The ruling was a victory for 'Safari Users Against Google's Secret Tracking'
+----------------------------------------
+Generated Summary: Safari Users Against Google's Secret Tracking want to take legal action in the English courts. Campaigners say Google's 'clandestine' tracking and collation of internet usage between summer 2011 and spring 2012 led to distress and embarrassment.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scroll down for video. I also lost a cousin, Thelma's daughter, at 41, and a granddad, Dad's father, at 46 to the disease.' This rare, inherited, or 'familial' form of Alzheimer's disease has also left his 43-year-old brother, Tony (pictured with his son), bedbound in a care home and being fed through a tube. He said: 'My family has been hit hard by Alzheimer's. Hilary Evans, Director at Alzheimer's Research UK, said: 'Chris embodies everything that goes against the dementia stereotype – he's young and fit and his zest for life in the face of adversity is truly inspiring
+----------------------------------------
+Ground truth Summary: Chris Graham was diagnosed with early onset Alzheimer's five years ago .
+Disease has claimed the lives of four other close family members .
+Killed his father at the age of 42, and Chris' brother is bedbound at just 43 .
+He is now fundraising for research into Alzheimer's disease .
+Plans to cycle 16,000 miles around Canada and America next month .
+----------------------------------------
+Generated Summary: Alzheimer's disease is the most common form of dementia in the UK. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK. The disease is inherited, inherited, or 'familial' form of Alzheimer's disease. It affects more than one million people in the UK.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He later posted the photograph on Twitter with the caption: 'Took this picture earlier today. Heard woodpecker in distress, then flew up with weasel on back.' The image has now gone viral online after thousands of users shared the 'one-in-a-million' snap on social media. It was hopping around on the ground acting very, very strangely and still making this squawking noise. 'I think Ann was quite excited to see a woodpecker and see it in the context of being attacked by a weasel and then quite excited that my photograph has been seen by more than a million people
+----------------------------------------
+Ground truth Summary: Woodpecker spotted mid-flight at Hornchurch Country Park in east London with  brown weasel clinging to its back .
+Stunning image captured by photographer Martin Le-May, who said small mammal pounced on green woodpecker .
+Mr Le-May, 52, who enjoys photography as a hobby, said the response to the photograph had been 'mind-blowing'
+----------------------------------------
+Generated Summary: The image has now gone viral online after thousands of users shared the 'one-in-a-million' snap on social media.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A new injectable drug designed to eliminate double chins without surgery was unanimously recommended for approval by a Food and Drug Administration advisory committee this week. The ATX-101 treatment only takes five minutes to administer and two to three days to heal. Changes in the neck as we age or gain weight can have profound effect on our self-esteem.' The drug is a formulation of deoxycholic acid, a 'naturally occurring molecule' that helps our bodies break down the fat we receive from food, according to manufacturer KYTHERA Biopharmaceuticals
+----------------------------------------
+Ground truth Summary: ATX-101 is a noninvasive, in-office procedure that takes five minutes .
+Drug is injected in grid of tiny dots where 'max amount of fat' under chin is .
+Patients heal in 2-3 days and can walk out without wearing a bandage .
+Drug destroys membranes of fat cells, causing them to burst and permanently disappear .
+Side effects include short-term swelling, bruising and numbness .
+The drug now just needs final FDA approval .
+----------------------------------------
+Generated Summary: A new injectable drug designed to eliminate double chins without surgery was unanimously recommended for approval by a Food and Drug Administration advisory committee. The ATX-101 treatment only takes five minutes to administer and two to three days to heal. The drug is a formulation of deoxycholic acid, a 'naturally occurring molecule' that helps our bodies break down the fat we receive from food.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: New York Giants tight end Larry Donnell was one of the 127 passengers aboard the Delta flight that slid off the runway at LaGuardia Airport Thursday morning. New York Giants tight end Larry Donnell was one of the 127 passengers aboard the Delta flight that slid off the runway at LaGuardia Airport on Thursday. It stopped just feet away from entering the water. The crash shut down LaGuardia Airport and caused minor injuries, with 24 people being treated total. The airport is expected to be open again later today, and currently has one runway in operation.
+----------------------------------------
+Ground truth Summary: New York Giants tight end Larry Donnell was one of the 127 passengers aboard the Delta flight that slid off the runway at LaGuardia Airport .
+He shared photos of his experience on Instagram, as well as a video .
+A few hours later, MSNBC reported that they had Donnell on the phone to give an account of what happened on the flight .
+It was instead a prank call, and a man yelled 'Fu*k her right in the pu**y' on live television before hanging up the phone .
+----------------------------------------
+Generated Summary: Larry Donnell was one of the 127 passengers aboard the Delta flight that slid off the runway at LaGuardia Airport on Thursday morning. It stopped just feet away from entering the water. The plane skidded off the runway as it was taking off from the airport at around 6:20am. The plane skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. The plane skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am. It skidded off the runway as it was taking off from the airport at around 6:20am.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jonathan Sexton (centre) and his fellow Irish players are gearing up for their crunch clash against Scotland. ‘One week you might score three tries and the next week you might not get any and you might have played better in the second week but you just didn’t convert the opportunities. ‘They’re doing the job with a different experience and a different knowledge of the game at that level. ‘It’s tricky. They have narrow losses right through and have a better balance to their side this week. I’ve read comments about how desperate they are to give an account of themselves that is sufficient to get them over the line.’
+----------------------------------------
+Ground truth Summary: Joe Schmidt and Vern Cotter worked together at Clermont in the Top 14 .
+The pair were also coaching partners at Bay of Plenty in New Zealand .
+Ireland surrendered their Grand Slam hopes against Wales last Saturday .
+But Schmidt's side can still claim the title on points difference .
+A big win over Scotland is the target for Ireland on Saturday .
+----------------------------------------
+Generated Summary: Ireland face Scotland at Murrayfield on Saturday in their final Six Nations game. The Scots have won just one of their last six games. Ireland have won their last three games against Scotland.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Spirits in the Ligue 1 outfit's camp looked high as they were seen joking around and juggling the ball during the training session in front of a picturesque backdrop. Former Manchester United and Tottenham striker Dimitar Berbatov trains ahead of his side's encounter against Arsenal. Meanwhile, Carvalho has warned his team-mates that Arsenal are capable of clawing back what is essentially a three-goal deficit. Monaco forward Anthony Martial shares a joke with Jardim shortly after arriving for training in La Turbie. I have a lot of experience and fortunately I've played a lot of those games - semi-finals and finals, I played two finals
+----------------------------------------
+Ground truth Summary: Leonardo Jardim put his players through their paces ahead of Tuesday's Champions League clash .
+Monaco defender Ricardo Carvalho insists his side must be wary of threat posed by Arsenal .
+Arsenal must score at least three goals if they're to progress to next round of competition .
+Ligue 1 outfit Monaco beat Arsenal 3-1 at the Emirates Stadium on February 25 .
+Carvalho is hoping to feature against Monaco after missing first leg through injury .
+CLICK HERE for all the latest Arsenal news .
+----------------------------------------
+Generated Summary: Leonardo Jardim's side face Arsenal in the Champions League semi-final second leg at the Emirates Stadium on Wednesday. Monaco are 3-0 up from the first leg at the Stade Louis II. Dimitar Berbatov, Radamel Falcao and Thomas Lemar have all scored for the Ligue 1 side.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It was: 'Hi Dad, I am very happy to be here'. The attack was a failure. A video later surfaced from his school days which shows Bilardi being 'happy slapped' - a bullying tactic which sees a group of people slap their victim, film it and upload it on-line to humiliate them. He only really had two or three friends from memory but they weren't the type of friends that if he was in need of some help were good at helping,’ a former classmate told Daily Mail Australia. 'The kid (was) angry at the world and wants to take it out on innocent people.'
+----------------------------------------
+Ground truth Summary: John Bilardi reveals on 60 Minutes how and when he learned of his 18-year-old son's defection to Islamic State .
+He breaks down in the interview when recounting reports of Jake's suicide mission .
+Reveals the final text message he received from within the IS bunker .
+Talks about how his son was lured into the clutches of IS and convinced to sacrifice himself .
+Bilardi snr sends out a chilling warning to other parents of young men who might feel lost and lonely .
+John Bilardi was interviewed by Michael Usher for the program which airs at 8.30 Sunday on the Nine Network .
+----------------------------------------
+Generated Summary: Daniel Bilardi, 19, was filmed 'happy slapped' by a group of friends. The attack was a failed attempt at bullying. Bilardi's former schoolmates say he was 'angry at the world' and 'wanted to take it out on innocent people'
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scientists told reporters on a conference call that it took. with telltale visuals - twin bands of glowing aurora around. found it fell short. 'Jupiter is like a lighthouse whose magnetic field changes. Ganymede joins a growing list of moons in the outer solar. system with subsurface water. On Wednesday, scientists reported. that Saturn's moon Enceladus has hot springs beneath its icy. crust. The amount of rocking of the moon's magnetic field suggests that the moon has a subsurface saltwater ocean. times deeper than Earth's oceans, and is buried under a 95-mile
+----------------------------------------
+Ground truth Summary: Finding resolves a mystery about the largest moon in the solar system .
+Hubble Space Telescope confirmed Jupiter-orbiting moon  has an ocean .
+----------------------------------------
+Generated Summary: NASA's Hubble Space Telescope has captured images of Jupiter's largest moon, Ganymede. Ganymede is the largest moon in the solar system and is buried under a 95-mile layer of ice.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: In his acceptance speech he urged the Jewish community to get 'as organised as the mafia' to tackle anti-Semitism - although said afterwards he had never personally experienced it. The New Yorker used his acceptance speech to tell the audience: 'I think it's time that we, as Jews, get together with the Muslims who are honorable and peaceful — but we [also] have to go and protect ourselves', The Hollywood Reporter wrote. We just can't take it any more. 'And, unlike World War II, when we didn't act right away and we paid the price, we better start acting now
+----------------------------------------
+Ground truth Summary: Weinstein's father, who served during WWII, taught him about the issue .
+New Yorker produced wartime films including Inglourious Basterds .
+Urged Jewish community to 'get organised like the mafia' to tackle issue .
+'There's gotta be a way to fight back', he tells glitzy ceremony audience .
+----------------------------------------
+Generated Summary: 'I think it's time that we, as Jews, get together with the Muslims who are honorable and peaceful. We just have to go and protect ourselves,' he said. He urged the Jewish community to get 'as organised as the mafia' to tackle anti-Semitism.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The incident occurred when Sky News foreign editor Sam Kiley played the part of the Lib Dem leader in a warm-up for an election programme at Sky’s Westminster studio. But the newsman – who has survived several brushes with death over his 25-year career as a foreign reporter – had no idea that Clegg was standing behind a nearby camera and heard the jibe. He muttered sarcastically: ‘Thanks, Sam.’ One witness said: ‘Clegg looked thunderous but the children thought it was hilarious. And so did the adults who were there.’ A Sky insider said: ‘It was really unfortunate and Sam was horrified. Clegg shouldn’t have been allowed in while the warm-up was on
+----------------------------------------
+Ground truth Summary: Sky News foreign editor called Nick Clegg a 'lying, two-faced swine'
+Sam Kiley did not realise the Lib Dem leader was in the room at the time .
+Children in audience at election event burst into laughter after the insult .
+Clegg could be heard muttering sarcastically and 'looked very cheesed off'
+----------------------------------------
+Generated Summary: Sky News foreign editor Sam Kiley played the part of the Lib Dem leader in a warm-up for an election programme. But the newsman had no idea that Clegg was standing behind a nearby camera and heard the jibe.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: but only if he always performed like he did at Old Trafford. I do like the concept. His centre backs push wide, the full backs push on and the team pass the ball. 'To play this way, you really need to be exceptional. 'I like that he is playing with the wide players. Things change, although I believe that certain principles, of attacking, entertaining football, should always be protected. But I am afraid to say that if he wants to play this Barcelona style then the club will have to go back into the transfer market this summer to get the players they need to do it.'
+----------------------------------------
+Ground truth Summary: Paul Scholes believes Louis van Gaal is trying to play a 'Barcelona style'
+He feels Manchester United do not have the right players to make it work .
+Scholes wants Van Gaal to spend big to improve his squad this summer .
+Season ticket-holder Scholes also wants United to attack and entertain .
+CLICK HERE for all the latest Manchester United news .
+----------------------------------------
+Generated Summary: Former Manchester United striker believes Luis Enrique is the right man for the job. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past. Luis Enrique has been criticised for his style of play in the past.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Barcelona defender Gerard Pique was fined 10,500 euros (£7,640) by a Spanish judge on Tuesday for abusing police after the car he was travelling in was given a parking ticket. Pique wrote an apology to the court hearing in Barcelona for the public order offence that took place on Oct. 13, last year. Barcelona take on Villarreal on Wednesday in the Copa del Rey with a 3-1 lead heading into the second leg at the amp El Madrigal. Luis Enrique's side remain two points off rivals Real Madrid in the La Liga table with the El Clasico looking as if it could be a title decider
+----------------------------------------
+Ground truth Summary: Gerard Pique received the £7,640 fine for abusing a police officer .
+The Barcelona defender appeared at a Barcelona court for the offence .
+His brother was given the ticket but Pique was 'verbally aggressive'
+Click here for all the latest Barcelona news .
+----------------------------------------
+Generated Summary: Barcelona defender Gerard Pique was fined 10,500 euros (£7,640) by a Spanish judge on Tuesday. Pique wrote an apology to the court hearing in Barcelona for the public order offence that took place on October 13, last year. Pique was travelling in a car when it was given a parking ticket.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "This says that we are attaching a level of importance to this that is just completely bonkers," Bruni said during a recent interview. And when they haven't gone to those schools, we skip right over it because we think it's actually contradictory evidence when it may be anything but." One of the most poignant stories that Bruni shares in his book is the letter Matt Levin's parents wrote to him the night before he received his first college response. Because while we spend so much time worrying about where our kids are going to get in, we spend less time on what they are going to do and explore when they get there
+----------------------------------------
+Ground truth Summary: A new book says that where you go to college does not determine who you will be .
+Author Frank Bruni blames the economy and colleges for increasing the stakes for admission .
+Of the top 10 Fortune 500 CEOs in 2014, only one went to an Ivy League school .
+----------------------------------------
+Generated Summary: Bruni's new book, "The College Decision," examines the college admissions process. Bruni's book is based on his experiences as a high school senior. Bruni's book examines the college admissions process from a parent's point of view. Bruni's book is based on his experiences as a high school senior.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Very specific requests include over 20 bottles of wine, such as Veuve Clicquot Champagne, Cloudy Bay Pinot Noir and Sauvignon Blanc. The rooms – often the size of a hotel suite – must be fitted with a rug if there are no carpets, soft lighting, a TV with good speaker system and Sky Sports and movies, an array of films on DVD and green plants - ideally bamboo. The room also has to include a Sky TV connection or way to access live sports and films, Apple TV or Netflix and a selection of DVDs including James Bond films, Blood Diamond and motorbike movie Closer to the Edge
+----------------------------------------
+Ground truth Summary: Backstage luxuries demanded by Jeremy Clarkson and his co-presenters at Top Gear Live shows revealed .
+Three-page catalogue includes over 20 bottles of wine, such as Veuve Clicquot Champagne and Sauvignon Blanc .
+In case that runs out, they ask for two dozen bottles of Peroni beer, Bombay Sapphire gin, tonic and ice .
+Their drinks must be served on linen covered tables and the presenters must be based near to a McDonald's .
+----------------------------------------
+Generated Summary: The rooms must be fitted with a rug if there are no carpets, soft lighting, a TV with good speaker system and Sky Sports and movies, an array of films on DVD and green plants. The room also has to include a Sky TV connection or way to access live sports and films, Apple TV or Netflix and a selection of DVDs including James Bond films, Blood Diamond and Closer to the Edge.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

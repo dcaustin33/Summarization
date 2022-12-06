@@ -1,0 +1,189 @@
+Generations for Eval_Pegasus_XSum_tf_idf_512
+Article text: On Thursday, Root himself said he was looking forward to the time when his leadership mettle would be examined. It's tricky for Root, because the new captain has to feel his way in, not only with the technology, but with experienced bowlers, of whom he wants to gain their trust
+----------------------------------------
+Ground truth Summary: After England handsomely defeated South Africa in the first Test at Lord's, I wrote that new captain Joe Root had been given an easy ride.
+----------------------------------------
+Generated Summary: England's new Test captain, Joe Root, says he is "looking forward" to the challenge of leading his team in the first Test against India in Rajkot.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Stephen Stromberg mused on what a debate victory for Mrs Clinton actually meant. LA Times
+Its panel of three commentators had Mrs Clinton winning every round. But former Republican campaign aide Ford O'Connell declared a draw, saying going "toe-to-toe" with Mrs Clinton on the debate stage "elevated Trump's legitimacy as a candidate"
+----------------------------------------
+Ground truth Summary: The US media have given their verdict on who won the first debate - with most awarding victory to Democratic candidate Hillary Clinton.
+----------------------------------------
+Generated Summary: Hillary Clinton's performance in the first presidential debate has been hailed as a "game-changer" for her campaign against Donald Trump.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: His previous contract at Ashton Gate was set to end at the end of the 2018-19 season. "Like I said when I was appointed, Bristol City is the perfect club for me," he told the club website. "We want to deliver success; everything about the club is progressive and that's why I'm desperate to be a part of that in the long term
+----------------------------------------
+Ground truth Summary: Bristol City head coach Lee Johnson has signed a new contract to stay with the Championship club until 2020.
+----------------------------------------
+Generated Summary: Bristol City manager Lee Johnson has signed a new two-year contract with the Championship club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It has also delivered a range of courses in cooking skills and healthy eating, food growing, nature conservation skills and animal care. "All the available grants are for specific projects, but it's extremely difficult to get funding for the day-to-day nitty-gritty
+----------------------------------------
+Ground truth Summary: Swansea's only community city farm is facing closure at the end of the month, unless it can raise £50,000.
+----------------------------------------
+Generated Summary: A project to improve the health and wellbeing of people living in rural areas has been shortlisted for a national award.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "You want the tourism desk?," they ask, pointing to a room at the end of the corridor. Nonetheless by the time Mrs May takes the stage it's standing room only in the huge room. Wojciech Kostrzewa, chief executive of Polish media giant ITI Group, declares it "a very good speech". But was it good, I ask? "Oh yes," he nods
+----------------------------------------
+Ground truth Summary: At the World Economic Forum in Davos, UK Prime Minister Theresa May's speech has been given top billing.
+----------------------------------------
+Generated Summary: I'm standing in the foyer of Downing Street, waiting for Theresa May's speech to the House of Commons.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Neither Hewitt nor Groth had initially been selected to play singles but captain Wally Masur dropped youngsters Thanasi Kokkinakis and Nick Kyrgios after Kazakhstan had opened up a 2-0 lead. They teamed up to reduce the deficit in the doubles before victories in their respective singles matches saw them come back to win from 2-0 down for the first time since 1939
+----------------------------------------
+Ground truth Summary: Former Wimbledon champion Lleyton Hewitt guided Australia into the Davis Cup semi-finals as the hosts came from 2-0 down to beat Kazakhstan 3-2.
+----------------------------------------
+Generated Summary: Lleyton Hewitt and Sam Groth helped Australia come from 2-0 down to beat Kazakhstan 3-2 in the first round of the Davis Cup.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: BBC Two sitcom Boy Meets Girl and EastEnders have both been shortlisted for their portrayal of transgender issues. "The BBC should be proud of its commitment to diversity and groundbreaking coverage of LGBT issues," she said. Speaking in August last year, actress Rebecca Root, who plays Judy in Boy Meets Girl said: "I really believe that it will demystify my community, it will increase the visibility of the trans population
+----------------------------------------
+Ground truth Summary: The shortlist for the annual British LGBT Awards has been announced with the BBC nominated multiple times.
+----------------------------------------
+Generated Summary: Two of the BBC's most popular shows have been shortlisted for a Bafta award for their portrayal of lesbian, gay, bisexual and transgender (LGBT) issues.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Andrew Buchanan, 46, from Inverness, died at Raigmore Hospital on Monday. The crash, involving a black Seat Altea car, happened at about 18:15 on Saturday 4 March at the junction of Kenneth Street and Tomnahurich Street. Police Scotland said a report had been sent to the procurator fiscal
+----------------------------------------
+Ground truth Summary: A 46-year-old pedestrian has died nine days after being struck by a car on the A82 in Inverness.
+----------------------------------------
+Generated Summary: A man who was seriously injured in a crash in Inverness has died in hospital.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The well-liked Lib Dem MP, Sir Bob Russell, has been here since 1997, and was a councillor for 20 years before that - a local fixture. Before that it was always Conservative, and it is the sort of seat the Conservatives have to win to have a chance of forming a majority government
+----------------------------------------
+Ground truth Summary: The hustings in Colchester has a comfortably old fashioned feel to it.
+----------------------------------------
+Generated Summary: The seat of Russell is one of the most marginal in the country.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Dortmund's Pierre-Emerick Aubameyang hit a penalty straight at keeper Ederson after Ljubomir Fejsa handled. Dortmund will host the second leg on 8 March, with a place in the quarter-finals at stake. "It is an extremely complicated result, but I am very proud of how we played tonight. Attempt missed
+----------------------------------------
+Ground truth Summary: Kostas Mitroglou gave Benfica a one-goal advantage in the first leg of the Champions League last-16 tie with Borussia Dortmund.
+----------------------------------------
+Generated Summary: Borussia Dortmund were held to a goalless draw by Benfica in the first leg of their Champions League last-16 tie.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Beggars Group and Merlin both indicated their approval of Apple's new offer. "
+Digital rights group Merlin looks after more than 20,000 independent record labels. "
+Mr Caldas stressed that it was for individual labels in the group to decide if they wanted to join the service
+----------------------------------------
+Ground truth Summary: Apple has reached an agreement with two leading indie music groups, paving the way for thousands of labels to join its new streaming service.
+----------------------------------------
+Generated Summary: Two of the UK's biggest independent record labels have said they will join Apple's new music streaming service.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The IRA was believed to have carried out the bombings, although responsibility has never been claimed. Ms Hunt, the Birmingham and Solihull coroner, has reviewed a huge body of police evidence and heard submissions from the victims' relatives and other interested parties in February
+----------------------------------------
+Ground truth Summary: A coroner is due to rule on whether the inquest into the deaths of 21 people in the Birmingham pub bombings will resume.
+----------------------------------------
+Generated Summary: An inquest into the deaths of four people in the 1974 Birmingham pub bombings is due to begin.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He is suspected to be second-in-command in the Jalisco New Generation cartel, led by his father Nemesio. The Jalisco New Generation cartel is involved in large-scale drug trafficking along Mexico's Pacific Coast. Tens of thousands of people have been killed in drug-related violence in Mexico over the past eight years
+----------------------------------------
+Ground truth Summary: The Mexican authorities say they have arrested the son of one of the country's most wanted drug lords.
+----------------------------------------
+Generated Summary: Mexican authorities say they have arrested a top drug trafficker, Joaquin "El Chapo" Guzman.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jamaica's Elaine Thompson narrowly missed out on matching compatriot Usain Bolt's sprint treble after her victories in the 100m and 200m. This is for the entire nation. "
+Daryll Nieta, 19, said: "I am speechless. 82 to win at London 2012, and Felix has become the first woman to collect five athletics gold medals. "It's very special. It's just a very unique experience," Felix said of her milestone
+----------------------------------------
+Ground truth Summary: Great Britain won an Olympic medal in the women's 4x100m relay for the first time since 1984, claiming bronze as the United States retained their title.
+----------------------------------------
+Generated Summary: Allyson Felix became the first woman to win five Olympic gold medals when she won the women's 400m at the London Games.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Director Tony Baxter said the mural on a printing shop in Great Eastern Street would be removed by Sunday. "It's a very iconic piece," he added. Mr Baxter said the mural had become damaged with paint peeling away and would be restored before it was sold. A spokesman for Banksy declined to comment
+----------------------------------------
+Ground truth Summary: A famed stencil image of a girl with a balloon by graffiti artist Banksy is being removed from the wall of an east London shop and sold.
+----------------------------------------
+Generated Summary: A Banksy mural in Bristol is to be removed from a shop in the city.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Times has reported that she learned of a potential flaw a week before the Cabinet reshuffle on 4 September. The DfT says this was not the error that caused the process to collapse. The department insists it is not related to the main flaw that they found later on and which brought the whole process down
+----------------------------------------
+Ground truth Summary: Former Transport Secretary Justine Greening did not know about the problem which led to the collapse of the West Coast Main Line franchise award, the Department for Transport has said.
+----------------------------------------
+Generated Summary: The Department for Transport (DfT) has denied that it knew of a flaw that led to the collapse of the Brexit process.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Police Scotland said 25 people were interviewed as part of the operation. The men are due to appear at Livingston Sheriff Court on Monday. "In the meantime, they are being offered support and assistance in terms of health and welfare, housing and victim support
+----------------------------------------
+Ground truth Summary: Four men have been arrested and charged after an operation aimed at tackling human trafficking and serious organised crime in West Lothian.
+----------------------------------------
+Generated Summary: Two men have been charged in connection with the alleged rape of a 15-year-old girl in West Lothian.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: And to the follow up question, I would love to see the standard of play improve to make the game more attractive as a spectator sport. Do you think Arsenal Ladies could dominate English football again soon or are Chelsea and Man City too strong? (James Wyatt)
+Obviously I'd love to see that happen but I don't think any one team will solely dominate in the way that Arsenal did
+----------------------------------------
+Ground truth Summary: Former Arsenal and England winger Rachel Yankey believes that women's football attendances and participation would be on par with the men's game if it had not effectively been banned by the Football Association for 50 years.
+----------------------------------------
+Generated Summary: Do you think Arsenal Ladies could dominate English football again soon or are Chelsea and Man City too strong?
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Goalkeepers: Ryan Fulton (Liverpool, loan to Chesterfield), Devlin Mackay (Kilmarnock, loan to Berwick Rangers), Jack Ruddy (Wolverhampton Wanderers)
+Defenders: Alex Iacovitti (Nottingham Forest), Zak Jules (Reading, loan to Motherwell), Jamie McCart (Celtic, loan to Inverness CT), Jordan McGhee (Hearts, loan to Middlesbrough), Liam Smith (Heart of Midlothian), Greg Taylor (Kilmarnock)
+Midfielders: Chris Cadden (Motherwell), Liam Henderson (Celtic), Stephen Mallan (St Mirren), James Jones (Crewe Alexandra), Dominic Thomas (Motherwell, loan Queen of the South), Ruben Sammut (Chelsea), Joe Thomson (Celtic, loan to Queen of the South)
+Forwards: Ryan Hardie (Rangers, loan to Raith Rovers), Jack Harper (Malaga CF), Oliver McBurnie (Swansea City), Paul McMullan (Celtic, loan to Dunfermline Athletic), Lewis Morgan (St Mirren), Craig Wighton (Dundee)
+----------------------------------------
+Ground truth Summary: Malaga forward Jack Harper is among 10 uncapped players named in the Scotland Under-21 squad to face Estonia.
+----------------------------------------
+Generated Summary: Scotland's squad for the European Under-21 Championship has been announced.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But if a phone, tablet or PC is not passcode-protected - or if the authorities find a way to bypass the code - the physical device itself will provide access. Files leaked by rogue US National Security Agency (NSA) contractor Edward Snowden and Wikileaks suggest that even the most closely guarded hacking secrets can be revealed
+----------------------------------------
+Ground truth Summary: Chat apps that promise to prevent your messages being accessed by strangers are under scrutiny again following last week's terror attack in London.
+----------------------------------------
+Generated Summary: The US government's ability to hack into the phones and computers of suspected terrorists has been revealed in a series of leaked documents.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

@@ -174,7 +174,7 @@ if __name__ == '__main__':
     print("Using device:", device)
 
     val_dataset = CNNTfIdf(model_name = args.model_name, max_length=args.max_length, split = 'validation')
-    val_dataloader = CNNTfIdf(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
+    val_dataloader = torch.utils.data.DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
 
     val_metrics = {}
     val_metrics['loss'] = 0

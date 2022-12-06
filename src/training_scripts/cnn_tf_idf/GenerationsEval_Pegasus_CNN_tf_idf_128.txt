@@ -1,0 +1,246 @@
+Generations for Eval_Pegasus_CNN_tf_idf_128
+Article text: Also on Thursday, prosecutors showed surveillance video recorded at Hernandez's house in North Attleborough, Massachusetts, hours after Lloyd's death
+----------------------------------------
+Ground truth Summary: Kasey Arma told court she met him at Rumor nightclub on June 15, 2013 .
+Described how New England Patriots tight end first appeared relaxed .
+She said he later appeared irritated and grabbed her and moved her .
+Prosecutors say Hernandez was upset with Odin Lloyd that night .
+Claims the victim was dancing with people he didn't like .
+Hernandez, 25, has denied killing Lloyd at an industrial park .
+----------------------------------------
+Generated Summary: Former New England Patriots tight end Aaron Hernandez is charged with murder in the death of Odin Lloyd. Prosecutors say Hernandez killed Lloyd on June 17, 2013, in an industrial park in North Attleborough, Massachusetts. Hernandez has pleaded not guilty to murder.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: No bells and whistles: This tiny one bedroom cottage leaves a lot to be desired. That’s $90,000 over the reserve and a considerable investment compared to the 500 pounds the original owner paid in the 1960’s
+----------------------------------------
+Ground truth Summary: Properties across Sydney going under the hammer have sold for well above their reserves .
+Surry Hills one bedroom cottage sells for $840,000 a shocking $90,000 over reserve .
+A Coogee unit with no water views attracted flocks of buyers and sold for $1.4 million, $530,000 over reserve .
+Gladesville home shocked buyers selling for a whopping $2.85 million, that's $1.1 million over asking price .
+Property analyst Rob Mellor warns overnight growth in the market could be dangerous for investors .
+He says many buyers won’t see a return on their investment unless they get out of the market within 18 months .
+----------------------------------------
+Generated Summary: The tiny one bedroom cottage was built in the 1960s. It has been sold for just over half its original asking price. The original owner paid 500 pounds for the property in the 1960s. It has been sold for just over half its original asking price.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: England's David Horsey matched his seven-under-par 63 to join him at the top of the leaderboard after the first round at Pretoria Country Club. I hit a fantastic shot, I couldn't hit it better, and it spun back into the hole
+----------------------------------------
+Ground truth Summary: Morten Orum Madsen shot an incredible eagle-eagle finish in South Africa .
+His hole-in-one was only the second he has ever completed .
+That gave him a share of the lead with England's David Horsey .
+The pair topped the leaderboard on 63 after the first round in Pretoria .
+----------------------------------------
+Generated Summary: England's David Horsey and South Africa's Richard Sterne share the lead after the first round of the South African Open. Horsey and Sterne both carded seven-under-par 63s at Pretoria Country Club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: When levels of nitrogen and phosphorus rise, which can be caused by underwater eruptions such as the one off the coast of Tonga, algae can multiply
+----------------------------------------
+Ground truth Summary: Island started forming in January after a volcano close to Tonga exploded underwater and then expanded .
+Images taken by three men who climbed to the peak of the island 40 miles (65 km) north of capital Nuku'alofa .
+They said the surface of the island was still warm and it contained a vast green lake which smelled of sulphur .
+New island is 1.1 miles (1.8 km) by 0.9 miles (1.5km), and it rises about 328ft (100 metres) above the sea .
+----------------------------------------
+Generated Summary: The eruption of a volcano off the coast of Tonga has caused algae to grow in the sea. The algae has been blamed for the deaths of more than 100 people. The eruption of the volcano has caused the algae to grow in the sea. The algae has been blamed for the deaths of more than 100 people. The eruption of the volcano off the coast of Tonga has caused algae to grow in the sea. The algae has been blamed for the deaths of more than 100 people. The eruption of the volcano off the coast of Tonga has caused algae to grow in the sea. The algae has been blamed
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: After the company monitored online traffic and sales throughout the month, they came to the -perhaps surprising conclusion - that the 30-second commercial featuring the dark-haired plus-size model generated four times as many sales than the one featuring the blondes
+----------------------------------------
+Ground truth Summary: Adore Me has revealed that its television ad featuring a plus size model generated more sales than the commercial starring a group of blondes .
+The New York-based startup used A/B testing, in which consumers are shown different ads in order to measure their preferences .
+----------------------------------------
+Generated Summary: The plus-size model was featured in a 30-second ad for a lingerie brand. But the ad generated four times as many sales as the one featuring the blondes. The plus-size model was featured in a 30-second ad for a lingerie brand. But the ad generated four times as many sales as the one featuring the blondes. The plus-size model was featured in a 30-second ad for a lingerie brand. But the ad generated four times as many sales as the one featuring the blondes. The plus-size model was featured in a 30-second ad for a lingerie brand.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: After little more than an hour of a match that was proving difficult for Liverpool, Jordan Henderson removed the captain’s armband from his left bicep and handed it to Steven Gerrard
+----------------------------------------
+Ground truth Summary: Jordan Henderson scores the only goal of the game in the 68th minute at the Liberty Stadium .
+Liverpool move two points behind fourth-placed Manchester United with their fifth successive win .
+Brendan Rodgers' side have not conceded in their last six away Premier League matches .
+Liverpool face Champions League rivals Manchester United at Anfield on Sunday .
+----------------------------------------
+Generated Summary: Steven Gerrard handed over the captain's armband to Jordan Henderson. The Liverpool captain handed over the armband to Steven Gerrard. The Liverpool captain handed over the captain's armband to Jordan Henderson. The Liverpool captain handed over the armband to Steven Gerrard. The Liverpool captain handed over the armband to Jordan Henderson. The Liverpool captain handed over the armband to Steven Gerrard. The Liverpool captain handed over the armband to Jordan Henderson. The Liverpool captain handed over the armband to Steven Gerrard. The Liverpool captain handed over the armband to Jordan Henderson. The Liverpool captain handed over the armband to Steven Gerrard.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Giaccherino became a valuable centre of theological studies during the 17th century and has two cloisters with stunning frescoes
+----------------------------------------
+Ground truth Summary: An historic convent in Tuscany is up for sale for the price of a three-bedroom penthouse in Marylebone .
+The 15th century Giaccherino has 50 bedrooms, 40 bathrooms, a church, a library and even an olive grove .
+Property is listed with Sotheby's International Realty for £13million (€18million)
+----------------------------------------
+Generated Summary: Giaccherino was a centre of theological studies in the 17th century. It has two cloisters with stunning frescoes.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Wade has played 12 Tests, 47 one-day internationals and 22 T20s for Australia but was left out of their World Cup squad. The match in the island state of Tasmania due to the unavailability of the Melbourne Cricket Ground because of Sunday's World Cup final
+----------------------------------------
+Ground truth Summary: Matthew Wade shows off a tattoo of Phillip Hughes on his arm .
+Hughes died after being hit on the side of the head by a bouncer .
+Wade's Victoria side won Sheffield Shield at the Bellerive Oval in Hobart .
+----------------------------------------
+Generated Summary: Matthew Wade has played 12 Tests, 47 one-day internationals and 22 T20s for Australia. Wade has been left out of their World Cup squad. The 33-year-old will play for Australia A against New Zealand A on Saturday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The duo will be re-united at Stamford bridge on Sunday with Southampton still in the hunt for a top-four spot, while Chelsea will be hoping to return to winning ways after they were dumped out of the Champions League midweek by PSG
+----------------------------------------
+Ground truth Summary: Chelsea welcome Southampton to Stamford Bridge on Sunday .
+Toby Alderweireld will be re-united with former team-mate Diego Costa .
+Alderweireld says the striker plays with the same fiery attitude in training .
+Belgium international puts it down to Costa's desire to win .
+----------------------------------------
+Generated Summary: Southampton host Chelsea at St Mary's on Sunday. Jose Mourinho's side will be looking to return to winning ways after being dumped out of the Champions League by PSG. Mauricio Pochettino's side are still in the hunt for a top-four spot.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scroll down for video. Peter Gerard Scully alleged operated an  international paedophile ring that served Australian clients, according to AFP investigators
+----------------------------------------
+Ground truth Summary: Peter Scully was arrested in the Philippines for sexual abuse of 11 children .
+The 51-year-old allegedly ran an international paedophile ring .
+Two more people have been arrested over involvement with the case .
+UN authorities say the 'horrific' case is the worst they have come across .
+Videos show a 13-year-old girl forced into acts with a baby and toddler .
+The Melbourne man is also accused of killing a 10-year-old girl .
+Filipinos are so outraged with the case they want him to be executed .
+Alleged he also robbed investors of $2.68 million before fleeing Australia .
+----------------------------------------
+Generated Summary: Peter Gerard Scully allegedly operated an international paedophile ring that served Australian clients. He was arrested in Sydney on Thursday and charged with seven counts of indecent assault. He is accused of abusing boys as young as eight in the 1970s and 1980s.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Sunderland defender Patrick van Aanholt gets to grips with Falcao, who has struggled for form in England. The 29-year-old cost Monaco over £40m when signed a year-and-half ago from Atletico Madrid, where he forged a reputation as a goalscorer and netted a hat-trick against Chelsea in the UEFA Super Cup in 2012
+----------------------------------------
+Ground truth Summary: Radamel Falcao has just four goals in 20 games for Manchester United .
+The on-loan striker has been a huge disappointment in the Premier League .
+Former player Ray Wilkins does not believe United will pay up to sign him .
+Falcao was left on the bench for United's 1-0 win over Newcastle United .
+CLICK HERE for all the latest Manchester United news .
+----------------------------------------
+Generated Summary: Radamel Falcao has struggled for form in the Premier League this season. The 29-year-old signed for Monaco from Atletico Madrid in 2012. Radamel Falcao has struggled for form in the Premier League this season. The 29-year-old signed for Monaco from Atletico Madrid in 2012.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Here are four ways we can start to do that. Every child should have that chance. Evidence it works: Meet the poorest kids in Iceland, a country with a low child poverty rate and nearly universal enrollment in early education, starting at age 2. The results are startling
+----------------------------------------
+Ground truth Summary: John Sutter: Child poverty in the United States isn't inevitable; it's a choice .
+He presents four policy solutions he says would help end this scourge .
+----------------------------------------
+Generated Summary: The United States has the world's highest child poverty rate. The United States has the world's highest child poverty rate. The United States has the world's highest child poverty rate. Evidence it works: Meet the poorest kids in Iceland, a country with a low child poverty rate and nearly universal enrollment in early education.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Meanwhile, Durham Constabulary issued a warning to those using social media that identifying the alleged victim is a criminal offence
+----------------------------------------
+Ground truth Summary: Adam Johnson was arrested at his £1.8million mansion on suspicion of sexual activity with a 15-year-old girl .
+The Sunderland winger's bail has been extended until April 23 .
+Sunderland will 'review its position' regarding Johnson .
+Durham Constabulary have issued warning regarding use of social media .
+Spokesman has confirmed Johnson will not face charge over 'gun'
+READ: Johnson is training at home with Sunderland coach .
+----------------------------------------
+Generated Summary: The alleged victim, who cannot be named for legal reasons, is said to be in her 20s. The alleged incident took place at a hotel in Durham city. The alleged victim is said to be in a stable condition in hospital. The alleged incident took place at a hotel in Durham city. The alleged victim is said to be in a stable condition in hospital. The alleged incident took place at a hotel in Durham city. The alleged victim is said to be in a stable condition in hospital. The alleged incident took place at a hotel in Durham city. The alleged victim is said to be
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "It's like a problem to be fixed and really, I think it's our greatest asset. "Everyone's Instagraming their best, most fabulous, freakin' pictures, and they're looking so skinny and beautiful and so happy, and they're going on vacation ..
+----------------------------------------
+Ground truth Summary: At least one in four U.S. women is taking a psychiatric drug, according to expert .
+Author says many women taking mental health meds don't really need them .
+Report: Nine of 10 big pharmaceutical firms spend more on marketing than research .
+----------------------------------------
+Generated Summary: "I think it's like a problem to be fixed and really, I think it's our greatest asset," she says. "It's like a problem to be fixed and really, I think it's our greatest asset," she says.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Many are still drawn from rural areas with limited education, while country's one-child policy, which has created the "little emperor" phenomenon of spoiled children, produces recruits who "may not be tough enough to withstand military discipline," the report added
+----------------------------------------
+Ground truth Summary: China wants 1,000 male junior high school students for pilot training .
+The country seeks to strengthen its navy and air force .
+----------------------------------------
+Generated Summary: China's military is one of the world's largest, with a population of 1.3 billion. China's military is one of the world's largest, with a population of 1.3 billion. Many are still drawn from rural areas with limited education, while country's one-child policy produces recruits who "may not be tough enough to withstand military discipline" China's military is one of the world's largest, with a population of 1.3 billion. Many are still drawn from rural areas with limited education, while country's one-child policy produces recruits who "may not be tough enough to withstand
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Marca also lead on Spain's crunch meeting with Ukraine stating: 'To win is obligatory', as the eastern Europeans are level on points with Del Bosque's men in second place with Slovakia currently leading Group C on 12 points
+----------------------------------------
+Ground truth Summary: Spain face Ukraine in a crunch Pool C clash in Sevilla on Friday night .
+Sergio Ramos made his debut for Spain on March 26, 2005 .
+Xavi set to seal €10million per year deal with Qatari side Al-Sadd .
+----------------------------------------
+Generated Summary: Spain take on Ukraine in Euro 2012 qualifier in Kharkiv on Friday. Vicente del Bosque's side are level on points with the eastern Europeans in second place. Marca also lead on Spain's crunch meeting with Ukraine. Marca also lead on Spain's crunch meeting with Ukraine.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: First lady Michelle Obama and daughters Malia and Sasha are not on the trip. Course buddies: Local media reports say Obama  will tee off with former NBA star Alonzo Mourning (left) and former NFL star and sportscaster Ahmad Rashad (right) Controversial: Two years ago, Obama caused a stir during a visit to the same Florida golf resort by closing the course off from the press
+----------------------------------------
+Ground truth Summary: The President arrived in Fort Pierce, Florida, alone on Saturday morning .
+He is spending the weekend at the Floridian National Golf Club in Palm City, less than 50 miles north of Palm Beach .
+In 2013 he stayed at the same resort and played with Tiger Woods .
+Obama is playing Alonzo Mourning, Ahmad Rashad and Cyrus Walker, a cousin of Obama's senior adviser, Valerie Jarrett .
+He was rumored to also be play Butch Harmon, Woods' former coach .
+On Sunday he will return to Washington and the First Family .
+----------------------------------------
+Generated Summary: First lady Michelle Obama and daughters Malia and Sasha are not on the trip. First lady will tee off with former NBA star Alonzo Mourning and sportscaster Ahmad Rashad. Two years ago, Obama caused a stir during a visit to the same Florida golf resort by closing the course off from the press.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Packed: The two cities driving most of the Chinese traffic to TubeCrush.net are Shanghia and Guangzhou - which have the fourth and sixth busiest metro systems in the world, respectively
+----------------------------------------
+Ground truth Summary: Tubecrush.net collects photos of the Tube's best looking commuters .
+Proved huge hit since it was launched in 2011 with thousands of followers .
+But biggest market is China, where one snap can be shared 100,000 times .
+But some suggest it is the space not the men making the pictures a hit .
+China is home to four out of ten of the busiest metro systems in the world .
+----------------------------------------
+Generated Summary: TubeCrush.net is the world's most popular travel site. The site is based in Shanghai, China's second-largest city.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: ‘Thank you so much for your continued support, please continue driving the message and donating to this worthwhile cause. Riley's father Greg appeared on Sunrise on Monday morning to thank the community for their fundraising and support
+----------------------------------------
+Ground truth Summary: Riley Hughes died in a Perth hospital at just 32 days old on March 17 .
+Parents Greg and Catherine Hughes urged others to get vaccinated .
+They want to stop other parents from having to endure the same heartache .
+They have set up a Facebook page in Riley's honour and raised $36,000 .
+Whooping cough is 'highly infectious' and lethal in babies .
+Immunisation against it is available for children from two months old .
+In Australia it is the least well controlled of all vaccine-preventable diseases .
+----------------------------------------
+Generated Summary: Riley's father Greg appeared on Sunrise on Monday morning to thank the community for their fundraising and support. Riley's father Greg appeared on Sunrise on Monday morning to thank the community for their fundraising and support. Riley's father Greg appeared on Sunrise on Monday morning to thank the community for their fundraising and support.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: They bear his name and describe him as the son of Nebuchadnezzar, who had the reputation of being ancient Babylon's greatest king. Antiquity is an integral part of Iraq's national identity
+----------------------------------------
+Ground truth Summary: ISIS has ransacked museums, bulldozed ancient cities, destroying human history .
+But the ancient city of Babylon is out of their reach in Iraq's Shiite region .
+----------------------------------------
+Generated Summary: Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity. Iraq's national identity is an integral part of Iraq's national identity.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

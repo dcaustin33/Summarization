@@ -90,4 +90,4 @@ python3 generate_and_evaluate.py \
             --workers 4 \
             -log;
 
-#sudo shutdown -h;
+sudo shutdown -h;

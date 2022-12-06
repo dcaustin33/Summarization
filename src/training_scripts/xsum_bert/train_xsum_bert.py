@@ -12,18 +12,26 @@ from logger import log_metrics
 #import gradient checkpointing
 from torch.utils.checkpoint import checkpoint_sequential
 import numpy as np
+from transformers import BertTokenizer, BertModel
+import torch.nn.functional as F
 
-class XSumDatasetPowerLaw(torch.utils.data.Dataset):
-    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', divisor = 2):
+class XSumDatasetBERT(torch.utils.data.Dataset):
+    def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
+        self.model = BertModel.from_pretrained('bert-base-uncased').cuda()
+        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
         self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
-        self.probability = np.ones(1000) * 1000000
-        for i, val in enumerate(self.probability):
-            if i == 0: continue
-            self.probability[i] = self.probability[i-1] / divisor
-        self.indexes = np.arange(1000)
+
+    @torch.no_grad()
+    def get_bert_embeddings(self, text):
+        inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
+        inputs = {k: v.cuda() for k, v in inputs.items()}
+        embeddings = self.model(**inputs)['pooler_output']
+        #compute cosine similarity between embeddings
+        embeddings = F.normalize(embeddings, p=2, dim=1)
+        return embeddings
 
     def __len__(self):
         return len(self.dataset)
@@ -31,22 +39,31 @@ class XSumDatasetPowerLaw(torch.utils.data.Dataset):
     def __getitem__(self, idx):
         text = self.dataset[idx]['document']
         text = text.split('.')
+        text = [i.strip() for i in text]
         
-        max_idx = max(1, len(text))
-        choices = np.random.choice(self.indexes[:max_idx], max_idx, replace = False, p = self.probability[:max_idx] / self.probability[:max_idx].sum())
+        embeddings = self.get_bert_embeddings(text)
+        first = np.random.choice(len(text), 1, replace=False)[0]
+        chosen_embeddings = torch.empty((1, 768)).cuda()
+        bag_of_sentences = [first]
+        chosen_embeddings[0] = embeddings[first]
+        current_size = len(text[first])
 
-        current_size = 0
-        counter = 0
-        while current_size < self.max_length and counter < max_idx:
-            current_size += len(text[choices[counter]])
-            counter += 1
+        while current_size < self.max_length and len(bag_of_sentences) < len(text):
+            new_cosine_sim = torch.mm(chosen_embeddings, embeddings.T)
+            vals, indices = torch.topk(-torch.sum(new_cosine_sim, dim = 0), k = len(text))
+            for i in indices:
+                if i not in bag_of_sentences:
+                    chosen_embeddings = torch.cat((chosen_embeddings, embeddings[i].unsqueeze(0)), dim = 0)
+                    bag_of_sentences.append(i.item())
+                    current_size += len(text[i])
+                    break
 
-        choices = sorted(choices[:counter])
-        final = list(np.array(text)[choices])
-        text = '. '.join(final)
+        bag_of_sentences = sorted(bag_of_sentences)
+        final = [text[i] for i in bag_of_sentences]
+        final = '. '.join(final)
 
         summary_text = self.dataset[idx]['summary']
-        return {'article_text':text, 'summary_text': summary_text}
+        return {'article_text':final, 'summary_text': summary_text}
 
 #create the model
 def create_model(model_name, max_length):
@@ -156,12 +173,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     #create the dataset
-    dataset = XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'train', divisor = args.divisor)
-    val_dataset =XSumDatasetPowerLaw(model_name = args.model_name, max_length=args.max_length, split = 'validation', divisor = args.divisor)
+    dataset = XSumDatasetBERT(model_name = args.model_name, max_length=args.max_length, split = 'train')
+    val_dataset =XSumDatasetBERT(model_name = args.model_name, max_length=args.max_length, split = 'validation')
 
     #create the dataloader
-    dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
-    val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=args.workers)
+    dataloader = DataLoader(dataset, batch_size=args.batch_size, shuffle=True, num_workers=0)
+    val_dataloader = DataLoader(val_dataset, batch_size=args.batch_size, shuffle=True, num_workers=0)
 
     #create the model
     model = create_model(args.model_name, args.max_length)

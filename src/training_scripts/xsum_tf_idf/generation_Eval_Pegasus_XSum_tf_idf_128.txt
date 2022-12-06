@@ -1,0 +1,184 @@
+Generations for Eval_Pegasus_XSum_tf_idf_128
+Article text: Following the debate, political discussion continued in The Spin Room, a programme that provided instant analysis and reaction to the leaders' debate
+----------------------------------------
+Ground truth Summary: The leaders of Northern Ireland's five main parties have gone head-to-head in a debate before Thursday's assembly election.
+----------------------------------------
+Generated Summary: The leaders of the UK's main political parties took part in their first televised debate of the general election campaign.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Labour, Plaid Cymru and the Liberal Democrats opposed new thresholds on when strikes can take place. The bill would require at least half of union members to take part in a ballot before a strike can happen
+----------------------------------------
+Ground truth Summary: Assembly members have voted against UK government proposals to restrict strike ballots in the public sector.
+----------------------------------------
+Generated Summary: The Welsh government's industrial relations bill has been defeated in the assembly.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Baker made his name as the robot in the first Star Wars film in 1977 alongside Anthony Daniels' C-3PO character. The 3ft 8in (1. "
+Actress Morgan Fairchild, who appeared in the 1987 film Sleeping Beauty with Baker, tweeted: "Hate to hear this -lovely man-lovely soul
+----------------------------------------
+Ground truth Summary: Star Wars' George Lucas and Mark Hamill are among the big names paying tribute to actor Kenny Baker, who has died aged 81, describing him as "the heart and soul of R2-D2".
+----------------------------------------
+Generated Summary: Tributes have been paid to Star Wars character C-3PO, who has died at the age of 91.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "
+Mr Blair paid tribute to Mr Peres on twitter, writing: "Shimon Peres was a political giant, a statesman who will rank as one of the foremost of this era or any era, and someone I loved deeply"
+----------------------------------------
+Ground truth Summary: The chief rabbi of the UK and Commonwealth has paid tribute to former Israeli PM Shimon Peres, describing him as a "true giant amongst men".
+----------------------------------------
+Generated Summary: Shimon Peres, the former Israeli president and prime minister, has died at the age of 93.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Colorado native Ibarra, 26, has lost four of his nine pro bouts - including three defeats in his last five fights. That meant Frampton became the first Northern Ireland fighter to win world titles at two weights
+----------------------------------------
+Ground truth Summary: Michael Conlan will fight little-known American Tim Ibarra in his first professional bout at New York's Madison Square Garden Theater on 17 March.
+----------------------------------------
+Generated Summary: Carl Frampton will defend his WBA and IBF super-bantamweight titles against Ibarra Ibarra in Belfast on Saturday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It means a player in possession cannot slip to the back of a maul, with the ball having to be moved backwards hand to hand instead
+----------------------------------------
+Ground truth Summary: World Rugby has introduced a number of law changes to the northern hemisphere game in an effort to stop simulation.
+----------------------------------------
+Generated Summary: The International Rugby Board (IRB) has announced a new set of rules for the 2015 World Cup.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Pay was another major issue at the heart of strike action in 1975. Weekend pay and concerns about safeguards to stop hospitals over-working doctors are the issues at stake
+----------------------------------------
+Ground truth Summary: The last major strike over pay and conditions by junior doctors was over 40 years ago in 1975.
+----------------------------------------
+Generated Summary: Doctors in England are set to strike for the first time in 40 years in a row over pay and working conditions.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The country's search and rescue agency, Basarnas, sent two boats and a helicopter to the area on Wednesday but found nothing and returned to base. That was the second boat to sink in a week, reigniting the debate on asylum in parliament
+----------------------------------------
+Ground truth Summary: Australian and commercial ships plucked 55 people from the sea as a search continued after a boat carrying asylum seekers was believed to have sunk.
+----------------------------------------
+Generated Summary: A boat carrying more than 100 migrants has sunk off the coast of the Indonesian island of Sumatra, officials say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The shadow health secretary warned that some NHS hospitals were planning to double the number of private patients they treat under new freedoms. "Not hospital against hospital or doctor against doctor
+----------------------------------------
+Ground truth Summary: Andy Burnham has vowed to reverse the "rapid" privatisation of NHS hospitals in England if Labour wins power.
+----------------------------------------
+Generated Summary: Shadow health secretary Jonathan Ashworth has accused NHS trusts of "hospital against hospital" and "doctor against doctor".
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "It didn't pierce the kayak. He said he was running on adrenaline [to get to the island]. Saltwater crocodiles are the world's largest living reptiles
+----------------------------------------
+Ground truth Summary: A man whose kayak was attacked by a saltwater crocodile has been rescued from an island in Australia.
+----------------------------------------
+Generated Summary: A kayaker has been bitten by a crocodile while trying to reach an island in the Indian Ocean.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "I can sing, I can talk - I haven't gone out and done the equivalent of trying to run 100 metres in the same way I used to sing before," he told the BBC's Colin Paterson
+----------------------------------------
+Ground truth Summary: Iron Maiden frontman Bruce Dickinson has said he is healing well since being treated for cancer earlier this year.
+----------------------------------------
+Generated Summary: Sir Paul McCartney has said he is "very happy" to be back in the public eye after being diagnosed with Parkinson's disease.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Care would have to be taken over security concerns and the possibility of China "dumping" cheap imports in the UK - for example steel. "I don't think they are in punishment mode," he said
+----------------------------------------
+Ground truth Summary: Philip Hammond has begun discussions with China on an ambitious free trade deal which could see greater access for major Chinese banks and businesses to the UK economy.
+----------------------------------------
+Generated Summary: The UK could face a trade war with China if it imposes tariffs on Chinese goods, the BBC has learned.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: That would stop President Recep Tayyip Erdogan from changing the constitution to give himself more powers with an executive presidency - and is one reason why staunch Erdogan opponents are drawn to the HDP. His uncle, Kemal, was a founder of the PKK. But he insists there is no link
+----------------------------------------
+Ground truth Summary: Once a week they gather, beneath the same tree in the same park - to remember.
+----------------------------------------
+Generated Summary: The leader of Turkey's pro-Kurdish party, Selahattin Demirtas, has said he will not run in the presidential election in June.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Cabrera-Bello, who sat out the morning, promptly birdied the first then, after a Garcia birdie for two up, put his team another hole to the good with a par on the seventh despite finding water off the tee
+----------------------------------------
+Ground truth Summary: Europe fought back from a 4-0 foursomes whitewash to cut the USA's lead to 5-3 after day one of the Ryder Cup.
+----------------------------------------
+Generated Summary: Spain's Rafa Cabrera-Bello and Sergio Garcia won all their fourballs matches as Europe took a commanding lead at the Ryder Cup.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Both fighters signed a confidentiality agreement, so their split of the earnings is not known, but it is widely accepted Mayweather will earn more than the reported £100m McGregor will make from his professional boxing debut
+----------------------------------------
+Ground truth Summary: Former world champion Paulie Malignaggi has left his role as Conor McGregor's sparring partner in the build-up to the Irishman's bout with Floyd Mayweather.
+----------------------------------------
+Generated Summary: Floyd Mayweather and Conor McGregor will fight in Las Vegas on Saturday.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It will then embark on a tour around Wales, stopping at schools, clubs and popular public locations. The women's Champions League trophy, the final of which will be staged at the Cardiff City Stadium on Thursday, 1 June, will also be on the tour
+----------------------------------------
+Ground truth Summary: The Champions League trophy will go on tour around Wales before the 2017 final in Cardiff on 3 June.
+----------------------------------------
+Generated Summary: The Women's Champions League trophy is to visit Wales for the first time.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The contract - reportedly worth $10bn (Â£6bn) - was agreed on the sidelines of the World Economic Forum in the Swiss ski resort of Davos. "We have witnessed a great event today
+----------------------------------------
+Ground truth Summary: Ukraine has signed a major shale gas deal with Royal Dutch Shell - a move seen as an attempt by Kiev to reduce its dependency on Russian gas imports.
+----------------------------------------
+Generated Summary: US President Barack Obama has signed a deal with China's President Xi Jinping to build a new nuclear power plant in the Chinese city of Wuxi.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Former UKIP leader Nigel Farage has accused the government of caving in to EU demands. "
+He said enforcement could be done through employers but the government would have to spend more money on a "crackdown" on illegal immigration, something he said was "increasingly necessary" in any case
+----------------------------------------
+Ground truth Summary: The government plans to keep visa-free travel to the UK for EU visitors after Brexit, the BBC understands.
+----------------------------------------
+Generated Summary: The government has been accused of caving in to EU demands over immigration.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Montrose trailed against Berwick early in the second half as Michael McKenna scored, but the hosts levelled through Chris Templeman and Ryan Ferguson netted the winner
+----------------------------------------
+Ground truth Summary: Forfar Athletic came from behind to beat bottom side Cowdenbeath and remain eight points clear at the top of Scottish League Two.
+----------------------------------------
+Generated Summary: Berwick Rangers came from behind to beat Montrose 2-1 in the Scottish League Cup quarter-finals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "The cutting-edge road scheme has surpassed expectations. The Highways Agency said its safety features include the UK's first radar-based incident detection system and 100% CCTV coverage
+----------------------------------------
+Ground truth Summary: The £371m Hindhead Tunnel under the Devil's Punch Bowl in Surrey has been officially opened after a four-and-a-half year construction project.
+----------------------------------------
+Generated Summary: The first section of the new M4 motorway in England has opened to the public.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

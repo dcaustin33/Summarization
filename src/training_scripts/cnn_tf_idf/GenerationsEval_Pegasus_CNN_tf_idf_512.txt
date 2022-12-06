@@ -1,0 +1,243 @@
+Generations for Eval_Pegasus_CNN_tf_idf_512
+Article text: An online shopper got the fright of his life when a live mouse leapt out of his grocery bags and ran around his kitchen. Scroll down for video. The car salesman said: 'I was going through the bag and I didn't realise it was there but when I put my hand in I saw something move. It was just so fast. It's the last thing you expect with a delivery.' Mr Bain managed to film the mouse on his mobile phone shortly after it emerged from the rubbish. The couple were worried about their two Staffordshire bull terriers, Max and Bruno, eating the mouse in case it was diseased. File photo .
+----------------------------------------
+Ground truth Summary: Couple  recently ordered their shopping to be delivered for the first time .
+But on one of first occasions, mouse jumped out of bag after delivery .
+Husband caught footage of the creature escaping from a bag last week .
+Tesco sent around pest control experts who later caught the animal .
+----------------------------------------
+Generated Summary: Andrew Bain was shopping online when the mouse leapt out of his bag. He managed to film the mouse on his mobile phone shortly after it emerged from the rubbish. The couple were worried about their two Staffordshire bull terriers, Max and Bruno, eating the mouse in case it was diseased. Mr Bain said: 'I was going through the bag and didn't realise it was there but when I put my hand in I saw something move. It's the last thing you expect with a delivery.'
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scroll down for video. Friends for life: During her life she was known for her kindness to all kinds of animals and every morning she would fed the stray dogs and cats that would show up at her home. Family members were stunned when the dogs suddenly appeared at the funeral parlor where Margarita's body was being kept. On the day of the funeral, March 15, the dogs even formed a procession behind the hearse and then returned to the funeral home. They only left once Margarita's body was being prepared for cremation
+----------------------------------------
+Ground truth Summary: Margarita Suarez of Merida, Yucatan, was well known for feeding the stray dogs and cats that would show up at her home .
+Family members were stunned when the dogs suddenly appeared at the funeral parlor where Margarita's body was being kept .
+On the day of the funeral, March 15, the dogs even formed a procession behind her hearse .
+----------------------------------------
+Generated Summary: Margarita, who died in March, was known for her kindness to all kinds of animals. She would feed the stray dogs and cats that would show up at her home. Family members were stunned when the dogs suddenly appeared at the funeral parlor where Margarita's body was being kept.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 'But I’m careful to switch the TV or radio off when he’s on. It’s not very nice, especially the way Andrew’s worked all his life for the BBC on radio and TV. The presenter, who has also been guest on Radio 4 panel show Just A Minute since his fall from grace, hosted Wright’s show for four days over the August bank holiday weekend last year, for which he was paid an estimated £4,000. A BBC spokesman told MailOnline: 'Jonathan has stood in as holiday cover on several occasions previously and is popular with the Radio 2 audience
+----------------------------------------
+Ground truth Summary: Chat show host is again standing in for Steve Wright, 60, on Radio Two .
+BBC received 100 complaints over his last cover shift and a raft of criticism .
+Ross was effectively exiled after he crudely mocked Andrew Sachs in 2008 .
+----------------------------------------
+Generated Summary: Jonathan Ross has been asked to stand in for Andrew Wright on Radio 2. Wright, who is recovering from throat cancer, is due to host his own show on BBC Radio 2. Ross, who has also been guest on Radio 4 panel show Just A Minute since his fall from grace.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: It is understood  if the corporation tries to block the world tour, which starts in Australia next month, from going ahead they could be liable for refunding tickets at a total cost of around £10million. We've sold an awful lot of tickets and we want to keep faith with people who bought the tickets.' Sources have claimed there is a small chance the show could go ahead unchanged, but most believe it will have to be significantly changed. A spokesman from BBC Worldwide said: 'There’s lots of speculation about Top Gear at the moment – however no Top Gear Live shows have been cancelled and we are working through the implications of Jeremy’s contract not being renewed
+----------------------------------------
+Ground truth Summary: Jeremy Clarkson was due to present Top Gear live on its £10m world tour .
+Tour is under BBC brand and the presenter was dismissed last week .
+Talks are underway about the future of live shows and Clarkson's role .
+May go ahead without BBC branding to avoid paying £10million in refunds .
+----------------------------------------
+Generated Summary: Jeremy Clarkson's Top Gear Live tour starts in Australia next month. It is understood if the corporation tries to block the world tour from going ahead they could be liable for refunding tickets. It is understood if the corporation tries to block the world tour from going ahead they could be liable for refunding tickets.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The footage, from 2013, captures the dramatic arrest of the couple after a night out in Stockton-on-Tees. The incident allegedly left music fan Darran Dunford unconscious and urinating blood for a week while his former partner, Leigh Leach, was left traumatised by her rough treatment at the hands of officers. Scroll down for video. He was arrested after assaulting police officers as they tried to place him in a police car. Pc Michael Wilson is captured repeatedly kneeing him in the back before delivering a series of blows to his upper body
+----------------------------------------
+Ground truth Summary: Darran Dunford claimed he was urinating blood for a week after his arrest .
+One officer said he punched Mr Dunford in the side of the face with his fist .
+He then said that he kneed Mr Dunford nine times in the back .
+Mr Dunford complained about the police's behaviour on the night in 2013 .
+The Independent Police Complaints Commission upheld a complaint .
+Three officers involved in the arrest now face disciplinary proceedings .
+Mr Dunford said the stress of the night has cost him his relationship .
+----------------------------------------
+Generated Summary: Darran Dunford and Leigh Leach were arrested after a night out in Stockton-on-Tees. Footage shows Dunford being repeatedly kneed in the back by a police officer. He is then punched in the face by Pc Michael Wilson. Dunford was left unconscious for a week while his former partner was left traumatised by her rough treatment at the hands of officers.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Bob Jones III said gay men and lesbians should be stoned to death 'as the Bible commands' in 1980. The 75-year-old, whose grandfather founded Bob Jones University in South Carolina, made the remarks during a visit to the White House to demand that President Jimmy Carter not extend protections of the Civil Rights Act of 1964 to gay men and lesbians. In a statement they accepted his apology, saying: 'We are grateful that Bob Jones III has taken responsibility for these words; words that have caused deep harm for many more people than any of us knows. 'This means a lot to us because it represents the beginning of a change in the rhetoric and conversation.'
+----------------------------------------
+Ground truth Summary: Bob Jones III said homosexuals should be stoned 'as the Bible commands'
+75-year-old religious leader made the comments in the White House in 1980 .
+Demand that President Jimmy Carter not extend protections of the Civil Rights Act of 1964 to gay men and lesbians .
+In an apology issued on Saturday he said the comments were 'antithetical to my theology and my 50 years of preaching a redeeming Christ'
+----------------------------------------
+Generated Summary: Bob Jones III said gay men and lesbians should be stoned to death 'as the Bible commands'
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Knight, who has two England caps, started his career at Fulham before making a £3.5million move to Villa in August 2007. He had been training at Watford in recent weeks but they opted not to make him a contract offer. However, Steve Clarke decided to give him a chance. Reading have 10 games left in the Championship as well as an FA Cup quarter-final replay. 'When I heard that Zat was back in the UK and looking for a club, I felt he would be a perfect fit.' The 34-year-old joined Bolton for £4m in July 2009 but left at the end of last season and had a brief spell with Colorado Rapids in Major League Soccer
+----------------------------------------
+Ground truth Summary: Zat Knight joins Reading on a free transfer until the end of the season .
+The former Aston Villa defender had a spell with MLS side Colorado .
+Knight had been training with Watford but no contract was offered .
+----------------------------------------
+Generated Summary: Zat Knight has signed for Reading until the end of the season. The 34-year-old left Aston Villa at the end of last season. Knight, who has two England caps, started his career at Fulham before making a £3.5million move to Villa in 2007.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But Azpilicueta made up for his unorthodox defence by selecting Eden Hazard in midfield and Diego Costa as his striker. ‘Firstly, I apologise to any of my old team-mates if I missed you out, but it was so hard just picking five,’ Azpilicueta told the Chelsea website. Azpilicueta picked an unorthodox five-a-side team with two goalkeepers including Petr Cech. ‘I've played with some great goalkeepers. ‘I'm not going to pick myself, so the defender in my side is going to be Nacho Monreal from Arsenal. ‘My first attacking player is Eden Hazard. I know he's going to compete, be strong
+----------------------------------------
+Ground truth Summary: Cesar Azpilicueta was asked to pick side from his favourite team-mates .
+The Chelsea defender picked goalkeepers Petr Cech and Thibaut Courtois .
+He completed line-up with Nacho Monreal, Eden Hazard and Diego Costa .
+----------------------------------------
+Generated Summary: Cesar Azpilicueta selected Eden Hazard and Diego Costa in midfield and striker respectively. The Chelsea defender also picked two goalkeepers including Petr Cech. Azpilicueta said it was'so hard' to pick a five-a-side team.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Scroll down for video. Brand explained that while society can 'incorporate' problems like drugs, drink and homelessness, it has so far failed to understand jihadism in the same way. However, it is not the first time that Brand has spoken out about ISIS. Brand previously criticised Australian media for calling the Sydney siege gunman Man Haron Monis, pictured, a terrorist, saying he was simply a 'mentally ill criminal' Brand criticised the way gunman Man Haron Monis was branded a terrorist by some media outlets, saying instead he was simply a mentally ill criminal
+----------------------------------------
+Ground truth Summary: The outspoken star posted an extraordinary ten-minute rant on YouTube .
+Said Britain's 'corrupt' society was to blame for youngsters turning to ISIS .
+Suggested society at large had failed to incorporate young Muslims .
+Said people were failing to understand why people were turning to jihad .
+Blamed media for failing to address 'core problem' behind ISIS atrocities .
+Brand has previously spoken out about ISIS in other YouTube videos .
+----------------------------------------
+Generated Summary: Russell Brand says society has failed to understand jihadism in the same way as drugs, drink and homelessness. The comedian has previously criticised Australian media for calling Sydney siege gunman Man Haron Monis a terrorist.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: John Terry may be Chelsea captain now, but when Dennis Wise was skipper and Terry was a junior player at the club, his duties included warming toilet seats for senior players, making drinks and cleaning boots. 'Every now and then he gave me a little bonus. 'Sometimes, the foreign guys especially, didn’t like it. 'But you come in and the manager is calm, collected, the complete opposite. He can sense something before the game. The Chelsea captain has led his side to the top of the Barclays Premier League this season .
+----------------------------------------
+Ground truth Summary: John Terry has given an insight into his time as a young player at Chelsea .
+Terry's duties used to include warming up toilet seats for senior players .
+He also made hot drinks for star players and cleaned Dennis Wise's boots .
+Blues captain used to hope that  Wise would score to earn him a £25 tip .
+CLICK HERE for all the latest Chelsea news .
+----------------------------------------
+Generated Summary: John Terry was a junior player at Chelsea when Dennis Wise was captain. Terry was a junior player at Chelsea when Dennis Wise was captain. Terry was a junior player at Chelsea when Wise was captain. Terry has led Chelsea to the top of the Premier League this season.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Boris Dubini, who represents the teenager, says Maglio's claim that the sex was consensual was nonsense given the tranquiliser he gave her turned her into a 'rag doll' and she couldn't resist. Maglio has admitted spiking a drink of Baileys liqueur belonging to the 16-year-old with a sedative, and when asked why he told police: 'I am stupid, there was no real reason'. He told investigators the sex was consensual and that he had joined Couchsurfing to improve his English, as he believed it would help further his career. Prosecutors are seeking a seven-year jail term. They claim they had brief flashes of being kissed and touched by Maglio and vomited when they woke up. I felt like a whore
+----------------------------------------
+Ground truth Summary: Dino Maglio faces a possible seven-year prison sentence .
+He used name Leonardo on Couchsurfing.com to entice teenager .
+She had been travelling with mother and sister when they stayed at his flat .
+He admitted drugging the 16-year-old but claims the sex was consensual .
+More than a dozen women have come forward claiming he assaulted them .
+He has been suspended from police role .
+----------------------------------------
+Generated Summary: Marco Maglio, 26, has admitted drugging and raping a 16-year-old girl. He told police: 'I am stupid, there was no real reason' Maglio has admitted drugging and raping a 16-year-old girl. He told police: 'I am stupid, there was no real reason' Maglio has admitted drugging and raping a 16-year-old girl. He told police: 'I am stupid, there was no real reason'
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The video goes viral. The first is in the moment of crisis. You should not have the privilege of calling yourselves Sooners" (the OU nickname). Later, Boren said he'd be glad if the students in the video left campus because "we don't provide student services for bigots." The next day he expelled two of them. He expressed a decisive, judgmental view with moral clarity. Then he followed through. The First Amendment question, certainly, is being debated by legal scholars. Not unlike being a true patriot. So now begins the longer term. We can all do that. On your campus. Ask what the history is
+----------------------------------------
+Ground truth Summary: David Boren, president of the University of Oklahoma, responded to offensive video .
+Eric Liu: Boren did something rare in public life today -- he acted with moral clarity .
+----------------------------------------
+Generated Summary: David Frum: University of Oklahoma President David Boren's response to a video of a student singing a racist song is commendable. Frum: Boren's response to the video is a good example of how to respond to a crisis. He says Boren's response to the video is a good example of how to respond to a crisis. Frum: Boren's response to the video is a good example of how to respond to a crisis.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 'She felt genuinely frightened that she was being watched every time she attended a meeting or saw a colleague in the corridor. A couple of months later she began working in his department and he promised to 'take her under his wing'. It claimed: 'Both of these women are allowed to dress like hookers in short skirts and dresses… they are dressing like tarts. I was shocked. 'It was upsetting as I was going through a break-up and felt like someone had intruded and was saying lies about me, which upset us both. I felt humiliated.' The court heard police traced the letters to Perryman and found drafts on his computer
+----------------------------------------
+Ground truth Summary: Karl Perryman was a senior manager at Queen Elizabeth Hospital in Norfolk .
+Perryman is said to have written eight separate letters about Joanne O'Neill .
+They accused her of cheating on her partner and dressing 'like a hooker'
+Miss O'Neill told the jury he said he would 'destroy' her if she told anyone .
+Perryman denies one count of stalking and another of intimidating a witness .
+----------------------------------------
+Generated Summary: David Perryman, 53, sent letters to his ex-girlfriend, claiming she was being watched. He also sent her a letter claiming she was dressing like a 'tramp' and a letter claiming she was being watched. He also sent her a letter claiming she was being watched and a letter claiming she was being watched. He was jailed for two years at Southwark Crown Court.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Zlatan Ibrahimovic and co listen to manager Laurent Blanc during a training session at Stamford Bridge. PSG trained at Stamford Bridge on Tuesday night and will be looking for revenge after letting a 3-1 first-leg advantage slip at the same ground last season. Blanc called for his side to take their chances in the cauldron at the Bridge. It's up to us to try to do what Chelsea did in Paris. 'One of Chelsea's main threats is the fact they're very good on the counter attack, so I don't think we should go gung ho. PSG need to score at Stamford Bridge if they are to advance to the Champions League quarter-finals
+----------------------------------------
+Ground truth Summary: Chelsea play PSG in Champions League last-16 second leg on Wednesday .
+Former Blues defender David Luiz leads squad on walkabout in London .
+First leg finished 1-1 after Branislav Ivanovic and Edinson Cavani goals .
+Laurent Blanc says PSG need to take their chances at Stamford Bridge .
+CLICK HERE for Chelsea vs PSG team news, probable line ups and more .
+----------------------------------------
+Generated Summary: Paris Saint-Germain face Chelsea in the last 16 of the Champions League. PSG need to score at Stamford Bridge if they are to advance to the quarter-finals. PSG trained at Stamford Bridge on Tuesday night and will be looking for revenge after letting a 3-1 first-leg advantage slip at the same ground last season. PSG need to score at Stamford Bridge if they are to advance to the Champions League quarter-finals.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Nick Clegg will promise new fathers six weeks of paternity leave if his party gets into government for a second term. The policy will be in the party’s manifesto and would be introduced in 2018-19 after consultation with businesses. For too long, mums have been told their place is at home with their child, while dads return to work. Around 55pc of fathers take the full two weeks currently available. Scroll down for video. She added: ‘Liberal Democrats want to triple paternity leave, to encourage new dads to spend more time with their child in those vital early weeks and month after birth
+----------------------------------------
+Ground truth Summary: Liberal Democrats would triple the amount of leave for dads of newborns .
+Pledges to pay them the maternity leave rate of £138.18 a week .
+Clegg has already pushed for shared parental leave, which starts next week .
+----------------------------------------
+Generated Summary: Nick Clegg will promise new fathers six weeks of paternity leave if his party gets into government for a second term. The policy will be in the party's manifesto and would be introduced in 2018-19 after consultation with businesses. Around 55pc of fathers take the full two weeks currently available.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mesut Ozil has defended his decision to swap shirts with Geoffrey Kondogbia on the pitch during Arsenal’s Champions League clash with Monaco on Tuesday evening. ‘Geoffrey Kondogbia asked me for my shirt and I wanted to do him a favour,’ Ozil told Sky Sports Germany. Ozil later defended his decision to swap shirts at the break after facing criticism. ‘You do it once you’re in the tunnel or once you’re in the dressing room, out of the way of everyone. Van Persie hands his former Arsenal team-mate his shirt at Old Trafford .
+----------------------------------------
+Ground truth Summary: Mesut Ozil has defended his decision to swap shirts at half-time .
+Arsenal beat Monaco 2-0 on Tuesday but were knocked out of the UEFA Champions League on away goals .
+Ozil came under criticism for trading jerseys with Geoffrey Kondogbia .
+CLICK HERE for all the latest Arsenal news .
+----------------------------------------
+Generated Summary: Mesut Ozil has defended his decision to swap shirts with Geoffrey Kondogbia during Arsenal's Champions League clash with Monaco. Ozil handed Kondogbia his shirt at half-time in the Gunners' 2-0 defeat. The Germany international later defended his decision to swap shirts.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: What lies beneath: This two-story home in Prince George’s County, Michigan, was built partially underground in 2006. Spacious: The house features three bedrooms and two fool bathrooms. Despite its quirky look, the residence has all the conveniences of modern living: three bedrooms, two full bathrooms, a detached two-car garage, a fireplace and a gourmet kitchen with a separate dining room. Doomsday prepper's paradise: The listing jokingly points out that whoever lives in this underground bunker will be safe in the event of a zombie apocalypse
+----------------------------------------
+Ground truth Summary: Two-story home in Prince George’s County, Maryland, was built partially underground in 2006 .
+Most of the 3,300-square-foot dwelling is buried under about 25 feet of dirt, which provides natural insulation .
+Subterranean home has a colonial-style red-brick facade with stately columns .
+The three-bedroom, two-bath home is listed for $425,000 .
+The listing jokingly reads that whoever owns the home will be safe in the event of a zombie apocalypse .
+----------------------------------------
+Generated Summary: This two-story home in Prince George's County, Michigan, was built partially underground in 2006. The listing jokingly points out that whoever lives in this underground bunker will be safe in the event of a zombie apocalypse.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: ‘The objective for the season was to get promoted. We eventually got there and, from then on, I thought we had a real chance of taking the league. ‘We can now speak to players we want to get from outside the club and speak to players at the club and try to renegotiate. ‘It’s just a great day and it’s testament to the support we’ve had all season from the fans, the hard work of (owner) Ann Budge and (director of football) Craig Levein and all the players. ‘Since maybe late December and early January people have had us installed as champions. So it’s been tough, not so much to keep your standards up but to put all that talk to one side
+----------------------------------------
+Ground truth Summary: Hearts won the Scottish Championship after Rangers beat Hibernian .
+Hearts are now targeting beating Hibernian's 1999 total of 89 points .
+Robbie Neilson's side have 78 with 21 points left to play for .
+----------------------------------------
+Generated Summary: Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title. Levein's side beat St Johnstone 1-0 at McDiarmid Park to win the Scottish Championship title.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: England's stars headed to Turin to face Italy as Roy Hodgson's men seek revenge for their World Cup defeat last summer. England captain Wayne Rooney could become the country's all-time record scorer against Italy. England have been in excellent form in qualifying, the 4-0 win over Lithuania at Wembley marking their fifth straight competitive win since the debacle in Brazil. The Italians however have had a testing time of things since the World Cup, sitting second in their qualifying group after snatching a late goal away to Bulgaria in their last match
+----------------------------------------
+Ground truth Summary: England set to face Italy in Turn on Tuesday night .
+The two sides met in Brazil during World Cup, with Italy winning 2-1 .
+But England have won all five competitive games since exiting Brazil .
+----------------------------------------
+Generated Summary: Roy Hodgson's England face Italy in a friendly in Turin. The Three Lions are looking to avenge their World Cup defeat last summer. Wayne Rooney could become the country's all-time record scorer against Italy. Italy have had a testing time since the World Cup, sitting second in their qualifying group after snatching a late goal away to Bulgaria in their last match.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Lloyd was on maternity leave from her job as a secretary at Onoway Elementary School when the fatal accident occurred. She had worked there for the past three years and three of her children attended school there. Lost a mother: The 34-year-old mother leaves behind 14-year-old son Chance, 12-year-old son Riley, 11-year-old daughter Tianna, 8-year-old daughter Kira and 11-month-old twin girls Isabella and Gabriella. Also pictured above is Lloyd's 5-year-old niece Londyn. Laura will be sadly missed by all who knew her,' the statement reads. Accident: The RCMP say Lloyd's husband, pictured above, has not been charged in the fatal accident. The remainder of the funds will go towards her children .
+----------------------------------------
+Ground truth Summary: Laura Lloyd's husband backed a trailer into her Wednesday morning .
+The 34-year-old mother of six died at the scene .
+She was on maternity leave from her job as an elementary school secretary when the fatal accident happened .
+Lloyd leaves behind 11-month-old twins Isabella and Gabriella, 8-year-old Jira, 11-year-old Tianna, 12-year-old Riley and 14-year-old Chance .
+----------------------------------------
+Generated Summary: Laura Lloyd was on maternity leave from her job as a secretary at Onoway Elementary School when the fatal accident occurred. The 34-year-old mother leaves behind 14-year-old son Chance, 12-year-old son Riley, 11-year-old daughter Tianna, 8-year-old daughter Kira and 11-month-old twin girls Isabella and Gabriella.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
