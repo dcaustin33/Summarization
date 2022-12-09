@@ -1,0 +1,185 @@
+Generations for Eval_Pegasus_XSum_BERT_128
+Article text: He said he was surprised at which ones seemed to be the most popular. "They were the Cork one - Hank Skorkio - and the ones for Meath and Westmeath
+----------------------------------------
+Ground truth Summary: Can you name all 32 counties of Ireland?
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died after he has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Mexico's economy ministry said it regretted Ford's decision, adding that it had assurances that the US car firm would pay the state of San Luis Potosi for any costs incurred from the cancellation
+----------------------------------------
+Ground truth Summary: Ford has said it will cancel a $1.6bn (£1.3bn) plant it planned to build in Mexico and instead extend operations at its factory in Michigan.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the us car firm. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Care worker Alec Wallbank, 30, of Pontypridd, Rhondda Cynon Taff, is alleged to have carried out the offence between July and September 2014 in Cardiff. A plea and case management hearing is due to be held on 18 August. 
+----------------------------------------
+Ground truth Summary: A deputy manager of a mental health ward has appeared in court accused of engaging in sexual activity with a woman patient.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in cardiff. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Ivorian's agent, Dimitri Seluk, said this week that he would "listen to any offers on the table" this summer. "I know what Yaya thinks
+----------------------------------------
+Ground truth Summary: Yaya Toure is focused on Manchester City's season and will not be distracted by transfer speculation, according to manager Manuel Pellegrini.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] as told told [PAD] people [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: A Southern spokesman said: "On Friday they told their conductor members to accept a deal and then tomorrow they plan to strike against it
+----------------------------------------
+Ground truth Summary: Southern is taking legal action to try to stop a series of strikes from Tuesday, the RMT transport union said.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in the uk, a court has said. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: He ran from his mother's home in Bridge of Allan to nearby Dunblane, disguised in a beanie hat, and then visited the tennis courts where he watched a family game, before being recognised. Mrs Erskine said: "Andy went on court and hit with them
+----------------------------------------
+Ground truth Summary: Andy Murray's grandparents say they have been left "upset" after receiving hate mail criticising the tennis star.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "
+Health Minister Mark Drakeford added: "Right across the United Kingdom there is a shortage of senior doctors to work in A&E departments and Wales is no exception
+----------------------------------------
+Ground truth Summary: A shortage of staff at Welsh hospital emergency departments is at "tipping point" and putting patient safety at risk, a top consultant has said.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been charged with the first time in the first time in the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: With Labour in favour and the Tories and Plaid Cymru voting against, the Liberal Democrats abstained, allowing the budget to pass. "This budget is more an attempt to make up for past underfunding than a genuine investment in our vital services," he said
+----------------------------------------
+Ground truth Summary: Most of the cuts that were planned for higher education have been reversed, the finance minister has announced, as the Welsh budget was passed.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the liberal democrats abstained has been jailed for the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Said Djinnit had been hosting talks between the governing party and those who do not want President Pierre Nkurunziza to stand for re-election
+----------------------------------------
+Ground truth Summary: UN envoy Said Djinnit has stepped down as mediator in the Burundi crisis - a demand of those opposed to the president's third-term bid.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been charged with the first time in the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Senate Democratic leader Harry Reid and his Republican counterpart, Mitch McConnell, were expected to brief their colleagues on Wednesday. The Senate's negotiations were initially put on hold on Tuesday to give House Republicans a chance to come up with a deal
+----------------------------------------
+Ground truth Summary: Frantic US political attempts to avert a federal debt default have pivoted back to the Senate after plans in the House of Representatives collapsed.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] st [PAD] because [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Burnley-born goalkeeper, who has signed a two-year contract, has played for Scotland Under-21s and now hopes to impress head coach Gordon Strachan
+----------------------------------------
+Ground truth Summary: Ryan Fulton is hoping his switch from Liverpool to Hamilton Academical will eventually pay dividends with a full international call-up for Scotland.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a burnley - year - old man has been jailed for the first time in a two - year contract. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Patrick Sookhdeo, 68, of River Street, Pewsey, Wiltshire, is accused of one count of indecent assault on a woman aged 16 or over in Plaistow, east London, in 1977. 
+----------------------------------------
+Ground truth Summary: A man has been charged with carrying out a sexual assault on a woman almost 40 years ago.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been jailed for the first time in the first time in a woman who died. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The pressure group said it meant, in some cases, the board risked breaking the law. It outlined 13 'red' areas of risk, including:
+The concerns by the NWHA come as the board meets on Thursday to get the latest update on two inquiries into events at Glan Clwyd Hospital's Tawel Fan ward, which closed in 2013. "
+----------------------------------------
+Ground truth Summary: Campaigners have accused a health board of risking patient safety and failing to learn lessons from a mental health ward scandal.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been charged with a man who died in the board risked club. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Talks in June between Iran and the P5+1 - the US, UK, France, China, Russia and Germany - ended without a breakthrough. "
+"We are awaiting the result of the six powers' assessment
+----------------------------------------
+Ground truth Summary: EU foreign affairs representative Catherine Ashton has held talks with Iran's chief nuclear negotiator, Saeed Jalili, in a bid to end the stand-off over the Iranian nuclear programme.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a us - year - old man has been jailed for the us, a court has said. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Hammers manager Slaven Bilic said earlier this month that Payet did not want to play for the club, but added the 29-year-old would not be sold. Payet joined West Ham from Marseille for £10. 
+----------------------------------------
+Ground truth Summary: West Ham forward Dimitri Payet is set to rejoin former club Marseille after the clubs agreed a £25m fee.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been charged with a man who died in the club's payet. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] 20 [PAD] because [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Fighting between rival forces in July left hundreds of people dead less than a year after a peace deal was signed. More on South Sudan's crisis:
+Following UN pressure last week, President Kiir has now agreed to the deployment of a 4,000-strong regional protection force for Juba which would have a more robust mandate than the 12,000 UN soldiers already in the country, however the mandate and size of the force still have to be agreed
+----------------------------------------
+Ground truth Summary: More than 100 fighters loyal to South Sudan's sacked vice-president have been found "in extremely bad shape" by the UN in the Democratic Republic of Congo.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been charged with the first time in the country's un. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Similarly a container coming at your windscreen will make you duck. He said: "In amongst rubbish you will always find a baby's dummy and know that it's unlikely that its mother wanted that littered
+----------------------------------------
+Ground truth Summary: Car owners in London will face fines of up to £100 if someone drops litter from their vehicles, under a law change.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The charges include rape, attempted rape, child prostitution, child pornography and drug charges linked to boys from Leicester and Coventry
+----------------------------------------
+Ground truth Summary: Ten men from London and the Midlands have been charged with child sexual exploitation offences against two boys.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died after a man has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The letter, coordinated by the British Refugee Council, asks Mr Cameron to show a "new resolve" to deal with the crisis, which saw nearly 4,000 people drown last year and hundreds of thousands more face danger and hardship while fleeing violence
+----------------------------------------
+Ground truth Summary: David Cameron's response to the refugee crisis is "clearly inadequate", leading aid and refugee agencies claim.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in a new - year - old man has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "What they are doing is outrageously silly and dangerous - there is no way that they are able to see the road properly through a gap of that size
+----------------------------------------
+Ground truth Summary: A motorist was filmed driving with the windscreen almost completely obscured by snow in Aberdeenshire.
+----------------------------------------
+Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------

@@ -1,0 +1,347 @@
+2022-12-09 20:38:14,529 INFO    StreamThr :3206 [internal.py:wandb_internal():88] W&B internal server running at pid: 3206, started at: 2022-12-09 20:38:14.528423
+2022-12-09 20:38:14,532 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: status
+2022-12-09 20:38:14,534 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: status
+2022-12-09 20:38:14,535 DEBUG   SenderThread:3206 [sender.py:send():303] send: header
+2022-12-09 20:38:14,535 INFO    WriterThread:3206 [datastore.py:open_for_write():75] open: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/run-uw3awwfl.wandb
+2022-12-09 20:38:14,677 DEBUG   SenderThread:3206 [sender.py:send():303] send: run
+2022-12-09 20:38:14,778 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: check_version
+2022-12-09 20:38:14,782 INFO    SenderThread:3206 [dir_watcher.py:__init__():216] watching files in: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files
+2022-12-09 20:38:14,782 INFO    SenderThread:3206 [sender.py:_start_run_threads():928] run started: uw3awwfl with start time 1670618294.525159
+2022-12-09 20:38:14,782 DEBUG   SenderThread:3206 [sender.py:send():303] send: summary
+2022-12-09 20:38:14,783 INFO    SenderThread:3206 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-09 20:38:14,783 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: check_version
+2022-12-09 20:38:14,898 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: run_start
+2022-12-09 20:38:14,903 DEBUG   HandlerThread:3206 [system_info.py:__init__():31] System info init
+2022-12-09 20:38:14,903 DEBUG   HandlerThread:3206 [system_info.py:__init__():46] System info init done
+2022-12-09 20:38:14,903 INFO    HandlerThread:3206 [system_monitor.py:start():150] Starting system monitor
+2022-12-09 20:38:14,904 INFO    SystemMonitor:3206 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2022-12-09 20:38:14,904 INFO    HandlerThread:3206 [system_monitor.py:probe():168] Collecting system info
+2022-12-09 20:38:14,904 INFO    SystemMonitor:3206 [interfaces.py:start():168] Started cpu
+2022-12-09 20:38:14,905 INFO    SystemMonitor:3206 [interfaces.py:start():168] Started disk
+2022-12-09 20:38:14,906 INFO    SystemMonitor:3206 [interfaces.py:start():168] Started gpu
+2022-12-09 20:38:14,907 INFO    SystemMonitor:3206 [interfaces.py:start():168] Started memory
+2022-12-09 20:38:14,908 INFO    SystemMonitor:3206 [interfaces.py:start():168] Started network
+2022-12-09 20:38:14,917 DEBUG   HandlerThread:3206 [system_info.py:probe():195] Probing system
+2022-12-09 20:38:14,927 DEBUG   HandlerThread:3206 [system_info.py:_probe_git():180] Probing git
+2022-12-09 20:38:14,949 DEBUG   HandlerThread:3206 [system_info.py:_probe_git():188] Probing git done
+2022-12-09 20:38:14,950 DEBUG   HandlerThread:3206 [system_info.py:probe():241] Probing system done
+2022-12-09 20:38:14,950 DEBUG   HandlerThread:3206 [system_monitor.py:probe():177] {'os': 'Linux-5.10.0-19-cloud-amd64-x86_64-with-glibc2.31', 'python': '3.9.13', 'heartbeatAt': '2022-12-09T20:38:14.917258', 'startedAt': '2022-12-09T20:38:14.514175', 'docker': None, 'cuda': None, 'args': ('--model_name', 'google/pegasus-large', '--batch_size', '2', '--max_length', '256', '--name', 'Eval_Pegasus_XSum_BERT_256', '--log_n_val_steps', '100', '--val_steps', '100', '--write_steps', '10', '--num_beams', '4', '--divisor', '2', '--model_path', 'checkpoints/Pegasus_XSum_BERT_256/Pegasus_XSum_BERT_256_Final.pt', '--workers', '4', '-log'), 'state': 'running', 'program': '/home/da2986/Summarization/src/training_scripts/xsum_bert/generate_and_evaluate.py', 'codePath': 'src/training_scripts/xsum_bert/generate_and_evaluate.py', 'git': {'remote': 'https://github.com/dcaustin33/Summarization', 'commit': '9d9243f00a4a33c0611abab15c927ef6f04cd33d'}, 'email': 'dcaustin33@gmail.com', 'root': '/home/da2986/Summarization', 'host': 'instance-12', 'username': 'da2986', 'executable': '/home/da2986/anaconda3/bin/python3', 'cpu_count': 2, 'cpu_count_logical': 4, 'cpu_freq': {'current': 2299.998, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 245.83320999145508, 'used': 126.30610275268555}, 'gpu': 'Tesla K80', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla K80', 'memory_total': 11997020160}], 'memory': {'total': 14.64874267578125}}
+2022-12-09 20:38:14,950 INFO    HandlerThread:3206 [system_monitor.py:probe():178] Finished collecting system info
+2022-12-09 20:38:14,950 INFO    HandlerThread:3206 [system_monitor.py:probe():181] Publishing system info
+2022-12-09 20:38:14,950 DEBUG   HandlerThread:3206 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2022-12-09 20:38:14,951 DEBUG   HandlerThread:3206 [system_info.py:_save_pip():67] Saving pip packages done
+2022-12-09 20:38:14,951 DEBUG   HandlerThread:3206 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2022-12-09 20:38:15,787 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-summary.json
+2022-12-09 20:38:15,787 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/conda-environment.yaml
+2022-12-09 20:38:15,787 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/requirements.txt
+2022-12-09 20:38:18,986 DEBUG   HandlerThread:3206 [system_info.py:_save_conda():86] Saving conda packages done
+2022-12-09 20:38:18,987 INFO    HandlerThread:3206 [system_monitor.py:probe():183] Finished publishing system info
+2022-12-09 20:38:18,990 DEBUG   SenderThread:3206 [sender.py:send():303] send: files
+2022-12-09 20:38:18,991 INFO    SenderThread:3206 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2022-12-09 20:38:18,998 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:38:18,999 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:38:19,033 DEBUG   SenderThread:3206 [sender.py:send():303] send: telemetry
+2022-12-09 20:38:19,232 INFO    Thread-16 :3206 [upload_job.py:push():143] Uploaded file /tmp/tmp5fntzehzwandb/1fjh12q6-wandb-metadata.json
+2022-12-09 20:38:19,787 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/conda-environment.yaml
+2022-12-09 20:38:19,788 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-metadata.json
+2022-12-09 20:38:19,788 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:38:21,788 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:38:23,789 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:38:34,035 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:38:34,036 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:38:45,797 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/config.yaml
+2022-12-09 20:38:49,066 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:38:49,067 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:39:04,109 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:39:04,109 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:39:14,908 DEBUG   SystemMonitor:3206 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2022-12-09 20:39:14,910 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:39:19,143 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:39:19,143 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:39:34,177 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:39:34,178 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:39:44,910 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:39:49,216 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:39:49,216 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:40:04,259 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:40:04,260 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:40:14,911 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:40:19,293 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:40:19,293 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:40:34,355 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:40:34,355 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:40:44,912 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:40:49,395 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:40:49,395 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:41:04,431 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:41:04,431 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:41:14,913 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:41:19,469 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:41:19,469 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:41:34,505 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:41:34,505 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:41:44,914 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:41:49,555 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:41:49,556 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:42:04,592 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:42:04,592 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:42:14,915 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:42:19,627 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:42:19,627 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:42:34,675 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:42:34,675 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:42:44,916 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:42:49,711 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:42:49,712 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:43:04,754 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:43:04,754 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:43:14,917 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:43:19,819 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:43:19,819 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:43:34,863 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:43:34,864 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:43:44,918 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:43:49,905 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:43:49,906 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:44:04,944 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:44:04,944 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:44:14,919 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:44:19,989 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:44:19,989 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:44:35,027 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:44:35,027 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:44:44,920 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:44:50,070 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:44:50,070 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:45:05,103 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:45:05,103 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:45:14,920 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:45:20,145 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:45:20,145 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:45:35,178 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:45:35,178 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:45:44,921 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:45:50,213 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:45:50,213 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:46:05,252 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:46:05,253 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:46:14,922 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:46:20,317 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:46:20,317 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:46:35,356 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:46:35,356 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:46:44,923 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:46:50,416 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:46:50,416 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:47:05,448 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:47:05,448 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:47:14,923 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:47:20,488 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:47:20,488 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:47:35,523 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:47:35,523 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:47:44,924 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:47:50,568 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:47:50,568 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:48:05,604 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:48:05,605 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:48:14,925 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:48:20,653 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:48:20,653 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:48:35,697 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:48:35,698 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:48:44,926 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:48:50,733 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:48:50,734 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:49:05,780 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:49:05,780 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:49:14,926 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:49:20,826 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:49:20,826 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:49:35,873 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:49:35,874 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:49:44,927 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:49:50,909 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:49:50,909 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:50:05,946 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:50:05,946 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:50:14,928 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:50:20,993 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:50:20,993 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:50:36,501 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:50:36,501 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:50:44,929 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:50:51,558 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:50:51,558 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:51:06,590 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:51:06,590 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:51:14,930 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:51:21,644 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:51:21,645 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:51:36,681 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:51:36,681 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:51:44,931 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:51:51,848 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:51:51,848 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:52:06,900 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:52:06,900 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:52:14,932 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:52:21,937 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:52:21,937 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:52:36,982 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:52:36,982 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:52:44,932 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:52:52,018 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:52:52,018 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:53:07,055 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:53:07,055 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:53:14,933 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:53:22,108 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:53:22,108 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:53:37,154 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:53:37,155 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:53:44,934 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:53:52,218 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:53:52,218 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:54:07,279 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:54:07,279 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:54:14,935 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:54:22,325 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:54:22,326 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:54:37,362 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:54:37,362 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:54:44,936 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:54:52,393 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:54:52,393 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:55:07,438 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:55:07,438 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:55:14,937 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:55:22,470 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:55:22,470 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:55:37,515 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:55:37,516 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:55:44,938 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:55:52,547 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-09 20:55:52,548 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: stop_status
+2022-12-09 20:56:07,360 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: partial_history
+2022-12-09 20:56:07,362 DEBUG   SenderThread:3206 [sender.py:send():303] send: exit
+2022-12-09 20:56:07,362 INFO    SenderThread:3206 [sender.py:send_exit():442] handling exit code: 0
+2022-12-09 20:56:07,362 INFO    SenderThread:3206 [sender.py:send_exit():444] handling runtime: 1072
+2022-12-09 20:56:07,363 INFO    SenderThread:3206 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-09 20:56:07,363 INFO    SenderThread:3206 [sender.py:send_exit():450] send defer
+2022-12-09 20:56:07,363 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,363 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 0
+2022-12-09 20:56:07,363 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,363 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 0
+2022-12-09 20:56:07,364 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 1
+2022-12-09 20:56:07,364 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,364 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 1
+2022-12-09 20:56:07,364 INFO    HandlerThread:3206 [system_monitor.py:finish():160] Stopping system monitor
+2022-12-09 20:56:07,366 DEBUG   SystemMonitor:3206 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2022-12-09 20:56:07,366 DEBUG   SystemMonitor:3206 [system_monitor.py:_start():141] Publishing last batch of metrics
+2022-12-09 20:56:07,368 INFO    HandlerThread:3206 [interfaces.py:finish():173] Joined cpu
+2022-12-09 20:56:07,368 INFO    HandlerThread:3206 [interfaces.py:finish():173] Joined disk
+2022-12-09 20:56:07,400 INFO    HandlerThread:3206 [interfaces.py:finish():173] Joined gpu
+2022-12-09 20:56:07,400 INFO    HandlerThread:3206 [interfaces.py:finish():173] Joined memory
+2022-12-09 20:56:07,400 INFO    HandlerThread:3206 [interfaces.py:finish():173] Joined network
+2022-12-09 20:56:07,401 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,401 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 1
+2022-12-09 20:56:07,401 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 2
+2022-12-09 20:56:07,401 DEBUG   SenderThread:3206 [sender.py:send():303] send: stats
+2022-12-09 20:56:07,402 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,402 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 2
+2022-12-09 20:56:07,404 DEBUG   SenderThread:3206 [sender.py:send():303] send: history
+2022-12-09 20:56:07,404 DEBUG   SenderThread:3206 [sender.py:send():303] send: summary
+2022-12-09 20:56:07,405 INFO    SenderThread:3206 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-09 20:56:07,405 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,405 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 2
+2022-12-09 20:56:07,405 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 3
+2022-12-09 20:56:07,405 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,405 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 3
+2022-12-09 20:56:07,406 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,406 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 3
+2022-12-09 20:56:07,406 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 4
+2022-12-09 20:56:07,406 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,406 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 4
+2022-12-09 20:56:07,406 DEBUG   SenderThread:3206 [sender.py:send():303] send: summary
+2022-12-09 20:56:07,407 INFO    SenderThread:3206 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-09 20:56:07,407 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,407 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 4
+2022-12-09 20:56:07,407 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 5
+2022-12-09 20:56:07,408 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,408 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 5
+2022-12-09 20:56:07,408 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,408 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 5
+2022-12-09 20:56:07,408 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 6
+2022-12-09 20:56:07,408 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:07,408 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 6
+2022-12-09 20:56:07,409 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:07,409 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 6
+2022-12-09 20:56:08,191 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-summary.json
+2022-12-09 20:56:08,362 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: poll_exit
+2022-12-09 20:56:09,192 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:56:10,115 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 7
+2022-12-09 20:56:10,115 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: poll_exit
+2022-12-09 20:56:10,116 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,116 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 7
+2022-12-09 20:56:10,116 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,116 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 7
+2022-12-09 20:56:10,116 INFO    SenderThread:3206 [dir_watcher.py:finish():362] shutting down directory watcher
+2022-12-09 20:56:10,192 INFO    Thread-13 :3206 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:56:10,193 INFO    SenderThread:3206 [dir_watcher.py:finish():392] scan: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files
+2022-12-09 20:56:10,193 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log output.log
+2022-12-09 20:56:10,193 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-summary.json wandb-summary.json
+2022-12-09 20:56:10,196 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/requirements.txt requirements.txt
+2022-12-09 20:56:10,200 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-metadata.json wandb-metadata.json
+2022-12-09 20:56:10,200 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/config.yaml config.yaml
+2022-12-09 20:56:10,200 INFO    SenderThread:3206 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/conda-environment.yaml conda-environment.yaml
+2022-12-09 20:56:10,203 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 8
+2022-12-09 20:56:10,207 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,207 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 8
+2022-12-09 20:56:10,211 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,211 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 8
+2022-12-09 20:56:10,211 INFO    SenderThread:3206 [file_pusher.py:finish():168] shutting down file pusher
+2022-12-09 20:56:10,452 INFO    Thread-21 :3206 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/conda-environment.yaml
+2022-12-09 20:56:10,460 INFO    Thread-20 :3206 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/config.yaml
+2022-12-09 20:56:10,464 INFO    Thread-17 :3206 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/output.log
+2022-12-09 20:56:10,474 INFO    Thread-19 :3206 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/requirements.txt
+2022-12-09 20:56:10,479 INFO    Thread-18 :3206 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/files/wandb-summary.json
+2022-12-09 20:56:10,679 INFO    Thread-12 :3206 [sender.py:transition_state():463] send defer: 9
+2022-12-09 20:56:10,680 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,680 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 9
+2022-12-09 20:56:10,680 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,680 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 9
+2022-12-09 20:56:10,680 INFO    SenderThread:3206 [file_pusher.py:join():173] waiting for file pusher
+2022-12-09 20:56:10,681 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 10
+2022-12-09 20:56:10,681 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,681 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 10
+2022-12-09 20:56:10,681 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,681 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 10
+2022-12-09 20:56:10,796 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 11
+2022-12-09 20:56:10,797 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,797 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 11
+2022-12-09 20:56:10,797 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,797 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 11
+2022-12-09 20:56:10,797 INFO    SenderThread:3206 [sender.py:transition_state():463] send defer: 12
+2022-12-09 20:56:10,798 DEBUG   SenderThread:3206 [sender.py:send():303] send: final
+2022-12-09 20:56:10,798 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: defer
+2022-12-09 20:56:10,799 INFO    HandlerThread:3206 [handler.py:handle_request_defer():162] handle defer: 12
+2022-12-09 20:56:10,799 DEBUG   SenderThread:3206 [sender.py:send():303] send: footer
+2022-12-09 20:56:10,799 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: defer
+2022-12-09 20:56:10,799 INFO    SenderThread:3206 [sender.py:send_request_defer():459] handle sender defer: 12
+2022-12-09 20:56:10,800 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: poll_exit
+2022-12-09 20:56:10,800 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: poll_exit
+2022-12-09 20:56:10,801 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: server_info
+2022-12-09 20:56:10,801 DEBUG   SenderThread:3206 [sender.py:send_request():317] send_request: server_info
+2022-12-09 20:56:10,804 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: get_summary
+2022-12-09 20:56:10,805 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: sampled_history
+2022-12-09 20:56:11,595 INFO    MainThread:3206 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-12-09 20:56:11,596 INFO    MainThread:3206 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-12-09 20:56:11,596 INFO    MainThread:3206 [wandb_run.py:_footer_sync_info():3333] logging synced files
+2022-12-09 20:56:11,597 DEBUG   HandlerThread:3206 [handler.py:handle_request():139] handle_request: shutdown
+2022-12-09 20:56:11,597 INFO    HandlerThread:3206 [handler.py:finish():814] shutting down handler
+2022-12-09 20:56:11,800 INFO    WriterThread:3206 [datastore.py:close():279] close: /home/da2986/Summarization/src/training_scripts/xsum_bert/wandb/run-20221209_203814-uw3awwfl/run-uw3awwfl.wandb
+2022-12-09 20:56:12,595 INFO    SenderThread:3206 [sender.py:finish():1331] shutting down sender
+2022-12-09 20:56:12,595 INFO    SenderThread:3206 [file_pusher.py:finish():168] shutting down file pusher
+2022-12-09 20:56:12,595 INFO    SenderThread:3206 [file_pusher.py:join():173] waiting for file pusher
+2022-12-09 20:56:12,600 INFO    MainThread:3206 [internal.py:handle_exit():78] Internal process exited

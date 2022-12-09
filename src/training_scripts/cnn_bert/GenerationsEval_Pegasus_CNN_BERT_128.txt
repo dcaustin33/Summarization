@@ -1,0 +1,234 @@
+Generations for Eval_Pegasus_CNN_BERT_128
+Article text: There is a long way to go but who wouldn't want to see this fight?' After Frampton's thrilling ITV debut against Avalos on February 28, in which he extended his record to 20 wins from 20 fights, McGuigan said: 'Eddie thinks of the numbers all the time, let's think of the game, let's think of it being free-to-air and millions and millions of people enjoying watching it because it will be a great fight
+----------------------------------------
+Ground truth Summary: Eddie Hearn tells Sportsmail he wants the fight sorted for Scott Quigg .
+Hearn describes the potential bout as a 'super fight'
+Boxers are backed by different broadcasters but hope for a resolution .
+Frampton and Quigg wants a unification clash in the summer .
+CLICK HERE for all the latest boxing news .
+----------------------------------------
+Generated Summary: [PAD] [CLS] frampton's thrilling itv debut against avalos on february 28, in which he extended his record to 20 wins from 20 fights, mcguigan said :'eddie thinks of the numbers all the time, let's think of the game, let's think of it being free to air and millions and millions of people enjoying watching it will be a great fight. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: ' The pilot, which will not be transmitted, will be filmed later this year in what has been described as a 'very glamorous' overseas location
+----------------------------------------
+Ground truth Summary: Dermot O'Leary is being lined up to host new prime time motoring show .
+He could yet host it alongside The Stig, the stunt driver from Top Gear .
+News of his involvement comes just days after he quit as X-Factor host .
+O'Leary is believed to be in talks to take over new show The Getaway Car .
+----------------------------------------
+Generated Summary: [PAD] [CLS] the pilot, which will not be transmitted, will be filmed later this year in has been described as a'very glamorous'overseas location. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: She's just such a happy child. 'We're all still trying to convince her to take all the help she can get because she's had to put her entire life on hold to be there for Haylie
+----------------------------------------
+Ground truth Summary: Veronica Mello, 32, arrested and charged with larceny in Massachusetts .
+Police in New Bedford searching for second woman caught on security cameras .
+Money was for Haylie Jansen, 4, who is suffering from a form of bone cancer .
+----------------------------------------
+Generated Summary: [PAD] [CLS] she's just such a happy child'we're all still trying to convince her to take the help she can get because she's had to put her entire life on hold to be there for haylie. she's just such a happy child'we're all still trying to convince her to take. she's had to put her entire life on hold to be there for haylie. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: #españa #galicia #villalba' The Tottenham players are currently enjoying a few days off and are not back in action until Sunday's clash against Manchester United
+----------------------------------------
+Ground truth Summary: Tottenham's Erik Lamela enjoyed a Spanish lunch with his family in Galicia .
+Argentinean ace posted the picture to his Instagram account on Monday .
+Players are currently enjoying a mini-break ahead of Manchester United .
+Tottenham can go level on points with the Red Devils with a win .
+----------------------------------------
+Generated Summary: [PAD] [CLS] new : the tottenham players are currently enjoying a few days off and are not back action until sunday's clash against manchester united. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The Butterfield Farm Co, in Cornwall, Connecticut (pictured in January 2015), where more than 70 dead animals have been found since the state Department of Agriculture seized 74 sickly goats from the property
+----------------------------------------
+Ground truth Summary: More than 70 dead animals have been found at the Butterfield Farm Co. in Cornwall, Connecticut .
+Tara Bryson and Michael Hearl, both of West Suffield, are facing prosecution on animal cruelty charges .
+----------------------------------------
+Generated Summary: [PAD] [CLS] the butterfield farm co, cornwall, connecticut ( pictured in january 2015 ), where more than 70 dead animals been found since the state department of agriculture seized 74 sickly goats from the property. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: His pals ran to get help and found Li's dad Jin Hsueh, 45 who discovered his son, still unconscious, was bleeding from his eyes, ears, nostrils and mouth. Now police suspect someone close to the family may have been responsible for his death
+----------------------------------------
+Ground truth Summary: Xiao Li found the sweet lying in the front yard of his house in Shandong .
+After licking it and playing hide and seek, he was found unconscious .
+His father found him bleeding from his eyes, ears, nostrils and mouth .
+Doctors said the lolly was covered in a  neurotoxin that destroys organs .
+----------------------------------------
+Generated Summary: [PAD] [CLS] pals ran to get help and found li's dad jin hsueh, 45 who discovered his son, still unconscious, bleeding from his eyes. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 'JDH Architects-designed, this terrace was rebuilt throughout with obvious attention-to-detail. Inside, the home there is now three bathrooms, and four good-sized bedrooms including one with an ensuite
+----------------------------------------
+Ground truth Summary: A couple paid $1.01 million for the terrace house .
+They have spent a further $400,000 renovating the Redfern property, in inner-city Sydney .
+Over 18 months it has been transformed from a two-bed to a four-bed home .
+But the stylish house did not earn a single bid at auction on Saturday .
+----------------------------------------
+Generated Summary: [PAD] [CLS]'jdh architects - designed, this terrace was rebuilt throughout with obvious attention - to - detail. the home there now three bathrooms, and four good - sized bedrooms including one with an ensuite. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Jailed: Prolific burglar Darren Williams was 'clobbered' with a walking stick as he tried to burgle a pensioner. George Clewlow, 78, leapt into action after Darren Williams broke into his bungalow last July
+----------------------------------------
+Ground truth Summary: George Clewlow, 78, leapt into action as Darren Williams broke into home .
+Used his wooden walking stick to whack Williams, 43, over the head .
+Thief left property in Staffordshire empty-handed and left DNA on window .
+He was jailed for three years as court head he had 22 burglary convictions .
+----------------------------------------
+Generated Summary: [PAD] [CLS] darren williams was'clobbered'with a walking stick as to burgle a pensioner. he was'clobbered'with a walking stick as to burg into his bungalow. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 'We just started kissing and it happened. 'Is that how all this started? You lied to your friends?' However, the boy denied that he had lied and said: 'Why would I lie to them?' Gregory, 36, denies one count of causing or inciting a child to engage in sexual activity and insists the teenage boy was drunk and went to her bed and fell asleep. 'It is because he was fairly participating in the act
+----------------------------------------
+Ground truth Summary: Tammy Gregory is accused of having sex with 14-year-old boy at her home .
+36-year-old allegedly engaged in sex with a friend of her daughter in 2013 .
+Court heard boy went to her home after drinking vodka and got in her bed .
+Following morning she was said to be beside him and they started kissing .
+Jury at Reading Crown Court told they then engaged in 'full sexual activity'
+Mother-of-two Gregory denies causing or inciting a child to engage in sex .
+----------------------------------------
+Generated Summary: [PAD] [CLS]'we just started kissing and it happened. the boy denied that had lied and said :'why would i lie to them?'gregory, 36, one count of causing or inciting a child to engage in sexual activity and insists the teenage boy was drunk and went to her bed and fell asleep. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: While there are numerous competitions within the four-day show, the key trophy that every owner has their eye on is the title Best In Show
+----------------------------------------
+Ground truth Summary: Hundreds of dogs have arrived at the NEC in Birmingham for the 2015 Crufts show .
+Owners have spent the morning grooming their pets ahead of an afternoon competing .
+Canines take part in numerous events, but the top prize is for the title of Best In Show .
+----------------------------------------
+Generated Summary: [PAD] [CLS] the four - day show, key trophy that every owner has their eye on title best in show. the four - day show, key trophy that every owner has their eye on title best in show. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Elsewhere Ukrainian outfit Dynamo Kiev will face Fiorentina. This clash is the only pairing in the round when the sides have never met in Europe before
+----------------------------------------
+Ground truth Summary: Dnipro Dnipropetrovsk host Belgian side Club Brugge in the first leg .
+Other quarter-final tie sees Wolfsburg entertain Serie A outfit Napoli .
+Quarter-final matches will take matches on April 16 and 23 .
+CLICK HERE to see how it all unfolded .
+----------------------------------------
+Generated Summary: [PAD] [CLS] elsewhere ukrainian outfit dynamo kiev will face fiorentina. this clash the pairing only in the round when the sides have never met in europe before in europe before. he says he has been a year in the round when the sides have never met. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: But Evans insists the altercations is not what it appears, even if the FA felt the need to slap him with a six-match ban. My mum and dad would have given me a rollicking if I had done that
+----------------------------------------
+Ground truth Summary: Jonny Evans was handed a six-match ban after clashing with Papiss Cisse .
+Television cameras seemed to catch the defender spitting at Cisse .
+But Evans says his parents would have been disgusted if he had done so .
+----------------------------------------
+Generated Summary: [PAD] [CLS] altercations is not what it appears, even if the fa felt the need to slap him with a six match ban. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: "I think what people need to know about them, and what people should know about them, is that they were two -- not two Americans on a plane, not a mother and daughter on a plane -- but Yvonne and Emily -- two amazing, loving people who left behind friends and family who love and miss them a lot," Holmes told CNN's "Anderson Cooper 360°
+----------------------------------------
+Ground truth Summary: Third American killed on Germanwings flight identified as Robert Calvo .
+State Department says three Americans were on the plane .
+Co-workers, friends in shock at deaths of mother and daughter from Virginia .
+----------------------------------------
+Generated Summary: [PAD] [CLS] " i think what people need to know about them, and what people should know about them, is that they were two - not two americans on a plane, not a mother and daughter on a plane - but yvonne and emily - two amazing, loving people who left friends and family who love and miss them a lot, " holmes told cnn's " anderson cooper 360°. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Brad Barritt starts in the centre for Saracens when they take on Wasps at the Ricoh Arena on Sunday, where Goode starts at fly-half, and he could make his first start of the championship if Luther Burrell’s calf problem persists. 
+----------------------------------------
+Ground truth Summary: Mike Brown has returned to training after recovering from concussion .
+Full-back missed England's Six Nations defeat in Ireland last week .
+Brown was concussed in early stages of victory over Italy last month .
+----------------------------------------
+Generated Summary: [PAD] [CLS] brad barritt starts in the centre for saracens when they take on wasps at the ricoh arena on sunday. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: The stylish state-of-the-art kitchen comes complete with quality Miele-brand appliances including an integrated dishwasher and microwave
+----------------------------------------
+Ground truth Summary: A stunning apartment nestled on an exquisite landscape is fetching offers over $1 million .
+The property boosts three bedrooms, two bathrooms with access to a private swimming pool and gymnasium .
+The contemporary property features a stylish state-of-the-art kitchen - perfect for anyone to cook up a storm .
+Located in one of Victoria's affluent suburbs of Portsea, the property promises the ultimate luxurious lifestyle .
+----------------------------------------
+Generated Summary: [PAD] [CLS] stylish state - of the - art kitchen comes complete with quality miele - brand appliances including an integrated dishwasher and microwave. stylish state - of the - art kitchen comes complete with quality miele - brand appliances including an integrated dishwasher and microwave. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: 'I am a total shoe addict, footwear is my thing,' she said of her upcoming range of 'beautiful brogues, heels and ankle boots'. She added: 'I want to continue doing what I love, especially fashion, and now I'm single I want to travel the world
+----------------------------------------
+Ground truth Summary: Jess, 28, models SS15 range for Lipstick Boutique .
+Full of 'braver' prints and more varied shapes .
+Getting set to launch shoe collection and wants to travel the world .
+----------------------------------------
+Generated Summary: [PAD] [CLS] footwear my thing,'she said of her upcoming range of'beautiful brogues, heels and ankle boots '. the world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world's world [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Segerblom said he's concerned that some animals might have adverse reactions, but 'you don't know until you try,' he said. 'I felt like I was letting them down
+----------------------------------------
+Ground truth Summary: Democratic Sen. Tick Segerblom is sponsoring the measure that would allow animal owners to get marijuana for their pet .
+Segerblom said he's concerned that some animals might have adverse reactions, but 'you don't know until you try,' he said .
+According to Canna Companion, the drug is able to help pets with joint pain, anxiety, digestive issues, end of life care, and neurological function .
+----------------------------------------
+Generated Summary: [PAD] [CLS] segerblom said he's concerned that some animals might have adverse reactions, but'you don't know until try,'he said'i felt like i was letting them down. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Manchester United starlet Adnan Januzaj is prepared to play in any position to be given more opportunities under Louis van Gaal. '
+----------------------------------------
+Ground truth Summary: Belgium star has started only eight games in 18 appearances this season .
+Manager Louis van Gaal prefers using a 3-5-2 system at Manchester United .
+Adnan Januzaj is prepared to play in a variety of attacking roles .
+----------------------------------------
+Generated Summary: [PAD] [CLS] manchester united starlet adnan januzaj is prepared to the any position to be given more opportunities under louis van gaal. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Rebecca Prins, who was dating Morgan Huxley in the months before his death, is pictured leaving the NSW Supreme Court after giving evidence. 'He (Mr Huxley) came in after me and turned off the lights and he immediately dropped his pants. It really hurt,' Kelsall said
+----------------------------------------
+Ground truth Summary: Morgan Huxley, 31, was fatally stabbed in his Sydney apartment in 2013 .
+Man accused of his murder, Daniel Jack Kelsall, faced court on Monday .
+He says he was invited to Mr Huxley's apartment after meeting on street .
+The 22-year-old says they had consensual sexual encounter before intruder hit him over the head and attacked them both .
+----------------------------------------
+Generated Summary: [PAD] [CLS] rebecca prins, who was dating morgan huxley in the months before his death. the nsw supreme court after giving evidence'he ( mr huxley ) came after me and turned off the lights and he immediately dropped his pants. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+Article text: Secretary of State John Kerry, left, listens to Iran's Foreign Minister Mohammad Javad Zarif, right, before resuming talks over Iran's nuclear program in Lausanne, Switzerland on Monday
+----------------------------------------
+Ground truth Summary: The open letter from Republican senators warned that any nuclear deal could expire the day President Barack Obama's term ends .
+Iranian diplomats confronted American counterparts twice at discussions Sunday and Monday in Switzerland, a senior U.S. official said .
+Secretary of State John Kerry and Iranian Foreign Minister Mohammad Javad Zarif to start several days of discussions .
+The Iranians have called the letter a propaganda ploy .
+----------------------------------------
+Generated Summary: [PAD] [CLS] john kerry, left, listens to iran's foreign minister mohammad javad zarif, right, before resuming talks over iran's program in lausanne, switzerland on monday on monday. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
