@@ -15,18 +15,18 @@ export PYTHONPATH='../';
 #            --num_beams 4 \
 #            -log;
 #            
-python3 generate_and_evaluate.py \
-            --model_name google/pegasus-large \
-            --batch_size 2 \
-            --max_length 512 \
-            --name Eval_Pegasus_CNN_tf_idf_512   \
-            --log_n_val_steps 200 \
-            --val_steps 200 \
-            --write_steps 10 \
-            --num_beams 4 \
-            --model_path checkpoints/Pegasus_CNN_tf_idf_512/Pegasus_CNN_tf_idf_512_Final.pt \
-            --workers 4 \
-            -log;
+#python3 generate_and_evaluate.py \
+#            --model_name google/pegasus-large \
+#            --batch_size 2 \
+#            --max_length 512 \
+#            --name Eval_Pegasus_CNN_tf_idf_512   \
+#            --log_n_val_steps 10 \
+#            --val_steps 10 \
+#            --write_steps 10 \
+#            --num_beams 4 \
+#            --model_path checkpoints/Pegasus_CNN_tf_idf_512/Pegasus_CNN_tf_idf_512_Final.pt \
+#            --workers 4;# \
+#            #-log;
 
 #python3 train_cnn_tf_idf.py \
 #            --model_name google/pegasus-large \
@@ -46,15 +46,15 @@ python3 generate_and_evaluate.py \
 python3 generate_and_evaluate.py \
             --model_name google/pegasus-large \
             --batch_size 2 \
-            --max_length 512 \
+            --max_length 256 \
             --name Eval_Pegasus_CNN_tf_idf_256  \
-            --log_n_val_steps 200 \
-            --val_steps 200 \
+            --log_n_val_steps 10 \
+            --val_steps 10 \
             --write_steps 10 \
             --num_beams 4 \
             --model_path checkpoints/Pegasus_CNN_tf_idf_256/Pegasus_CNN_tf_idf_256_Final.pt \
-            --workers 4 \
-            -log;
+            --workers 4;# \
+            #-log;
 
 #python3 train_cnn_tf_idf.py \
 #            --model_name google/pegasus-large \
@@ -76,12 +76,12 @@ python3 generate_and_evaluate.py \
             --batch_size 2 \
             --max_length 128 \
             --name Eval_Pegasus_CNN_tf_idf_128   \
-            --log_n_val_steps 200 \
-            --val_steps 200 \
+            --log_n_val_steps 10 \
+            --val_steps 10 \
             --write_steps 10 \
             --num_beams 4 \
             --model_path checkpoints/Pegasus_CNN_tf_idf_128/Pegasus_CNN_tf_idf_128_Final.pt \
-            --workers 4 \
-            -log;
+            --workers 4;# \
+            #-log;
 
 #sudo shutdown -h;

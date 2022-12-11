@@ -1,0 +1,667 @@
+2022-12-10 11:01:15,524 INFO    StreamThr :11855 [internal.py:wandb_internal():88] W&B internal server running at pid: 11855, started at: 2022-12-10 11:01:15.523622
+2022-12-10 11:01:15,527 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: status
+2022-12-10 11:01:15,528 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: status
+2022-12-10 11:01:15,530 DEBUG   SenderThread:11855 [sender.py:send():303] send: header
+2022-12-10 11:01:15,530 INFO    WriterThread:11855 [datastore.py:open_for_write():75] open: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/run-14b7g135.wandb
+2022-12-10 11:01:15,686 DEBUG   SenderThread:11855 [sender.py:send():303] send: run
+2022-12-10 11:01:15,840 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: check_version
+2022-12-10 11:01:15,844 INFO    SenderThread:11855 [dir_watcher.py:__init__():216] watching files in: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files
+2022-12-10 11:01:15,845 INFO    SenderThread:11855 [sender.py:_start_run_threads():928] run started: 14b7g135 with start time 1670670075.520761
+2022-12-10 11:01:15,845 DEBUG   SenderThread:11855 [sender.py:send():303] send: summary
+2022-12-10 11:01:15,845 INFO    SenderThread:11855 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-10 11:01:15,845 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: check_version
+2022-12-10 11:01:15,966 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: run_start
+2022-12-10 11:01:15,971 DEBUG   HandlerThread:11855 [system_info.py:__init__():31] System info init
+2022-12-10 11:01:15,971 DEBUG   HandlerThread:11855 [system_info.py:__init__():46] System info init done
+2022-12-10 11:01:15,971 INFO    HandlerThread:11855 [system_monitor.py:start():150] Starting system monitor
+2022-12-10 11:01:15,972 INFO    SystemMonitor:11855 [system_monitor.py:_start():116] Starting system asset monitoring threads
+2022-12-10 11:01:15,972 INFO    HandlerThread:11855 [system_monitor.py:probe():168] Collecting system info
+2022-12-10 11:01:15,972 INFO    SystemMonitor:11855 [interfaces.py:start():168] Started cpu
+2022-12-10 11:01:15,973 INFO    SystemMonitor:11855 [interfaces.py:start():168] Started disk
+2022-12-10 11:01:15,974 INFO    SystemMonitor:11855 [interfaces.py:start():168] Started gpu
+2022-12-10 11:01:15,975 INFO    SystemMonitor:11855 [interfaces.py:start():168] Started memory
+2022-12-10 11:01:15,976 INFO    SystemMonitor:11855 [interfaces.py:start():168] Started network
+2022-12-10 11:01:15,984 DEBUG   HandlerThread:11855 [system_info.py:probe():195] Probing system
+2022-12-10 11:01:15,995 DEBUG   HandlerThread:11855 [system_info.py:_probe_git():180] Probing git
+2022-12-10 11:01:16,017 DEBUG   HandlerThread:11855 [system_info.py:_probe_git():188] Probing git done
+2022-12-10 11:01:16,017 DEBUG   HandlerThread:11855 [system_info.py:probe():241] Probing system done
+2022-12-10 11:01:16,018 DEBUG   HandlerThread:11855 [system_monitor.py:probe():177] {'os': 'Linux-5.10.0-19-cloud-amd64-x86_64-with-glibc2.31', 'python': '3.9.13', 'heartbeatAt': '2022-12-10T11:01:15.985062', 'startedAt': '2022-12-10T11:01:15.510326', 'docker': None, 'cuda': None, 'args': ('--model_name', 'google/pegasus-large', '--batch_size', '2', '--max_length', '512', '--name', 'Eval_Pegasus_CNN_BERT1_512', '--log_n_val_steps', '100', '--val_steps', '100', '--write_steps', '10', '--num_beams', '4', '--model_path', 'checkpoints/Pegasus_CNN_BERT1_512/Pegasus_CNN_BERT1_512_Final.pt', '--workers', '4', '-log'), 'state': 'running', 'program': '/home/da2986/Summarization/src/training_scripts/cnn_bert1/generate_and_evaluate.py', 'codePath': 'src/training_scripts/cnn_bert1/generate_and_evaluate.py', 'git': {'remote': 'https://github.com/dcaustin33/Summarization', 'commit': '5f6e8d3cd43d30c4c76909e043ca3cee310ac9bd'}, 'email': 'dcaustin33@gmail.com', 'root': '/home/da2986/Summarization', 'host': 'instance-12', 'username': 'da2986', 'executable': '/home/da2986/anaconda3/bin/python3', 'cpu_count': 2, 'cpu_count_logical': 4, 'cpu_freq': {'current': 2299.998, 'min': 0.0, 'max': 0.0}, 'cpu_freq_per_core': [{'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}, {'current': 2299.998, 'min': 0.0, 'max': 0.0}], 'disk': {'total': 245.83320999145508, 'used': 139.11522674560547}, 'gpu': 'Tesla K80', 'gpu_count': 1, 'gpu_devices': [{'name': 'Tesla K80', 'memory_total': 11997020160}], 'memory': {'total': 14.64874267578125}}
+2022-12-10 11:01:16,018 INFO    HandlerThread:11855 [system_monitor.py:probe():178] Finished collecting system info
+2022-12-10 11:01:16,018 INFO    HandlerThread:11855 [system_monitor.py:probe():181] Publishing system info
+2022-12-10 11:01:16,018 DEBUG   HandlerThread:11855 [system_info.py:_save_pip():51] Saving list of pip packages installed into the current environment
+2022-12-10 11:01:16,018 DEBUG   HandlerThread:11855 [system_info.py:_save_pip():67] Saving pip packages done
+2022-12-10 11:01:16,019 DEBUG   HandlerThread:11855 [system_info.py:_save_conda():74] Saving list of conda packages installed into the current environment
+2022-12-10 11:01:16,847 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/requirements.txt
+2022-12-10 11:01:16,848 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/conda-environment.yaml
+2022-12-10 11:01:16,848 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-summary.json
+2022-12-10 11:01:20,139 DEBUG   HandlerThread:11855 [system_info.py:_save_conda():86] Saving conda packages done
+2022-12-10 11:01:20,140 INFO    HandlerThread:11855 [system_monitor.py:probe():183] Finished publishing system info
+2022-12-10 11:01:20,144 DEBUG   SenderThread:11855 [sender.py:send():303] send: files
+2022-12-10 11:01:20,145 INFO    SenderThread:11855 [sender.py:_save_file():1171] saving file wandb-metadata.json with policy now
+2022-12-10 11:01:20,152 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:01:20,152 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:01:20,183 DEBUG   SenderThread:11855 [sender.py:send():303] send: telemetry
+2022-12-10 11:01:20,400 INFO    Thread-16 :11855 [upload_job.py:push():143] Uploaded file /tmp/tmpxj4lf9t9wandb/226u7qs2-wandb-metadata.json
+2022-12-10 11:01:20,849 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/conda-environment.yaml
+2022-12-10 11:01:20,850 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:01:20,850 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_created():275] file/dir created: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-metadata.json
+2022-12-10 11:01:22,850 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:01:24,852 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:01:35,185 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:01:35,186 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:01:46,861 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:01:46,862 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/config.yaml
+2022-12-10 11:01:50,367 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:01:50,368 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:02:05,681 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:02:05,681 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:02:15,976 DEBUG   SystemMonitor:11855 [system_monitor.py:_start():130] Starting system metrics aggregation loop
+2022-12-10 11:02:15,978 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:02:20,714 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:02:20,715 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:02:28,877 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:02:35,757 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:02:35,757 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:02:45,978 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:02:50,793 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:02:50,793 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:02:52,886 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:03:05,830 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:03:05,830 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:03:14,894 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:03:15,979 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:03:20,863 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:03:20,863 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:03:35,907 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:03:35,908 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:03:38,903 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:03:45,980 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:03:50,943 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:03:50,944 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:04:02,912 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:04:05,976 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:04:05,977 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:04:15,981 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:04:21,020 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:04:21,021 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:04:26,922 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:04:36,063 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:04:36,063 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:04:45,981 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:04:49,931 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:04:51,102 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:04:51,102 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:05:06,134 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:05:06,134 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:05:13,941 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:05:15,982 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:05:21,174 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:05:21,174 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:05:36,208 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:05:36,209 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:05:37,950 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:05:45,983 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:05:51,274 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:05:51,274 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:06:01,959 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:06:06,312 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:06:06,312 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:06:15,984 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:06:21,343 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:06:21,344 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:06:23,967 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:06:36,380 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:06:36,381 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:06:45,985 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:06:47,976 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:06:51,416 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:06:51,416 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:07:06,450 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:07:06,451 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:07:11,985 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:07:15,985 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:07:21,488 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:07:21,488 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:07:35,997 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:07:36,523 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:07:36,523 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:07:45,986 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:07:51,558 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:07:51,558 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:08:00,008 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:08:06,593 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:08:06,594 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:08:15,987 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:08:21,781 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:08:21,781 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:08:22,016 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:08:36,821 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:08:36,822 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:08:45,988 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:08:46,026 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:08:51,854 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:08:51,855 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:09:06,898 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:09:06,898 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:09:08,034 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:09:15,988 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:09:21,934 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:09:21,934 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:09:32,043 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:09:36,981 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:09:36,982 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:09:45,989 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:09:52,013 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:09:52,014 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:09:56,051 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:10:07,047 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:10:07,048 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:10:15,990 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:10:18,061 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:10:22,085 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:10:22,086 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:10:37,123 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:10:37,123 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:10:42,069 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:10:45,990 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:10:52,162 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:10:52,162 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:11:06,078 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:11:07,211 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:11:07,212 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:11:15,991 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:11:22,243 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:11:22,243 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:11:30,087 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:11:37,279 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:11:37,280 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:11:45,992 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:11:52,095 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:11:52,320 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:11:52,320 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:12:07,358 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:12:07,358 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:12:15,993 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:12:16,104 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:12:22,399 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:12:22,399 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:12:37,434 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:12:37,435 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:12:38,112 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:12:45,993 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:12:52,473 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:12:52,474 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:13:02,122 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:13:07,511 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:13:07,512 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:13:15,994 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:13:22,545 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:13:22,546 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:13:26,132 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:13:37,581 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:13:37,581 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:13:45,995 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:13:50,141 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:13:52,618 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:13:52,618 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:14:07,664 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:14:07,664 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:14:12,149 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:14:15,996 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:14:22,706 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:14:22,707 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:14:36,158 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:14:37,741 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:14:37,741 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:14:45,997 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:14:52,777 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:14:52,778 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:14:58,167 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:15:07,821 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:15:07,821 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:15:15,998 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:15:22,176 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:15:22,857 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:15:22,857 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:15:37,886 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:15:37,886 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:15:45,998 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:15:46,185 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:15:52,932 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:15:52,932 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:16:07,963 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:16:07,964 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:16:08,193 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:16:15,999 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:16:23,000 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:16:23,000 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:16:32,203 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:16:38,035 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:16:38,035 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:16:45,999 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:16:53,069 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:16:53,069 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:16:56,212 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:17:08,133 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:17:08,134 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:17:16,000 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:17:18,221 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:17:23,165 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:17:23,165 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:17:38,223 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:17:38,224 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:17:42,229 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:17:46,001 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:17:53,268 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:17:53,268 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:18:04,238 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:18:08,302 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:18:08,302 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:18:16,002 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:18:23,354 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:18:23,354 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:18:28,247 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:18:38,533 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:18:38,534 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:18:46,002 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:18:52,256 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:18:53,571 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:18:53,571 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:19:08,614 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:19:08,615 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:19:14,264 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:19:16,003 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:19:23,652 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:19:23,652 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:19:38,273 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:19:38,686 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:19:38,686 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:19:46,004 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:19:53,732 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:19:53,733 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:20:00,281 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:20:08,766 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:20:08,767 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:20:16,005 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:20:23,798 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:20:23,798 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:20:24,290 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:20:38,865 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:20:38,865 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:20:46,005 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:20:48,298 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:20:53,899 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:20:53,899 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:21:08,970 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:21:08,971 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:21:10,306 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:21:16,006 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:21:24,004 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:21:24,004 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:21:34,314 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:21:39,040 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:21:39,041 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:21:46,007 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:21:54,073 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:21:54,074 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:21:58,323 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:22:09,118 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:22:09,119 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:22:16,008 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:22:20,331 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:22:24,152 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:22:24,152 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:22:39,196 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:22:39,197 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:22:44,340 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:22:46,009 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:22:54,232 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:22:54,233 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:23:06,348 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:23:09,273 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:23:09,273 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:23:16,010 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:23:24,327 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:23:24,327 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:23:30,356 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:23:39,359 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:23:39,360 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:23:46,011 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:23:54,368 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:23:54,405 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:23:54,406 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:24:09,438 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:24:09,438 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:24:16,011 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:24:16,376 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:24:24,502 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:24:24,502 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:24:39,530 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:24:39,530 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:24:40,385 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:24:46,012 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:24:54,591 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:24:54,592 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:25:02,393 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:25:09,624 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:25:09,624 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:25:16,013 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:25:24,662 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:25:24,663 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:25:26,401 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:25:39,691 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:25:39,691 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:25:46,013 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:25:50,411 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:25:54,734 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:25:54,735 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:26:09,778 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:26:09,779 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:26:14,419 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:26:16,014 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:26:24,818 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:26:24,818 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:26:38,428 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:26:39,856 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:26:39,857 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:26:46,015 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:26:54,893 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:26:54,893 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:27:00,436 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:27:09,929 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:27:09,929 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:27:16,015 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:27:24,444 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:27:24,973 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:27:24,973 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:27:40,011 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:27:40,011 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:27:46,016 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:27:48,453 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:27:55,052 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:27:55,052 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:28:10,101 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:28:10,102 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:28:12,462 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:28:16,017 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:28:25,143 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:28:25,143 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:28:35,471 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:28:40,178 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:28:40,179 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:28:46,018 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:28:55,215 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:28:55,216 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:28:59,480 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:29:10,248 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:29:10,248 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:29:16,019 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:29:23,489 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:29:25,293 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:29:25,293 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:29:40,338 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:29:40,338 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:29:45,497 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:29:46,019 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:29:55,373 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:29:55,373 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:30:09,506 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:30:10,414 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:30:10,414 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:30:16,020 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:30:25,453 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:30:25,453 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:30:31,514 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:30:40,493 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:30:40,494 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:30:46,021 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:30:55,523 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:30:55,526 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:30:55,526 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:31:10,569 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:31:10,569 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:31:16,021 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:31:19,531 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:31:25,600 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:31:25,601 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:31:40,667 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:31:40,667 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:31:41,539 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:31:46,022 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:31:55,701 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:31:55,701 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:32:05,548 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:32:10,733 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:32:10,734 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:32:16,023 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:32:25,767 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:32:25,767 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:32:29,557 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:32:40,803 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:32:40,803 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:32:46,024 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:32:51,565 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:32:55,840 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:32:55,840 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:33:10,875 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:33:10,875 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:33:15,574 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:33:16,024 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:33:25,913 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:33:25,913 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:33:37,584 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:33:40,969 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:33:40,969 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:33:46,025 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:33:55,999 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:33:55,999 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:34:01,593 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:34:11,032 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:34:11,033 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:34:16,026 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:34:25,602 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:34:26,073 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:34:26,073 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:34:41,109 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:34:41,109 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:34:46,027 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:34:47,610 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:34:56,152 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:34:56,152 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:35:11,187 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:35:11,187 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:35:11,619 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:35:16,027 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:35:26,223 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:35:26,223 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:35:33,628 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:35:41,259 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:35:41,259 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:35:46,028 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:35:56,409 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:35:56,409 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:35:57,639 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:36:11,444 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:36:11,444 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:36:16,029 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:36:21,649 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:36:26,491 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:36:26,491 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:36:41,526 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:36:41,526 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:36:45,658 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:36:46,030 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:36:56,582 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:36:56,582 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:37:09,667 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:37:11,616 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:37:11,617 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:37:16,031 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:37:26,660 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:37:26,660 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:37:31,675 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:37:41,705 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:37:41,705 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:37:46,031 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:37:55,684 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:37:56,758 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:37:56,758 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:38:11,794 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:38:11,794 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:38:16,033 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:38:17,692 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:38:26,837 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:38:26,837 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:38:41,702 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:38:41,874 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:38:41,874 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:38:46,033 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:38:56,916 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:38:56,916 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:39:05,710 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:39:11,962 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:39:11,962 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:39:16,034 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:39:27,022 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:39:27,023 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:39:29,719 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:39:42,071 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:39:42,071 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:39:46,035 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:39:53,729 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:39:57,102 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:39:57,102 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:40:12,138 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:40:12,139 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:40:16,036 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:40:17,739 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:40:27,174 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:40:27,175 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:40:41,748 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:40:42,218 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:40:42,218 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:40:46,036 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:40:57,253 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: stop_status
+2022-12-10 11:40:57,253 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: stop_status
+2022-12-10 11:41:03,498 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: partial_history
+2022-12-10 11:41:03,500 DEBUG   SenderThread:11855 [sender.py:send():303] send: exit
+2022-12-10 11:41:03,500 INFO    SenderThread:11855 [sender.py:send_exit():442] handling exit code: 0
+2022-12-10 11:41:03,500 INFO    SenderThread:11855 [sender.py:send_exit():444] handling runtime: 2387
+2022-12-10 11:41:03,501 INFO    SenderThread:11855 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-10 11:41:03,501 INFO    SenderThread:11855 [sender.py:send_exit():450] send defer
+2022-12-10 11:41:03,501 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,501 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 0
+2022-12-10 11:41:03,502 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,502 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 0
+2022-12-10 11:41:03,502 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 1
+2022-12-10 11:41:03,502 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,502 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 1
+2022-12-10 11:41:03,502 INFO    HandlerThread:11855 [system_monitor.py:finish():160] Stopping system monitor
+2022-12-10 11:41:03,505 INFO    HandlerThread:11855 [interfaces.py:finish():173] Joined cpu
+2022-12-10 11:41:03,506 DEBUG   SystemMonitor:11855 [system_monitor.py:_start():137] Finished system metrics aggregation loop
+2022-12-10 11:41:03,506 DEBUG   SystemMonitor:11855 [system_monitor.py:_start():141] Publishing last batch of metrics
+2022-12-10 11:41:03,507 INFO    HandlerThread:11855 [interfaces.py:finish():173] Joined disk
+2022-12-10 11:41:03,536 INFO    HandlerThread:11855 [interfaces.py:finish():173] Joined gpu
+2022-12-10 11:41:03,536 INFO    HandlerThread:11855 [interfaces.py:finish():173] Joined memory
+2022-12-10 11:41:03,536 INFO    HandlerThread:11855 [interfaces.py:finish():173] Joined network
+2022-12-10 11:41:03,537 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,537 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 1
+2022-12-10 11:41:03,537 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 2
+2022-12-10 11:41:03,537 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,537 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 2
+2022-12-10 11:41:03,539 DEBUG   SenderThread:11855 [sender.py:send():303] send: stats
+2022-12-10 11:41:03,540 DEBUG   SenderThread:11855 [sender.py:send():303] send: history
+2022-12-10 11:41:03,540 DEBUG   SenderThread:11855 [sender.py:send():303] send: summary
+2022-12-10 11:41:03,540 INFO    SenderThread:11855 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-10 11:41:03,541 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,541 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 2
+2022-12-10 11:41:03,541 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 3
+2022-12-10 11:41:03,541 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,541 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 3
+2022-12-10 11:41:03,541 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,542 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 3
+2022-12-10 11:41:03,542 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 4
+2022-12-10 11:41:03,542 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,542 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 4
+2022-12-10 11:41:03,542 DEBUG   SenderThread:11855 [sender.py:send():303] send: summary
+2022-12-10 11:41:03,543 INFO    SenderThread:11855 [sender.py:_save_file():1171] saving file wandb-summary.json with policy end
+2022-12-10 11:41:03,543 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,543 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 4
+2022-12-10 11:41:03,543 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 5
+2022-12-10 11:41:03,543 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,543 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 5
+2022-12-10 11:41:03,544 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,544 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 5
+2022-12-10 11:41:03,544 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 6
+2022-12-10 11:41:03,544 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:03,544 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 6
+2022-12-10 11:41:03,544 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:03,544 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 6
+2022-12-10 11:41:03,757 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:41:03,757 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-summary.json
+2022-12-10 11:41:04,501 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: poll_exit
+2022-12-10 11:41:05,563 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 7
+2022-12-10 11:41:05,563 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: poll_exit
+2022-12-10 11:41:05,564 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:05,564 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 7
+2022-12-10 11:41:05,564 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:05,564 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 7
+2022-12-10 11:41:05,564 INFO    SenderThread:11855 [dir_watcher.py:finish():362] shutting down directory watcher
+2022-12-10 11:41:05,758 INFO    Thread-13 :11855 [dir_watcher.py:_on_file_modified():292] file/dir modified: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:41:05,759 INFO    SenderThread:11855 [dir_watcher.py:finish():392] scan: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files
+2022-12-10 11:41:05,759 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log output.log
+2022-12-10 11:41:05,759 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-summary.json wandb-summary.json
+2022-12-10 11:41:05,762 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/requirements.txt requirements.txt
+2022-12-10 11:41:05,766 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-metadata.json wandb-metadata.json
+2022-12-10 11:41:05,766 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/config.yaml config.yaml
+2022-12-10 11:41:05,769 INFO    SenderThread:11855 [dir_watcher.py:finish():406] scan save: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/conda-environment.yaml conda-environment.yaml
+2022-12-10 11:41:05,770 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 8
+2022-12-10 11:41:05,773 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:05,774 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 8
+2022-12-10 11:41:05,774 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:05,774 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 8
+2022-12-10 11:41:05,774 INFO    SenderThread:11855 [file_pusher.py:finish():168] shutting down file pusher
+2022-12-10 11:41:06,005 INFO    Thread-21 :11855 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/conda-environment.yaml
+2022-12-10 11:41:06,025 INFO    Thread-17 :11855 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/output.log
+2022-12-10 11:41:06,027 INFO    Thread-19 :11855 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/requirements.txt
+2022-12-10 11:41:06,028 INFO    Thread-20 :11855 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/config.yaml
+2022-12-10 11:41:06,034 INFO    Thread-18 :11855 [upload_job.py:push():143] Uploaded file /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/files/wandb-summary.json
+2022-12-10 11:41:06,234 INFO    Thread-12 :11855 [sender.py:transition_state():463] send defer: 9
+2022-12-10 11:41:06,235 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:06,235 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 9
+2022-12-10 11:41:06,235 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:06,235 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 9
+2022-12-10 11:41:06,236 INFO    SenderThread:11855 [file_pusher.py:join():173] waiting for file pusher
+2022-12-10 11:41:06,236 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 10
+2022-12-10 11:41:06,236 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:06,236 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 10
+2022-12-10 11:41:06,236 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:06,236 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 10
+2022-12-10 11:41:06,371 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 11
+2022-12-10 11:41:06,372 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:06,372 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 11
+2022-12-10 11:41:06,372 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:06,372 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 11
+2022-12-10 11:41:06,372 INFO    SenderThread:11855 [sender.py:transition_state():463] send defer: 12
+2022-12-10 11:41:06,373 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: defer
+2022-12-10 11:41:06,373 INFO    HandlerThread:11855 [handler.py:handle_request_defer():162] handle defer: 12
+2022-12-10 11:41:06,373 DEBUG   SenderThread:11855 [sender.py:send():303] send: final
+2022-12-10 11:41:06,373 DEBUG   SenderThread:11855 [sender.py:send():303] send: footer
+2022-12-10 11:41:06,373 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: defer
+2022-12-10 11:41:06,373 INFO    SenderThread:11855 [sender.py:send_request_defer():459] handle sender defer: 12
+2022-12-10 11:41:06,375 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: poll_exit
+2022-12-10 11:41:06,375 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: poll_exit
+2022-12-10 11:41:06,376 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: server_info
+2022-12-10 11:41:06,376 DEBUG   SenderThread:11855 [sender.py:send_request():317] send_request: server_info
+2022-12-10 11:41:06,379 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: get_summary
+2022-12-10 11:41:06,380 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: sampled_history
+2022-12-10 11:41:06,442 INFO    MainThread:11855 [wandb_run.py:_footer_history_summary_info():3377] rendering history
+2022-12-10 11:41:06,443 INFO    MainThread:11855 [wandb_run.py:_footer_history_summary_info():3409] rendering summary
+2022-12-10 11:41:06,443 INFO    MainThread:11855 [wandb_run.py:_footer_sync_info():3333] logging synced files
+2022-12-10 11:41:06,444 DEBUG   HandlerThread:11855 [handler.py:handle_request():139] handle_request: shutdown
+2022-12-10 11:41:06,444 INFO    HandlerThread:11855 [handler.py:finish():814] shutting down handler
+2022-12-10 11:41:07,374 INFO    WriterThread:11855 [datastore.py:close():279] close: /home/da2986/Summarization/src/training_scripts/cnn_bert1/wandb/run-20221210_110115-14b7g135/run-14b7g135.wandb
+2022-12-10 11:41:07,442 INFO    SenderThread:11855 [sender.py:finish():1331] shutting down sender
+2022-12-10 11:41:07,442 INFO    SenderThread:11855 [file_pusher.py:finish():168] shutting down file pusher
+2022-12-10 11:41:07,442 INFO    SenderThread:11855 [file_pusher.py:join():173] waiting for file pusher
+2022-12-10 11:41:07,447 INFO    MainThread:11855 [internal.py:handle_exit():78] Internal process exited

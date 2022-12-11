@@ -23,3 +23,4 @@ config: {'model_name': 'google/pegasus-large', 'batch_size': 4, 'max_length': 51
 2022-12-09 21:37:03,371 INFO    MainThread:3786 [wandb_run.py:_redirect():1903] Wrapping output streams.
 2022-12-09 21:37:03,371 INFO    MainThread:3786 [wandb_run.py:_redirect():1925] Redirects installed.
 2022-12-09 21:37:03,372 INFO    MainThread:3786 [wandb_init.py:init():765] run started, returning control to user process
+2022-12-10 03:16:26,854 WARNING MsgRouterThr:3786 [router.py:message_loop():77] message_loop has been closed

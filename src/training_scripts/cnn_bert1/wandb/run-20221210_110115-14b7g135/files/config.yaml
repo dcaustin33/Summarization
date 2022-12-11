@@ -1,0 +1,78 @@
+wandb_version: 1
+
+_wandb:
+  desc: null
+  value:
+    cli_version: 0.13.5
+    framework: huggingface
+    huggingface_version: 4.24.0
+    is_jupyter_run: false
+    is_kaggle_kernel: false
+    python_version: 3.9.13
+    start_time: 1670670075.520761
+    t:
+      1:
+      - 1
+      - 5
+      - 9
+      - 11
+      - 41
+      - 49
+      - 51
+      - 53
+      - 55
+      2:
+      - 1
+      - 5
+      - 9
+      - 11
+      - 41
+      - 49
+      - 51
+      - 53
+      - 55
+      3:
+      - 13
+      - 16
+      - 23
+      4: 3.9.13
+      5: 0.13.5
+      6: 4.24.0
+      8:
+      - 5
+batch_size:
+  desc: null
+  value: 2
+divisor:
+  desc: null
+  value: 2.0
+log:
+  desc: null
+  value: true
+log_n_val_steps:
+  desc: null
+  value: 100
+max_length:
+  desc: null
+  value: 512
+model_name:
+  desc: null
+  value: google/pegasus-large
+model_path:
+  desc: null
+  value: checkpoints/Pegasus_CNN_BERT1_512/Pegasus_CNN_BERT1_512_Final.pt
+name:
+  desc: null
+  value: Eval_Pegasus_CNN_BERT1_512
+num_beams:
+  desc: null
+  value: 4
+val_steps:
+  desc: null
+  value: 100
+workers:
+  desc: null
+  value: 4
+write_steps:
+  desc: null
+  value: 10

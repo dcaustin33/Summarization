@@ -79,7 +79,7 @@ class CNNBERT(torch.utils.data.Dataset):
         final = '. '.join(final)
 
         summary_text = self.dataset[idx]['highlights']
-        return {'article_text':final, 'summary_text': summary_text}
+        return {'article_text':final, 'summary_text': summary_text, 'all_text': self.dataset[idx]['article']}
 
 def reset_metrics(metrics, val = False):
     for i in metrics:
@@ -113,6 +113,8 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
             file = open(file_name, "a")
 
             for i in range(len(model_out)):
+                file.write('All article text:' + data['all_text'][i] + '\n')
+                file.write('----------------------------------------' + '\n')
                 file.write('Article text: ' + data['article_text'][i] + '\n')
                 file.write('----------------------------------------' + '\n')
                 file.write('Ground truth Summary: ' + data['summary_text'][i] + '\n')

@@ -48,7 +48,7 @@ class PegasusCNNDataset(torch.utils.data.Dataset):
         text = self.dataset[idx]['article']
 
         summary_text = self.dataset[idx]['highlights']
-        return {'article_text':text, 'summary_text': summary_text}
+        return {'article_text':text, 'summary_text': summary_text, 'all_text': self.dataset[idx]['article']}
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None, file_name = None):
     with torch.no_grad():

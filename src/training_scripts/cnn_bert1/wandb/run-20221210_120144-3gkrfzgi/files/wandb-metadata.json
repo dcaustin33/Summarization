@@ -1,0 +1,87 @@
+{
+    "os": "Linux-5.10.0-19-cloud-amd64-x86_64-with-glibc2.31",
+    "python": "3.9.13",
+    "heartbeatAt": "2022-12-10T12:01:45.313534",
+    "startedAt": "2022-12-10T12:01:44.869014",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--model_name",
+        "google/pegasus-large",
+        "--batch_size",
+        "2",
+        "--max_length",
+        "128",
+        "--name",
+        "Eval_Pegasus_CNN_BERT_128",
+        "--log_n_val_steps",
+        "100",
+        "--val_steps",
+        "100",
+        "--write_steps",
+        "10",
+        "--num_beams",
+        "4",
+        "--model_path",
+        "checkpoints/Pegasus_CNN_BERT1_128/Pegasus_CNN_BERT1_128_checkpoint.pt",
+        "--workers",
+        "4",
+        "-log"
+    ],
+    "state": "running",
+    "program": "/home/da2986/Summarization/src/training_scripts/cnn_bert1/generate_and_evaluate.py",
+    "codePath": "src/training_scripts/cnn_bert1/generate_and_evaluate.py",
+    "git": {
+        "remote": "https://github.com/dcaustin33/Summarization",
+        "commit": "5f6e8d3cd43d30c4c76909e043ca3cee310ac9bd"
+    },
+    "email": "dcaustin33@gmail.com",
+    "root": "/home/da2986/Summarization",
+    "host": "instance-12",
+    "username": "da2986",
+    "executable": "/home/da2986/anaconda3/bin/python3",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2299.998,
+        "min": 0.0,
+        "max": 0.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        },
+        {
+            "current": 2299.998,
+            "min": 0.0,
+            "max": 0.0
+        }
+    ],
+    "disk": {
+        "total": 245.83320999145508,
+        "used": 139.11577606201172
+    },
+    "gpu": "Tesla K80",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "Tesla K80",
+            "memory_total": 11997020160
+        }
+    ],
+    "memory": {
+        "total": 14.64874267578125
+    }
+}
