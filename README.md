@@ -2,11 +2,11 @@
 
 The following is my implementation for my semester long project.
 Each method is implemented in a seperate folder named with the associated method.
-BERT = BERT Method
-First_n = Article Start
-n_then_random = 1-Random Start
-Power Law = Power Law
-TF-IDF = TF-IDF
+BERT = BERT Method,
+First_n = Article Start,
+n_then_random = 1-Random Start,
+Power Law = Power Law,
+TF-IDF = TF-IDF,
 All methods are explained in detail in the paper.
 
 All training runs use the trainer class src/training_scripts/trainer.py which provides a wrapper that given a training step function 
