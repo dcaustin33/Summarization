@@ -12,6 +12,9 @@ All methods are explained in detail in the paper.
 All training runs use the trainer class src/training_scripts/trainer.py which provides a wrapper that given a training step function 
 will take the gradient and update the parameters for any method.
 
+All evaluations runs use the trainer class src/training_scripts/evaluator.py which provides a wrapper that given a validation step function 
+run and compute statistics for the desired amount of steps.
+
 ## Training Baselines, Novel Methods and Experiments
 In each folder we have two main scripts, train_[insert_method].py and generate_and_evaluate.py. The main difference between all of the 
 different training functions is the data loader were we implement the associated method. Comments have been provided for anything that 
