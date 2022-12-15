@@ -1,0 +1,18 @@
+Starting from step 0
+Training for 4000 steps
+10 33.55800485610962
+20 66.89233016967773
+30 103.6193859577179
+40 138.6580410003662
+Traceback (most recent call last):
+  File "/home/da2986/Summarization/src/training_scripts/cnn_bert/train_cnn_bert.py", line 261, in <module>
+    trainer.train()
+  File "/home/da2986/Summarization/src/training_scripts/trainer.py", line 82, in train
+    self.optimizer.step()
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/optim/lr_scheduler.py", line 68, in wrapper
+    return wrapped(*args, **kwargs)
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/torch/optim/optimizer.py", line 140, in wrapper
+    out = func(*args, **kwargs)
+  File "/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/optimization.py", line 595, in step
+    exp_avg_sq_row.mul_(beta2t).add_(update.mean(dim=-1), alpha=(1.0 - beta2t))
+KeyboardInterrupt

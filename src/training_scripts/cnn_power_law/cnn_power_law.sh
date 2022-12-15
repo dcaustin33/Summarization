@@ -20,15 +20,15 @@ python3 generate_and_evaluate.py \
             --model_name google/pegasus-large \
             --batch_size 2 \
             --max_length 512 \
-            --name Eval_Pegasus_CNN_2_Power_law_512   \
-            --log_n_val_steps 10 \
-            --val_steps 10 \
+            --name Eval_Pegasus_CNN_2_Power_law_512_no_first_sentence   \
+            --log_n_val_steps 100 \
+            --val_steps 100 \
             --write_steps 10 \
             --num_beams 4 \
             --divisor 2 \
             --model_path checkpoints/Pegasus_CNN_2_Power_law_512/Pegasus_CNN_2_Power_law_512_Final.pt \
-            --workers 4;# \
-            #-log;
+            --workers 4 \
+            -log;
 
 #python3 train_cnn_power_law.py \
 #            --model_name google/pegasus-large \
@@ -46,19 +46,19 @@ python3 generate_and_evaluate.py \
 #            --divisor 2 \
 #            -log;
 
-python3 generate_and_evaluate.py \
-            --model_name google/pegasus-large \
-            --batch_size 2 \
-            --max_length 256 \
-            --name Eval_Pegasus_CNN_2_Power_law_256  \
-            --log_n_val_steps 10 \
-            --val_steps 10 \
-            --write_steps 10 \
-            --num_beams 4 \
-            --divisor 2 \
-            --model_path checkpoints/Pegasus_CNN_2_Power_law_256/Pegasus_CNN_2_Power_law_256_Final.pt \
-            --workers 4;# \
-            #-log;
+#python3 generate_and_evaluate.py \
+#            --model_name google/pegasus-large \
+#            --batch_size 2 \
+#            --max_length 256 \
+#            --name Eval_Pegasus_CNN_2_Power_law_256  \
+#            --log_n_val_steps 10 \
+#            --val_steps 10 \
+#            --write_steps 10 \
+#            --num_beams 4 \
+#            --divisor 2 \
+#            --model_path checkpoints/Pegasus_CNN_2_Power_law_256/Pegasus_CNN_2_Power_law_256_Final.pt \
+#            --workers 4;# \
+#            #-log;
 
 #python3 train_cnn_power_law.py \
 #            --model_name google/pegasus-large \
@@ -76,18 +76,18 @@ python3 generate_and_evaluate.py \
 #            --divisor 2 \
 #            -log;
 
-python3 generate_and_evaluate.py \
-            --model_name google/pegasus-large \
-            --batch_size 2 \
-            --max_length 128 \
-            --name Eval_Pegasus_CNN_2_Power_law_128   \
-            --log_n_val_steps 10 \
-            --val_steps 10 \
-            --write_steps 10 \
-            --num_beams 4 \
-            --divisor 2 \
-            --model_path checkpoints/Pegasus_CNN_2_Power_law_128/Pegasus_CNN_2_Power_law_128_Final.pt \
-            --workers 4;# \
-            #-log;
+#python3 generate_and_evaluate.py \
+#            --model_name google/pegasus-large \
+#            --batch_size 2 \
+#            --max_length 128 \
+#            --name Eval_Pegasus_CNN_2_Power_law_128   \
+#            --log_n_val_steps 10 \
+#            --val_steps 10 \
+#            --write_steps 10 \
+#            --num_beams 4 \
+#            --divisor 2 \
+#            --model_path checkpoints/Pegasus_CNN_2_Power_law_128/Pegasus_CNN_2_Power_law_128_Final.pt \
+#            --workers 4;# \
+#            #-log;
 
 #sudo shutdown -h;

@@ -9,6 +9,7 @@ torch.backends.cudnn.enabled = True
 torch.backends.cudnn.benchmark = True
     
     
+#trainer class that runs the training loop for the model
 class Trainer:
     def __init__(self, 
                  model: nn.Module,
@@ -65,12 +66,14 @@ class Trainer:
 
             for i, data in enumerate(self.dataloader):
 
+                #tokenizes the data
                 data['article'] = self.dataset.tokenizer(data['article_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
                 data['summary'] = self.dataset.tokenizer(data['summary_text'], max_length=self.dataset.max_length, truncation=True, padding='longest', return_tensors="pt")
 
                 if steps >= self.args.steps: break
                 steps += 1
 
+                #sets the log flag to true if the number of steps is a multiple of the number of steps to log
                 if steps % self.args.log_n_train_steps == 0:
                     self.metrics['LR'] = self.schedule.get_last_lr()[0]
                     loss = self.training_step(data, self.model, self.metrics, steps, log = True, wandb = self.wandb, args = self.args)
@@ -88,12 +91,15 @@ class Trainer:
                 if steps % 10 == 0:
                     print(steps, time.time() - now) 
 
+                #saves the model
                 if steps % self.args.checkpoint_every_n_steps == 0:
                     torch.save({
                         'step': steps,
                         'model_state_dict': self.model.state_dict(),
                         'optimizer_state_dict': self.optimizer.state_dict(),
                         }, '{name}_checkpoint.pt'.format(name = check_path + self.args.name))
+
+                #runs the validation loop when the number of steps is a multiple of the number of steps to run validation
                 if steps % self.args.log_n_val_steps == 0:
                     with torch.no_grad():
                     

@@ -30,6 +30,7 @@ def create_model(model_name, max_length):
     return model
 
 
+#takes the first sentence and then randomly selects the starting point for the rest of the sentences from the remaining sentences
 class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)

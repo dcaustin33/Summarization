@@ -1,183 +1,583 @@
 Generations for Eval_Pegasus_XSum_BERT_256
-Article text: Even after he had agreed to write it though, Bean said he still was not convinced. "We all play it badly and we all think it looks quite easy and then you find yourself with a cue in your hand on a full-size table and it's utterly daunting. "This is totally different
+All article text:Some who follow the subject closely argued that the Â£2.45bn deficit across health trusts in England in the last financial year was not as bad as it might have been.
+But it was still a dramatic increase on the previous 12 months and it illustrates two major challenges for the government - one immediate and the other longer term.
+Right now, the deficit at English hospital and other trusts, in other words the difference between the money they received and what they had to pay for patient care, is causing real headaches at the Department of Health.
+Official accounts are being prepared for the financial year which ended in March and are set to be published in the summer.
+If senior civil servants can't demonstrate that the DoH kept within the limit of around Â£116bn voted on by Parliament, there will be serious and unprecedented trouble in Whitehall.
+A National Audit Office inquiry could follow, along with heavy political flak directed at the government.
+Usually deficits among health trusts can be balanced by surpluses elsewhere in the system, for example in clinical commissioning groups. This time, officials have struggled to find the money in the system to balance the books.
+A finance director at a hospital trust has told the BBC anonymously that unorthodox methods are being used to make the sums add up.
+He alleged that the department was "cooking up accounting alchemy" to turn large hospital deficits into a much lower figure to ensure the NHS meets its spending limit.
+He claimed that transferring money from investment to day-to-day spending was being encouraged on a much wider scale than was normal.
+The same finance director went on to say that consultancy firms had been sent into 20 trusts to assess whether their accounting assumptions were too cautious.
+He claimed that their findings were being passed back to the Department of Health which would use them to adjust the overall deficit position downwards.
+He said: "I am deeply worried that the findings of the 20 site visits are likely to be used to alter the NHS accounts."
+The Department denied there was anything untoward going on, while acknowledging that parts of the NHS were under pressure.
+A spokesman said: "The transfer from capital to revenue makes no difference to the overall departmental picture given Parliament has voted to approve it - to say otherwise is misleading. Our financial statements will be audited by the independent National Audit Office."
+Ministers also argue they have helped hospitals curb the increase in spending on agency staff.
+Looking beyond the current scramble to balance the books, there is a longer term financial challenge for the NHS.
+It is hard to see how the aggregate trust deficit can be reduced significantly this year. So a chunk of the extra money allocated by the chancellor for 2016-17 will be eaten up before a single extra patient is cared for.
+The deficit reflects a fundamental mismatch between the funding flow to hospitals and what they need to find the right staff and provide appropriate care.
+Ministers argue they have given NHS leaders all the extra money they asked for and that greater efficiency savings can be made. But health spending is not keeping pace with demand and, as a share of national income, is behind many other leading economies.
+More than one health expert has pointed out that it is time for the nation to decide how much it wants to spend to deliver the healthcare citizens expect.
 ----------------------------------------
-Ground truth Summary: When Sheffield Crucible associate director Richard Wilson approached playwright Richard Bean with the idea of putting on a play there about snooker, the sport that has made the venue internationally famous, he was against the idea, as "actors can't play snooker".
+Article text: But health spending is not keeping pace with demand and, as a share of national income, is behind many other leading economies.
+More than one health expert has pointed out that it is time for the nation to decide how much it wants to spend to deliver the healthcare citizens expect.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with a man who died after a man who was found at a woman. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. as as as as as as as as as as a a a a a a a a a a a a a a a a a a has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
+Ground truth Summary: The deteriorating state of NHS finances in England has been well documented.
 ----------------------------------------
+Generated Summary: The UK's health system is in crisis, according to a report by the National Audit Office.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
-Article text: "It is vital that we stop the spread of infection. "
-Interim general manager Gail Meier said staff were "working round the clock" to assess patients and determine the need for admissions. She said they aimed to ensure that people were "seen, treated and either discharged or admitted in a timely manner". "
 ----------------------------------------
-Ground truth Summary: Health chiefs have warned Dumfries Infirmary is facing "extreme" demand from people with flu-like symptoms and persistent coughs.
+All article text:The "Co-bikes" are currently available from five sites in Exeter, including the central train station, the university and Sowton Park and Ride.
+It's hoped that by spring 2017 there will be eight hubs around the city.
+The initiative has been launched with support from Department of Transport, while Devon County Council has helped to fund the scheme.
+Mark Hodgson, Managing Director of Co-bikes, said: "After years of planning, we're very excited to be launching Co-bikes in Exeter.
+"The Co-bikes electric bikes are changing the way that people travel around the city and are affordable and easy as well as being great fun to ride", he added.
+For people who choose to become members, the service will cost 75p for 30 minutes, while non-members will pay double.
+The bikes have small electric motors which can travel distances of between 40 and 60 miles, and allow speeds of up to 15mph.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been found guilty of the first time in the first round of the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] during from from from from has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
+Article text: The "Co-bikes" are currently available from five sites in Exeter, including the central train station, the university and Sowton Park and Ride.
+It's hoped that by spring 2017 there will be eight hubs around the city.
+The initiative has been launched with support from Department of Transport, while Devon County Council has helped to fund the scheme.
+Mark Hodgson, Managing Director of Co-bikes, said: "After years of planning, we're very excited to be launching Co-bikes in Exeter.
+"The Co-bikes electric bikes are changing the way that people travel around the city and are affordable and easy as well as being great fun to ride", he added.
+For people who choose to become members, the service will cost 75p for 30 minutes, while non-members will pay double.
+The bikes have small electric motors which can travel distances of between 40 and 60 miles, and allow speeds of up to 15mph.
 ----------------------------------------
+Ground truth Summary: The UK's first city-wide electric bike scheme has been launched in Exeter.
 ----------------------------------------
+Generated Summary: A city in Devon has become the first in the UK to launch an electric bike sharing scheme.
 ----------------------------------------
 ----------------------------------------
-Article text: "We spoke in detail to four of the very best candidates from a very long list of applicants. First-team coach Laurie Ellis took charge of the Kirkcaldy side for the final Scottish Championship match of the season - a 2-2 draw away to Dumbarton - as they finished in sixth place
 ----------------------------------------
-Ground truth Summary: Ray McKinnon has left Brechin City to become Raith Rovers manager, with Maurice Malpas standing down as director of football at Stark's Park.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the final of the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. as as as as as as as as............................ has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
+All article text:Rob Hughes, 31, of Croydon, south London, has no memory of the assault in Crete in June 2008, but an eyewitness identified Joseph Bruckland, 22.
+Mr Bruckland, from Hookwood in Surrey, and five other British men deny charges of grievous bodily harm.
+Mr Hughes suffered severe memory loss and did not remember his family.
+He was left with brain damage after being beaten and left for dead outside a nightclub in Malia.
+Neil Philippart, who was called as a witness by the prosecution, told the court he saw Mr Hughes being hit with a bottle and fall to the ground.
+Mr Philippart was asked by the judge to identify which of the defendants struck that blow.
+He turned round, looked at Mr Bruckland and said it was him. Mr Bruckland shook his head when the allegation was made. He will be called to give evidence later.
+The other defendants are Curtis Taylor, Daniel Bell and Sean Branton, of Horley; Surrey; Benjamin Herdman, of Worth, West Sussex; and George Hollands, of Reigate, Surrey.
+The trial in Heraklion, Crete, continues.
 ----------------------------------------
+Article text: Rob Hughes, 31, of Croydon, south London, has no memory of the assault in Crete in June 2008, but an eyewitness identified Joseph Bruckland, 22.
+Mr Bruckland, from Hookwood in Surrey, and five other British men deny charges of grievous bodily harm.
+Mr Hughes suffered severe memory loss and did not remember his family.
+He was left with brain damage after being beaten and left for dead outside a nightclub in Malia.
+Neil Philippart, who was called as a witness by the prosecution, told the court he saw Mr Hughes being hit with a bottle and fall to the ground.
+Mr Philippart was asked by the judge to identify which of the defendants struck that blow.
+He turned round, looked at Mr Bruckland and said it was him
 ----------------------------------------
+Ground truth Summary: One of six men accused of beating a former Oxford United footballer into a coma has been identified in court in Greece as the main offender.
 ----------------------------------------
+Generated Summary: A man accused of beating a British tourist to death on a Greek island was identified by an eyewitness, a court has heard.
 ----------------------------------------
-Article text: Bu farw'r bachgen ac mae dynes 18 oed hefyd wedi dioddef anafiadau difrifol yn y gwrthdrawiad. Mae Heddlu Gogledd Cymru wedi apelio am dystion, ac yn awyddus i siarad ag unrhyw un welodd gar Renault Clio du yn teithio rhwng Beddgelert a Phenygwryd rhwng 06:30 a 07:00. 
 ----------------------------------------
-Ground truth Summary: Mae bachgen 17 oed wedi marw a dynes ifanc wedi'i hanafu'n ddifrifol yn dilyn gwrthdrawiad rhwng car a bws mini ar ffordd yr A4086 ger Capel Curig.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] mae heddlu gogledd cymru wedi apelio am dystion yn awyddus yn teithio rh. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] specialist as as as as as as as as as as as as scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
 ----------------------------------------
+All article text:All of the managerial movements for July will appear below, followed by the full list of each club, league-by-league.
+To read the list for April-June, visit the ins and outs page.
 ----------------------------------------
+Article text: All of the managerial movements for July will appear below, followed by the full list of each club, league-by-league.
+To read the list for April-June, visit the ins and outs page.
 ----------------------------------------
+Ground truth Summary: BBC Sport tracks all the manager ins and outs as well as listing all the current bosses in the Premier League, Scottish Premiership, Football League and National League.
 ----------------------------------------
-Article text: Media playback is not supported on this device
-Panthers, who also won the Challenge Cup this season, led at the end of the first period thanks to a fierce hit by Stephen Schultz from the blue line. But Schultz teed up Kevin Quick to fire the second into the roof of the net. Earlier, Cardiff Devils thrashed Fife Flyers 6-0 in the third and fourth place play-off. 
+Generated Summary: All of the managerial movements for July will appear below, followed by the full list of each club, league-by-league.
 ----------------------------------------
-Ground truth Summary: Nottingham Panthers secured their fifth play-off title of the Elite League era by beating Coventry Blaze in a nervy final at the National Ice Centre.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] cardiff devils thrashed fife flyers have been jailed for the first time in cardiff devils. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] during as as as as as scotland scotland scotland scotland scotland.......................... has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
 ----------------------------------------
 ----------------------------------------
+All article text:Bertie Acheson, who was 72, died after a confrontation with the intruder at his home in Glenmore Gardens, Coleraine, in April 2012.
+Paul James Manolito Toland, originally of The Cedars, Antrim, had pleaded guilty to Mr Acheson's manslaughter.
+After his release he must serve a further four and half years on licence.
+Toland, a father of four, has 18 previous convictions for burglary.
+He was confronted by his victim after he broke into the couple's home to steal money.
+There was a struggle and Mr Acheson, who cared for his disabled wife Sheila, suffered a heart attack and died on his kitchen floor.
+Speaking after the sentencing, the senior investigating officer in the case said the Acheson family had been left "devastated" by his loss, particularly his widow.
+Det Ch Insp Ian Harrison said the fact that Toland was sentenced on what would have been Mr Acheson's 75th birthday had a "double impact" on the pensioner's loved ones.
+"A person who I deem to be dangerous has now been taken off the streets and people can now feel safe in their homes," the officer said.
+"Paul Toland was a predator. He preyed on the vulnerable and elderly and equally infirm couple who had been married for 44 years. His actions resulted in the death of Bertie Acheson, for just over Â£300."
+An earlier court hearing was told that the couple were woken up by the sound of breaking glass in the early hours of 20 April 2012.
+Mr Acheson went to investigate.  His widow later told police she overheard a verbal altercation between her husband and an intruder, during which money was demanded.
+Mrs Acheson claimed she also heard the sound of a scuffle and gasping for breath. She managed to raise the alarm, but when ambulance personnel and police arrived at the scene, her husband was already dead.
+Toland had originally been charged with Mr Acheson's murder, but at a court hearing in October, a defence lawyer asked that his client be re-arraigned. Toland told Belfast Crown Court that he was not guilty of murder, but guilty of manslaughter.
+He also admitted the robbery of Mrs Acheson, who had Â£335 stolen from her purse during the burglary.
+Det Ch Insp Harrison paid tribute to the courage and resilience of the pensioner's family throughout the "long and protracted inquiry".
+The officer said that Toland had been in the couple's house the previous month to repair a vacuum cleaner and had been paid in cash.
+"We believe that Toland's greed brought him back to the house in the expectation that he could break in and steal whatever cash he could get his hands on," Det Ch Insp Harrison added.
+He appealed to the public not to store cash at home saying they were exposing themselves to "unnecessary risk".
+"In memory of Bertie Acheson, and to avoid the pain still being suffered by his family, please do not keep large amounts of money at home," the officer said.
+----------------------------------------
+Article text: She managed to raise the alarm, but when ambulance personnel and police arrived at the scene, her husband was already dead.
+Toland had originally been charged with Mr Acheson's murder, but at a court hearing in October, a defence lawyer asked that his client be re-arraigned
+----------------------------------------
+Ground truth Summary: A man has been jailed for four and a half years for killing a pensioner during a botched burglary at an elderly couple's home in County Londonderry.
+----------------------------------------
+Generated Summary: A man has been jailed for life for the murder of a man who was stabbed to death in his home.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:But their decision to take up rowing - and winning Olympic gold at their first attempt - has sealed their place in British sporting history.
+Glover, 26, and Stanning, 27, took victory in the women's pair at Eton Dorney on Wednesday to win the first gold medal for Britain at London 2012.
+More remarkably, they become the first British female rowers to achieve the feat since the sport was added to the Olympics in 1976.
+Born in Truro, Glover was a cross-country runner and hockey player, competing internationally, before burying her head in books and gaining a teaching qualification.
+It wasn't until she heard about Sporting Giants, a scheme to find the Olympians of the future, in 2008 that she stepped into a boat and picked up an oar for the first time. From there, she was chosen for the Great Britain's rowing talent programme, two years after Stanning joined the same initiative, and two years later the dream team was formed.
+Stanning, who was born in Yeovil, took a different route, taking up rowing at 19 after her friends suggested she try it because she was tall. Two years later she was on the rowing talent programme but switched her focus to the army, where she was commissioned in 2008.
+Four years ago, she decided to focus on rowing, taking a break from the Royal Artillery, and heading back to the water. There she teamed up with Glover and started on the road to London.
+The pair narrowly missed out on gold to New Zealand at last year's World Championships, but that defeat was their last as they upped the stroke rate in 2012 to remain unbeaten in all three World Cups.
+They were barely mentioned in the build-up to London as three-time Olympic silver medallist Katherine Grainger and her chase for that elusive gold dominated the headlines along with the men's four - Britain's flagship boat - which has won gold in the last three Olympics.
+But an Olympic record in the first race of the regatta sparked interest - and their performance in the final in front of a partisan home crowd - was the perfect way to end what could be their last race together.
+Before the regatta, Stanning said she would return to the army, with a posting in Afghanistan a possibility. Regardless of whether she sticks to her decision or decides to add to her medal collection, their achievement will forever be engraved on London 2012 - because everyone remembers the first.
+----------------------------------------
+Article text: From there, she was chosen for the Great Britain's rowing talent programme, two years after Stanning joined the same initiative, and two years later the dream team was formed.
+Stanning, who was born in Yeovil, took a different route, taking up rowing at 19 after her friends suggested she try it because she was tall. Two years later she was on the rowing talent programme but switched her focus to the army, where she was commissioned in 2008.
+Four years ago, she decided to focus on rowing, taking a break from the Royal Artillery, and heading back to the water
 ----------------------------------------
-----------------------------------------
-Article text: He replied: "Iran never denied it. "We have condemned the killing of Jews by Nazis as we condemn [the] killing and crackdown on Palestinians by Zionists," Mr Zarif told Tasnim. The move makes it likely Mr Zarif - who has experience living in and negotiating with the West having served as Iran's envoy to the UN - will take over responsibility for the talks. 
-----------------------------------------
-Ground truth Summary: Iran's foreign minister has confirmed he sent a message on Twitter wishing Jews a happy new year.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the un - will take over the un - will take. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: A 21-year-old man required hospital treatment after the attack near the Stag Bar on Weavers Close on Thursday 22 December. They have asked him or anyone who might know him to come forward to assist with their inquiries. He has been described as a black male, aged between 25 and 35 years old with short, dark hair, dark facial hair or a beard. 
-----------------------------------------
-Ground truth Summary: Police have released CCTV images as part of investigations into an assault outside an Arbroath bar last year.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] during scotland as as as as as as as as as as as as.... scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: It subsequently gathered thousands of signatures on a petition pressing for a route to the region to be reopened. Instead, the Scottish government decided that Network Rail could take the project forward. Then, last year, a symbolic moment was reached as the track laying began
-----------------------------------------
-Ground truth Summary: It has been a long journey and not always a straightforward one.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the scottish government has been jailed for the scottish government. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Zaria, who finishing fourth in Divizia Nationala last season, qualified because title winners Sheriff Tiraspol completed a league and cup double. Aberdeen were in the same section of the draw at Everton, but the English side were paired with either Slovakia's Ruzomberok or Brann of Norway
-----------------------------------------
-Ground truth Summary: Apollon Limassol of Cyprus or Moldova's Zaria Balti await Aberdeen in the Europa League's third qualifying round - if they get past Siroki Brijeg.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the uk's draw in the draw at everton. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The claim has been denied by Novartis, the firm which markets the officially licensed drug, Lucentis, in the UK. BMJ editor-in-chief Dr Fiona Godlee said pharmaceutical companies should not be able to block access to alternative drugs. "Doctors' leaders also need to sort out the web of misinformation about drug prescribing that has been generated behind closed doors
-----------------------------------------
-Ground truth Summary: A drugs firm has been accused of trying to block access to what some doctors believe is a cheap, safe and effective drug to treat a common eye condition.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the uk's country in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. scotland scotland scotland as as as as as as scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Star Wars: Episode VII is currently in pre-production and filming is due to begin in the spring. "It's a dream come true," he added. R2-D2, an astromech android, is best known as a companion to the human heroes of the Star Wars franchise, including Luke and Anakin Skywalker, using its resources to rescue them from perilous situations
-----------------------------------------
-Ground truth Summary: R2-D2 is to make an appearance in the next outing of Star Wars, makers LucasFilm have confirmed.
-----------------------------------------
-Generated Summary: [PAD] [CLS] an astromech android has been charged with the first of the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] round scotland scotland scotland scotland scotland scotland a a a a a a a a a a a a a a a from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from from [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Det Insp Dan St Quintin said: "The criminality our communities have experienced is totally unacceptable and police have nipped this in the bud. "I would like to reassure the public that we have a team of dedicated detectives working full time to detect and prosecute anyone found committing criminal behaviour. "
-----------------------------------------
-Ground truth Summary: More than 40 suspected gang members have been arrested on suspicion of a string of offences including possessing weapons and assault, police said.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been jailed for the first time in the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD].......................... has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Most damning of all was a comment piece by Diario Vasco's Inaki Izquierdo, who concluded that Moyes "still bears the impression of someone who has only just arrived and doesn't understand the club, the players, the league, the city, the opponents, the referees, the languages, the stadia, the timetables…"
-Moyes himself accepted that Friday's performance was below standard, acknowledging after the game that "the players have to improve, and so do I". But then came the debacle at Las Palmas
-----------------------------------------
-Ground truth Summary: David Moyes has been sacked as Real Sociedad boss.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the uk's two - year contract. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] o as as as as as scotland scotland scotland scotland scotland scotland mo scotland scotland scotland mo mo mo mo mo mo mo mo mo scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Mr Gill first received a licence to run the zoo in May 1994, when the attraction consisted of 290 animals on 12 acres with about 200 visitors a day. Now the zoo is home to more than 1,000 animals across 50 acres, attracting more than 250,000 visitors and generating Â£3m a year. "
-----------------------------------------
-Ground truth Summary: Councillors have refused to renew the licence of the owner and founder of South Lakes Safari Zoo.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been found guilty of a man has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD]. scotlandinginginginginginginginginginginginginginginginginginginginginginginging donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald donald has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The Cabinet Office said the election for the vacant seat, planned for 4 May, would now take place on 8 June as part of the nationwide polling day. MPs will be asked to formally overturn the writ for the poll. The proposed by-election would have created the anomaly of taking place after Parliament had been dissolved
-----------------------------------------
-Ground truth Summary: A by-election for the Manchester Gorton constituency is set to be cancelled after the House of Commons backed a June general election.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: And the duo combined in almost identical circumstances five minutes into the second half, an unmarked Magennis again using his head to convert from Aribo's set-piece delivery. Attempt saved. Josh Magennis (Charlton Athletic) header from a difficult angle on the left is close, but misses to the left. Attempt saved. Foul by Chris Solly (Charlton Athletic)
-----------------------------------------
-Ground truth Summary: Josh Magennis struck a hat-trick as Charlton came from behind to brush aside Bristol Rovers at The Valley.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been found guilty of the world cup of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: "In a space of five or six hours, that's all your intake until your next fast begins so it feels like a binge," she says. "People with eating disorders fall into the category of people that are unwell so are exempt from fasting, [so] it sometimes helps people to seek religious guidance. "
-----------------------------------------
-Ground truth Summary: It is coming to the end of Ramadan, when Muslims fast between dawn and sunset for a month.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the world's first - year - old woman in the world's first - time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] scotland as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: "If the lines are fixed, you can put a mark in the ground, measure its co-ordinate, and it will be the same co-ordinate in 20 years," explained Dan Jaksa of Geoscience Australia. "Once we have a system that can deal with changes over time, then everybody in the world could be on that same system
-----------------------------------------
-Ground truth Summary: Australia is to shift its longitude and latitude to address a gap between local co-ordinates and those from global navigation satellite systems (GNSS).
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been found guilty of the world's world could be on the world's world's world's world's world's world's world. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Two activists tried to climb up onto the platform and tie themselves onto it, in an attempt to draw attention to the issue of the expansion of oil and gas exploration in the Arctic Ocean. They were detained after a short skirmish in inflatable dinghies in which armed Russian FSB officers in balaclavas fired warning shots into the water
-----------------------------------------
-Ground truth Summary: Fourteen Greenpeace activists, including at least four from the UK, have been charged with piracy by the Russian authorities.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the country's first - year - old girl in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] as as as as as as as as as as as as as as as as has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The rare plants around Dinas Bran, a medieval castle and iron age hillfort above Llangollen and the Dee Valley, have been awarded national recognition. "And Dinas Bran has the second largest area in Wales of one type of acid grassland. "By working in partnership with landowners, we look forward to helping to manage the site's special features so that we and future generations can continue to enjoy Dinas Bran's rich natural and historical heritage. "
-----------------------------------------
-Ground truth Summary: A "scarce" grassland around the ancient ruins of a Denbighshire castle has been protected as a site of special scientific interest.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a second - year - old man has been arrested on suspicion of the first time in wales. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
+Ground truth Summary: Four years ago, Helen Glover was an aspiring hockey player and Heather Stanning was embarking on a career in the army.
+----------------------------------------
+Generated Summary: The first woman to represent Great Britain on the Olympic rowing team has said she was inspired by the success of the men's team.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Speaking at London's Science Museum the scientist also says he believes the future of humanity depends on living on other planets.
+"The long-term future of the human race must be space and that it represents an important life insurance for our future survival," he says.
+"It could prevent the disappearance of humanity by the colonisation of other planets."
+Professor Hawking made the comments while escorting an American visitor around the museum as part of a guest of honour prize.
+"Sending humans to the moon changed the future of the human race in ways that we don't yet understand," he went on.
+"It hasn't solved any of our immediate problems on planet Earth, but it has given us new perspectives on them and caused us to look both outward and inward."
+Adaeze Uyanwah, 24 and from California, won the tour after producing a blog and video describing a "perfect day" in London.
+She asked Prof Hawking what human failings he would alter.
+"The human failing I would most like to correct is aggression," he says.
+"It may have had survival advantage in caveman days, to get more food, territory, or partner with whom to reproduce, but now it threatens to destroy us all.
+"A major nuclear war would be the end of civilization, and maybe the end of the human race."
+The scientist then got a bit spiritual when he told her: "The quality I would most like to magnify is empathy. It brings us together in a peaceful, loving state."
+Ms Uyanwah says she was blown away by the meeting.
+"It's incredible to think when my grandchildren are learning Stephen Hawking's theories in science class, I'll be able to tell them I had a personal meeting with him.
+"It's something I'll never forget."
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+----------------------------------------
+Article text: It brings us together in a peaceful, loving state."
+Ms Uyanwah says she was blown away by the meeting.
+"It's incredible to think when my grandchildren are learning Stephen Hawking's theories in science class, I'll be able to tell them I had a personal meeting with him.
+"It's something I'll never forget."
+Follow @BBCNewsbeat on Twitter, BBCNewsbeat on Instagram and Radio1Newsbeat on YouTube
+----------------------------------------
+Ground truth Summary: Stephen Hawking says space travel will save the human race.
+----------------------------------------
+Generated Summary: Stephen Hawking has met a woman who was diagnosed with motor neurone disease.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:On Monday, Prime Minister David Cameron said Crewe could lose HS2 investment in a post-election Labour-SNP deal.
+But SNP deputy leader Stewart Hosie described the comments as "utterly meaningless" and "preposterous".
+Crewe's Labour candidate Adrian Heald said he would "not support any move to jeopardise the HS2 line at Crewe".
+A report last year into the route of the high-speed rail line running north from London recommended a new station be built in Crewe.
+But Mr Cameron said a minority Labour government, backed by the SNP, means schemes could be dropped.
+The prime minister said projects linked to HS2 that could be jettisoned include Crewe's planned University Technical College and the Railway Exchange Training Academy.
+Also speaking on Monday, Chancellor George Osborne said: "The SNP deputy leader has said in the last couple of days, if there was a minority Labour administration that needed SNP help to get their legislation through 'we might well say let's not have HS2 go to Manchester and Birmingham, let's have it start in Edinburgh and Glasgow'.
+"That is tearing up the plan for huge investment in Crewe. That is cancelling the thousands of jobs and businesses that will come to this town.
+"That is a billion pound blow to Crewe and is the price tag of voting for Labour and Ed Miliband here."
+While Labour has ruled out a coalition with the SNP, Scottish nationalists for their part have said they could support a minority Labour government on an "issue-by-issue" basis.
+Echoing the SNP's manifesto, Mr Hosie said he would like to see a Scottish section of HS2 built "at the same time" as the first phase planned between London and the West Midlands, allowing the line to "meet in the middle" of the country.
+"Why would that put investment in Crewe at risk?" he said.
+"What would put Crewe investment at risk is the Â£30bn cuts presented by Cameron and friends."
+Meanwhile, Labour candidate Mr Heald said: "HS2 is the best opportunity to generate prosperity in Crewe and South Cheshire."
+He said Labour is "fully supportive" of the HS2 line.
+Crewe and Nantwich in Cheshire is a marginal Conservative constituency.
+Roy Wood, Liberal Democrat candidate, confirmed his party were "strong supporters of HS2 even when other parties were wavering" and that David Cameron's comments were "scaremongering from someone who is getting desperate."
+UKIP is the only party standing in Crewe and Nantwich to reject plans for HS2.
+Richard Lee, the party's candidate, said UKIP believed the line was "an unaffordable white elephant" and that money could be better spent on upgrading the local and regional rail network.
+"The benefits to Crewe, if any, will not be felt in Crewe for a number of years anyway, and it sounds as though David Cameron is merely scaremongering," he said.
+"UKIP are fully committed to technical colleges and practical apprenticeship training in schools regardless of HS2."
+The candidates standing in Crewe and Nantwich are:
+----------------------------------------
+Article text: On Monday, Prime Minister David Cameron said Crewe could lose HS2 investment in a post-election Labour-SNP deal.
+But SNP deputy leader Stewart Hosie described the comments as "utterly meaningless" and "preposterous".
+Crewe's Labour candidate Adrian Heald said he would "not support any move to jeopardise the HS2 line at Crewe".
+A report last year into the route of the high-speed rail line running north from London recommended a new station be built in Crewe.
+But Mr Cameron said a minority Labour government, backed by the SNP, means schemes could be dropped.
+The prime minister said projects linked to HS2 that could be jettisoned include Crewe's planned University Technical College and the Railway Exchange Training Academy.
+Also speaking on Monday, Chancellor George Osborne said: "The SNP deputy leader has said in the last couple of days, if there was a minority Labour administration that needed SNP help to get their legislation through 'we might well say let's not have HS2 go to Manchester and Birmingham, let's have it start in Edinburgh and Glasgow'.
+"That is tearing up the plan for huge investment in Crewe
+----------------------------------------
+Ground truth Summary: Conservative claims that Labour and the Scottish National Party (SNP) could reduce high-speed rail investment in Crewe have been dubbed "preposterous".
+----------------------------------------
+Generated Summary: The Conservatives have been accused of "tearing up" plans for a new HS2 station in Crewe.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The initiative returns from 19-25 June ahead of a busy summer of elite sport which includes the cricket and rugby World Cups in the UK and Ireland.
+The European Football Championship starts in July in the Netherlands.
+The campaign will encourage the public to watch, listen, volunteer and take part in sporting activities.
+Crouch added: "We want more women and girls to get involved in sport and enjoy the huge benefits that being active brings to their lives."
+Shelley Alexander, editorial lead for women's sport for BBC Sport, said: "We'll devote even more resources to showcasing the best of women's sport across television, radio and online this year.
+"We'll also examine the pertinent issues across women's sport, with our original journalism interrogating the state of play of women and girls' sport from the grassroots to the elite."
+----------------------------------------
+Article text: The initiative returns from 19-25 June ahead of a busy summer of elite sport which includes the cricket and rugby World Cups in the UK and Ireland.
+The European Football Championship starts in July in the Netherlands.
+The campaign will encourage the public to watch, listen, volunteer and take part in sporting activities.
+Crouch added: "We want more women and girls to get involved in sport and enjoy the huge benefits that being active brings to their lives."
+Shelley Alexander, editorial lead for women's sport for BBC Sport, said: "We'll devote even more resources to showcasing the best of women's sport across television, radio and online this year.
+"We'll also examine the pertinent issues across women's sport, with our original journalism interrogating the state of play of women and girls' sport from the grassroots to the elite."
+----------------------------------------
+Ground truth Summary: Women's Sport Week will be "a fantastic campaign" and "encourage more women to try a new sport", says minister for sport Tracey Crouch.
+----------------------------------------
+Generated Summary: Women's Sport Minister Tracey Crouch has launched BBC Sport's Women's Sport Week.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Georgia and Romania have been pushing to be included in the top tier of European rugby.
+Six Nations boss Feehan is keen to keep the status quo and dismissed relegation talk.
+"In the short to medium term there is not any genuine likelihood of that happening," said Feehan.
+Italy were added to the old Five Nations tournament in 2000 and have propped up the table 11 times in the 17 tournaments since.
+Find out how to get into rugby union with our special guide.
+But Feehan has dismissed any immediate prospect of relegating the Italians who open their campaign against Wales next Sunday in Rome.
+"Some comments are very unfair about Italy," Feehan told BBC Radio Wales.
+"We think they have been a good addition to the Championship since they have entered.
+"They have improved dramatically but other teams have improved dramatically - it's a relative thing.
+"It's not that long ago they beat South Africa in the autumn series so they are capable of beating anyone on their day and worthy participants.
+"We are very happy with how the Italians are approaching things.
+"There is a long way to go in terms of being competitive to win the title. But on any given day they can beat any of the sides and they have done that, apart from England."
+The Six Nations have also employed bonus points for the first time although a side who wins the Grand Slam are guaranteed to win the tournament.
+"It is something we have considered for many years but resisted to date," said Feehan.
+"If you look at the Six Nations, it is inherently unfair because some teams have three home games and other teams have two home matches in any given year and there is an imbalance.
+"That word balance is key and we are looking to see whether the benefits we get on encouraging more tries to be scored is better than any direct imbalance.
+"We decided we had to give it a try to see if it works.
+"If you look at the the championship two years ago, we ended up with 27 tries on the last day.
+"Teams can score tries when they wish to and need to.
+"That's what we are trying to encourage."
+Listen back to the full John Feehan interview on BBC Radio Wales' Jason Mohammad show on Monday, 30 January.
+----------------------------------------
+Article text: Georgia and Romania have been pushing to be included in the top tier of European rugby.
+Six Nations boss Feehan is keen to keep the status quo and dismissed relegation talk.
+"In the short to medium term there is not any genuine likelihood of that happening," said Feehan.
+Italy were added to the old Five Nations tournament in 2000 and have propped up the table 11 times in the 17 tournaments since.
+Find out how to get into rugby union with our special guide.
+But Feehan has dismissed any immediate prospect of relegating the Italians who open their campaign against Wales next Sunday in Rome.
+"Some comments are very unfair about Italy," Feehan told BBC Radio Wales.
+"We think they have been a good addition to the Championship since they have entered.
+"They have improved dramatically but other teams have improved dramatically - it's a relative thing.
+"It's not that long ago they beat South Africa in the autumn series so they are capable of beating anyone on their day and worthy participants.
+"We are very happy with how the Italians are approaching things.
+"There is a long way to go in terms of being competitive to win the title
+----------------------------------------
+Ground truth Summary: Six Nations chief executive John Feehan says relegation from the tournament will not be introduced in the short to medium term.
+----------------------------------------
+Generated Summary: Greg Feehan says there is "no genuine likelihood" of Italy being relegated from the Six Nations.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Jennah Bawa, eight, had been on a shopping trip with her Kenyan-born mother, Zahira, on Saturday.
+Businessman Louis Bawa, of Leamington Spa, Warwickshire, said he had spoken to them on Friday but "didn't get a chance to catch up with them" again.
+"This time they didn't come home."
+The official death toll stands at 62, with more than 170 injured.
+The UK government says five of the dead people have been confirmed as British, with another one thought to be British.
+Meanwhile, the Foreign Office said it was aware of comments by Kenya's foreign minister that a British woman was among foreign nationals involved in the attack.
+Amina Mohamed said the Briton was a woman who has "done this many times before" and two or three Americans were also among the suspected militants.
+A Foreign Office spokeswoman said: "We continue to liaise very closely with the Kenyan authorities and to support their investigation into this attack."
+Kenyan security forces say they have now taken control of all floors of the shopping centre in Nairobi, although an explosion and gunfire was heard from there on Tuesday morning.
+The Somali Islamist movement al-Shabab says it carried out the attack at the Westgate shopping mall in retaliation for Kenyan military operations in Somalia.
+In an interview with the Daily Telegraph, Mr Bawa, 43, said his wife and daughter were both Muslims but were killed by "animals" who were using "religion as an excuse to kill people... They're saying that they were targeting certain people, but they were targeting anyone".
+The family lived in Leamington Spa until last year, when lawyer Mrs Bawa is reported to have returned to Kenya to look after her mother. Mr Bawa then took a job as the chief executive of a marketing company in Dubai and began commuting to his family in Nairobi at weekends.
+He told the paper: "The last time I spoke to them was on Friday evening, I didn't get a chance to catch up with them on Saturday morning. They were going to Westgate to do what they always did, grocery shopping. This time they didn't come home.
+"I think our last conversation was about just normal things, school fees, something like that, I can't remember. I don't know exactly what happened but it looks to me that they were gunned down ... they were just shot."
+Mr Bawa began waiting outside the mall on Sunday for news of his family.
+Describing the moment he realised they were among the victims, Mr Bawa said: "At first I was convinced that they would be OK. I had hope. Then on Sunday night there was a team that went in to bring out some bodies and they took photographs of other bodies.
+"We all had to look at these pictures - something I would never want anyone to have to do - and identify them. That was how I knew. My heart just stopped, that was the last news in the world I wanted to hear. It's like nothing else, I can't fathom it, even now."
+He added that last week he had promised Jennah that he would buy her any "present in the world" if she did well in her exams.
+Mr Bawa said: "She said she wanted a pony, a particular coloured pony but she said she thought even though her exams were not until December, she better tell me now so I could start saving up because she was going to work very hard."
+Architect Ross Langdon, who had British-Australian citizenship, has also been named as one of the UK victims although the Foreign Office is still not confirming identities.
+Mr Langdon's company, Regional Associates, issued a tribute to him and said he had died alongside his pregnant partner, Elif Yavuz, a Dutch citizen.
+Another of those killed was a Peruvian public health consultant who had been set to take up a full-time post at Liverpool School of Tropical Medicine.
+Dr Juan Jesus Ortiz-Iruri, 63, was due to arrive at its Centre for Maternal and Newborn Health this week.
+After a meeting of the government's emergency committee Cobra on Monday, Defence Secretary Philip Hammond said the UK had been in contact with the Kenyan authorities throughout and with its own diplomatic representation in Nairobi.
+Meanwhile, speaking at the United Nations in New York,  Foreign Secretary William Hague said the attacks were "not going to deter us or the people of Kenya from our continuing work in Somalia".
+Al-Shabab, which is part of the al-Qaeda network, has repeatedly threatened attacks on Kenyan soil if Nairobi did not pull its troops out of Somalia.
+There are about 4,000 Kenyan troops in the south of Somalia, where they have been fighting the militants since 2011.
+British nationals concerned about friends or family can contact the Foreign Office on +44 (0)20 7008 0000.
+----------------------------------------
+Article text: Mr Bawa then took a job as the chief executive of a marketing company in Dubai and began commuting to his family in Nairobi at weekends.
+He told the paper: "The last time I spoke to them was on Friday evening, I didn't get a chance to catch up with them on Saturday morning. That was how I knew
+----------------------------------------
+Ground truth Summary: A British man, whose wife and daughter died in the Kenyan shopping centre attack, has recalled the last time he spoke to them and the "heart-stopping" moment when he found out they had died.
+----------------------------------------
+Generated Summary: The father of one of the victims of the Westgate Mall attack in Nairobi has said he was "shocked and saddened" by the news of his son's death.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:They said there had been 63 confirmed cases of the mosquito-borne illness so far this year, up from seven in the whole of 2016.
+Most of the cases have been in rural areas of Minas Gerais state, a Ministry of Health statement said.
+The government has sent two million doses of yellow fever vaccines to the state.
+The governor of Minas Gerais has declared a 180-day state of emergency.
+Source: WHO
+Of the 63 confirmed cases in Brazil, 35 have proved fatal, Brazilian Health Ministry figures show.
+That is the highest number of deaths since at least 2008, the year to which Ministry of Health records date back.
+There have also been three confirmed cases in Sao Paulo, Brazil's most populous state, and one each in Espiritu Santo and Bahia, which both neighbour Minas.
+It is not clear what has caused the rise in cases.
+----------------------------------------
+Article text: They said there had been 63 confirmed cases of the mosquito-borne illness so far this year, up from seven in the whole of 2016.
+Most of the cases have been in rural areas of Minas Gerais state, a Ministry of Health statement said.
+The government has sent two million doses of yellow fever vaccines to the state.
+The governor of Minas Gerais has declared a 180-day state of emergency.
+Source: WHO
+Of the 63 confirmed cases in Brazil, 35 have proved fatal, Brazilian Health Ministry figures show.
+That is the highest number of deaths since at least 2008, the year to which Ministry of Health records date back.
+There have also been three confirmed cases in Sao Paulo, Brazil's most populous state, and one each in Espiritu Santo and Bahia, which both neighbour Minas.
+It is not clear what has caused the rise in cases.
+----------------------------------------
+Ground truth Summary: Health officials in Brazil say there has been a sharp rise in the cases of yellow fever in the country.
+----------------------------------------
+Generated Summary: Brazil has declared a 180-day state of emergency over a rise in cases of yellow fever.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:A letter has been signed by more than 150 groups before a European Parliament vote on ways to limit their sale.
+Many tech gadgets such as smartphones use conflict materials, so-called because they are mined in warlike conditions and traded by armed groups.
+The letter says the law must cover more manufacturers and types of materials, and make firms police supply chains.
+European politicians will vote on proposals drawn up by the European Commission on 19 May.
+Signed by Amnesty International. Friends of the Earth, Global Witness, Christian Aid, the Ethical Consumer Research Association and many others, the open letter says the trade in conflict minerals fuels wars and human rights abuses around the world.
+It says the vote this week is a "landmark opportunity" for Europe to take action to stem the trade and curtail the conflict it engenders.
+However, it says the current proposals are "weak" and do not go far enough.
+The big problem with the scheme proposed by Brussels is that it applies on a voluntary basis to most companies, the groups argue. As a result, they say, few firms would be motivated to clean up their supply chains and report on their actions.
+In addition, the letter says, the scheme only covers four minerals - tin, tantalum, tungsten and gold - in their raw form, and does nothing to address products entering Europe which have been made using conflict minerals. Many smartphones, tablets and other devices made in China are manufactured using these substances.
+The letter says the scheme does not cover minerals and materials such as diamonds, jade and chromite, which are also known to be sources of conflict.
+It urges MEPs to reject the plans in favour of a stronger scheme involving a mandatory system to ensure firms vet their supply chain.
+"Those bearing the cost of our weak efforts to regulate this trade will be some of the poorest and most vulnerable citizens of the world," said the letter. "Now is the time for change."
+Romanian MEP Iuliu Winkler - the European Parliament's lead negotiator on the plans - has previously said he "largely supported" the plans, adding that the priority should be ensuring that the right incentives are in place to encourage participation.
+However, Green and left-wing MEPs have criticised the opt-in nature of the scheme.
+----------------------------------------
+Article text: "Now is the time for change."
+Romanian MEP Iuliu Winkler - the European Parliament's lead negotiator on the plans - has previously said he "largely supported" the plans, adding that the priority should be ensuring that the right incentives are in place to encourage participation.
+However, Green and left-wing MEPs have criticised the opt-in nature of the scheme.
+----------------------------------------
+Ground truth Summary: Europe's proposed laws on "conflict minerals" will fail to slow trade in the raw materials, claim rights groups.
+----------------------------------------
+Generated Summary: The European Parliament has voted in favour of a controversial plan to allow EU citizens to opt out of the Common Agricultural Policy (CAP).
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Platt, 19 and Thomson, 21, have both joined the National League outfit until the end of the season.
+Both players played for Rovers' under-21 side this term in the EFL Trophy, but are yet to play a senior game.
+Blackburn are currently 22nd in the second tier, while Barrow are seventh in the National League.
+----------------------------------------
+Article text: Platt, 19 and Thomson, 21, have both joined the National League outfit until the end of the season.
+Both players played for Rovers' under-21 side this term in the EFL Trophy, but are yet to play a senior game.
+Blackburn are currently 22nd in the second tier, while Barrow are seventh in the National League.
+----------------------------------------
+Ground truth Summary: Barrow have signed defender Matty Platt and midfielder Connor Thomson on loan from Championship club Blackburn Rovers' development side.
+----------------------------------------
+Generated Summary: Barrow have signed Blackburn Rovers midfielders Ben Platt and Josh Thomson on loan.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The statement, purportedly sent by a British member of IS, said it was "outrageous" to suggest the Mannan family from Luton had been kidnapped and forced to join the group.
+The BBC has not been able to verify if the statement is genuine.
+A friend of a teenager among the 12 said he thought he had been "tricked".
+The family, who have not been seen since 17 May, includes three children aged between one and 11. Police have previously said they may have travelled to Syria.
+The statement is accompanied by two photos purportedly of family member Muhammed Abdul Mannan, which have not been independently verified.
+It comes as a video apparently released by the IS group showed 25 men being shot dead in the ancient Syrian city of Palmyra.
+The missing family is:
+The statement, passed to the BBC by a Briton fighting with IS, said the family had arrived in a land that was "free from corruption and oppression" and had not been "commanded" to join by a single person but by the "Khalifah of the Muslims".
+It said: "We say to those that are concerned for our safety to put your hearts at rest for we feel safer than we have ever felt before."
+It went on to urge Muslims to "race to your state".
+Nazrull Ali, a school friend of 19-year-old Mohammed Toufique Hussain, who is said to be among the 12, said he did not believe the statement.
+"That doesn't seem right to be honest. I don't think they would say stuff like that," he said.
+"I don't know but I heard they [IS] could make you say whatever they want, obviously if someone puts a gun to your head what would you say?" he said.
+"He would have said bye to all of us properly and I'm telling you, he did not know that he was going to Syria. I know it wasn't him, I think he's got tricked into it. It wasn't his idea, definitely."
+The Islamic State group has seized large swathes of Iraq and Syria since last June, becoming notorious for its brutality, including mass killings, abductions and beheadings.
+On 29 June 2014 it announced the formation of a caliphate - a state governed in accordance with Islamic law or Sharia, by God's deputy on Earth, or caliph.
+Shiraz Maher, senior fellow at the International Centre for the Study of Radicalisation at King's College London, which tracks the movements of foreign fighters in Syria and Iraq, said there was an element of propaganda to the statement.
+Mr Maher said he was told by a British fighter that the family had chosen to release the statement to show it was their decision to move.
+He said the broader project of IS was to persuade women and families to join them.
+"They never wanted just fighters, I think that's a misnomer," he said.
+The family was reported missing to police by two sons, understood to be Mr Mannan's from a previous marriage, who live in Luton.
+They flew to Bangladesh on 10 April, police said, and then to Istanbul on 11 May.
+They were due back at Heathrow three days later but failed to return.
+It is believed Ms Khanom had links to banned Islamist group al-Muhajiroun, which had members in Luton.
+Meanwhile, it has emerged that two sisters from another Luton family were prevented from flying to Bangladesh by counter-terror police shortly before the family of 12 went missing.
+Officers seized the passport of one of the sisters, who is in her 20s and is said to be linked to the banned radical group Al-Muhajiroun.
+They allowed the second sister to fly out to Bangladesh to join her family two or three days after the stop, between late March and early April.
+Separately, two of three east London teenagers who fled to Syria to join IS have married militants, a lawyer for their relatives said on Saturday.
+Bethnal Green Academy pupils, Shamima Begum, 15, Kadiza Sultana, 16, and Amira Abase, 15, fled Britain in February to join the militant group.
+Hundreds of Britons have travelled to support or fight for jihadist organisations in Syria or Iraq. Last month three sisters reportedly took their nine children to Syria.
+----------------------------------------
+Article text: It wasn't his idea, definitely."
+The Islamic State group has seized large swathes of Iraq and Syria since last June, becoming notorious for its brutality, including mass killings, abductions and beheadings.
+On 29 June 2014 it announced the formation of a caliphate - a state governed in accordance with Islamic law or Sharia, by God's deputy on Earth, or caliph.
+Shiraz Maher, senior fellow at the International Centre for the Study of Radicalisation at King's College London, which tracks the movements of foreign fighters in Syria and Iraq, said there was an element of propaganda to the statement.
+Mr Maher said he was told by a British fighter that the family had chosen to release the statement to show it was their decision to move.
+He said the broader project of IS was to persuade women and families to join them.
+"They never wanted just fighters, I think that's a misnomer," he said.
+The family was reported missing to police by two sons, understood to be Mr Mannan's from a previous marriage, who live in Luton.
+They flew to Bangladesh on 10 April, police said, and then to Istanbul on 11 May.
+They were due back at Heathrow three days later but failed to return.
+It is believed Ms Khanom had links to banned Islamist group al-Muhajiroun, which had members in Luton.
+Meanwhile, it has emerged that two sisters from another Luton family were prevented from flying to Bangladesh by counter-terror police shortly before the family of 12 went missing.
+Officers seized the passport of one of the sisters, who is in her 20s and is said to be linked to the banned radical group Al-Muhajiroun.
+They allowed the second sister to fly out to Bangladesh to join her family two or three days after the stop, between late March and early April.
+Separately, two of three east London teenagers who fled to Syria to join IS have married militants, a lawyer for their relatives said on Saturday.
+Bethnal Green Academy pupils, Shamima Begum, 15, Kadiza Sultana, 16, and Amira Abase, 15, fled Britain in February to join the militant group.
+Hundreds of Britons have travelled to support or fight for jihadist organisations in Syria or Iraq
+----------------------------------------
+Ground truth Summary: A UK family of 12 who went missing have joined so-called Islamic State and feel "safer than ever", according to a statement said to be on their behalf.
+----------------------------------------
+Generated Summary: A mother and her three children have left the UK to join the Islamic State (IS) group in Syria.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The Briton will face Frenchman Jo-Wilfried Tsonga, who beat Croatia's Ivo Karlovic 5-7 7-5 7-6 (8-6).
+Murray will usurp Novak Djokovic as number one with titles in Vienna and at next week's Paris Masters, if Djokovic does not reach the final in Paris.
+The Scot, 29, has never been top of the world rankings.
+"Now I just try to get ready for the final, use today as a bit of rest day, practise a little bit on the centre court and then see what happens tomorrow," said Murray, who played an exhibition tie-break against Jurgen Melzer after Ferrer announced his withdrawal.
+Ferrer had spent two hours and 33 minutes beating Viktor Troicki on Friday, and said: "It was impossible. I am disappointed but I have to be positive and will be ready for next season."
+Murray has won 13 of his 15 matches against Tsonga, including a last-16 victory in their most recent meeting at Wimbledon in July.
+Tsonga came from a set and 4-2 down to beat Karlovic, saving a match point in the tie-break as he reached his first ATP final of the year.
+----------------------------------------
+Article text: The Briton will face Frenchman Jo-Wilfried Tsonga, who beat Croatia's Ivo Karlovic 5-7 7-5 7-6 (8-6).
+Murray will usurp Novak Djokovic as number one with titles in Vienna and at next week's Paris Masters, if Djokovic does not reach the final in Paris.
+The Scot, 29, has never been top of the world rankings.
+"Now I just try to get ready for the final, use today as a bit of rest day, practise a little bit on the centre court and then see what happens tomorrow," said Murray, who played an exhibition tie-break against Jurgen Melzer after Ferrer announced his withdrawal.
+Ferrer had spent two hours and 33 minutes beating Viktor Troicki on Friday, and said: "It was impossible
+----------------------------------------
+Ground truth Summary: World number two Andy Murray is through to the final of the Erste Bank Open in Vienna after Spain's David Ferrer pulled out with a leg injury.
+----------------------------------------
+Generated Summary: Andy Murray reached the final of the Erste Bank Open in Vienna after Spain's David Ferrer withdrew with a back injury.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The city's Lord Provost Sadie Docherty lay a wreath at Dalbeth Cemetery in honour of five Glasgow Auxiliary Fire Service messenger boys.
+They died at the height of the German bombing on 13 and 14 March 1941.
+The boys were among 90 youngsters who cycled or ran with potentially lifesaving messages for front-line fire crews during the war.
+The lord provost laid the wreath in honour of all the messenger boys who died at a Celtic Cross which was erected at the grave of 15-year-old Neil Leitch.
+He died from bomb injuries sustained while trying to take a communication to Partick Fire Station.
+The teenager had been injured during an earlier mission when he was blown off his bicycle by a bomb.
+He defied orders to rest and continued with his duties until he was fatally injured.
+The lord provost said: "I am proud to join others to remember the remarkable, and little known, bravery of Neil Leitch and all the other Fire Service volunteer boy cyclists across the country, who put their lives on the line to save others during the Second World War.
+"Sadly Neil Leitch along with four others paid the ultimate price that terrible night as our city and its citizens were relentlessly bombed."
+Following his death, Neil Leitch was gazetted by King George VI for his bravery and devotion to duty.
+His nephew James Leitch, a former Clydebank fireman who now lives in Orkney, attended the service along with family from across the UK.
+James said: "I grew up hearing about my uncle Neil and this is something we have always wanted to do.
+"These boys were forgotten. To me they deserve recognition. It will be an emotional day."
+The lord provost was joined by George McGrandles, of the Scottish Fire and Rescue Service, the city's senior fire officer.
+He formed part of a Fire and Rescue Service Guard of Honour in tribute to the youngsters.
+"The role of the boy messengers isn't widely known but it was absolutely vital," he said.
+"They took on an incredibly dangerous role to ensure fire crews could get to where they were needed even when bombs destroyed communications channels.
+"It took incredible courage and, in trying to save others, these five youngsters ultimately lost their lives."
+----------------------------------------
+Article text: It will be an emotional day."
+The lord provost was joined by George McGrandles, of the Scottish Fire and Rescue Service, the city's senior fire officer.
+He formed part of a Fire and Rescue Service Guard of Honour in tribute to the youngsters.
+"The role of the boy messengers isn't widely known but it was absolutely vital," he said.
+"They took on an incredibly dangerous role to ensure fire crews could get to where they were needed even when bombs destroyed communications channels.
+"It took incredible courage and, in trying to save others, these five youngsters ultimately lost their lives."
+----------------------------------------
+Ground truth Summary: A service has been held in Glasgow to honour young messenger boys who died in air raids during Word War Two.
+----------------------------------------
+Generated Summary: A ceremony has been held to mark the 70th anniversary of the deaths of five Glasgow boy messengers killed in the First World War.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:A US law prevents the government from selling arms to countries which fail to tackle human rights abuses.
+Mr Buhari met President Barack Obama in Washington on Monday to seek further assistance.
+Boko Haram has killed some 10,000 people since 2009 and has also kidnapped hundreds of girls and women.
+Last month, human rights group Amnesty International said that some 8,000 men and boys had died in Nigerian military custody after being detained as suspected militants.
+The military rejected this allegation, Nigeria's president promised an investigation but there have been no further details.
+The US has previously promised some $5m (Â£3.2m) in military assistance to the regional coalition helping to fight Boko Haram, which has pledged allegiance to Islamic State.
+However, Mr Buhari heavily criticised the US, especially the Leahy Law, which links military sales to human rights.
+The Nigerian military did "not possess the appropriate weapons and technology which we could have had if the so-called human rights violations had not been an obstacle," he told the United States Institute of Peace on Wednesday.
+"Unwittingly, and I dare say unintentionally, the application of the Leahy Law Amendment by the United States government has aided and abetted the Boko Haram terrorists."
+In the latest suspected Boko Haram attack, at least 29 people were killed in bomb blasts at two bus stations in the north-eastern city of Gombe on Wednesday.
+At least 11 people were earlier killed in the Cameroonian town of Maroua, just over the border from Gombe.
+Boko Haram last year seized a huge area of north-eastern Nigeria, before being beaten back by a regional coalition, including Cameroon, Chad and Niger.
+Mr Buhari was elected in March, partly on a pledge to defeat Boko Haram.
+Why Boko Haram remains a threat
+Who are Boko Haram?
+----------------------------------------
+Article text: A US law prevents the government from selling arms to countries which fail to tackle human rights abuses.
+Mr Buhari met President Barack Obama in Washington on Monday to seek further assistance.
+Boko Haram has killed some 10,000 people since 2009 and has also kidnapped hundreds of girls and women.
+Last month, human rights group Amnesty International said that some 8,000 men and boys had died in Nigerian military custody after being detained as suspected militants.
+The military rejected this allegation, Nigeria's president promised an investigation but there have been no further details.
+The US has previously promised some $5m (Â£3.2m) in military assistance to the regional coalition helping to fight Boko Haram, which has pledged allegiance to Islamic State.
+However, Mr Buhari heavily criticised the US, especially the Leahy Law, which links military sales to human rights.
+The Nigerian military did "not possess the appropriate weapons and technology which we could have had if the so-called human rights violations had not been an obstacle," he told the United States Institute of Peace on Wednesday.
+"Unwittingly, and I dare say unintentionally, the application of the Leahy Law Amendment by the United States government has aided and abetted the Boko Haram terrorists."
+In the latest suspected Boko Haram attack, at least 29 people were killed in bomb blasts at two bus stations in the north-eastern city of Gombe on Wednesday.
+At least 11 people were earlier killed in the Cameroonian town of Maroua, just over the border from Gombe.
+Boko Haram last year seized a huge area of north-eastern Nigeria, before being beaten back by a regional coalition, including Cameroon, Chad and Niger.
+Mr Buhari was elected in March, partly on a pledge to defeat Boko Haram.
+Why Boko Haram remains a threat
+Who are Boko Haram?
+----------------------------------------
+Ground truth Summary: The US has "aided and abetted" the Boko Haram Islamist militant group by refusing to provide weapons to Nigeria, President Muhammadu Buhari says.
+----------------------------------------
+Generated Summary: Nigeria's President Muhammadu Buhari has accused the US government of "aiding and abetting" Boko Haram militants.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:BBC Worldwide is expected to confirm the find at a press screening in London later this week.
+It follows weeks of speculation that some lost episodes had been located.
+A total of 106 episodes featuring the first two actors to play the Doctor, William Hartnell and Patrick Troughton, are currently missing.
+The BBC destroyed many of the sci-fi drama's original transmission tapes in the 1960s and 1970s.
+However, the majority of the episodes had been transferred on to film for foreign broadcasters. It is often these prints found in other countries that are the source of retrieved episodes.
+In 1991, all four instalments of the Patrick Troughton adventure The Tomb of the Cybermen were discovered in Hong Kong.
+The latest find comes as Doctor Who celebrates its 50th birthday. A special episode featuring the current Doctor Matt Smith and his predecessor David Tennant will be shown on the programme's anniversary on 23 November.
+A raft of other programming to celebrate the long-running drama was also recently announced by the BBC.
+Details of how fans will be able to watch the recovered episodes are also expected to be revealed later this week.
+----------------------------------------
+Article text: BBC Worldwide is expected to confirm the find at a press screening in London later this week.
+It follows weeks of speculation that some lost episodes had been located.
+A total of 106 episodes featuring the first two actors to play the Doctor, William Hartnell and Patrick Troughton, are currently missing.
+The BBC destroyed many of the sci-fi drama's original transmission tapes in the 1960s and 1970s.
+However, the majority of the episodes had been transferred on to film for foreign broadcasters
+----------------------------------------
+Ground truth Summary: A number of early episodes of Doctor Who, which were believed to have been permanently lost, have been returned to the BBC.
+----------------------------------------
+Generated Summary: The BBC has found some of the lost episodes of Doctor Who, it has been reported.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Crowd favourite Molinari and England's Willett began the day level on 16 under par, but the Italian hit a round of 65 to edge home in a thrilling finale.
+Spain's Nacho Elvira finished four shots back on 18 under par, tied for third with England's Chris Paisley.
+Fellow Englishmen David Horsey, Richard Bland tied for fifth on 15 under.
+Tommy Fleetwood and Scotland's Scott Jamieson were among five players tied for seventh.
+Molinari, 33, hit one eagle and five birdies in Sunday's final round to become the first Italian to win his national Open twice since the event became part of the European Tour in 1972.
+The victory was the Italian's fourth at a European Tour event and a first since the Reale Seguros Open de Espana in 2012.
+Seven of the European Ryder Cup team, which includes Willett, were competing in Monza as they prepare to take on the United States at Hazeltine in Minnesota from 30 September to 2 October.
+We've launched a new BBC Sport newsletter, bringing all the best stories, features and video right to your inbox. You can sign up here.
+----------------------------------------
+Article text: Crowd favourite Molinari and England's Willett began the day level on 16 under par, but the Italian hit a round of 65 to edge home in a thrilling finale.
+Spain's Nacho Elvira finished four shots back on 18 under par, tied for third with England's Chris Paisley.
+Fellow Englishmen David Horsey, Richard Bland tied for fifth on 15 under.
+Tommy Fleetwood and Scotland's Scott Jamieson were among five players tied for seventh.
+Molinari, 33, hit one eagle and five birdies in Sunday's final round to become the first Italian to win his national Open twice since the event became part of the European Tour in 1972.
+The victory was the Italian's fourth at a European Tour event and a first since the Reale Seguros Open de Espana in 2012.
+Seven of the European Ryder Cup team, which includes Willett, were competing in Monza as they prepare to take on the United States at Hazeltine in Minnesota from 30 September to 2 October.
+We've launched a new BBC Sport newsletter, bringing all the best stories, features and video right to your inbox. You can sign up here.
+----------------------------------------
+Ground truth Summary: Francesco Molinari carded a six-under-par final round to beat Masters champion Danny Willett to the Italian Open title by a single shot in Monza.
+----------------------------------------
+Generated Summary: Italy's Francesco Molinari won the Italian Open for the second time in three years with a one-shot victory over Ryder Cup team-mate Danny Willett.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

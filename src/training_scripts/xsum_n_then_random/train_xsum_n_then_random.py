@@ -13,6 +13,7 @@ from logger import log_metrics
 from torch.utils.checkpoint import checkpoint_sequential
 import numpy as np
 
+#dataset that takes the first sentences based on the number of sentences specified in first_selection and then a random point in the article
 class XSumDatasetNRandom(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -28,6 +29,7 @@ class XSumDatasetNRandom(torch.utils.data.Dataset):
         text = self.dataset[idx]['document']
         text = text.split('.')
         
+        #max idx cannot be more than the length of text must have some other input
         max_idx = max(1, len(text) - 1)
         final = text[:self.first_selection]
         if self.first_selection < max_idx:
@@ -38,14 +40,6 @@ class XSumDatasetNRandom(torch.utils.data.Dataset):
         summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
 
-#create the model
-#create the model
-def create_model(model_name, max_length):
-    model = PegasusForConditionalGeneration.from_pretrained(model_name)
-    model.config.max_length = max_length
-    return model
-
-#create the model
 #create the model
 def create_model(model_name, max_length):
     model = PegasusForConditionalGeneration.from_pretrained(model_name)
@@ -92,6 +86,7 @@ def training_step(data, model, metrics, step, log = False, wandb = None, args = 
         log_metrics(metrics, step, args, wandb = wandb, train = True)
         reset_metrics(metrics)
     return out['loss']
+
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None):
     with torch.no_grad():
@@ -156,6 +151,8 @@ if __name__ == '__main__':
 
     #create the model
     model = create_model(args.model_name, args.max_length)
+
+    #allows for checkpointing
     if args.checkpoint:
         checkpoint = torch.load('{name}'.format(name = args.checkpoint_path), map_location='cpu')
         new_dict = checkpoint['model_state_dict']

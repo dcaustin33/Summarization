@@ -32,18 +32,20 @@ def create_model(model_name, max_length):
     return model
 
 
+#custom bert Dataloader for CNN dataset that clusters sentences using bert embeddings
 class XSumDatasetBERT(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
         self.model = BertModel.from_pretrained('bert-base-uncased').cuda()
-        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+        self.tokenizer2 = BertTokenizer.from_pretrained('bert-base-uncased')
         self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
 
+    #gets bert embeddings and normalizes in order to compute cosine similarity
     @torch.no_grad()
     def get_bert_embeddings(self, text):
-        inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
+        inputs = self.tokenizer2(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
         inputs = {k: v.cuda() for k, v in inputs.items()}
         embeddings = self.model(**inputs)['pooler_output']
         #compute cosine similarity between embeddings
@@ -53,9 +55,10 @@ class XSumDatasetBERT(torch.utils.data.Dataset):
     def __len__(self):
         return len(self.dataset)
 
+    #clusters sentences using bert embeddings
     def __getitem__(self, idx):
         text = self.dataset[idx]['document']
-        text = text.split('.')
+        text = text.split('. ')
         text = [i.strip() for i in text]
         
         embeddings = self.get_bert_embeddings(text)
@@ -65,9 +68,13 @@ class XSumDatasetBERT(torch.utils.data.Dataset):
         chosen_embeddings[0] = embeddings[first]
         current_size = len(text[first])
 
+        #greedy algorithm to cluster sentences based on minimizing cosine similarity
         while current_size < self.max_length and len(bag_of_sentences) < len(text):
             new_cosine_sim = torch.mm(chosen_embeddings, embeddings.T)
+            #gets the cosine sim sum by setnence and then gets the bottom k
             vals, indices = torch.topk(-torch.sum(new_cosine_sim, dim = 0), k = len(text))
+
+            #goes through in order of lowest cosine similarity and adds the sentence if it doesn't exceed the max length
             for i in indices:
                 if i not in bag_of_sentences:
                     chosen_embeddings = torch.cat((chosen_embeddings, embeddings[i].unsqueeze(0)), dim = 0)
@@ -80,7 +87,7 @@ class XSumDatasetBERT(torch.utils.data.Dataset):
         final = '. '.join(final)
 
         summary_text = self.dataset[idx]['summary']
-        return {'article_text':final, 'summary_text': summary_text}
+        return {'article_text':final, 'summary_text': summary_text, 'all_text':self.dataset[idx]['document'] }
 
 
 def validation_step(data, model, metrics, steps, log = False, wandb = None, args = None, file_name = None):
@@ -98,6 +105,8 @@ def validation_step(data, model, metrics, steps, log = False, wandb = None, args
             file = open(file_name, "a")
 
             for i in range(len(model_out)):
+                file.write('All article text:' + data['all_text'][i] + '\n')
+                file.write('----------------------------------------' + '\n')
                 file.write('Article text: ' + data['article_text'][i] + '\n')
                 file.write('----------------------------------------' + '\n')
                 file.write('Ground truth Summary: ' + data['summary_text'][i] + '\n')

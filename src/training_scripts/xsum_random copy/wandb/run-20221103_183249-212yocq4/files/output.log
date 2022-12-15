@@ -1,6 +1,0 @@
-Now Evaluating
-Evaluating for 100 steps
-/home/da2986/anaconda3/lib/python3.9/site-packages/transformers/generation_utils.py:1296: UserWarning: Neither `max_length` nor `max_new_tokens` has been set, `max_length` will default to 128 (`self.config.max_length`). Controlling `max_length` via the config is deprecated and `max_length` will be removed from the config in v5 of Transformers -- we recommend using `max_new_tokens` to control the maximum length of the generation.
-  warnings.warn(
-In Logging <wandb.sdk.wandb_run.Run object at 0x7f7e2615a490>
-logging val 100

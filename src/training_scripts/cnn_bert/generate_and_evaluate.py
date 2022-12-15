@@ -31,18 +31,21 @@ def create_model(model_name, max_length):
     model.config.max_length = max_length
     return model
 
+#custom bert Dataloader for CNN dataset that clusters sentences using bert embeddings
 class CNNBERT(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
         self.tokenizer.max_length = max_length
         self.model = BertModel.from_pretrained('bert-base-uncased').cuda()
-        self.tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
+        self.tokenizer2 = BertTokenizer.from_pretrained('bert-base-uncased')
         self.dataset = load_dataset('cnn_dailymail', '3.0.0', split = split)
         self.max_length = max_length
 
+
+    #gets bert embeddings and normalizes in order to compute cosine similarity
     @torch.no_grad()
     def get_bert_embeddings(self, text):
-        inputs = self.tokenizer(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
+        inputs = self.tokenizer2(text, return_tensors="pt", padding=True, truncation=True, max_length=512)
         inputs = {k: v.cuda() for k, v in inputs.items()}
         embeddings = self.model(**inputs)['pooler_output']
         #compute cosine similarity between embeddings
@@ -54,16 +57,19 @@ class CNNBERT(torch.utils.data.Dataset):
 
     def __getitem__(self, idx):
         text = self.dataset[idx]['article']
-        text = text.split('.')
+        text = text.split('. ')
         text = [i.strip() for i in text]
         
         embeddings = self.get_bert_embeddings(text)
+
+        #randomly choose first sentence
         first = np.random.choice(len(text), 1, replace=False)[0]
         chosen_embeddings = torch.empty((1, 768)).cuda()
         bag_of_sentences = [first]
         chosen_embeddings[0] = embeddings[first]
         current_size = len(text[first])
 
+        #greedily choose sentences that minimizes the cosine similarity between the chosen sentences
         while current_size < self.max_length and len(bag_of_sentences) < len(text):
             new_cosine_sim = torch.mm(chosen_embeddings, embeddings.T)
             vals, indices = torch.topk(-torch.sum(new_cosine_sim, dim = 0), k = len(text))
@@ -73,13 +79,15 @@ class CNNBERT(torch.utils.data.Dataset):
                     bag_of_sentences.append(i.item())
                     current_size += len(text[i])
                     break
-
+        
+        #sort in order to preserve order of sentences
         bag_of_sentences = sorted(bag_of_sentences)
         final = [text[i] for i in bag_of_sentences]
         final = '. '.join(final)
 
         summary_text = self.dataset[idx]['highlights']
         return {'article_text':final, 'summary_text': summary_text, 'all_text': self.dataset[idx]['article']}
+        
 
 def reset_metrics(metrics, val = False):
     for i in metrics:

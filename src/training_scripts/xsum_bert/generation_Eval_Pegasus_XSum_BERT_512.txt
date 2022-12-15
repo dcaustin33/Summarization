@@ -1,187 +1,700 @@
 Generations for Eval_Pegasus_XSum_BERT_512
-Article text: All-rounder Procter, 28, hit 822 runs and two centuries batting at three during 2016 and played in every County Championship game. Spin bowler Parkinson, 19, made his Red Rose debut in June against Warwickshire where he took a first innings' 5-49. "I couldn't be happier to sign a new deal. I've really enjoyed my first full season as a professional," he said. Procter added: "Playing for Lancashire is all I've ever wanted to do, so to sign a new two-year contract is fantastic. I've enjoyed the responsibility of batting at the top of the order this summer. "
-----------------------------------------
-Ground truth Summary: Lancashire pair Luke Procter and Matthew Parkinson have both signed new two-year contracts.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man who died after a new two - year - old man who died after a new deal. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire lancashire [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: It comes as a survey shows rising numbers of parents being prosecuted after their children missed school. But his defence has been that a week's absence in term-time should not be seen in isolation - and that when it was considered in the context of his daughter's overall attendance of over 92%, she could not be said to have regularly missed school. When the case came before magistrates on the Isle of Wight, they ruled that there was no case to answer, as Mr Platt's daughter had attended school regularly. Truancy prosecutions in England in 2015
-Source: PA
-When this was put to appeal, the High Court accepted that magistrates had been entitled to consider school attendance outside of the week of the term-time absence. "
-----------------------------------------
-Ground truth Summary: A father who is challenging a fine for taking his daughter on an unauthorised term-time holiday will find out from the Supreme Court whether he has won or lost his long legal battle.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with a week of the term - time in england. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] smaller a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: "Our insistence on him confirming his verbal offer of exclusivity in a legally binding agreement has forced transparency on his motives. "This exercise has proved our capacity to adapt to any acquisition scenario very quickly. We now know we have the capacity to do both a minority and majority deal, and it has shown that Leeds fans have a desire for fan ownership. "We hope that Massimo will treat the club and fans with respect and honour. "
-Cellino, who is appealing against a second Football League ban, said at the start of the week he would no longer attend matches at Elland Road. 
-----------------------------------------
-Ground truth Summary: Leeds United chairman Massimo Cellino has told Leeds Fans United he no longer wishes to sell them his majority stake in the club.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the club of the club of the club of the week of the week he will be the club. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks says says says as as as as as prizes prizes prizes prizes prizes prizes prizes prizes prizes prizes prizes as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as as that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The new line-up posed inside 10 Downing Street on Tuesday, with the PM flanked by Home Secretary Amber Rudd and Chancellor Philip Hammond. For some of the details behind the grinning faces, read the BBC's at-a-glance guide to Mrs May's cabinet. Or take a trip down memory lane below with some of her predecessors' "school photos". 
-----------------------------------------
-Ground truth Summary: This is the first official photograph of Prime Minister Theresa May's new cabinet.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the new line - up posed inside. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] extension says says says says says says says says says says says says says says says says says scotland scotland scotland scotland scotland cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup cup have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Fitzgerald was last season's player of the year as Tigers made the Premiership and Champions Cup semi-finals. Tigers head coach Aaron Mauger said: "Mike is a very good man to have around the squad. He has a great work ethic in training and on the pitch. "With the experience he has gained in the last 18 months in English rugby, we believe he will get even better in this environment. He achieved the notable feat of playing in all three front-row positions this season. O'Connor signed in the autumn of 2015, scoring a try on his debut in a European Champions Cup win over Stade Francais, and has made 29 appearances for the club. 
-----------------------------------------
-Ground truth Summary: Leicester Tigers have given new deals to Mike Fitzgerald, Greg Bateman, Brendon O'Connor and Jono Kitto.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been jailed for the first time in the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] smaller scotland scotland scotland scotland a a a a a a a a a a a a a a a a a a a a o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o o [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: In Malaysia and Singapore, people are advised to stay indoors when the haze is bad, avoid exercise and wear N95 masks - high quality protection against particles in the air. Any reading over 300 is considered hazardous. Though people may politely receive the N95 masks they are given, they will only use them if they truly understand the long-term health impacts of inhaling fine particulates from the haze," Mr How said. "When we first arrived at the airport, we gave out masks to the porters too. Now back in Singapore, Jonathan How and the team are currently exploring new ideas on how to "better inform people about the negative health impact of the haze". "
-----------------------------------------
-Ground truth Summary: Every year, a haze spreads across South East Asia - at the heart is Indonesia's Central Kalimantan, where raging forest fires cause the hazardous air pollution.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in england. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a assssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Ordering full reports before she passes sentence, District Judge Fiona Bagnall said: "If those care workers had not come in goodness knows what might have happened. "The defendant was standing over her mother holding a pillow in one hand," the prosecutor said. In total the incident witnessed lasted for less than 30 seconds, the court heard. On the day of the incident Strong had drank a litre and a half of cider, but claimed to be more tired than drunk. Pointing out that immediate custody could be imposed, she warned: "Be under no illusion, I'm taking this as having a fairly sinister set of facts. "
-----------------------------------------
-Ground truth Summary: A woman who repeatedly pressed a pillow on her stroke-victim mother's face has been warned she could be jailed.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a court has been jailed for the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] has a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Ms Palmer-Tomkinson, 44, told the Daily Mail: "I got terribly frightened. I started thinking, 'I'm going to die. I've been with people who have malignant brain tumours so I don't want to be like, 'Hey look at me'. "I have been - touch wood - luckier. A prolactinoma is normally a benign, slow-growing tumour in the pituitary gland, but its effect on the secretion of the hormone prolactin can cause infertility. Ms Palmer-Tomkinson was also diagnosed with an auto-immune condition, which causes tiredness, joint pain and acute anaemia. . 
-----------------------------------------
-Ground truth Summary: Socialite Tara Palmer-Tomkinson has revealed that she feared she was going to die when she learned she had a brain tumour.
-----------------------------------------
-Generated Summary: [PAD] [CLS] appeal - palmer - tomkinson has been jailed for the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks..... as as as as as as as as................................................................................................................................................................................................. of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of of [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Owen and Karl Oyston, owner and chairman of the club, were in dispute with businessman Valeri Belokon. He invested £4. A forensic accountant will work out the exact figure the Oystons have to pay at a later date, the hearing was told. The row also centred on the deduction of legitimate expenditure, including a loss-making Blackpool hotel, from what Mr Belokon believed he was owed under the commercial agreement. The three men involved were not present in court. Mr Belokon bought shares in the club in 2006 and was heavily involved in their rise through the ranks culminated in promotion to the Premier League in 2010. 
-----------------------------------------
-Ground truth Summary: The owners of Blackpool FC have lost a multi-million pound court battle with a Latvian investor.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion in the club. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks o bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel bel [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: "Mae'r clwb seiclo lleol - sy'n 65 oed eleni - yn ffynnu. Mae tua 150 o aelodau sy'n oedolion ac mae 'na adran iau newydd sy'n cynnwys rhwng 40 a 50 o aelodau. "Mae gennym ni lefydd i ymarfer oddi ar y ffyrdd gyda'r plant iau ond mae rhai yn gorfod mynd lawr i Gaerfyrddin er mwyn cael trac pwrpasol ar gyfer ymarfer pellach. "
-Mae galwadau ers blynyddoedd gan seiclwyr yn Aberystwyth, ac yn y canolbarth yn ehangach, i sefydlu felodrom yn yr ardal. Pe bai hynny'n digwydd fe fydd gan drefnwyr yr ŵyl seiclo yn Aberystwyth reswm arall i ddathlu. 
-----------------------------------------
-Ground truth Summary: Mae Gŵyl Seiclo Aberystwyth wedi tyfu i fod yn ddigwyddiad pwysig sy'n cyfrannu cannoedd o filoedd o bunnoedd i'r economi leol.
-----------------------------------------
-Generated Summary: [PAD] [CLS] mae'r clwb seiclo lleol - sy'n oedolion ac mae'na adran iau newydd sy'n cynnwydd. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] used smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller smaller o o o o o o o o o o o o o o o o o o morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgan morgangedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedgedged [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Fortunately for the Black Cats, he has managed 16 in 30 games this season and they had success as they repeatedly tested the Norwich defence against the 32-year-old striker's pace with long balls forward. "
-Media playback is not supported on this device
-Sunderland manager Sam Allardyce: "The position we've left ourselves in was making me feel a bit edgy this morning. Attempt missed. Wes Hoolahan (Norwich City) left footed shot from long range on the right misses to the left. Offside, Norwich City. Attempt saved. Jan Kirchhoff tries a through ball, but Patrick van Aanholt is caught offside. Yann M'Vila tries a through ball, but Jermain Defoe is caught offside. Attempt saved
-----------------------------------------
-Ground truth Summary: Sunderland climbed to within a point of safety by beating relegation rivals Norwich at Carrow Road.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the top of the first time in the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich norwich was was was was was was was was was was was was was was was was was was was was was was was was in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in in [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: ???People are increasingly living in the wrong places, and it's likely that extreme events will be more common," Prof Mace says. The authors say cutting greenhouse gas emissions is essential. They suggest threats could be tackled through a dual approach. Other low-cost options are planting new trees, encouraging green roofs, or painting roofs white to reflect the sun. They say: ???Unless risks are accurately evaluated and reported, companies will have limited incentives to reduce them. And valuations and investment decisions will continue to be poorly informed. 
-----------------------------------------
-Ground truth Summary: Climate change and population growth will hugely increase the risk to people from extreme weather, a report says.
-----------------------------------------
-Generated Summary: [PAD] [CLS] they have been arrested on suspicion of the first time in the first time of the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a a a a a a a a a a a a a a a they they they they they they they they they they they they they they they they have have have have have have have have have have that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: But Carwyn Jones said it was a joke and that Plaid had not acted maturely and "people say things in the chamber". Meanwhile, doctors and nursing unions have called on political parties "not to play games with the health of the nation". Mr Jones told S4C's Newyddion 9: "People say things and if they had their time again they would say things differently. He had made arrangements to cancel his assembly vote. A Plaid Cymru spokeswoman said: "Dafydd Elis-Thomas had asked to be paired so that he could be in the House of Lords. "
-----------------------------------------
-Ground truth Summary: Leighton Andrews would not repeat a jibe about a "cheap date" if he had another opportunity, the first minister has said.
-----------------------------------------
-Generated Summary: [PAD] [CLS] plaid cymru spokeswoman has said it was a joke in the health of the health of the health's newyddion. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] convicted health health health health health health health convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted convicted [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The UK topped the table when the EIU last carried out this exercise in 2010. So for the UK to again lead the pack, including all other wealthy nations, is significant. The Health Ombudsman in England recently highlighted cases where people were badly let down and experienced death without dignity. So to score more highly than Australia and New Zealand, as well as Germany, France and the US is highly commendable. Affordability of care, with a taxpayer funded health service, is predictably a lot more bearable for British patients than in other economies. 
-----------------------------------------
-Ground truth Summary: Celebration is probably the wrong word even though the UK tops an important international league table for one aspect of health care.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a us - year - old man has been charged with the uk in england. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a a a a a a a a health health health health health health health us us us us us us us us us us us us us us us us for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for for [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Annie Besala Ekofo, 53, and Bervil Kalikaka-Ekofo, 21, were found dead in East Finchley on Thursday. A 20-year-old man held on Saturday has been released on bail until October. Scotland Yard also revealed Mr Kalikaka-Ekofo had died from a gunshot wound to the head. A post-mortem examination on Ms Besala is yet to take place. Detectives earlier launched a fresh appeal for witnesses. They said there was no evidence to suggest the pair were the intended victims but would be exploring whether anyone else linked to their address could have been a potential target. 
-----------------------------------------
-Ground truth Summary: Police probing the fatal shooting of a mother-of-nine and her nephew at their north London flat have arrested two men.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the world's - year - old man held on saturday. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding outstanding scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: As well as minor public order offences, 10 of the arrests concerned alleged sectarian breaches of the peace. Eleven men are expected to appear at Glasgow Sheriff Court on Monday; five others are subject of a report to the procurator fiscal; three were issued with a fixed penalty notice. Police said the behaviour of most fans at the game was "excellent". "However, again, it is the minority of fans who spoiled the occasion by for example setting off flares and singing sectarian songs. "We dealt with any incidents swiftly and with minimum disruption. "
-----------------------------------------
-Ground truth Summary: Police have said 19 men were arrested for offences connected with the Celtic-Rangers football match in Glasgow.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in a two - year deal. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a a [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: A total of 106 episodes featuring the first two actors to play the Doctor, William Hartnell and Patrick Troughton, are currently missing. It is often these prints found in other countries that are the source of retrieved episodes. In 1991, all four instalments of the Patrick Troughton adventure The Tomb of the Cybermen were discovered in Hong Kong. A special episode featuring the current Doctor Matt Smith and his predecessor David Tennant will be shown on the programme's anniversary on 23 November. Details of how fans will be able to watch the recovered episodes are also expected to be revealed later this week. 
-----------------------------------------
-Ground truth Summary: A number of early episodes of Doctor Who, which were believed to have been permanently lost, have been returned to the BBC.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the world's super league one - year - old boy in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a a a a a a a a a a a a a a a a a have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have have [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: There has been plenty of EFL activity in the transfer window so far this summer and expect plenty more moves before deadline day arrives on 31 August. With the new season starting on Friday, how well do you know your EFL transfers? Try your luck with our quiz. . . This content will not work on your device, please check Javascript and cookies are enabled or update your browser
-----------------------------------------
-Ground truth Summary: An ex-England captain, a former Lance Bombardier in the Army and the most expensive signing in Championship history.
-----------------------------------------
-Generated Summary: [PAD] [CLS] the transfer window so far this summer and expect plenty have been arrested on friday. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] extension says as as as as as as as as as as for for for for for for for for for for for for for for for for for for for for has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has has [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Sgt Elor Azaria, 20, shot Abdul Fatah al-Sharif, 21, in the head while he was lying immobile on a road. A soldier, identified as Sgt Azaria, is then seen cocking his rifle and fatally shooting Sharif from several metres away. The judges also said there was no dispute regarding the veracity of the statements made by another soldier, who testified to military investigators that Sgt Azaria had told him during the incident: "They stabbed my friend and tried to kill him - he deserves to die. The soldier's mother, Oshra, shouted at the judges: "You should be ashamed of yourselves. 
-----------------------------------------
-Ground truth Summary: An Israeli soldier filmed shooting dead a wounded Palestinian attacker after he had been disarmed of a knife has been convicted of manslaughter.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been jailed for a man who died after a man who was no dispute regarding. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a a a a a a a a sgt sgt sgt sgt into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into sgt into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into into [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: 2%, compared with British growth of 2. The first quarter saw the volume of sales in Scotland fall by 0. 5% between January and March. "Indeed, shop prices have fallen each month for the past four years which demonstrates that retailers are having to work ever harder to maintain let alone grow sales values. "
-Euan Murray, from Barclays Corporate Banking, said: "Increased supply chain costs and issues could go some way to explaining the falling figures in this quarter - from the bad weather in Spain affecting food imports to the weak value of sterling, you don't have to look far for a reason. "
-----------------------------------------
-Ground truth Summary: Retail sales in Scotland have grown much more slowly over the past year than in Great Britain as a whole, according to new figures.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been jailed for the first time in the uk's quarter. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] weeks a a a a a a a a a a scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland scotland [unused0]
+All article text:In a statement, President Trump said visas would once again be issued once "the most secure policies" were in place, and denied it was a Muslim ban.
+The move has been widely condemned.
+Sixteen state attorneys general have said the order is unconstitutional. Several federal judges have temporarily halted the deportation of visa holders.
+Live: Protests over ban
+Mr Trump's executive order, signed on Friday, halted the entire US refugee programme for 120 days, indefinitely banned Syrian refugees, and suspended all nationals from seven Muslim-majority countries.
+Those who were already mid-flight were detained on arrival - even if they held valid US visas or other immigration permits. It is not known how many others were turned away at airports overseas as they tried to board flights to the US.
+Thousands gathered at airports around the country to protest on Saturday, including lawyers who offered their services for free to those affected.
+Further demonstrations were held on Sunday, including protests outside the White House and Trump Tower in New York.
+As well as the ban on all refugees, travellers who have nationality or dual nationality of Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen are not permitted to enter the US for 90 days, or be issued an immigrant or non-immigrant visa.
+This includes those who share dual nationality with allied countries, including the UK, although Canada has been told its dual nationals are not affected.
+But there remains much confusion.
+The UK foreign office put out a statement saying that only those dual nationals travelling from one of the blacklisted seven countries would be subject to extra checks - those travelling between the UK and US would not be affected.
+However, one Scottish veterinary student - who travels on an Iranian passport - was unable to fly home from her holiday in Costa Rica because she was told her transit visa for the US was no longer valid.
+White House Chief of Staff Reince Priebus said US green-card holders - legal residents - would also not be affected, but some have been detained since the order came into effect.
+Mr Trump tweeted early on Sunday that the US needed "extreme vetting, NOW" but later, in a statement, tried to offer more reassuring words, saying: "This is not about religion - this is about terror and keeping our country safe.
+"We will again be issuing visas to all countries once we are sure we have reviewed and implemented the most secure policies over the next 90 days," he said.
+Mr Priebus rejected criticism that the implementation of the order had been chaotic, and said only 109 people, out of 325,000 travelling, had been detained and "most of those people were moved out".
+"We've got a couple of dozen more that remain and I would suspect that as long as they're not awful people that they will move through before another half a day today," he told US media on Sunday.
+But they have failed to allay concern among some in their Republican party. The Republican chair of the US Senate Foreign Relations committee, Senator Bob Corker, said the executive order had been "poorly implemented", particularly for green-card holders, and the "administration should make appropriate revisions".
+Democratic Senate Minority leader Chuck Schumer said the US now appeared "less humanitarian, less safe, less American" and said the Democrats would introduce legislation to overturn it.
+Fear, uncertainty and small acts of rebellion at Dulles airport  - BBC's Jessica Lussenhop in Washington DC
+Ali worked for three years as an interpreter for the US Army and gained admittance to the US through a Special Immigrant Visa. He now has a green card, and returned to Iraq for his father's funeral, only to be delayed for hours for questioning at Dulles.
+"We are not terrorists. We are not bad people," said Ali. "It's so hard. I hope they will change their minds on this position."
+Read more here
+In a joint statement, 16 attorneys general, from states including California, New York and Pennsylvania, said they would "use all of the tools of our offices to fight this unconstitutional order" and, until it was struck down, would "work to ensure that as few people as possible suffer from the chaotic situation that it has created".
+Late on Saturday, federal Judge Ann Donnelly, in New York, ruled against the removal from the US of people with approved refugee applications, valid visas, and "other individuals... legally authorised to enter the United States".
+She was ruling on a case brought on behalf of two Iraqi men with links to the US military who were detained at JFK Airport in New York, who were later released.
+Elsewhere in the US:
+The Department of Homeland Security has said it will continue to enforce the measures.
+History will judge the long-term impact of Mr Trump's Friday afternoon immigration order, but his early praise for its implementation will not easily be forgotten.
+"It's working out very nicely," he said in a brief response to a question on Saturday afternoon. On the ground at major US airports, things weren't going quite so nicely, however.
+Read more on this from Anthony
+Criticism of Mr Trump's decision has been growing louder outside the US.
+Canada is offering temporary residence to those stranded there because of the US order, the immigration minister said. Prime Minister Justin Trudeau earlier tweeted that Canada welcomed "those fleeing persecution, terror and war".
+Iran is threatening a reciprocal ban on US citizens entering the country. Similar comments came out of Iraq, with whom the US is working to drive IS out of Mosul.
+Chancellor Angela Merkel of Germany said "even the necessary, determined fight against terrorism does not justify placing people of a certain origin or belief under general suspicion".
+A spokesperson for UK PM Theresa May said she "did not agree" with the restrictions, and French independent presidential candidate Emmanuel Macron tweeted: "I stand with the people fleeing war and persecution."
+----------------------------------------
+Article text: It is not known how many others were turned away at airports overseas as they tried to board flights to the US.
+Thousands gathered at airports around the country to protest on Saturday, including lawyers who offered their services for free to those affected.
+Further demonstrations were held on Sunday, including protests outside the White House and Trump Tower in New York.
+As well as the ban on all refugees, travellers who have nationality or dual nationality of Iran, Iraq, Libya, Somalia, Sudan, Syria and Yemen are not permitted to enter the US for 90 days, or be issued an immigrant or non-immigrant visa.
+This includes those who share dual nationality with allied countries, including the UK, although Canada has been told its dual nationals are not affected.
+But there remains much confusion.
+The UK foreign office put out a statement saying that only those dual nationals travelling from one of the blacklisted seven countries would be subject to extra checks - those travelling between the UK and US would not be affected.
+However, one Scottish veterinary student - who travels on an Iranian passport - was unable to fly home from her holiday in Costa Rica because she was told her transit visa for the US was no longer valid.
+White House Chief of Staff Reince Priebus said US green-card holders - legal residents - would also not be affected, but some have been detained since the order came into effect.
+Mr Trump tweeted early on Sunday that the US needed "extreme vetting, NOW" but later, in a statement, tried to offer more reassuring words, saying: "This is not about religion - this is about terror and keeping our country safe.
+"We will again be issuing visas to all countries once we are sure we have reviewed and implemented the most secure policies over the next 90 days," he said.
+Mr Priebus rejected criticism that the implementation of the order had been chaotic, and said only 109 people, out of 325,000 travelling, had been detained and "most of those people were moved out".
+"We've got a couple of dozen more that remain and I would suspect that as long as they're not awful people that they will move through before another half a day today," he told US media on Sunday.
+But they have failed to allay concern among some in their Republican party. "It's so hard. Similar comments came out of Iraq, with whom the US is working to drive IS out of Mosul.
+Chancellor Angela Merkel of Germany said "even the necessary, determined fight against terrorism does not justify placing people of a certain origin or belief under general suspicion".
+A spokesperson for UK PM Theresa May said she "did not agree" with the restrictions, and French independent presidential candidate Emmanuel Macron tweeted: "I stand with the people fleeing war and persecution."
+----------------------------------------
+Ground truth Summary: The Trump administration is standing firm over its ban on immigration from seven countries despite court rulings and mass protests against it.
+----------------------------------------
+Generated Summary: US President Donald Trump has signed an executive order temporarily banning refugees from seven Muslim-majority countries from entering the US.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Their study, published in the journal JAMA Internal Medicine, argued elderly people had the least to gain.
+The team at University College London (UCL) has called on doctors to discuss the risks more clearly with patients.
+The charity Diabetes UK said doctors needed to strike a careful balance when prescribing treatment.
+Type-2 diabetes is an inability to control blood sugar levels and is linked to lifestyle factors including diet and obesity.
+In the long-term it is linked to heart disease, kidney damage, nerve damage and even blindness.
+Drugs such as metformin can be used to lower blood sugar levels to prevent the side effects.
+The report, which was carried out by the University of Michigan as well as UCL, said an average 45-year-old who dropped their blood sugar levels by one percentage point would gain 10 months of healthy life, compared with three weeks for a 75-year-old starting treatment.
+It added this needed to be balanced against the down-sides to a lifetime of medication including: Having to have multiple injections and blood sugar tests each day, drugs causing indigestion or sickness, or insulin treatments risking blood sugar levels dropping dangerously low (hypoglycaemia).
+One of the report's authors, Prof John Yudkin, told the BBC: "What it means is if you're someone with type-2, it's your right to know what the benefits of the treatment are in terms of gain in life expectancy or reduction in heart attacks or going blind.
+"And then you are entitled to decide, but not many doctors have got those figures to hand."
+He said GPs were too "target focussed" and were often looking only at the blood sugar level.
+The findings do not apply to people with type-1 diabetes.
+Commenting on the report, Simon O'Neill, the director for health intelligence at Diabetes UK, said: "Sometimes there is a balance to be struck where certain medications might help give someone a longer life, but also cause side effects that might negatively impact on quality of life.
+"This study highlights the importance of looking at the individual needs of the person with type-2 diabetes, rather than adopting a blanket approach."
+Patients are advised not to make any decisions without consulting their GP.
+The National Institute for Health and Care Excellence, which advises the NHS on medication, said: "The current NICE guidance on the management of type-2 diabetes recognises that glycaemic [sugar] control targets should not impair a person's quality of life as a result of the side effects of treatment.
+"Where medication does not help achieve this target level, lifestyle therapies such as dietary advice should be offered."
+Refreshed guidelines are due to be published next summer.
+----------------------------------------
+Article text: Their study, published in the journal JAMA Internal Medicine, argued elderly people had the least to gain.
+The team at University College London (UCL) has called on doctors to discuss the risks more clearly with patients.
+The charity Diabetes UK said doctors needed to strike a careful balance when prescribing treatment.
+Type-2 diabetes is an inability to control blood sugar levels and is linked to lifestyle factors including diet and obesity.
+In the long-term it is linked to heart disease, kidney damage, nerve damage and even blindness.
+Drugs such as metformin can be used to lower blood sugar levels to prevent the side effects.
+The report, which was carried out by the University of Michigan as well as UCL, said an average 45-year-old who dropped their blood sugar levels by one percentage point would gain 10 months of healthy life, compared with three weeks for a 75-year-old starting treatment.
+It added this needed to be balanced against the down-sides to a lifetime of medication including: Having to have multiple injections and blood sugar tests each day, drugs causing indigestion or sickness, or insulin treatments risking blood sugar levels dropping dangerously low (hypoglycaemia).
+One of the report's authors, Prof John Yudkin, told the BBC: "What it means is if you're someone with type-2, it's your right to know what the benefits of the treatment are in terms of gain in life expectancy or reduction in heart attacks or going blind.
+"And then you are entitled to decide, but not many doctors have got those figures to hand."
+He said GPs were too "target focussed" and were often looking only at the blood sugar level.
+The findings do not apply to people with type-1 diabetes.
+Commenting on the report, Simon O'Neill, the director for health intelligence at Diabetes UK, said: "Sometimes there is a balance to be struck where certain medications might help give someone a longer life, but also cause side effects that might negatively impact on quality of life.
+"This study highlights the importance of looking at the individual needs of the person with type-2 diabetes, rather than adopting a blanket approach."
+Patients are advised not to make any decisions without consulting their GP.
+The National Institute for Health and Care Excellence, which advises the NHS on medication, said: "The current NICE guidance on the management of type-2 diabetes recognises that glycaemic [sugar] control targets should not impair a person's quality of life as a result of the side effects of treatment.
+"Where medication does not help achieve this target level, lifestyle therapies such as dietary advice should be offered."
+Refreshed guidelines are due to be published next summer.
+----------------------------------------
+Ground truth Summary: The downsides of taking medication for type-2 diabetes may exceed the benefits for some patients, researchers have advised.
+----------------------------------------
+Generated Summary: People with type-2 diabetes should not be prescribed drugs to lower their blood sugar levels, say researchers.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:He joined ITV's breakfast show when it launched as a sports reporter and presenter and went on to present Good Morning Britain on Saturdays.
+He became anchorman of Good Morning Britain in 1987 and presented Yorkshire TV's news magazine programme Calendar until 2002
+ITV's Daybreak presenter and former colleague Lorraine Kelly said he will be "very, very, very sadly missed".
+"Mike was a delightful man, he was such a generous presenter - he really was brilliant," she said.
+"The good thing about him was he didn't make a big fuss or a song and dance, he made it look easy. And I think in some ways he was under-rated because of that."
+She added that her many memories of him were of "mostly just laughing".
+Morris was born in Harrow, north-west London, in June 1947 and started his journalistic career with the Surrey Comet in 1969.
+He worked for the Reuters news agency, United Newspapers and Thames TV, editing and reporting on both news and sport stories.
+After joining TV-am in 1983 as a sports presenter, he quickly moved up the ranks - first hosting the Saturday edition of Good Morning Britain before graduating to the main daily show in 1987.
+He interviewed Nelson Mandela eight days after his release from jail in South Africa and presented the programme the morning after the Lockerbie bombing.
+His TV-am co-host Anne Diamond said: "I presented many, many memorable breakfast television programmes with Mike and I'd just like to say, as a way of tribute, what a lovely, lovely man he was.
+"He was incredibly popular, I think, because he was just like the guy next door.
+"It was completely sincere image he had of just being the ordinary bloke next door, who asked the ordinary bloke-type questions.
+"That endeared him to a great many people. It certainly did to me.
+"He was always a gentleman, he was always generous. He was very, very funny. A real family man and I must say I'm terribly sad to hear he has died."
+As the presenter with last words on the final TV-am show in December 1992, Morris joked that he was "off to be a passport photographer after turning off the studio lights".
+Writing on behalf of TV-am, journalist Ian White said Morris was "no ordinary journalist" who was "popular with viewers".
+"He had the common touch and the ability to pull off every type of interview, often under incredible pressure.
+"TV-am's success was partly down to its presenters and in the last five years Mike helped lead that team on and off the air. He will be greatly missed by family, friends and colleagues," he said.
+Morris is survived by his daughters Sarah and Helen.
+----------------------------------------
+Article text: And I think in some ways he was under-rated because of that."
+She added that her many memories of him were of "mostly just laughing".
+Morris was born in Harrow, north-west London, in June 1947 and started his journalistic career with the Surrey Comet in 1969.
+He worked for the Reuters news agency, United Newspapers and Thames TV, editing and reporting on both news and sport stories.
+After joining TV-am in 1983 as a sports presenter, he quickly moved up the ranks - first hosting the Saturday edition of Good Morning Britain before graduating to the main daily show in 1987.
+He interviewed Nelson Mandela eight days after his release from jail in South Africa and presented the programme the morning after the Lockerbie bombing.
+His TV-am co-host Anne Diamond said: "I presented many, many memorable breakfast television programmes with Mike and I'd just like to say, as a way of tribute, what a lovely, lovely man he was.
+"He was incredibly popular, I think, because he was just like the guy next door.
+"It was completely sincere image he had of just being the ordinary bloke next door, who asked the ordinary bloke-type questions.
+"That endeared him to a great many people. It certainly did to me.
+"He was always a gentleman, he was always generous
+----------------------------------------
+Ground truth Summary: Former TV-am presenter Mike Morris has died aged 65.
+----------------------------------------
+Generated Summary: Tributes have been paid to TV-am presenter Mike Morris, who has died at the age of 69.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Aspas scored from the penalty spot on the hour to put Celta 2-1 up after Raul Albentosa had cancelled out Hugo Mallo's opener.
+Fabian Orellana added a third for Celta in the 78th minute before Aspas, 29, sealed the win seven minutes from time.
+Aspas scored once in 15 appearances for Liverpool in the 2013-14 season.
+Liverpool signed Aspas from Celta for £7m in June 2013 but he struggled to make an impact and was sold to Sevilla.
+He rejoined Celta for a second spell in June 2015 and scored 14 goals in 35 appearances in La Liga last season.
+Match ends, Celta de Vigo 4, Deportivo de La Coruña 1.
+Second Half ends, Celta de Vigo 4, Deportivo de La Coruña 1.
+Attempt missed. Pedro Mosquera (Deportivo de La Coruña) header from very close range is too high. Assisted by Celso Borges following a corner.
+Attempt missed. Celso Borges (Deportivo de La Coruña) header from the centre of the box misses to the left. Assisted by Faycal Fajr with a cross following a corner.
+Corner,  Deportivo de La Coruña. Conceded by Pablo Hernández.
+Attempt blocked. Florin Andone (Deportivo de La Coruña) right footed shot from a difficult angle on the right is blocked. Assisted by Carles Gil.
+Nemanja Radoja (Celta de Vigo) wins a free kick in the defensive half.
+Foul by Marlos Moreno (Deportivo de La Coruña).
+Substitution, Celta de Vigo. Pione Sisto replaces Orellana.
+Cabral (Celta de Vigo) wins a free kick in the defensive half.
+Foul by Florin Andone (Deportivo de La Coruña).
+Substitution, Celta de Vigo. Giuseppe Rossi replaces Iago Aspas.
+Foul by Cabral (Celta de Vigo).
+Florin Andone (Deportivo de La Coruña) wins a free kick in the attacking half.
+Corner,  Deportivo de La Coruña. Conceded by Facundo Roncaglia.
+Goal!  Celta de Vigo 4, Deportivo de La Coruña 1. Iago Aspas (Celta de Vigo) left footed shot from the left side of the box to the bottom left corner. Assisted by Sergio Álvarez.
+Offside, Celta de Vigo. Pablo Hernández tries a through ball, but Iago Aspas is caught offside.
+Nemanja Radoja (Celta de Vigo) wins a free kick on the left wing.
+Foul by Carles Gil (Deportivo de La Coruña).
+Substitution, Deportivo de La Coruña. Celso Borges replaces Guilherme.
+Goal!  Celta de Vigo 3, Deportivo de La Coruña 1. Orellana (Celta de Vigo) header from the centre of the box to the bottom left corner. Assisted by Jonny with a cross.
+Attempt saved. Orellana (Celta de Vigo) right footed shot from outside the box is saved in the centre of the goal.
+Pedro Mosquera (Deportivo de La Coruña) is shown the yellow card for a bad foul.
+Orellana (Celta de Vigo) wins a free kick in the attacking half.
+Foul by Pedro Mosquera (Deportivo de La Coruña).
+Substitution, Celta de Vigo. Marcelo Díaz replaces Theo Bongonda.
+Substitution, Deportivo de La Coruña. Carles Gil replaces Ryan Babel.
+Delay over. They are ready to continue.
+Delay in match Hugo Mallo (Celta de Vigo) because of an injury.
+Offside, Deportivo de La Coruña. Faycal Fajr tries a through ball, but Guilherme is caught offside.
+Orellana (Celta de Vigo) is shown the yellow card.
+Foul by Orellana (Celta de Vigo).
+Fernando Navarro (Deportivo de La Coruña) wins a free kick on the left wing.
+Attempt blocked. Pedro Mosquera (Deportivo de La Coruña) left footed shot from outside the box is blocked.
+Corner,  Deportivo de La Coruña. Conceded by Sergio Álvarez.
+Pablo Hernández (Celta de Vigo) is shown the yellow card for a bad foul.
+Foul by Pablo Hernández (Celta de Vigo).
+Marlos Moreno (Deportivo de La Coruña) wins a free kick in the attacking half.
+Attempt missed. Faycal Fajr (Deportivo de La Coruña) right footed shot from outside the box is close, but misses to the left following a set piece situation.
+Attempt blocked. Guilherme (Deportivo de La Coruña) right footed shot from outside the box is blocked.
+----------------------------------------
+Article text: Aspas scored from the penalty spot on the hour to put Celta 2-1 up after Raul Albentosa had cancelled out Hugo Mallo's opener.
+Fabian Orellana added a third for Celta in the 78th minute before Aspas, 29, sealed the win seven minutes from time.
+Aspas scored once in 15 appearances for Liverpool in the 2013-14 season.
+Liverpool signed Aspas from Celta for £7m in June 2013 but he struggled to make an impact and was sold to Sevilla.
+He rejoined Celta for a second spell in June 2015 and scored 14 goals in 35 appearances in La Liga last season.
+Match ends, Celta de Vigo 4, Deportivo de La Coruña 1.
+Second Half ends, Celta de Vigo 4, Deportivo de La Coruña 1.
+Attempt missed. Faycal Fajr tries a through ball, but Guilherme is caught offside.
+Orellana (Celta de Vigo) is shown the yellow card.
+Foul by Orellana (Celta de Vigo).
+Fernando Navarro (Deportivo de La Coruña) wins a free kick on the left wing.
+Attempt blocked
+----------------------------------------
+Ground truth Summary: Former Liverpool striker Iago Aspas scored twice as Celta Vigo beat La Liga rivals Deportivo La Coruna 4-1 in the Galician derby.
+----------------------------------------
+Generated Summary: Former Liverpool striker Iago Aspas scored twice as Celta Vigo beat Deportivo La Coru ⁇ a in the Spanish Super Cup.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Jamie Frater, 43, was jailed for life in 1993 for the murder of teacher Geoffrey du Rose in Bournemouth.
+He went on the run after failing to return to prison in 2012, but later gave himself up. He also absconded from open prison in 2001.
+Members of the public are being advised not to approach Frater, who "could present a risk to the public".
+Det Supt Jez Noyce, of Dorset Police, said: "There may be various reasons why he has not complied with his release from prison licence conditions and I appeal to him directly to make contact with police at the earliest opportunity.
+"I'd like to assure members of the public that officers are making every effort to find this man as soon as possible".
+Frater was convicted stabbing Mr du Rose when the teacher chased him from the garden of his home following a robbery at a nearby shop.
+He is described as white, of medium build, 5ft 8ins tall, with short, receding, brown hair.
+----------------------------------------
+Article text: He also absconded from open prison in 2001.
+Members of the public are being advised not to approach Frater, who "could present a risk to the public".
+Det Supt Jez Noyce, of Dorset Police, said: "There may be various reasons why he has not complied with his release from prison licence conditions and I appeal to him directly to make contact with police at the earliest opportunity.
+"I'd like to assure members of the public that officers are making every effort to find this man as soon as possible".
+Frater was convicted stabbing Mr du Rose when the teacher chased him from the garden of his home following a robbery at a nearby shop.
+He is described as white, of medium build, 5ft 8ins tall, with short, receding, brown hair.
+----------------------------------------
+Ground truth Summary: A convicted murderer missing from Dorset is wanted by police after he breached his licence conditions.
+----------------------------------------
+Generated Summary: Police are searching for a convicted murderer who has absconded from prison licence conditions.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The 31-year-old, who joined the Reds in 2014, has the option to extend his stay at the West Sussex club by a further year as part of the deal.
+Harrold scored nine goals in 39 appearances last season.
+"I know what he can bring. He can handle himself physically but his touch and positional play is excellent," Crawley head coach Dermot Drummy said.
+----------------------------------------
+Article text: The 31-year-old, who joined the Reds in 2014, has the option to extend his stay at the West Sussex club by a further year as part of the deal.
+Harrold scored nine goals in 39 appearances last season.
+"I know what he can bring. He can handle himself physically but his touch and positional play is excellent," Crawley head coach Dermot Drummy said.
+----------------------------------------
+Ground truth Summary: Crawley Town striker Matt Harrold has signed a new one-year contract with the League Two club.
+----------------------------------------
+Generated Summary: Crawley Town midfielder Matt Harrold has signed a new one-year contract with the League Two club.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Lance Corporal Mapp, of the Household Cavalry, finished 0.18 seconds ahead of American Jason Storm in Igls, Austria.
+"What a feeling," said Mapp. "Delighted to win the first Para bobsleigh gold."
+Mapp lost both legs when his military vehicle ran over an explosive device in Afghanistan in 2010. He is in the GB sitting volleyball team and took part in the Invictus Games.
+He said: "Being part of the world's first ever Para bobsleigh race today was incredible. To win was something really special.
+"I hope that I have done people proud - I've had so much support from many different people.
+"Help for Heroes have been instrumental in supporting me to this point - it's been great to have their backing.
+"I love bobsleigh. I only tried it for the first time in Calgary last season so to be here in Austria, at the first ever race and win is just amazing.
+"I feel so excited about where the sport is going and for our next race in St. Moritz next week.
+"The field of athletes has been strong and there's been some tough competition. It was an amazingly close race - only three-tenths of a second between the top four finishers.
+"To think I nearly quit bobsleigh last summer to focus on my other sports. It's been a fantastic experience to be here, with such a great group of competitors. "
+Para bobsleigh and Para skeleton are being included at World Cup events for the first time this season but the International Paralympic Committee have said that the sports will not be included in a Winter Paralympics until 2022 at the earliest.
+----------------------------------------
+Article text: "Delighted to win the first Para bobsleigh gold."
+Mapp lost both legs when his military vehicle ran over an explosive device in Afghanistan in 2010. He is in the GB sitting volleyball team and took part in the Invictus Games.
+He said: "Being part of the world's first ever Para bobsleigh race today was incredible. "
+Para bobsleigh and Para skeleton are being included at World Cup events for the first time this season but the International Paralympic Committee have said that the sports will not be included in a Winter Paralympics until 2022 at the earliest.
+----------------------------------------
+Ground truth Summary: Great Britain's Corie Mapp won gold in the inaugural World Cup Para bobsleigh race.
+----------------------------------------
+Generated Summary: Great Britain's Adam Mapp has won the first ever Para bobsleigh gold medal at a World Cup event.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Contractions in the construction and production industries were balanced out by a growth in services.
+UK GDP grew by 0.4% over the same period.
+Scottish GDP per person - which takes population changes into account - was also flat during the first quarter of 2016.
+During the first three months of the year services in Scotland grew by 0.4%, while production contracted by 1.2% and construction by 1.5%.
+On an annual basis, Scotland's economy grew by 0.6%, compared with UK growth of 2%.
+The figures were compiled by Scotland's chief statistician.
+The GDP figures were released on the same day as official data showed that unemployment in Scotland fell by 18,000 between March and May.
+A leading economic forecaster described the two sets of figures as "a mixed bag" for the Scottish economy.
+Graeme Roy, director of the Fraser of Allander Institute at the University of Strathclyde, said growth had been "stagnant"  over the first three months of the year.
+"While the all-important services sectors grew, there was a sharp fall in production and construction," he said.
+"Of greatest concern was the fall in manufacturing, which was down 2.6% over the three months and 5.4% over the year. This was the sharpest fall in annual manufacturing output since the 2008/09 financial crisis.
+"On the plus side, revisions to the data paint a rosier picture of growth last year. The Scottish economy is now estimated to have grown in each and every quarter of 2015, with growth of 1.4% in 2015 up from the previous estimate of just +0.9%.
+"Despite that, Scotland continued to lag behind the UK as a whole."
+Responding to the GDP figures, the Scottish Chambers of Commerce called for "a concerted government response to Scotland's growth problems and swift clarification of the position of EU nationals working in the UK".
+Chief executive Liz Cameron said: "Scotland's growth has now been at a fraction of that of the UK as a whole for a full year and there are few signs of a major improvement in sight.
+"In the light of the EU referendum result, the Scottish and UK governments must take all steps necessary to support businesses at this time and help them to invest for the future and get our economy back on the path of growth."
+The Federation of Small Businesses said the growth figures presented a challenge.
+Scottish policy convener Andy Willox said: "These pre-referendum figures demonstrate that the Scottish economy was underperforming before the vote.
+"Business surveys and feedback suggest that some investment plans and deals have been put on hold as a consequence of recent economic and political turbulence.
+"As Number 10 and Bute House draw up plans to restore business confidence, they must think about community firms as well as the stock market.
+"They must shelve proposals that would give business owners headaches and think about local infrastructure as well as large national projects."
+In a report released last week, accountancy firm PwC downgraded its growth forecasts for Scotland's economy.
+It suggested house prices were set to fall north of the border amid an economic slowdown - but a recession would be avoided.
+----------------------------------------
+Article text: Contractions in the construction and production industries were balanced out by a growth in services.
+UK GDP grew by 0.4% over the same period.
+Scottish GDP per person - which takes population changes into account - was also flat during the first quarter of 2016.
+During the first three months of the year services in Scotland grew by 0.4%, while production contracted by 1.2% and construction by 1.5%.
+On an annual basis, Scotland's economy grew by 0.6%, compared with UK growth of 2%.
+The figures were compiled by Scotland's chief statistician.
+The GDP figures were released on the same day as official data showed that unemployment in Scotland fell by 18,000 between March and May.
+A leading economic forecaster described the two sets of figures as "a mixed bag" for the Scottish economy.
+Graeme Roy, director of the Fraser of Allander Institute at the University of Strathclyde, said growth had been "stagnant"  over the first three months of the year.
+"While the all-important services sectors grew, there was a sharp fall in production and construction," he said.
+"Of greatest concern was the fall in manufacturing, which was down 2.6% over the three months and 5.4% over the year. This was the sharpest fall in annual manufacturing output since the 2008/09 financial crisis.
+"On the plus side, revisions to the data paint a rosier picture of growth last year
+----------------------------------------
+Ground truth Summary: There was no growth in the Scottish economy in the first three months of this year, according to official figures.
+----------------------------------------
+Generated Summary: Scotland's economy grew by just 0.1% in the first three months of the year, according to official figures.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Government plans would give applicants a right to complain to an employment tribunal if they believed they had suffered discrimination.
+Jeremy Hunt said he wanted to create "a culture of openness" where staff feel they can speak up about patient safety.
+Barrister Sir Robert Francis recommended the measure after a public inquiry into Stafford Hospital deaths.
+Protecting NHS whistleblowers was a key recommendation from the inquiry into the scandal, which resulted in the trust that ran Stafford Hospital being fined Â£500,000 for "basic" blunders linked to the deaths of four patients.
+Sir Robert, the inquiry chairman, warned that staff often faced bullying and isolation if they tried to speak out and that staff struggled to find new jobs in the NHS.
+Under the UK-wide plans, applicants for an NHS job would have the right to complain to an employment tribunal if they had been discriminated against because they had previously raised concerns about the safety of patients.
+Applicants would also have the right to bring a claim in court in order to prevent discriminatory conduct.
+And the draft guidelines, which are out for consultation, say that discrimination of an applicant by an NHS worker should be treated like discrimination by the NHS body itself.
+Health Secretary Mr Hunt said: "Today we move another step closer to creating a culture of openness in the NHS, where people who have the courage to speak up about patient safety concerns are listened to, not vilified."
+He said the changes would ensure "staff feel they are protected with the law on their side".
+There has been a growing focus on patient safety since Sir Robert's inquiry in 2013.
+One of the main findings of that report was that people within the NHS had known about the poor levels of care at the hospital, but did not raise the alarm.
+Since then, a number of initiatives have been launched to improve safety.
+In 2015, the government introduced plans to appoint guardians to support staff who wanted to speak up about concerns over patient safety.
+Peter Walsh, chief executive of Action against Medical Accidents, said the plans were modest, but a "welcome move in the right direction".
+"It is clearly unfair that staff who have been forced to become 'whistleblowers' should be discriminated against when they seek alternative jobs.
+"However, this is a symptom of a much deeper cultural problem in the NHS which will not be solved with tinkering with rules here and there.
+"So far we have not seen a joined-up approach to supporting and protecting staff from unfair treatment when they try to do the right thing and end up having to be whistleblowers."
+Mr Walsh said many NHS trusts had still not appointed guardians, as recommended by the Stafford Hospital inquiry.
+The current consultation is open for eight weeks and will close on 12 May.
+----------------------------------------
+Article text: Government plans would give applicants a right to complain to an employment tribunal if they believed they had suffered discrimination.
+Jeremy Hunt said he wanted to create "a culture of openness" where staff feel they can speak up about patient safety.
+Barrister Sir Robert Francis recommended the measure after a public inquiry into Stafford Hospital deaths.
+Protecting NHS whistleblowers was a key recommendation from the inquiry into the scandal, which resulted in the trust that ran Stafford Hospital being fined Â£500,000 for "basic" blunders linked to the deaths of four patients.
+Sir Robert, the inquiry chairman, warned that staff often faced bullying and isolation if they tried to speak out and that staff struggled to find new jobs in the NHS.
+Under the UK-wide plans, applicants for an NHS job would have the right to complain to an employment tribunal if they had been discriminated against because they had previously raised concerns about the safety of patients.
+Applicants would also have the right to bring a claim in court in order to prevent discriminatory conduct.
+And the draft guidelines, which are out for consultation, say that discrimination of an applicant by an NHS worker should be treated like discrimination by the NHS body itself.
+Health Secretary Mr Hunt said: "Today we move another step closer to creating a culture of openness in the NHS, where people who have the courage to speak up about patient safety concerns are listened to, not vilified."
+He said the changes would ensure "staff feel they are protected with the law on their side".
+There has been a growing focus on patient safety since Sir Robert's inquiry in 2013.
+One of the main findings of that report was that people within the NHS had known about the poor levels of care at the hospital, but did not raise the alarm.
+Since then, a number of initiatives have been launched to improve safety.
+In 2015, the government introduced plans to appoint guardians to support staff who wanted to speak up about concerns over patient safety.
+Peter Walsh, chief executive of Action against Medical Accidents, said the plans were modest, but a "welcome move in the right direction".
+"It is clearly unfair that staff who have been forced to become 'whistleblowers' should be discriminated against when they seek alternative jobs.
+"However, this is a symptom of a much deeper cultural problem in the NHS which will not be solved with tinkering with rules here and there.
+"So far we have not seen a joined-up approach to supporting and protecting staff from unfair treatment when they try to do the right thing and end up having to be whistleblowers."
+Mr Walsh said many NHS trusts had still not appointed guardians, as recommended by the Stafford Hospital inquiry.
+The current consultation is open for eight weeks and will close on 12 May.
+----------------------------------------
+Ground truth Summary: NHS whistleblowers could be protected against discrimination if they apply to work for the health service again.
+----------------------------------------
+Generated Summary: NHS whistleblowers could be given the right to complain to an employment tribunal if they have been discriminated against because of their concerns about patient safety, the health secretary has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Police are investigating the death of Russell Peachey, 35, who was found in Grangetown at about 04:20 BST on Saturday.
+They are now searching for James Mark Williams, 31, from Barry in connection with his death.
+A 37-year-old man from Barry became the third man to be arrested in connection with the murder on Monday.
+All three remain in custody.
+----------------------------------------
+Article text: Police are investigating the death of Russell Peachey, 35, who was found in Grangetown at about 04:20 BST on Saturday.
+They are now searching for James Mark Williams, 31, from Barry in connection with his death.
+A 37-year-old man from Barry became the third man to be arrested in connection with the murder on Monday.
+All three remain in custody.
+----------------------------------------
+Ground truth Summary: Police are searching for a man from the Vale of Glamorgan in connection with a Cardiff murder probe.
+----------------------------------------
+Generated Summary: A fourth man has been arrested in connection with the murder of a man in Barry.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The officer was taken to hospital where his condition was described as "stable", a Merseyside Police spokesman said.
+He said the force was investigating an "assault of a member of staff at HMP Altcourse on Wednesday".
+The BBC understands the attack took place in a transfer area and the inmate was on remand facing serious charges.
+Director for HMP Altcourse Steve Williams said: "We continue to support the officer and his family."
+----------------------------------------
+Article text: The officer was taken to hospital where his condition was described as "stable", a Merseyside Police spokesman said.
+He said the force was investigating an "assault of a member of staff at HMP Altcourse on Wednesday".
+The BBC understands the attack took place in a transfer area and the inmate was on remand facing serious charges.
+Director for HMP Altcourse Steve Williams said: "We continue to support the officer and his family."
+----------------------------------------
+Ground truth Summary: A prison officer has had his neck slashed by an inmate at a prison on Merseyside, the BBC understands.
+----------------------------------------
+Generated Summary: A prison officer has been assaulted by an inmate at HMP Altcourse in Liverpool.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Ambulance staff informed police of the death of the boy, who was eight months old, at around 10:30 BST on Wednesday.
+Officers were called to Brownhills Road in Newton Abbot, and subsequently closed off the road.
+A spokesman for Devon and Cornwall Police said a 27-year-old man had been taken into custody in relation to the death.
+Click here for the latest updates on this story
+Scenes of crime officers and police attended the house to undertake initial investigations, where they found a sibling of the child along with two adults.
+Devon and Cornwall Police said they were not looking for anyone else in relation to the case.
+----------------------------------------
+Article text: Ambulance staff informed police of the death of the boy, who was eight months old, at around 10:30 BST on Wednesday.
+Officers were called to Brownhills Road in Newton Abbot, and subsequently closed off the road.
+A spokesman for Devon and Cornwall Police said a 27-year-old man had been taken into custody in relation to the death.
+Click here for the latest updates on this story
+Scenes of crime officers and police attended the house to undertake initial investigations, where they found a sibling of the child along with two adults.
+Devon and Cornwall Police said they were not looking for anyone else in relation to the case.
+----------------------------------------
+Ground truth Summary: Police are investigating the "suspicious" death of a baby boy in Devon.
+----------------------------------------
+Generated Summary: A man has been arrested on suspicion of murder after the death of a baby boy at a house in Devon.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Sir Bob Kerslake said one of the difficulties was that "easier" savings had already been made.
+He said the "sense of urgency" would be reduced and the need for cuts would be hard to explain to public sector staff.
+Sir Bob stepped down from his role this month and was replaced by former Cabinet Secretary Sir Jeremy Heywood.
+He said the civil service had "excelled" during his time in charge.
+Speaking at the Institute for Government think tank, he said it was clear that "under any government, we face up to a further five years of austerity in public sector spending".
+"The first five years have been challenging but the second five years are likely to prove even harder for three reasons," he said.
+"Firstly, the easier savings have already been made.
+"Secondly, we are likely to be doing it against a background of a growing economy and greater competition for good staff.
+"Thirdly, the sense of urgency that underpinned the first savings programme will be reduced.
+"In reality, the task is not yet complete. But this will be hard to explain to those in the public sector, including our own staff, who are looking for some relief."
+Sir Bob said the civil service had "excelled" in its challenge to "deliver big programme savings at the same time as undergoing huge change and reduction itself".
+The roles of cabinet secretary and head of the civil service were split into two jobs when Sir Gus O'Donnell retired as both in 2012.
+Sir Bob, who was already permanent secretary at the Department for Communities and Local Government (DCLG), took the role as head of the civil service at that time.
+He will retire from his DCLG role early next year.
+----------------------------------------
+Article text: But this will be hard to explain to those in the public sector, including our own staff, who are looking for some relief."
+Sir Bob said the civil service had "excelled" in its challenge to "deliver big programme savings at the same time as undergoing huge change and reduction itself".
+The roles of cabinet secretary and head of the civil service were split into two jobs when Sir Gus O'Donnell retired as both in 2012.
+Sir Bob, who was already permanent secretary at the Department for Communities and Local Government (DCLG), took the role as head of the civil service at that time.
+He will retire from his DCLG role early next year.
+----------------------------------------
+Ground truth Summary: The outgoing head of the civil service has predicted another five years of UK government spending cuts - and he said making the cuts would be "even harder".
+----------------------------------------
+Generated Summary: The head of the civil service, Sir Bob Kerslake, has said he would like to see the role of cabinet secretary abolished.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Prince William made the comment when asked how many children he would like, during the second day of the couple's Diamond Jubilee tour to Singapore.
+A teenager at one walkabout said the prince had responded by saying "he was thinking about having two".
+The Duke and Duchess of Cambridge also said they would like their "superhero superpower" to be invisibility.
+The prince, who married Catherine Middleton in April last year, has spoken before about starting a family, but has not mentioned numbers.
+After the couple's visit to the Gardens by the Bay attraction, Corine Ackermann, 17, said: "Someone asked him how many children he would like to have, and he said he was thinking about having two."
+Jaz Heber Percy, 13, asked the prince what superpower he would like to have if he could be a superhero.
+The prince replied: "That's a hard question - I'm not sure. I'll have to think about it. I think invisibility."
+The duchess had agreed that she would need to be invisible too, "otherwise he would be able to sneak up on her," Jaz said.
+Several people in the 1,000-strong crowd fainted as they waited in sweltering heat for three hours to see the royals.
+Local children who had been given the morning off school chanted: "Will, you're brill. Kate, you're great".
+The royal couple planted a Pachira glabra variegata tree to mark their visit.
+They also visited a Rolls-Royce jet engine factory, where the prince praised the "cutting-edge aerospace technology developed by one of the United Kingdom's great global companies".
+During the visit, the duchess fitted the last of 24 fan blades to a Trent 900 engine.
+----------------------------------------
+Article text: Prince William made the comment when asked how many children he would like, during the second day of the couple's Diamond Jubilee tour to Singapore.
+A teenager at one walkabout said the prince had responded by saying "he was thinking about having two".
+The Duke and Duchess of Cambridge also said they would like their "superhero superpower" to be invisibility.
+The prince, who married Catherine Middleton in April last year, has spoken before about starting a family, but has not mentioned numbers.
+After the couple's visit to the Gardens by the Bay attraction, Corine Ackermann, 17, said: "Someone asked him how many children he would like to have, and he said he was thinking about having two."
+Jaz Heber Percy, 13, asked the prince what superpower he would like to have if he could be a superhero.
+The prince replied: "That's a hard question - I'm not sure. I'll have to think about it. I think invisibility."
+The duchess had agreed that she would need to be invisible too, "otherwise he would be able to sneak up on her," Jaz said.
+Several people in the 1,000-strong crowd fainted as they waited in sweltering heat for three hours to see the royals.
+Local children who had been given the morning off school chanted: "Will, you're brill
+----------------------------------------
+Ground truth Summary: The Duke of Cambridge has reportedly revealed he would like to have two children with his wife.
+----------------------------------------
+Generated Summary: The Duke and Duchess of Cambridge have said they would like to have more children.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Some 39,723 homes were repossessed by bailiffs in the 12 months to September 2016 - equivalent to 108 per day, Ministry of Justice data says.
+It adds that 137,773 renting households are at risk of losing their homes.
+Homelessness charity Shelter blamed benefit cuts and affordable housing shortages, but the government said reasons for evictions were complex.
+Although the number of households evicted has dipped slightly since the peak of 42,054 in 2015, Shelter says the statistics are still very worrying.
+Campbell Robb, chief executive of Shelter, said: "The news that tens of thousands of renters have been evicted from their homes in the last year is a sobering reminder of the impact of welfare cuts and the severe lack of affordable homes.
+"Our deepening housing crisis means that over 120,000 children will wake up homeless this Christmas, and sadly this shows that not far behind them are many more families still desperately fighting to stay in their home.
+"Our helpline advisers can make the difference between a family losing their home and keeping it, but we are finding it increasingly tough to keep up with soaring demand."
+The majority of claims for home repossession in the year to September 2016 were from social landlords, at 60%, while 15% were by private landlords.
+The remaining 25% of claims were made under the accelerated procedure, which can be used by both private and social landlords in certain circumstances.
+A government official said: "The latest figures show that all stages of landlord repossessions have gone down compared to the last quarter.
+"We are committed to building the homes this country needs and have doubled the housing budget to Â£8bn to build 400,000 more affordable homes.
+"The reasons for repossessions can be complex, so to link it to welfare reform is misleading.
+"Our reforms are incentivising work and restoring fairness to the system, and we continue to spend over Â£90bn a year supporting working age people who are out of work, disabled or a carer, bringing up a family or on a low income."
+But Shelter said social sector evictions had risen in conjunction with the introduction of the bedroom tax and that homelessness acceptances, caused by the loss of private tenancy, have soared since cuts were made to the amount of housing benefit people receive.
+Chris Town, vice chairman of the Residential Landlords Association, said landlords did not spend their time looking for ways of evicting tenants.
+"Seeking to regain possession of a property can be a long and stressful process for both tenants and landlords. Landlords will usually only ever seek possession for a few reasons - either tenants who are not paying their rent or committing anti-social behaviour, the landlord wants to renovate a property, or wants to sell."
+Join the conversation - find us on Facebook
+----------------------------------------
+Article text: Some 39,723 homes were repossessed by bailiffs in the 12 months to September 2016 - equivalent to 108 per day, Ministry of Justice data says.
+It adds that 137,773 renting households are at risk of losing their homes.
+Homelessness charity Shelter blamed benefit cuts and affordable housing shortages, but the government said reasons for evictions were complex.
+Although the number of households evicted has dipped slightly since the peak of 42,054 in 2015, Shelter says the statistics are still very worrying.
+Campbell Robb, chief executive of Shelter, said: "The news that tens of thousands of renters have been evicted from their homes in the last year is a sobering reminder of the impact of welfare cuts and the severe lack of affordable homes.
+"Our deepening housing crisis means that over 120,000 children will wake up homeless this Christmas, and sadly this shows that not far behind them are many more families still desperately fighting to stay in their home.
+"Our helpline advisers can make the difference between a family losing their home and keeping it, but we are finding it increasingly tough to keep up with soaring demand."
+The majority of claims for home repossession in the year to September 2016 were from social landlords, at 60%, while 15% were by private landlords.
+The remaining 25% of claims were made under the accelerated procedure, which can be used by both private and social landlords in certain circumstances.
+A government official said: "The latest figures show that all stages of landlord repossessions have gone down compared to the last quarter.
+"We are committed to building the homes this country needs and have doubled the housing budget to Â£8bn to build 400,000 more affordable homes.
+"The reasons for repossessions can be complex, so to link it to welfare reform is misleading.
+"Our reforms are incentivising work and restoring fairness to the system, and we continue to spend over Â£90bn a year supporting working age people who are out of work, disabled or a carer, bringing up a family or on a low income."
+But Shelter said social sector evictions had risen in conjunction with the introduction of the bedroom tax and that homelessness acceptances, caused by the loss of private tenancy, have soared since cuts were made to the amount of housing benefit people receive.
+Chris Town, vice chairman of the Residential Landlords Association, said landlords did not spend their time looking for ways of evicting tenants.
+"Seeking to regain possession of a property can be a long and stressful process for both tenants and landlords. Landlords will usually only ever seek possession for a few reasons - either tenants who are not paying their rent or committing anti-social behaviour, the landlord wants to renovate a property, or wants to sell."
+Join the conversation - find us on Facebook
+----------------------------------------
+Ground truth Summary: More than 100 households were evicted every day from rented homes in England last year, the latest figures show.
+----------------------------------------
+Generated Summary: The number of homes repossessed by bailiffs in England and Wales in the past year has reached a record high, official figures show.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Francisco Marcolino married his maid of decades, Rita Monteiro, 52, in northern Portugal on 4 May.
+But three children from his previous marriage claim she is eyeing his €2m (£1.7m; $2.2m) estate and that he is not of sound mind.
+"If he had wanted to marry, he would have done it when he was capable," his son told Portuguese media.
+The children are trying to annul the marriage on grounds of incapacity - though a fourth is refusing to join the action and has not commented.
+Ms Monteiro was hired by Mr Marcolino's wife 30 years ago, two years before she died.
+According to Manuel Marcolino de Jesus, one of three children who have filed the lawsuit, his father's health has sharply deteriorated over the past few years.
+His father has made several emergency trips to the local hospital, where his files say he suffers dementia and is totally dependent, Manuel Marcolino said.
+"They have lived in [Ms Monteiro's] house since he became incapable five years ago, and that is when she started to take over everything," he told Portugal's CM Jornal.
+"Since then, more than €319,000 has gone missing from one [bank] account and more than €200,000 from another," he alleged.
+Last December, the three lodged two criminal cases of abuse of trust against Ms Monteiro and listed Mr Marcolino's assets. A psychological assessment was under way to see whether Mr Marcolino should be appointed a representative to manage his affairs.
+But they say they were caught by surprise when they found out their father had married.
+They say officials at a register office 80km (50 miles) away refused to marry the pair, forcing them to travel to another one 150km away.
+Portuguese news agency Lusa has repeatedly contacted Ms Monteiro's lawyer, but her lawyer says she has "no questions to answer".
+You might also like:
+German schools get tough Prince Harry English exam changed
+Dutch King Willem-Alexander reveals secret flights as co-pilot
+French host humiliated gay men on live TV
+----------------------------------------
+Article text: Francisco Marcolino married his maid of decades, Rita Monteiro, 52, in northern Portugal on 4 May.
+But three children from his previous marriage claim she is eyeing his €2m (£1.7m; $2.2m) estate and that he is not of sound mind.
+"If he had wanted to marry, he would have done it when he was capable," his son told Portuguese media.
+The children are trying to annul the marriage on grounds of incapacity - though a fourth is refusing to join the action and has not commented.
+Ms Monteiro was hired by Mr Marcolino's wife 30 years ago, two years before she died.
+According to Manuel Marcolino de Jesus, one of three children who have filed the lawsuit, his father's health has sharply deteriorated over the past few years.
+His father has made several emergency trips to the local hospital, where his files say he suffers dementia and is totally dependent, Manuel Marcolino said.
+"They have lived in [Ms Monteiro's] house since he became incapable five years ago, and that is when she started to take over everything," he told Portugal's CM Jornal.
+"Since then, more than €319,000 has gone missing from one [bank] account and more than €200,000 from another," he alleged.
+Last December, the three lodged two criminal cases of abuse of trust against Ms Monteiro and listed Mr Marcolino's assets
+----------------------------------------
+Ground truth Summary: The children of a 101-year-old man have legally challenged his marriage to his ex-maid, who is just over half his age.
+----------------------------------------
+Generated Summary: A 93-year-old Portuguese man has been married for the second time, but his children say he is too old to marry.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The nationally televised event, billed as the world's largest short festival, had been running for more than two decades.
+Tropfest founder John Polson described the situation as a "disaster" and said in a statement that he was devastated.
+He told Fairfax there was a financial discrepancy "well into six figures".
+"It's terrible for anybody who cares about Australian film and certainly the grassroots, emerging end of Australian film because, right now, our future is up in the air," Mr Polson said.
+"It's like being in a bad dream. This is 23 years of work. It's a stunning, shocking blow, with really no hint of what was to come."
+----------------------------------------
+Article text: The nationally televised event, billed as the world's largest short festival, had been running for more than two decades.
+Tropfest founder John Polson described the situation as a "disaster" and said in a statement that he was devastated.
+He told Fairfax there was a financial discrepancy "well into six figures".
+"It's terrible for anybody who cares about Australian film and certainly the grassroots, emerging end of Australian film because, right now, our future is up in the air," Mr Polson said.
+"It's like being in a bad dream. This is 23 years of work. It's a stunning, shocking blow, with really no hint of what was to come."
+----------------------------------------
+Ground truth Summary: Australia's long-running Tropfest film festival has been cancelled less than a month out from its scheduled date due to financial problems.
+----------------------------------------
+Generated Summary: Australia's Tropfest film festival has been cancelled due to financial problems.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The TUC said its research showed top executives receive a year's worth of the minimum wage in just one day.
+It said the average FTSE 100 boss was paid 123 times the average full-time salary, and called for "reality in boardrooms".
+A spokesman for Prime Minister Theresa May said she had highlighted action was needed on executive pay.
+The TUC research indicated the median pay award, discounting pensions, of a major FTSE 100 director soared by 47% in the five years to 2015, to Â£3.4m.
+That compares with what the union body says was a 7% increase for average wages during the same time frame.
+It took Sir Martin Sorrell of advertising giant WPP, the UK's highest paid chief executive, less than 45 minutes to earn what an average worker receives in a year, the TUC added.
+"We're seeing a growing disconnect between Britain's boardrooms and shop floors when it comes to pay," the TUC's Deputy General Secretary, Paul Nowak, told the BBC.
+Speaking ahead of the TUC annual conference in Brighton he added:  "Over the last five years, Britain's bosses have seen their pay rise by nearly 50%.
+"And at the same time, ordinary working people have seen real terms pay freezes, and we think that's unfair, it's not right, and it's not sustainable in the long term for the health of the economy."
+Meanwhile, the TUC's general secretary Frances O'Grady, called on the prime minister to "deliver on her promise to put workers on company boards".
+She added: "This would inject a much-needed dose of reality into boardrooms and help put the brakes on the multimillion pay packages that have damaged the reputation of corporate Britain."
+As well as promising to put workers on boards, Theresa May has proposed making shareholder votes on executive pay binding, rather than advisory.
+The prime minister has also said she wants more transparency about bonus targets and for companies to reveal the ratio between chief executive pay and that of its average worker.
+In a speech to the G20 group of major economic nations last week, she said: "To restore greater fairness, we will bring forward a consultation this autumn on measures to tackle corporate irresponsibility, cracking down on excessive corporate pay and poor corporate governance, and giving employees and customers representation on company boards."
+Professor Andre Spicer, from the Cass Business School which is part of City, University of London, says some firms are already coming under pressure to curb high managers' pay.
+He told the BBC: "We're beginning to see disquiet amongst investors at the moment so there's been pushback amongst big executive pay deals at places like Deutsche Bank, Burberry and a number of organisations.
+"So investors are beginning to become fed up with this. It's likely that we're beginning to see questioning of this widespread practice, that CEOs need to be paid a lot to perform well."
+----------------------------------------
+Article text: The TUC said its research showed top executives receive a year's worth of the minimum wage in just one day.
+It said the average FTSE 100 boss was paid 123 times the average full-time salary, and called for "reality in boardrooms".
+A spokesman for Prime Minister Theresa May said she had highlighted action was needed on executive pay.
+The TUC research indicated the median pay award, discounting pensions, of a major FTSE 100 director soared by 47% in the five years to 2015, to Â£3.4m.
+That compares with what the union body says was a 7% increase for average wages during the same time frame.
+It took Sir Martin Sorrell of advertising giant WPP, the UK's highest paid chief executive, less than 45 minutes to earn what an average worker receives in a year, the TUC added.
+"We're seeing a growing disconnect between Britain's boardrooms and shop floors when it comes to pay," the TUC's Deputy General Secretary, Paul Nowak, told the BBC.
+Speaking ahead of the TUC annual conference in Brighton he added:  "Over the last five years, Britain's bosses have seen their pay rise by nearly 50%.
+"And at the same time, ordinary working people have seen real terms pay freezes, and we think that's unfair, it's not right, and it's not sustainable in the long term for the health of the economy."
+Meanwhile, the TUC's general secretary Frances O'Grady, called on the prime minister to "deliver on her promise to put workers on company boards".
+She added: "This would inject a much-needed dose of reality into boardrooms and help put the brakes on the multimillion pay packages that have damaged the reputation of corporate Britain."
+As well as promising to put workers on boards, Theresa May has proposed making shareholder votes on executive pay binding, rather than advisory.
+The prime minister has also said she wants more transparency about bonus targets and for companies to reveal the ratio between chief executive pay and that of its average worker.
+In a speech to the G20 group of major economic nations last week, she said: "To restore greater fairness, we will bring forward a consultation this autumn on measures to tackle corporate irresponsibility, cracking down on excessive corporate pay and poor corporate governance, and giving employees and customers representation on company boards."
+Professor Andre Spicer, from the Cass Business School which is part of City, University of London, says some firms are already coming under pressure to curb high managers' pay.
+He told the BBC: "We're beginning to see disquiet amongst investors at the moment so there's been pushback amongst big executive pay deals at places like Deutsche Bank, Burberry and a number of organisations.
+"So investors are beginning to become fed up with this
+----------------------------------------
+Ground truth Summary: The pay of directors' at FTSE 100 firms has reached "stratospheric" levels, according to a trade union body.
+----------------------------------------
+Generated Summary: The average chief executive in the UK is paid  ⁇ £3.4m a year, according to the TUC.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Secret service and regular police have been searching for Ivan Kaspersky, 20, for at least two days, a police source told Interfax news agency.
+His father's firm, Kaspersky Lab, told a newspaper it could not confirm news he had been abducted.
+Yevgeny Kaspersky made his fortune developing anti-virus software.
+News of his son's abduction was reported by Russian news website Life News, quoting its own sources.
+The kidnappers are demanding 3m euros (Â£2.6m; $4.3m) for Ivan's safe return, the website says.
+According to the unconfirmed report, he was snatched while on his way to work in Moscow on Tuesday.
+When contacted by Russian newspaper Gazeta, Kaspersky Lab said it could neither confirm nor deny the report.
+There has been no official comment on the story.
+Kaspersky Lab is regarded outside Russia as one of the country's few business success stories not related to the energy sector.
+The US business magazine Fast Company recently ranked Kaspersky Lab among the Top 50 Most Innovative Companies worldwide.
+----------------------------------------
+Article text: Secret service and regular police have been searching for Ivan Kaspersky, 20, for at least two days, a police source told Interfax news agency.
+His father's firm, Kaspersky Lab, told a newspaper it could not confirm news he had been abducted.
+Yevgeny Kaspersky made his fortune developing anti-virus software.
+News of his son's abduction was reported by Russian news website Life News, quoting its own sources.
+The kidnappers are demanding 3m euros (Â£2.6m; $4.3m) for Ivan's safe return, the website says.
+According to the unconfirmed report, he was snatched while on his way to work in Moscow on Tuesday.
+When contacted by Russian newspaper Gazeta, Kaspersky Lab said it could neither confirm nor deny the report.
+There has been no official comment on the story.
+Kaspersky Lab is regarded outside Russia as one of the country's few business success stories not related to the energy sector.
+The US business magazine Fast Company recently ranked Kaspersky Lab among the Top 50 Most Innovative Companies worldwide.
+----------------------------------------
+Ground truth Summary: The son of Russian software entrepreneur Yevgeny Kaspersky has gone missing in Moscow and may have been kidnapped, Russian media report.
+----------------------------------------
+Generated Summary: The son of one of Russia's richest men, Yevgeny Kaspersky, has been kidnapped in the southern Russian city of Rostov-on-Don, reports say.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:People who depend on being able to harvest forest resources should receive payment under the schemes.
+But researchers say there is a "reality gap" between safeguards designed to help affected communities and who actually receives the compensation.
+The findings have been published online in Global Environment Change.
+"About 11% of global emissions come from deforestation and degradation of tropical forests so the idea is that if you can slow this down then that can offset emissions and that is good for climate mitigation," explained Julia Jones from Bangor University, Wales.
+Over the past decade, schemes called Reducing Emissions from Deforestation and forest Degradation (Redd/Redd+) have been developed as part of the global effort to mitigate climate change.
+These mechanisms are designed to improve forest management and reduce the net emission of greenhouse gases in tropical forest and sub-tropical forest nations.
+"It finally got approval (at the UN climate summit) in Paris in December that Redd+ will go ahead as a global climate mitigation mechanism," Prof Jones told BBC News.
+"What that means in reality is more protected areas and more funding. This sounds brilliant, after all it is a win-win situation and what is there not to like about it?"
+However, it has been widely acknowledged that such schemes - if not implemented properly - can have a significant negative impact on people's livelihoods, such as indigenous communities, and exacerbate poverty.
+"This has been taken on board by, for example, the World Bank," observed Prof Jones.
+"They have made commitments that anything they fund [and] people are displaced as a result, they must be compensated for it.
+"These commitments are also encapsulated in other doctrines, such as the Convention on Biological Diversity."
+But she added: "The problem is how do you go about doing that? The way that the World Bank guidelines work is that households affected by a scheme must be identified and then compensated for the negative impact of the establishment of a protected area on their livelihoods."
+In order to test whether the commitment to "social safeguards" were working on the ground, the team of UK and Madagascan researchers looked in detail at an area within Madagascar where a new protected area was being established.
+The work was being funded by the World Bank's Forest Carbon Partnership Facility.
+"We have shown that, yes, they have gone out there and identified households that they think are affected negatively by conservation and have delivered compensation."
+However, she added, the compensation was not reaching those most affected by the project.
+"We have mapped every single household that should have been covered by the compensation and have shown thatâ€¦ the process had some very serious biases in it," she said.
+"Essentially, the people that were identified were easier to reach physically - such as closer to the road or closer to the administrative centre.
+"They also tended to be more socially connected; members of local forestry management committees, and they were - on average - richer or, at least, less poor."
+Prof Jones said it was not what would be expected from a scheme that was delivering the help where it was needed most.
+"People that are closer to the administrative centre are further away from the forest so they are less dependent on forest resources for their livelihoods," she suggested.
+"What is interesting here is that the World Bank has very explicit guidelines that it has to be pro-poor and target vulnerable groups. We have shown that it is not working."
+She said the study required researchers to spend a long time in the area in order to learn where all the households were located. In some cases, team members had to walk for eight or nine hours in order to reach some of the most remote communities.
+"A criticism is that you can miss households like that if you come in for a short period of time but this is one of the problems;  you cannot expect consultants paid through a World Bank project to be putting in that level of effort to find individual households," she added.
+"We do not want to be criticising the individual implementers of that particular project but we want to highlight a 'reality gap' between these lovely policies that sound great on paper and the reality on the ground which is that it is incredibly difficult to implement these policies."
+Prof Jones said the study's aim was not to pass judgement on the projects nor the way the compensation scheme was implemented.
+There is value pointing out that there is this reality gap," she added.
+"In countries like Madagascar, there is such poor mapping so when you are planning something like this and you do not have a map that shows villages that have primary schools etc then you are not going to be allocating sufficient resources.
+"I would say that whenever there is any sort of effort to implement a conservation scheme then there needs to be an effort to map the human population. Relying on very old and out-of-date maps is not sufficient."
+The team suggested that providing compensation to all households in an affected area would prove to be more financially efficient, as the cost of providing the resources needed to map and assess households "may not be feasible".
+----------------------------------------
+Article text: People who depend on being able to harvest forest resources should receive payment under the schemes.
+But researchers say there is a "reality gap" between safeguards designed to help affected communities and who actually receives the compensation.
+The findings have been published online in Global Environment Change.
+"About 11% of global emissions come from deforestation and degradation of tropical forests so the idea is that if you can slow this down then that can offset emissions and that is good for climate mitigation," explained Julia Jones from Bangor University, Wales.
+Over the past decade, schemes called Reducing Emissions from Deforestation and forest Degradation (Redd/Redd+) have been developed as part of the global effort to mitigate climate change.
+These mechanisms are designed to improve forest management and reduce the net emission of greenhouse gases in tropical forest and sub-tropical forest nations.
+"It finally got approval (at the UN climate summit) in Paris in December that Redd+ will go ahead as a global climate mitigation mechanism," Prof Jones told BBC News.
+"What that means in reality is more protected areas and more funding
+----------------------------------------
+Ground truth Summary: Remote communities are not receiving the compensation they are entitled to from schemes designed to conserve tropical forests, a study suggests.
+----------------------------------------
+Generated Summary: Compensating communities for the loss of tropical forests is not always the best way to reduce climate change, a study has found.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

@@ -17,6 +17,7 @@ import numpy as np
 
 
 
+#takes the first sentence and then randomly selects the starting point for the rest of the sentences from the remaining sentences
 class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -24,10 +25,7 @@ class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
         self.dataset = load_dataset('cnn_dailymail', '3.0.0', split = split)
         self.max_length = max_length
         self.first_selection = first_selection
-        
-        #we want to tokenize both our inputs and outputs before passing to the model
-        #self.inputs = self.tokenizer(self.dataset['article'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
-        #self.outputs = self.tokenizer(self.dataset['highlights'], max_length=self.max_length, truncation=True, padding="longest", return_tensors="pt")
+    
 
     def __len__(self):
         return len(self.dataset)
@@ -46,7 +44,6 @@ class PegasusCNNDatasetNRandom(torch.utils.data.Dataset):
         summary_text = self.dataset[idx]['highlights']
         return {'article_text':text, 'summary_text': summary_text}
 
-#create the model
 #create the model
 def create_model(model_name, max_length):
     model = PegasusForConditionalGeneration.from_pretrained(model_name)
@@ -158,6 +155,8 @@ if __name__ == '__main__':
 
     #create the model
     model = create_model(args.model_name, args.max_length)
+
+    #allows for checkpointing
     if args.checkpoint:
         checkpoint = torch.load('{name}'.format(name = args.checkpoint_path), map_location='cpu')
         new_dict = checkpoint['model_state_dict']

@@ -1,184 +1,668 @@
 Generations for Eval_Pegasus_XSum_BERT_128
-Article text: He said he was surprised at which ones seemed to be the most popular. "They were the Cork one - Hank Skorkio - and the ones for Meath and Westmeath
+All article text:Following Canadian research linking the vitamin with a small rise in cancer, the study in the Lancet journal looked at data from 50,000 people.
+It found no significant differences in those taking folic acid.
+Taken in early pregnancy, it reduces the chances of certain birth defects and there have been calls to add it to food in the UK.
+Many countries, including the US and Canada, South Africa and Australia, already add folate - also called folic acid or Vitamin B9 - to all flour.
+It is proven to reduce the number of babies born with "neural tube defects" such as spina bifida.
+One of the original reasons behind this more cautious approach in western Europe was the risk that folic acid supplementation could disguise anaemia symptoms in a small number of older people.
+However, another more pressing concern was prompted by the 2007 study that found the incidence of colorectal cancer, which had been falling in the US and Canada, rose temporarily just after the vitamin was automatically added to flour.
+One theory suggested that folate had boosted the growth of tiny, as-yet undetected cancers or pre-cancers, allowing them to be diagnosed earlier and giving the impression that cancer rates had increased.
+The Lancet study compared cancer rates over a five-year period in 50,000 people from several countries, some taking a folic acid supplement and some a placebo.
+The doses of folate tended to be much higher than those proposed for mandatory fortification of flour, but a slight increase in cancer incidence recorded in this group did not reach statistical significance, meaning it could be the product of chance alone.
+One of the report authors, Dr Robert Clarke, from the Clinical Trial Service Unit at the University of Oxford, said that the findings were "reassuring".
+"If there was a substantial effect, we would expect to have seen it by now," he added.
+He said that while the doses proposed for mandatory fortification of flour were much lower than those in the study, a small proportion of people were known to combine this with extra supplements.
+He said: "If there is any caution now, this is the group of people involved."
+New restrictions on the availability of high-dose supplements are one possible solution.
+The UK's chief medical officers have already recommended that folate be added to flour, and the decision now rests with government ministers.
+A Department of Health spokesman said: "This is a complicated issue, with a balance of risks and benefits which ministers need to consider very carefully. We already advise women thinking of starting a family and pregnant women to take folic acid supplements."
+The British Dietetic Association says that fortification would be a "simple way" to increase folic acid intake across the population.
+Spokesman Dr Sarah Schenker said that while there was still some caution over anaemia in the elderly, overall the benefits would outweigh the risks.
+She said: "It can certainly be recommended to pregnant women and those who may become pregnant.
+"Fortification may well be a good idea because our health messages about healthy eating aren't always getting through."
+----------------------------------------
+Article text: We already advise women thinking of starting a family and pregnant women to take folic acid supplements."
+The British Dietetic Association says that fortification would be a "simple way" to increase folic acid intake across the population.
+Spokesman Dr Sarah Schenker said that while there was still some caution over anaemia in the elderly, overall the benefits would outweigh the risks.
+She said: "It can certainly be recommended to pregnant women and those who may become pregnant.
+"Fortification may well be a good idea because our health messages about healthy eating aren't always getting through."
+----------------------------------------
+Ground truth Summary: Worries that taking extra folic acid might increase the risk of cancer have been played down by a major study.
+----------------------------------------
+Generated Summary: Folic acid should be added to food to help prevent anaemia in the elderly, the government has said.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Dayow Mohamed Hassan, 44, was buried neck-deep and pelted to death with stones by al-Shabab fighters.
+He was convicted of being in an adulterous relationship with a woman and impregnating her, despite having two wives, an official said.
+Al-Shabab occasionally passes such sentences for sexual offences in areas it controls in Somalia.
+In 2014, a teenage boy was stoned to death after being convicted of raping a woman.
+In 2008, a young girl was killed in a similar manner after being convicted of adultery.
+In the latest case, a  woman filed a complaint of rape against Hassan, but the court tried him for adultery as it is easier to prove, says BBC Somali's Mohamed Mohamed.
+Hundreds of people watched him being stoned death in Ramo Adey village in the south-central Bay region, said Moalim Geedow, the al-Shabab governor for the area.
+"The man had a third woman who was a divorcee... He deceived her, saying that he went to a sheikh [religious leader] and that he married her," Mr Geedow told Reuters news agency.
+"However, when the woman got pregnant, the two families debated and there was no trace of valid matrimony. The court ruled he did not marry her legally and he was stoned to death."
+Al-Shabab is fighting to overthrow the weak UN-backed government in Somalia and impose its own strict interpretation of Islamic law.
+It has lost control of many towns and cities to a 22,000-strong African Union force supporting the government.
+But the group, linked to al-Qaeda, still has a strong presence in many rural areas.
+----------------------------------------
+Article text: He deceived her, saying that he went to a sheikh [religious leader] and that he married her," Mr Geedow told Reuters news agency.
+"However, when the woman got pregnant, the two families debated and there was no trace of valid matrimony
+----------------------------------------
+Ground truth Summary: Somali militants have stoned a man to death after an Islamic court convicted him of adultery.
+----------------------------------------
+Generated Summary: A man has been sentenced to life in prison for marrying a woman he met on a dating website.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The band enjoyed several hit songs through the decade, the biggest of which was their cover version of Chip Taylor's Wild Thing which topped the US Billboard chart and made Rolling Stone magazine's greatest songs list.
+Presley's song Love Is All Around peaked at number five in the UK charts in 1967 but was a huge hit in 1994 when Wet Wet Wet covered it for the soundtrack to the Richard Curtis film Four Weddings And a Funeral, starring Hugh Grant.
+Born in Andover, Hampshire, on 12 June 1941, Presley, went to Andover Secondary Modern School.
+When he first learned the guitar, Presley was inspired by skiffle, a type of popular music with jazz, blues, folk, and roots influences - popularised in the UK by artists like Lonnie Donegan
+In his 20s Presley began listening to blues bands from America, including Louisiana Red and Lightnin' Hopkins.
+Presley had been working as a brick-layer and said in a previous interview it took three months for him to be persuaded to start playing music with a colleague, Howard Ginger Mansfield.
+His cohort was a lead guitarist and Presley in turn borrowed a bass, before being forced to drive down to London to buy his own equipment, when he was asked to return the instrument.
+Their first manager owned a building company and helped them by borrowing a van to carry their equipment around.
+The Troggs formed in 1964 and, in 1965, Presley, Chris Britton, Pete Staples and Ronnie Bond were signed by Larry Page, a budding record producer who got lucky with a new band called the Ravens, who he re-named The Kinks.
+After the success of The Kinks You Really Got Me, Page listened to a tape of the Troggs singing their own cover of the song and told them to come back a year later, which they dutifully did - to the day.
+Lost Girl backed by The Yella In Me was released on CBS, and was regarded as a flop. According to Presley, it got a single play on Radio Luxembourg.
+After that, Page came across a demo of Chip Taylor's Wild Thing, which had already been unsuccessfully recorded by a band called the Wild Ones.
+Around the same time, Presley had begun writing his own songs. Speaking to Stuart Maconie on BBC Radio 2 in 2010, he said: "I started writing on the building site when I was a brick-layer.  We needed songs and when I was brick-laying."
+He added: "I'd finished With A Girl Like You and... in 45 minutes we had to get our gear in the studio, do the two songs and get out, because it was the end of his orchestra session and he left us only 45 minutes."
+"I mean our first album only took two and a quarter hours, how do you do that?", Presley laughed. "It almost takes that to play it."
+Wild Thing made number one in the US and the follow-up single With A Girl Like You reached number one in the UK Singles Chart on 4 August 1966, where it remained for two weeks.
+I Can't Control Myself was also a hit in the UK peaking at two in the UK chart, although the lusty nature of the song encountered resistance from conservative radio programmers.
+Love Is All Around restored them to the US Top 10 in 1968 and was their final big hit in the UK and in America.
+By the mid-'70s, they had been recognised as an important influence on American punk and garage groups like the MC5 and New York band Ramones.
+In 1991, they collaborated with R.E.M and recorded Athens Andover, an eleven-song collaboration, which was released in March 1992.
+But it was in 1994, that one of Presley's songs would become one of the UK biggest ever selling singles when Wet Wet Wet famously covered Love Is All Around, which topped the UK chart for 15 weeks.
+It was featured in the British box office smash Four Weddings And A Funeral in the same year.
+"I love their version," Presley said to Liz Kershaw on BBC 6 Music in March 2010. "I thought Wet Wet Wet's version was great."
+He said: "When I heard it, they sent me a tape to see what I thought of it. I put a cup of tea to my mouth and took a swig, and it came on with those big heavy chords (we did it gently) and I spit tea all over the room. And all of a sudden he started singing and I thought "wow!"."
+"The royalties keep on coming in," he added, "It's paid all over the world. And it keeps on going. I wish someone would do With A Girl Like You."
+Presley used his royalties to fund his research into crop circles and outlined his findings in a book, Wild Things They Don't Tell Us, published in October 2002.
+Asked by Maconie if he was still interested in UFO's, Presley said: "I wasn't into it until I saw one, and then I saw two, and the moment I've seen 14 but I would say some of those are a bit iffy."
+Presley formed Four Corners Vision film company and made a short film about UFO's in the Marlborough area.  He described what happened one night when he was with a film crew and saw something move from one side of the horizon to the other.
+"These two objects came across and they said to me, 'well, now we believe'," said Presley.  "Within seconds there was no noise whatsoever underneath the cloud."
+Presley had been continuing to tour with the Troggs until he suffered a stroke in Germany in 2011.
+By December, Presley went to hospital in Winchester, Hampshire.  He was suffering from pneumonia and fluid around the heart.
+The musician "reluctantly" retired in early 2012 after being diagnosed with lung cancer, but according to the Troggs' biographer Alan Clayson, he gave the band his blessing to go forward.
+Speaking about Presley's cancer, Clayson said: "Reg was quite philosophical about this and recognised the fact that he was a heavy smoker and that that contributed to his condition."
+Just over a year later, following a string of strokes, his close friend and music publicist Keith Altham announced he had died at his home on 4 February in Andover, surrounded by family and friends.
+Presley is survived by his wife Brenda, daughter Karen and son Jason.
+----------------------------------------
+Article text: in 45 minutes we had to get our gear in the studio, do the two songs and get out, because it was the end of his orchestra session and he left us only 45 minutes."
+"I mean our first album only took two and a quarter hours, how do you do that?", Presley laughed
+----------------------------------------
+Ground truth Summary: Reg Presley, the lead singer of the 1960's band The Troggs, has died aged 71.
+----------------------------------------
+Generated Summary: Elvis Presley's daughter, Lisa Marie Presley, has spoken about her father's influence on her life.
+----------------------------------------
 ----------------------------------------
-Ground truth Summary: Can you name all 32 counties of Ireland?
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died after he has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
 ----------------------------------------
+All article text:The judge, who chairs the inquiry, said in an article in the Observer it must strike a balance between the rights of accusers and the accused.
+But she also dismissed claims it would mainly focus on famous people.
+The inquiry is examining how public bodies handled their duty of care to protect children from abuse.
+In the article she said a number of commentators "have in past weeks spoken out, inaccurately, about the Independent Inquiry into Child Sexual Abuse, which I chair and the way in which the inquiry will conduct its work. I'd like to correct those inaccuracies."
+It comes after the former conservative MP Harvey Proctor, who was cleared of being part of a Westminster paedophile ring, criticised Justice Goddard for suggesting the inquiry would consider the actions of the police from the standpoint of victims and survivors.
+Mr Proctor, 69, had his home raided and was questioned as part of Operation Midland but it was found there was insufficient evidence even to justify a prosecution being considered.
+He claimed it "irreparably ruined my life" and said that to review investigations from just the victims' standpoint lacked judicial balance.
+But Justice Goddard promised the inquiry will hear evidence from those affected by false allegations of abuse, recognising the damage that can be caused.
+"Those who have claimed recently that the inquiry will consider only the perspectives of victims and survivors, and exclude those of others affected by allegations of child sexual abuse, are wrong," she said.
+"As I announced last November, the inquiry intends to explore the balance that must be struck between encouraging the reporting of child sexual abuse and protecting the rights of the accused."
+Justice Goddard added that the inquiry had already announced 13 investigations to date, most of which "do not relate to individuals of public prominence".
+The inquiry is examining allegations of past and ongoing failures to protect children in schools, children's homes, secure accommodation and local authority care.
+It will also look at the responses of institutions, including the police, health service, the Crown Prosecution Service and religious bodies to allegations of child sexual abuse as well as investigating broader issues, such as the role of the internet in facilitating abuse.
+In the past three weeks preliminary hearings into four investigations have taken place including those looking into Lambeth Council, Rochdale Council and the Anglican Church.
 ----------------------------------------
+Article text: The judge, who chairs the inquiry, said in an article in the Observer it must strike a balance between the rights of accusers and the accused.
+But she also dismissed claims it would mainly focus on famous people.
+The inquiry is examining how public bodies handled their duty of care to protect children from abuse.
+In the article she said a number of commentators "have in past weeks spoken out, inaccurately, about the Independent Inquiry into Child Sexual Abuse, which I chair and the way in which the inquiry will conduct its work
 ----------------------------------------
+Ground truth Summary: The public inquiry into child sexual abuse will not ignore the damage done to prominent people who were falsely accused, Justice Lowell Goddard says.
 ----------------------------------------
-Article text: Mexico's economy ministry said it regretted Ford's decision, adding that it had assurances that the US car firm would pay the state of San Luis Potosi for any costs incurred from the cancellation
+Generated Summary: The head of the independent inquiry into child sexual abuse has defended the way it is being conducted.
 ----------------------------------------
-Ground truth Summary: Ford has said it will cancel a $1.6bn (£1.3bn) plant it planned to build in Mexico and instead extend operations at its factory in Michigan.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the us car firm. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
 ----------------------------------------
 ----------------------------------------
+All article text:Shortly before midday, the FTSE 100 index was up 41.56 points, or 0.6%, at 7,041.52.
+In Asian trade, the pound had sunk 6% against the dollar in a matter of minutes to $1.1841, before recovering.
+It is not clear what triggered the flash crash, with some blaming automated trading systems reacting to a news report.
+Sterling remained under pressure, and was still down 1.9%, more than 2 cents, against the dollar at $1.2378.
+The pound has been sliding all week, with traders nervous about how the UK's talks with the EU over leaving the bloc will progress.
+Last Sunday, Prime Minister Theresa May said she would trigger Article 50, the clause needed to start the exit process, by the end of March 2017.
+A fall in the pound is often seen as beneficial to the FTSE 100 as many of the companies in the index generate most of their revenues abroad. A weaker pound means overseas revenues are worth more when they are converted back into sterling.
+Mining companies were among the biggest gainers in the FTSE 100 on Friday. Shares in Randgold Resources rose 2.6% while BHP Billiton added 2.4%.
+Shares in housebuilders were coming under pressure, however, with Barratt Developments down 5% and Taylor Wimpey 4% lower.
+In the FTSE 250, shares in William Hill and Ladbrokes were both lower after a report in the Times said gambling companies could be banned from advertising on TV during the day.
 ----------------------------------------
+Article text: A weaker pound means overseas revenues are worth more when they are converted back into sterling.
+Mining companies were among the biggest gainers in the FTSE 100 on Friday
 ----------------------------------------
-Article text: Care worker Alec Wallbank, 30, of Pontypridd, Rhondda Cynon Taff, is alleged to have carried out the offence between July and September 2014 in Cardiff. A plea and case management hearing is due to be held on 18 August. 
+Ground truth Summary: London's main share index headed higher as the pound continued to slide on the foreign exchanges.
 ----------------------------------------
-Ground truth Summary: A deputy manager of a mental health ward has appeared in court accused of engaging in sexual activity with a woman patient.
+Generated Summary: The pound has fallen to its lowest level against the US dollar in more than two years.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in cardiff. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------
+All article text:The RFU announced on Tuesday that the Exiles had not met the governing body's criteria to be granted a new licence.
+However, Welsh believe they had satisfied the requirements.
+The club, who went into liquidation last month, say they will "deal with the ramifications" of the announcement before deciding whether to respond.
+A phoenix entity, named Rugby 1885 Limited, had been granted a temporary licence on 22 December to play their last two league games after Welsh went into liquidation, although the club were deducted 20 points.
+On expelling the club from the second tier, the RFU stated the Old Deer Park side were unable to provide a bond or show evidence they would be able to pay rugby creditors in full.
+Welsh said they had worked "very closely" with RFU chief executive Ian Ritchie, director of professional rugby Nigel Melville and legal and governance director Angus Bujalski in order to to meet the conditions.
+The Richmond-based club were a Premiership side as recently as 2015, when they were based at the Kassam Stadium in Oxford but were relegated after losing all 22 games.
+Welsh have suffered financial difficulties since then and had hoped to secure investment from a United States-based group, but that deal collapsed in November.
+Exiles coach Sonny Parker criticised the RFU of acting "through self-interest" and announcing the decision with "no regard to those impacted".
+The former Wales international, who is backs coach and team manager, said the decision to remove them from the Championship was made public before players and coaches were informed.
+"I can live with no licence but not allowing us time to speak to players and staff is unforgivable," the 39-year-old said in a statement on Twitter.
+----------------------------------------
+Article text: The RFU announced on Tuesday that the Exiles had not met the governing body's criteria to be granted a new licence.
+However, Welsh believe they had satisfied the requirements.
+The club, who went into liquidation last month, say they will "deal with the ramifications" of the announcement before deciding whether to respond.
+A phoenix entity, named Rugby 1885 Limited, had been granted a temporary licence on 22 December to play their last two league games after Welsh went into liquidation, although the club were deducted 20 points.
+On expelling the club from the second tier, the RFU stated the Old Deer Park side were unable to provide a bond or show evidence they would be able to pay rugby creditors in full.
+Welsh said they had worked "very closely" with RFU chief executive Ian Ritchie, director of professional rugby Nigel Melville and legal and governance director Angus Bujalski in order to to meet the conditions.
+The Richmond-based club were a Premiership side as recently as 2015, when they were based at the Kassam Stadium in Oxford but were relegated after losing all 22 games.
+Welsh have suffered financial difficulties since then and had hoped to secure investment from a United States-based group, but that deal collapsed in November.
+Exiles coach Sonny Parker criticised the RFU of acting "through self-interest" and announcing the decision with "no regard to those impacted".
+The former Wales international, who is backs coach and team manager, said the decision to remove them from the Championship was made public before players and coaches were informed.
+"I can live with no licence but not allowing us time to speak to players and staff is unforgivable," the 39-year-old said in a statement on Twitter.
+----------------------------------------
+Ground truth Summary: London Welsh are "extremely disappointed" by the Rugby Football Union's decision to expel them from the Championship and the professional game.
+----------------------------------------
+Generated Summary: London Welsh say they are "surprised and disappointed" by the Rugby Football Union's decision to expel them from the Premiership.
 ----------------------------------------
-Article text: The Ivorian's agent, Dimitri Seluk, said this week that he would "listen to any offers on the table" this summer. "I know what Yaya thinks
 ----------------------------------------
-Ground truth Summary: Yaya Toure is focused on Manchester City's season and will not be distracted by transfer speculation, according to manager Manuel Pellegrini.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] as told told [PAD] people [PAD] [unused0]
 ----------------------------------------
+All article text:The 36-year-old made 14 appearances in the County Championship last season as Middlesex won the Division One title for the first time since 1993.
+"James remains a high-quality cricketer," said managing director of cricket Angus Fraser.
+"As a senior player he sets a wonderful example and he remains motivated."
+He added: "James worked as hard as anybody in helping the club win its first Championship title for 23 years."
+Franklin joined Middlesex in 2015 and has featured 70 times for them in all formats of the game.
+The left-hander played 31 Tests for New Zealand, 110 one-day internationals and 38 Twenty20 games between 2001 and 2013.
+----------------------------------------
+Article text: The 36-year-old made 14 appearances in the County Championship last season as Middlesex won the Division One title for the first time since 1993.
+"James remains a high-quality cricketer," said managing director of cricket Angus Fraser.
+"As a senior player he sets a wonderful example and he remains motivated."
+He added: "James worked as hard as anybody in helping the club win its first Championship title for 23 years."
+Franklin joined Middlesex in 2015 and has featured 70 times for them in all formats of the game.
+The left-hander played 31 Tests for New Zealand, 110 one-day internationals and 38 Twenty20 games between 2001 and 2013.
+----------------------------------------
+Ground truth Summary: Middlesex captain James Franklin has signed a new contract, which will keep the former New Zealand all-rounder at Lord's until the end of 2018.
+----------------------------------------
+Generated Summary: New Zealand all-rounder James Franklin has signed a new two-year contract with Middlesex.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:It is an anti-government gesture used by protesters in the Oromia region.
+Ethiopia's government normally keeps a tight grip on the country and there has not been anything on this scale in the last 25 years.
+There has not been a specific trigger and what we are seeing is an accumulation of years of frustration from ethnic groups who say they have been marginalised by the government.
+Demonstrations began in Oromia last November. Protests have also sprung up more recently in the Amhara region.
+Oromia and Amhara are the homelands of the country's two biggest ethnic groups.
+New York-based Human Rights Watch says that more than 400 people have been killed in clashes with the security forces in Oromia, although the government disputes this figure.
+The Oromos, who make up around a third of the population, have long complained that they have been excluded from the country's political process and the economic development which has seen the capital, Addis Ababa, transformed in recent years.
+The protests were initially over a plan to expand the boundaries of Addis Ababa into the Oromia region.
+That plan was dropped, but the demonstrations exposed some underlying issues and protests continued with the latest round taking place on Saturday in many places in Oromia and the capital, Addis Ababa.
+At the root of the recent demonstrations in Amhara is a request by representatives from the Welkait Amhara Identity Committee that their land, which is currently administered by the Tigray regional state, be moved into the neighbouring Amhara region.
+The Welkait committee says community members identify themselves as ethnic Amharas and say they no longer want to be ruled by Tigrayans.
+Amharas used to form the country's elite and the language, Amharic, remains the most widely spoken in the country.
+Source: CIA World Factbook estimates from 2007
+Observers say that Ethiopia's governing coalition is dominated by the party from the small Tigray region (TPLF), that led the guerrilla war against the military regime of Colonel Mengistu Haile Mariam. Some see both sets of protests as a way of criticising the country's government.
+There is no formal connection between the Amhara and Oromia demonstrations but at a recent protest in Gondar, banners could be seen expressing solidarity with people from the Oromia region.
+Oromo activists referred to the demonstrations in Amhara in their Facebook post calling for protests on the first weekend in August - when Amnesty International said that more than 100 people died - but highlighted the fact that they thought the protesters there had been treated more leniently.
+The central government, a close ally of the West, is in a very powerful position and has total control over the security forces.
+There is not a single opposition member in parliament, so it faces no real political threat.
+But its reaction to a big protest at the beginning of August suggests that it is worried:  It shut down the internet across the country for two days, fearing that was how the demonstrations were being organised.
+There is only one, state-controlled internet service provider so this was fairly straightforward.
+Prime Minister Hailemariam Desalegn then issued a veiled threat to protesters saying that the government was obliged to ensure the rule of law. But he did not specify what that meant in practice.
+He also appeared to be concerned that the country was sliding into ethnic conflict, which could become difficult to contain.
+----------------------------------------
+Article text: But he did not specify what that meant in practice.
+He also appeared to be concerned that the country was sliding into ethnic conflict, which could become difficult to contain.
+----------------------------------------
+Ground truth Summary: Ethiopia's Olympic marathon silver medallist Feyisa Lilesa crossed his hands above his head as he finished the race in Rio - bringing the world's attention to a wave of protests in his home country.
 ----------------------------------------
+Generated Summary: Russia's Foreign Minister Sergey Lavrov has said Moscow is ready to work with Syria's government to end the conflict.
 ----------------------------------------
 ----------------------------------------
-Article text: A Southern spokesman said: "On Friday they told their conductor members to accept a deal and then tomorrow they plan to strike against it
 ----------------------------------------
-Ground truth Summary: Southern is taking legal action to try to stop a series of strikes from Tuesday, the RMT transport union said.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in the uk, a court has said. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+All article text:Giants, who have failed to win any of their past eight league matches, were undone by Luke Waterworth's 76th-minute try in a topsy-turvy match.
+Shaun Robinson, Rhodri Lloyd, Connor Dwyer and Mike Butt also crossed for the part-time Lions, who have only won two league matches in 2017.
+Aaron Murphy and Sam Wood were among those to cross for Giants.
+Darnell McIntosh and Ollie Roberts also went over for the hosts, but the final whistle was met by boos from the home fans.
+Huddersfield were the second top-flight club to lose to Championship opponents in round five, following Hull KR's win over Leigh on Saturday.
+Elsewhere in the Challenge Cup on Sunday, Super League side Salford overcame Toronto Wolfpack 29-22.
+Dewsbury, Featherstone, Halifax and Barrow also won to book their places in Tuesday's sixth-round draw, which will be broadcast live on the BBC News Channel (18:30 BST).
+Swinton head coach John Duffy revealed after the game that his side only had 15 fit players on Saturday, before giving debuts to on-loan Wigan pair Josh Woods and Caine Barnes and out-of-contract Liam Carberry.
+"It was a massive achievement for the club but everything goes on the players and the medical staff today - nothing to do with the coaching staff," said Duffy.
+"I'd like to thank our medical staff for doing a great job over the last couple of weeks. They have turned it around for us and the boys really dug deep."
+Giants had gone into the break 18-16 ahead, after Murphy went over down the left, Wood cut inside to score and McIntosh finished a grubber kick.
+However, Rick Stone's side, without around 10 first-teamers, have only won twice all season in the top flight and cracks began to show as Dwyer's score helped put the visitors ahead for the second time in the match, having led 10-6 at one point during the first half.
+Giants were back in front when the ball was spread right to Roberts and he found a gap to score, before Waterworth crossed over to send the second-tier side through to the sixth round.
+Stone said: "The Championship is full of hardened pros who have been around the block and know know to win games, and we saw a bit of that today.
+"There's no denying that is a massive blow for us and everyone is very disappointed - you can feel it.
+"There were a few senior players out today and a few long-term injuries and those with niggles, but we had a good enough team out to win but we didn't."
+Huddersfield: McIntosh; Simpson, S Wood, Mellor, Murphy; Gaskell, Farrell; Rapira, Leeming, Mason, Smith, Roberts, Dickinson.
+Replacements: Wakeman, Ikahihifo, English, O'Brien.
+Swinton: White; Robinson, Hankinson, Lloyd, Butt; Woods, Atkin; Bracek, Waterworth, Lever, Dwyer, Jones, Austin.
+Replacements: Gore, Bate, Barnes, Carberry.
+Referee: Scott Mikalauskas
+----------------------------------------
+Article text: They have turned it around for us and the boys really dug deep."
+Giants had gone into the break 18-16 ahead, after Murphy went over down the left, Wood cut inside to score and McIntosh finished a grubber kick.
+However, Rick Stone's side, without around 10 first-teamers, have only won twice all season in the top flight and cracks began to show as Dwyer's score helped put the visitors ahead for the second time in the match, having led 10-6 at one point during the first half.
+Giants were back in front when the ball was spread right to Roberts and he found a gap to score, before Waterworth crossed over to send the second-tier side through to the sixth round.
+Stone said: "The Championship is full of hardened pros who have been around the block and know know to win games, and we saw a bit of that today.
+"There's no denying that is a massive blow for us and everyone is very disappointed - you can feel it.
+"There were a few senior players out today and a few long-term injuries and those with niggles, but we had a good enough team out to win but we didn't."
+Huddersfield: McIntosh; Simpson, S Wood, Mellor, Murphy; Gaskell, Farrell; Rapira, Leeming, Mason, Smith, Roberts, Dickinson.
+Replacements: Wakeman, Ikahihifo, English, O'Brien.
+Swinton: White; Robinson, Hankinson, Lloyd, Butt; Woods, Atkin; Bracek, Waterworth, Lever, Dwyer, Jones, Austin.
+Replacements: Gore, Bate, Barnes, Carberry.
+Referee: Scott Mikalauskas
+----------------------------------------
+Ground truth Summary: Championship side Swinton knocked Super League strugglers Huddersfield Giants out of the Challenge Cup fifth round.
+----------------------------------------
+Generated Summary: Catalans Dragons came from behind to beat Super League strugglers Huddersfield Giants and climb off the bottom of the table.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:A house and a number of cars in the city's Hazelbank area have been targeted in recent days.
+It is believed youths fill a drain pipe with mud before launching it like a catapult at homes and vehicles.
+Sinn Féin councillor Eric McGinley has called on those involved to stop immediately.
+"Apart from the mess which has been created, there is a very real danger that an accident will occur if passing cars are struck by this debris," said Mr McGinley,
+"When motorists are targeted it can cause damage to the car and could scare a driver into crashing, so there are very serious implications.
+"Drivers have been in touch telling us that these incidents were taking place over the weekend."
+Mr McGinley made a further appeal to parents in the area to be aware of where and what their children are up to.
+"These muck bombs are going to detract from the general appearance of the area," said Mr McGinley.
+"So, parents need to impress upon their children the dangers of their actions.
+"I've been in contact with the housing executive about this and they have given me assurances that the mess will be cleaned up as quickly as possible," he added.
+A spokesperson for the Housing Executive said: "There is a tenancy at this property and a number of issues have arisen, which we are currently working to resolve.
+"We have taken measures to protect our property."
 ----------------------------------------
+Article text: A house and a number of cars in the city's Hazelbank area have been targeted in recent days.
+It is believed youths fill a drain pipe with mud before launching it like a catapult at homes and vehicles.
+Sinn Féin councillor Eric McGinley has called on those involved to stop immediately.
+"Apart from the mess which has been created, there is a very real danger that an accident will occur if passing cars are struck by this debris," said Mr McGinley,
+"When motorists are targeted it can cause damage to the car and could scare a driver into crashing, so there are very serious implications.
+"Drivers have been in touch telling us that these incidents were taking place over the weekend."
+Mr McGinley made a further appeal to parents in the area to be aware of where and what their children are up to.
+"These muck bombs are going to detract from the general appearance of the area," said Mr McGinley.
+"So, parents need to impress upon their children the dangers of their actions.
+"I've been in contact with the housing executive about this and they have given me assurances that the mess will be cleaned up as quickly as possible," he added.
+A spokesperson for the Housing Executive said: "There is a tenancy at this property and a number of issues have arisen, which we are currently working to resolve.
+"We have taken measures to protect our property."
 ----------------------------------------
+Ground truth Summary: Drivers are being put in "very real danger" by youths throwing so-called muck bombs in Derry, says a local councillor.
 ----------------------------------------
+Generated Summary: Police are investigating after a number of cars and homes were hit by mud bombs in Londonderry.
 ----------------------------------------
-Article text: He ran from his mother's home in Bridge of Allan to nearby Dunblane, disguised in a beanie hat, and then visited the tennis courts where he watched a family game, before being recognised. Mrs Erskine said: "Andy went on court and hit with them
 ----------------------------------------
-Ground truth Summary: Andy Murray's grandparents say they have been left "upset" after receiving hate mail criticising the tennis star.
 ----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
 ----------------------------------------
+All article text:Selling animals under 8 weeks old has also been stopped under the new rule
+Katy Tang, one of the politicians who helped to bring in the ban, said that she did it because she doesn't think some pet stores spend enough time thinking about animals' health or well-being.
+She says sometimes puppies and kittens are not treated as well as they should be and animals can also be sold when they are very young - before they are ready to leave their parents.
+San Francisco isn't the first place in America to bring a rule like this in.
+A number of other cities in America - like Phoenix in Arizona and Montgomery County in Maryland - also have laws which mean cats and dogs being sold in pet shops must come from rescue centres.
+In the UK, pet shops can't sell cats or dogs that are under 8 weeks old and the pet shops have to be given a license by the authorities in their area.
 ----------------------------------------
+Article text: Selling animals under 8 weeks old has also been stopped under the new rule
+Katy Tang, one of the politicians who helped to bring in the ban, said that she did it because she doesn't think some pet stores spend enough time thinking about animals' health or well-being.
+She says sometimes puppies and kittens are not treated as well as they should be and animals can also be sold when they are very young - before they are ready to leave their parents.
+San Francisco isn't the first place in America to bring a rule like this in.
+A number of other cities in America - like Phoenix in Arizona and Montgomery County in Maryland - also have laws which mean cats and dogs being sold in pet shops must come from rescue centres.
+In the UK, pet shops can't sell cats or dogs that are under 8 weeks old and the pet shops have to be given a license by the authorities in their area.
+----------------------------------------
+Ground truth Summary: San Francisco has brought in a new law saying that pet shops can only sell cats and dogs that come from rescue centres.
+----------------------------------------
+Generated Summary: San Francisco has become the first city in the US to ban the sale of puppies and kittens in pet stores.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:The 22-year-old, who won a silver medal for England at the 2014 Commonwealth Games, set a new British record in outdoor competition of 1.97m earlier this year.
+In her first column for the BBC Sport website she discusses her "job" as an athlete, family festivities and positive thinking.
+My job as a full-time athlete is far more immersive than a normal nine-to-five job - it's an entire lifestyle.
+My sporting ambitions shape almost every decision as I strive to build and maintain the ultimate physique for jumping high. It's my responsibility to nurture, protect and respect my body so that it can reward me with world-class performances.
+However, an equally vital aspect that often gets overlooked is the mental and emotional excellence required in order to truly fulfil one's potential. Just as I can't detach myself from my physical body and its needs, nor can I live anywhere but inside my own head and within my own set of emotions.
+Thus it's essential for my wellbeing that I learn to channel my thoughts and feelings in a positive and empowering direction so that success becomes more and more inevitable.
+At the moment we are in the middle of winter training, which is when we lay down the foundations for the next year in terms of fitness, strength and technique. It's the toughest part of the whole year and involves the highest volume of training and requires a diligent and steadfast approach.
+It's useful to have short and long-term goals and to keep them in mind as much as you can. In my case a short-term goal might be just to survive the next set of exercises and execute them to a great standard.
+Alternatively, I might focus on training as hard as possible for the next week, knowing that I have a recovery period coming up afterwards. This keeps my mind on the task in hand and stops me from getting lost in the sheer volume of training I have to contend with.
+Since high jump is very technical, it's imperative to keep the quality as high as possible, so this approach helps me to concentrate my effort rather than just getting through it and diluting the overall standard of work.
+In the long term, it's easy to imagine what my motivation is, with the World Indoor Championships, European Championships and Olympic Games just around the corner. I am so grateful that I have these incredible opportunities open to me and I am determined to make the absolute most of them.
+I also like to look back on past successes - and disappointments - to galvanise myself for future challenges.
+I make a conscious effort to see the positives in any situation and to take delight in even the simplest pleasures and the smallest successes. Every evening I also mentally run through the day's events and re-live the best moments in order to feel uplifted and energised for the next day.
+Small steps like this help to keep me habitually optimistic, resilient and grateful, which makes life a pleasure and in many ways feels like a success in itself, even without the sporting benefits.
+I am learning to appreciate that my body and mind are one integrated system and I need to listen to them both and cherish them equally. Think of it this way - it's hard to jump high if you have a grumbly ankle, but equally tough with a heavy heart.
+With the belief that anything is possible I feel empowered to pursue my dreams with everything I have got.
+I am really looking forward to spending some time with my family in a couple of weeks' time as they are so dear to me and I always miss them while I am in the Midlands training.
+The following month, it will be great to relax and recuperate a little over Christmas, secure in the knowledge that I will have conquered the toughest training challenges in the October-December period.
+In the new year, I have indoor competitions starting in January, which I am very excited about as they will be a chance to reap the benefits of all this hard work!
 ----------------------------------------
-----------------------------------------
-Article text: "
-Health Minister Mark Drakeford added: "Right across the United Kingdom there is a shortage of senior doctors to work in A&E departments and Wales is no exception
-----------------------------------------
-Ground truth Summary: A shortage of staff at Welsh hospital emergency departments is at "tipping point" and putting patient safety at risk, a top consultant has said.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the first time in the first time in the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: With Labour in favour and the Tories and Plaid Cymru voting against, the Liberal Democrats abstained, allowing the budget to pass. "This budget is more an attempt to make up for past underfunding than a genuine investment in our vital services," he said
-----------------------------------------
-Ground truth Summary: Most of the cuts that were planned for higher education have been reversed, the finance minister has announced, as the Welsh budget was passed.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the liberal democrats abstained has been jailed for the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Said Djinnit had been hosting talks between the governing party and those who do not want President Pierre Nkurunziza to stand for re-election
-----------------------------------------
-Ground truth Summary: UN envoy Said Djinnit has stepped down as mediator in the Burundi crisis - a demand of those opposed to the president's third-term bid.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the first time in the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Senate Democratic leader Harry Reid and his Republican counterpart, Mitch McConnell, were expected to brief their colleagues on Wednesday. The Senate's negotiations were initially put on hold on Tuesday to give House Republicans a chance to come up with a deal
-----------------------------------------
-Ground truth Summary: Frantic US political attempts to avert a federal debt default have pivoted back to the Senate after plans in the House of Representatives collapsed.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] st [PAD] because [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The Burnley-born goalkeeper, who has signed a two-year contract, has played for Scotland Under-21s and now hopes to impress head coach Gordon Strachan
-----------------------------------------
-Ground truth Summary: Ryan Fulton is hoping his switch from Liverpool to Hamilton Academical will eventually pay dividends with a full international call-up for Scotland.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a burnley - year - old man has been jailed for the first time in a two - year contract. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Patrick Sookhdeo, 68, of River Street, Pewsey, Wiltshire, is accused of one count of indecent assault on a woman aged 16 or over in Plaistow, east London, in 1977. 
-----------------------------------------
-Ground truth Summary: A man has been charged with carrying out a sexual assault on a woman almost 40 years ago.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been jailed for the first time in the first time in a woman who died. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The pressure group said it meant, in some cases, the board risked breaking the law. It outlined 13 'red' areas of risk, including:
-The concerns by the NWHA come as the board meets on Thursday to get the latest update on two inquiries into events at Glan Clwyd Hospital's Tawel Fan ward, which closed in 2013. "
-----------------------------------------
-Ground truth Summary: Campaigners have accused a health board of risking patient safety and failing to learn lessons from a mental health ward scandal.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with a man who died in the board risked club. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Talks in June between Iran and the P5+1 - the US, UK, France, China, Russia and Germany - ended without a breakthrough. "
-"We are awaiting the result of the six powers' assessment
-----------------------------------------
-Ground truth Summary: EU foreign affairs representative Catherine Ashton has held talks with Iran's chief nuclear negotiator, Saeed Jalili, in a bid to end the stand-off over the Iranian nuclear programme.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a us - year - old man has been jailed for the us, a court has said. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Hammers manager Slaven Bilic said earlier this month that Payet did not want to play for the club, but added the 29-year-old would not be sold. Payet joined West Ham from Marseille for £10. 
-----------------------------------------
-Ground truth Summary: West Ham forward Dimitri Payet is set to rejoin former club Marseille after the clubs agreed a £25m fee.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with a man who died in the club's payet. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] 20 [PAD] because [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Fighting between rival forces in July left hundreds of people dead less than a year after a peace deal was signed. More on South Sudan's crisis:
-Following UN pressure last week, President Kiir has now agreed to the deployment of a 4,000-strong regional protection force for Juba which would have a more robust mandate than the 12,000 UN soldiers already in the country, however the mandate and size of the force still have to be agreed
-----------------------------------------
-Ground truth Summary: More than 100 fighters loyal to South Sudan's sacked vice-president have been found "in extremely bad shape" by the UN in the Democratic Republic of Congo.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been charged with the first time in the country's un. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: Similarly a container coming at your windscreen will make you duck. He said: "In amongst rubbish you will always find a baby's dummy and know that it's unlikely that its mother wanted that littered
-----------------------------------------
-Ground truth Summary: Car owners in London will face fines of up to £100 if someone drops litter from their vehicles, under a law change.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the season. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The charges include rape, attempted rape, child prostitution, child pornography and drug charges linked to boys from Leicester and Coventry
-----------------------------------------
-Ground truth Summary: Ten men from London and the Midlands have been charged with child sexual exploitation offences against two boys.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died after a man has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: The letter, coordinated by the British Refugee Council, asks Mr Cameron to show a "new resolve" to deal with the crisis, which saw nearly 4,000 people drown last year and hundreds of thousands more face danger and hardship while fleeing violence
-----------------------------------------
-Ground truth Summary: David Cameron's response to the refugee crisis is "clearly inadequate", leading aid and refugee agencies claim.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of a man who died in a new - year - old man has been jailed. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
-----------------------------------------
-----------------------------------------
-----------------------------------------
-----------------------------------------
-Article text: "What they are doing is outrageously silly and dangerous - there is no way that they are able to see the road properly through a gap of that size
-----------------------------------------
-Ground truth Summary: A motorist was filmed driving with the windscreen almost completely obscured by snow in Aberdeenshire.
-----------------------------------------
-Generated Summary: [PAD] [CLS] a man has been arrested on suspicion of the first time in the first time in the uk. [SEP] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [PAD] [unused0]
+Article text: This keeps my mind on the task in hand and stops me from getting lost in the sheer volume of training I have to contend with.
+Since high jump is very technical, it's imperative to keep the quality as high as possible, so this approach helps me to concentrate my effort rather than just getting through it and diluting the overall standard of work.
+In the long term, it's easy to imagine what my motivation is, with the World Indoor Championships, European Championships and Olympic Games just around the corner
+----------------------------------------
+Ground truth Summary: British high jumper Isobel Pooley is currently working towards a place in Team GB's squad for the 2016 Rio Olympics.
+----------------------------------------
+Generated Summary: It's been a busy couple of months for me, but I've been able to keep my focus on the task at hand.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Households were sent a leaflet giving "three reasons to back Beverley Nielsen for West Midlands Labour mayor".
+One reason not to do so would be that Ms Nielsen was actually standing for the Liberal Democrats.
+A campaign spokesman said the leaflet had been created by the local party - the Hall Green group.
+Read more Birmingham and Black Country stories
+Ms Nielsen said: "This leaflet was home published by a volunteer, not professionally published. It's clearly a mistake that is embarrassing to the person who made it, so we're not going to investigate further or name and shame.
+"Our mayoral campaign relies heavily on volunteers and doesn't have the luxury of the big budget funding that some of the other candidates have, so I'm very grateful that supporters are contributing their time and effort in the Lib Dem fight back."
+Other candidates include Graham Stevenson (Communist Party), Andy Street (Conservatives), James Burn (Green), Sion Simon (Labour) and Pete Durnell (UKIP).
+They are bidding to become the first elected mayor of the West Midlands, leading the Combined Authority.
+The polls open on 4 May.
+----------------------------------------
+Article text: Households were sent a leaflet giving "three reasons to back Beverley Nielsen for West Midlands Labour mayor".
+One reason not to do so would be that Ms Nielsen was actually standing for the Liberal Democrats.
+A campaign spokesman said the leaflet had been created by the local party - the Hall Green group.
+Read more Birmingham and Black Country stories
+Ms Nielsen said: "This leaflet was home published by a volunteer, not professionally published
+----------------------------------------
+Ground truth Summary: A Lib Dem mayoral candidate was mistakenly billed in campaign material as standing for Labour.
+----------------------------------------
+Generated Summary: The Labour candidate for West Midlands mayor has apologised after a leaflet was sent to voters urging them to support her.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:AFB was confirmed at the apiary at Scaniport, near Inverness, on Friday.
+There is no permitted treatment in the UK for the disease, which kills bee larvae.
+The Scottish government said there was a ban in place on the movement of bees and related equipment from the affected area.
+----------------------------------------
+Article text: AFB was confirmed at the apiary at Scaniport, near Inverness, on Friday.
+There is no permitted treatment in the UK for the disease, which kills bee larvae.
+The Scottish government said there was a ban in place on the movement of bees and related equipment from the affected area.
+----------------------------------------
+Ground truth Summary: A hive of honey bees has been destroyed at an apiary in the Highlands after the insects were found to be infected with the disease, American Foulbrood (AFB).
+----------------------------------------
+Generated Summary: A fatal bee disease has been confirmed at an apiary in the Scottish Highlands.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Grant is one of a number of voices to criticise the playing surfaces in Gabon and he declared "five injuries so far have been down to the pitch".
+The Israeli added: "The main actors are the players and we need to give them the stage to perform well.
+"The organising committee should change the rules to let teams replace players who got injured due to the pitch."
+Grant highlighted the problem facing Group D rivals Egypt, who have only veteran stopper Essam El Hadary available after injuries to Ahmed El Shenawy and Sherif Ekramy but under tournament regulations cannot call up another goalkeeper to their squad.
+"Two of Egypt's goalkeepers got injured due to the pitch. It is not their fault and not fair to them," Grant said.
+"We cannot change the pitch now so let Egypt bring in another goalkeeper. They cannot stay with one 'keeper, even if we have to play against them, it's not sporting."
+Tunisia defender Syam Ben Youssef believes the playing surface in Libreville - one of four pitches being used in Gabon - is so bad that his side will have to change their style when they face Zimbabwe there for their final Group B match.
+So far the Carthage Eagles have played both their matches in Franceville, which is seen as the best of the four pitches.
+"Of course (it will affect us) I think we have technical players we like to play," Ben Youssef said.
+"But it's usual for us to play in Africa on bad pitches so we have to win and not care about the pitch."
+Burkina Faso midfielder Adama Guira is also unhappy with the state of the pitches - but resigned to it at the same time.
+After the Stallions' 1-1 draw with hosts Gabon in Libreville on Wednesday, he warned that players need to be careful in the conditions.
+"To be honest it is very hard to play on that kind of a field because you can't control your running and stopping so it's difficult," he said.
+"But we are in Africa and we are Africans so we'll do our best for our country."
+Pitches are just about thinking and having the money - Caf must think about it
+It is not just the pitch at the Stade de l'Amitie in Libreville that has been criticised. Mali's Bakary Sako was less than impressed with the surface in Port-Gentil after his side's goalless draw with Egypt.
+"The pitch is horrendous it's really tough to control the ball, to drive with the ball, everything is tough," said the midfielder who plays his club football for Crystal Palace.
+"You have to be focussed 100% but it is the same for both teams so we have to get on with it."
+It is a problem that is not confined to the Nations Cup according to Grant, who revealed he was taken aback by the pitches when he first arrived in Africa as Ghana coach in November 2014.
+"Africa has great champions but you can't play on these pitches," he told BBC Sport.
+"I think when I came to Africa the first thing I was very very surprised about - and not in a good way - was the quality of the pitches.
+"That's why I admire the local league and the local players - they are paid $100 a month, sometimes they aren't even paid, and the pitches are not so good.
+"Eighty-two per cent of the injuries are ankle injuries and they are giving everything. You see the passion, I admire them really. The next target should be good pitches."
+Former Cameroon international goalkeeper Joseph-Antoine Bell believes the continent's governing body, the Confederation of African Football (Caf), must address the issue.
+"If the game is not attractive because of the pitch it means something," he told the BBC's World Football programme.
+"Pitches are just about thinking and having the money - Caf must think about it.
+"Africa likes to be told 'oh you have tried', but its not about doing your best it's about being the best."
+However, it does not appear as though Caf is going to take any action soon, judging by comments made by Khalilou Fadiga, a former Senegal international now on Caf's technical and development committee.
+"Let the players not expect the pitches in Africa to be like those in Europe," Fadiga said on Friday.
+----------------------------------------
+Article text: The next target should be good pitches."
+Former Cameroon international goalkeeper Joseph-Antoine Bell believes the continent's governing body, the Confederation of African Football (Caf), must address the issue.
+"If the game is not attractive because of the pitch it means something," he told the BBC's World Football programme.
+"Pitches are just about thinking and having the money - Caf must think about it.
+"Africa likes to be told 'oh you have tried', but its not about doing your best it's about being the best."
+However, it does not appear as though Caf is going to take any action soon, judging by comments made by Khalilou Fadiga, a former Senegal international now on Caf's technical and development committee.
+"Let the players not expect the pitches in Africa to be like those in Europe," Fadiga said on Friday.
+----------------------------------------
+Ground truth Summary: Ghana coach Avrant Grant believes the poor pitches at the Africa Cup of Nations are damaging the players.
+----------------------------------------
+Generated Summary: The pitch at the 2018 World Cup in Russia has been described as "horrendous" by a former Cameroon international.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Media playback is not supported on this device
+Midfielder Stefano Mauri, 32, was held along with former Genoa midfielder Omar Milanetto, police said.
+Juventus coach Antonio Conte, who just led the club to the Serie A title in his first season in charge, is among those being questioned by police.
+Officers also visited Italy's pre-Euro 2012 training camp to question left-back Domenico Criscito, 25.
+Police are searching more than 30 homes, including those of players, trainers and administrators of clubs in Serie A, Serie B and lower divisions.
+For many months now this investigation into match-fixing in the Italian game has been widening and deepening. While up to now much of the suspicion has fallen on teams and players in the lower divisions of the game, the prestigious Serie A is increasingly being drawn into the scandal. None of this will come as any great surprise to those who are following this scandal closely. More painful and damaging, allegations and revelations lie ahead. Of course the fans hate it all, but many will continue to believe that the great bulk of players are clean. And some will argue that at least Italy is trying to tackle the match-fixing issue - while leagues in other countries may be choosing to look away.
+Five people were also arrested in Hungary on suspicion of being part of an illegal international betting ring.
+Police said Conte was being investigated on suspicion of sporting fraud and fraudulent association over allegations concerning a match between his previous club Siena and Novara in April 2011.
+However Conte's lawyer, Antonio De Rencis, said: "Conte's reaction is that of someone who is completely innocent and strongly determined to prove his total innocence."
+Later on Monday Italian football federation vice president Demetrio Albertini announced that Cristico, a former Genoa and Juventus defender who is now at Zenit St Petersburg in Russia, would not be selected for Euro 2012 'in order to clear his name'.
+"We are disappointed but we have to remain close to the player," Albertini said. "Arrests have been made today but until proven otherwise, we are talking about innocent people even though they are considered suspects.
+"I know Domenico and he is incredulous. He is an extraordinary guy and he has already seen his lawyers this morning. It is a strange day for us.
+"These are things that we would not like to have had to go through."
+Monday's operation was part of a wider investigation which has already seen a number of arrests of current and former Italian players. In June last year, the Interior Ministry set up a special match-fixing task force in response to a number of high-profile cases.
+Juventus defender Leonardo Bonucci has also been linked to match-fixing in testimony from a probe in Bari, where he used to play, but is not under formal investigation and will go to the tournament in Ukraine and Poland.
+Former Atalanta captain and Italy midfielder Cristiano Doni was banned for three-and-a-half years in August for his part in the 'Calcioscommesse' scandal involving Serie B matches last season. He was also arrested in December 2011 over match-fixing and betting allegations.
+Atalanta, promoted from Serie B, were deducted six points in the top flight this season as a result of the scandal.
+Former Lazio and Italy striker Giuseppe Signori was banned for five years and 15 other players were banned for between one and five years for their parts.
+Mauri, who joined the Rome club from Udinese in 2006 and has 11 caps for Italy, made 16 league appearances last season as Lazio finished fourth in Serie A.
+Milanetto, 36, signed for Serie B side Padova last summer after five years at Genoa and made 15 starts last season.
+----------------------------------------
+Article text: He was also arrested in December 2011 over match-fixing and betting allegations.
+Atalanta, promoted from Serie B, were deducted six points in the top flight this season as a result of the scandal.
+Former Lazio and Italy striker Giuseppe Signori was banned for five years and 15 other players were banned for between one and five years for their parts.
+Mauri, who joined the Rome club from Udinese in 2006 and has 11 caps for Italy, made 16 league appearances last season as Lazio finished fourth in Serie A.
+Milanetto, 36, signed for Serie B side Padova last summer after five years at Genoa and made 15 starts last season.
+----------------------------------------
+Ground truth Summary: The captain of Lazio has been arrested by police investigating claims of match-fixing.
+----------------------------------------
+Generated Summary: Lazio midfielder Stefano Mauri has been banned for two years for his role in the match-fixing scandal at Atalanta.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Claim: Leaving the EU would make an average holiday for four people to the EU £230 more expensive in two years.
+Reality Check verdict: It would be reasonable to expect a weaker pound to make foreign holidays more expensive, but it is hard to predict a precise figure.
+Actually, only the starting point of this analysis comes from the Treasury - Monday's document from the Treasury predicted that if we left the EU, the pound would be 12% weaker in two years than it would have been if we had stayed in.
+The 12% figure is not excessive compared with other predictions.
+Some banks have been forecasting much more severe declines in sterling if the UK leaves the EU.
+The next step was to get the Office for National Statistics to work out the average cost of a holiday for four to various destinations, based on the International Passenger Survey.
+Then, you work out how much extra that holiday would cost if the pound was worth 12% less.
+And the result you get is that the average eight-day stay in the EU for four people (that's any group of four, not necessarily a family) would cost an extra £230 due to currency movements.
+In addition to the currency effect, the release from Downing Street also refers to the chances of air fares increasing following a Brexit, which the Reality Check team has considered before.
+We concluded that leaving the EU could lead to an increase in fares, but that the impact could be reduced or even avoided depending on what agreements the UK reached with the EU and other countries.
+The release also refers to the cost of mobile phone calls if roaming fees are not abolished.
+From next year, mobile phone roaming charges will be abolished across the EU, saving UK customers up to 38p per minute on calls.
+But if Britain left the EU, it is possible the UK and Brussels could agree a new deal.
+Read more: The facts behind claims in the EU debate
+----------------------------------------
+Article text: Claim: Leaving the EU would make an average holiday for four people to the EU £230 more expensive in two years.
+Reality Check verdict: It would be reasonable to expect a weaker pound to make foreign holidays more expensive, but it is hard to predict a precise figure.
+Actually, only the starting point of this analysis comes from the Treasury - Monday's document from the Treasury predicted that if we left the EU, the pound would be 12% weaker in two years than it would have been if we had stayed in.
+The 12% figure is not excessive compared with other predictions.
+Some banks have been forecasting much more severe declines in sterling if the UK leaves the EU.
+The next step was to get the Office for National Statistics to work out the average cost of a holiday for four to various destinations, based on the International Passenger Survey.
+Then, you work out how much extra that holiday would cost if the pound was worth 12% less.
+And the result you get is that the average eight-day stay in the EU for four people (that's any group of four, not necessarily a family) would cost an extra £230 due to currency movements.
+In addition to the currency effect, the release from Downing Street also refers to the chances of air fares increasing following a Brexit, which the Reality Check team has considered before.
+We concluded that leaving the EU could lead to an increase in fares, but that the impact could be reduced or even avoided depending on what agreements the UK reached with the EU and other countries.
+The release also refers to the cost of mobile phone calls if roaming fees are not abolished.
+From next year, mobile phone roaming charges will be abolished across the EU, saving UK customers up to 38p per minute on calls.
+But if Britain left the EU, it is possible the UK and Brussels could agree a new deal.
+Read more: The facts behind claims in the EU debate
+----------------------------------------
+Ground truth Summary: Prime Minister David Cameron has warned: "If we were to leave, and the pound were to fall, which is what most people expect and what the Treasury forecast, that would put up the cost of a typical holiday for a family of four to a European destination by £230."
+----------------------------------------
+Generated Summary: Leave.EU, the group campaigning for Britain to leave the European Union, has claimed that leaving the EU would make foreign holidays more expensive.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Media playback is not supported on this device
+The story of how the clubs intertwine is well documented but takes its roots from 2002, when second-tier side Wimbledon were without a permanent home and deep in financial uncertainty.
+A consortium led by Pete Winkelman decided to take the club from south London to Milton Keynes, Buckinghamshire - after having the controversial move approved by an independent commission.
+Since then a lot of water has passed under the bridge and neither side can agree on everything that actually happened.
+But what is true is that the club set up by Wimbledon supporters 14 years ago in protest to the move now finds itself in the same division as Winkelman's MK Dons.
+More than that, the phoenix club AFC Wimbledon are above MK Dons in the League One table ahead of their first-ever league meeting.
+They have played against each other in the FA Cup, League Cup and Football League Trophy - but there is something different about a league match. So BBC Sport wanted to find out what fans of both clubs feel going into Saturday's match at Stadium:MK.
+Media playback is not supported on this device
+A win could take AFC Wimbledon into the third-tier promotion places - but even a match of this importance cannot tempt some into travelling north for the game.
+Simon Wheeler, chairman of Wimbledon Independent Supporters' Association, has proclaimed he will never set foot in Stadium:MK, even organising boycotts for teams other than AFC Wimbledon playing in Milton Keynes between 2003 and 2006.
+Wheeler, who has met Winkelman on a number of occasions, is one of several AFC fans wanting MK Dons to drop the final part of their name, but insists it is up to individual fans whether or not they choose to go to the match.
+"Initially with the FA Cup game [the first meeting in 2012], MK were making a big thing about it and trying to build up a rivalry," he told BBC Sport.
+"Us Wimbledon supporters were saying it's not a rivalry; they have done a lot of damage, caused a lot of pain and done a lot wrong with the way they got their formation.
+"Now we are in the same league as them, we are competitive in that league and, more importantly, above them.
+"They are effectively having a club set up by the fans, because of the theft of Wimbledon's Football League place, sitting above them in the same league as them. It must be incredibly embarrassing."
+A prominent feeling among AFC Wimbledon fans is to question why Winkelman did not start with a club in non-league and, like them, work their way up.
+AFC began in the Combined Counties League in 2002, after trialling players on Wimbledon Common, and 14 years later find themselves in League One.
+"They were presented with a place in the Championship, a brand new stadium and an eight-division head start over us, all on a plate," said AFC Wimbledon season-ticket holder Chris West, another who will not be going to the game.
+"Catching them up so quickly just shows what can be done when a community club pulls together and how, despite his promises of creating a festival of football in Milton Keynes, Winkleman has squandered the opportunity he was presented with."
+Ever since the move to Milton Keynes and the 30,000-seater Stadium:MK, Winkelman has emphasised a style of football some would say is the antithesis of Wimbledon FC's trademark physicality.
+The club also prides itself on its youth policy, bringing through the Tottenham and England midfielder Dele Alli, Milton Keynes-born and all.
+Still the feeling towards the club runs deep in some quarters.
+However, when the club made the move to Buckinghamshire, some Wimbledon FC fans followed. Dom Damesick was one of those.
+The Wimbledon season-ticket holder was 12 when the club made the journey up the M1, and felt "the logical thing" would be to follow them, encouraging his parents to come with him when they could get there from their home in Surrey.
+"I don't really remember having a conversation about it like 'what's going to happen now?'," he said.
+"When the move happened I was 12. Then, especially as my parents weren't particular big football fans, my interest was in the team. You idolise the players you grow up watching and that team moved to Milton Keynes, so it felt like a natural continuation to follow them.
+"Now I'm older and understand more about the importance of a football club to a local community, I think if the move happened now it would give me more pause for thought.
+"But, having said that, Wimbledon was a failed football club and going out of business. Milton Keynes gave that football club a chance to have a second life. I don't think it's the same football club, in the same way I don't think AFC Wimbledon is the Wimbledon FC."
+Damesick became a MK Dons season-ticket holder in his late teens and insists there is no denying there is a rivalry between the two clubs, even if it is "unconventional".
+He says he knows of around 100 fans who have made the same switch of allegiances as he did, and hopes people would not begrudge him supporting the club, in the same way he does not begrudge AFC fans.
+"I don't think the people that go and watch MK are the reason that Wimbledon ceased to be," he added.
+"I suppose you could say if people hadn't gone to watch MK Dons then the move would have failed, but that wouldn't have brought Wimbledon back. There's a needless spite.
+"I think there are greater evils in modern football like people staying at home and watching on TV rather than going out and supporting local lower-league football, corruption in football, the amount of money at the top of the game and people getting priced out of seeing their team.
+"These are much more damaging to football in this country than people having local football put on their doorstep and going out and watching that."
+Not all AFC Wimbledon fans have decided to forgo the trip to Buckinghamshire.
+Season-ticket holder Steve Dowse grew up close to Plough Lane and will be one of an estimated 2,000 AFC fans in Stadium:MK to see his side face a team "with a silly name", as he puts it.
+"I can't see MK as just another club - they stole our league place," said 47-year-old Dowse, who remembers Wimbledon FC's Southern League days in the 1970s.
+"I didn't go to previous cup games on principle. My sons are keen to go this time and I'll be going with them.
+"This will be the first league meeting between us and I'm looking forward to reminding them that, whatever the result, we're currently above them in the league.
+"We've achieved this the right way, working our way up the pyramid. Perhaps if MK had done that, I might have some respect for them."
+The move to Milton Keynes, a new town of around 200,000 in 2003, introduced a totally new set of fans to a local Football League team, including MK Dons season-ticket holder Liam O'Brien, who now writes a blog about the side.
+O'Brien has defended Winkelman in the face of accusation by AFC fans, after, in his eyes, saving a club playing away from its spiritual Plough Lane home and struggling financially.
+"The fact is, Wimbledon were most likely going to collapse anyway," said O'Brien. "There was no home for them. Fans were becoming increasingly frustrated about playing their games in Crystal Palace.
+"So Pete Winkelman came along, suggested the move to Milton Keynes, and many agreed with him. Milton Keynes was viewed as the ideal place to move the club, with a vision to build a state-of-the-art stadium."
+And how is the boycott by some AFC Wimbledon fans seen by an MK Dons supporter?
+"Fans should be supporting their club whoever they play regardless of their views on the other team," said Valmik Devchand from MK Dons Fan TV.
+"Given the form that AFC Wimbledon are in, it is likely that they can get a good result against fierce rivals, so boycotting the game because of past events seems inappropriate."
+With all the conjecture surrounding the match, it is almost easy to forget there is 90 minutes of football to be played.
+"If you're looking at this one on paper and focus on current form then AFC will win," said BBC Three Counties Radio commentator Luke Ashmead.
+"The visitors have been defeated just once in 13 league games, not lost away from home in the league since the opening day of the season, and are just outside the play-offs courtesy of goal difference.
+"Conversely, MK Dons are 19th, have recorded just one win in nine, and still haven't seen three points from a home game in the league this season.
+"Games like this, though, have a tendency to turn that paper we often like to play the game on into the type of material dropped in a pink Milton Keynes recycling sack."
+----------------------------------------
+Article text: I don't think it's the same football club, in the same way I don't think AFC Wimbledon is the Wimbledon FC."
+Damesick became a MK Dons season-ticket holder in his late teens and insists there is no denying there is a rivalry between the two clubs, even if it is "unconventional".
+He says he knows of around 100 fans who have made the same switch of allegiances as he did, and hopes people would not begrudge him supporting the club, in the same way he does not begrudge AFC fans.
+"I don't think the people that go and watch MK are the reason that Wimbledon ceased to be," he added.
+"I suppose you could say if people hadn't gone to watch MK Dons then the move would have failed, but that wouldn't have brought Wimbledon back
+----------------------------------------
+Ground truth Summary: Two teams that need no introduction to each other are AFC Wimbledon and MK Dons.
+----------------------------------------
+Generated Summary: A man who switched allegiances from AFC Wimbledon to MK Dons has told BBC Sport he does not regret his decision.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:In March 2015 the Ulster Unionists proudly unveiled a pact with the DUP covering four constituencies.
+Mike Nesbitt said the aim was to "get the pro union vote out".
+The SDLP denounced the tactic as a "sectarian carve up".
+In February 2017, the Ulster Unionist leader told the BBC's Sunday Politics that he would be giving the SDLP candidate in East Belfast his second preference.
+The SDLP leader Colum Eastwood didn't return the favour quite so emphatically, but did tell Mark Carruthers he would be giving the Ulster Unionists a transfer vote at some unspecified point on his ballot paper in Foyle.
+So what's changed?
+First, Westminster elections, where the winner takes it all, are a different beast from Assembly polls.
+In a Stormont contest, voters get multiple chances to influence the outcome.
+Moreover, in the intervening two years we have seen both the Ulster Unionists and the SDLP moving into official opposition mode.
+The Ulster Unionist leader has loudly proclaimed his "Vote Mike, Get Colum" strategy.
+Then to cap it all the DUP Sinn FÃ©in led executive fell apart amidst mutual recriminations over the grossly mismanaged Renewable Heat Incentive scheme.
+If this election really is, as Mike Nesbitt would like to portray it, a referendum on the RHI scandal, then no-one should be surprised.
+Why shouldn't the opposition advise its voters to back their respective parties with the aim of pushing the old governing partners out, or at least weakening their hand in future negotiations?
+However Northern Ireland elections are never that simple.
+Traditional unionist and nationalist voting habits die hard.
+In some seats Mr Nesbitt's candidates will no doubt be living in hope that the generosity of other unionists will see them returned in the later stages of a count.
+In this context, it's easy to understand the decision by the veteran Newry and Armagh MLA Danny Kennedy to advise his voters to transfer to other unionists, even if it does jar with his leader's attitude.
+So the DUP and TUV have been quick to accuse the Ulster Unionist leader of being - as Arlene Foster puts it in the Belfast Telegraph - "personally supportive of voting in a way that helps to elect nationalists, who will take their election as an endorsement of support for their United Ireland position".
+Mike Nesbitt replies that the RHI scandal was not an "orange" or "green" issue and that it wouldn't make sense for him to back a DUP candidate in whom he has no confidence, like the outgoing Stormont Speaker Robin Newton.
+So is this election a referendum on the Renewable Heat Incentive, a chance to pick your negotiators for wider talks on issues like Brexit and the Troubles' legacy, or - like so many past elections - a mini border poll?
+Come 3 March we shall be able to judge the answer a little better by analysing not just the voters' first choices, but also by looking to see whose advice they take on where their later preferences should go.
+----------------------------------------
+Article text: In March 2015 the Ulster Unionists proudly unveiled a pact with the DUP covering four constituencies.
+Mike Nesbitt said the aim was to "get the pro union vote out".
+The SDLP denounced the tactic as a "sectarian carve up".
+In February 2017, the Ulster Unionist leader told the BBC's Sunday Politics that he would be giving the SDLP candidate in East Belfast his second preference.
+The SDLP leader Colum Eastwood didn't return the favour quite so emphatically, but did tell Mark Carruthers he would be giving the Ulster Unionists a transfer vote at some unspecified point on his ballot paper in Foyle.
+So what's changed?
+First, Westminster elections, where the winner takes it all, are a different beast from Assembly polls.
+In a Stormont contest, voters get multiple chances to influence the outcome.
+Moreover, in the intervening two years we have seen both the Ulster Unionists and the SDLP moving into official opposition mode.
+The Ulster Unionist leader has loudly proclaimed his "Vote Mike, Get Colum" strategy.
+Then to cap it all the DUP Sinn FÃ©in led executive fell apart amidst mutual recriminations over the grossly mismanaged Renewable Heat Incentive scheme.
+If this election really is, as Mike Nesbitt would like to portray it, a referendum on the RHI scandal, then no-one should be surprised.
+Why shouldn't the opposition advise its voters to back their respective parties with the aim of pushing the old governing partners out, or at least weakening their hand in future negotiations?
+However Northern Ireland elections are never that simple.
+Traditional unionist and nationalist voting habits die hard.
+In some seats Mr Nesbitt's candidates will no doubt be living in hope that the generosity of other unionists will see them returned in the later stages of a count.
+In this context, it's easy to understand the decision by the veteran Newry and Armagh MLA Danny Kennedy to advise his voters to transfer to other unionists, even if it does jar with his leader's attitude.
+So the DUP and TUV have been quick to accuse the Ulster Unionist leader of being - as Arlene Foster puts it in the Belfast Telegraph - "personally supportive of voting in a way that helps to elect nationalists, who will take their election as an endorsement of support for their United Ireland position".
+Mike Nesbitt replies that the RHI scandal was not an "orange" or "green" issue and that it wouldn't make sense for him to back a DUP candidate in whom he has no confidence, like the outgoing Stormont Speaker Robin Newton.
+So is this election a referendum on the Renewable Heat Incentive, a chance to pick your negotiators for wider talks on issues like Brexit and the Troubles' legacy, or - like so many past elections - a mini border poll?
+Come 3 March we shall be able to judge the answer a little better by analysing not just the voters' first choices, but also by looking to see whose advice they take on where their later preferences should go.
+----------------------------------------
+Ground truth Summary: If a week can be a long time in politics, then two years is an eternity.
+----------------------------------------
+Generated Summary: The SDLP has accused the Ulster Unionist Party of trying to "snatch" the SDLP's vote in East Belfast.
+----------------------------------------
+----------------------------------------
+----------------------------------------
+----------------------------------------
+All article text:Belper Town FC thought everyone would realise they were joking when they advertised their next match as being against the Spanish giants.
+But they received more than a dozen calls from people wanting tickets.
+Even the club's caterer was taken in and started panicking about what to cook the fictitious opponents.
+"I did have a bit of a panic myself because I thought 'blimey what can I feed these lads?" said Diane Collins.
+"They are all into carbs, protein and veg, not like pie and chips that our footballers get."
+After being told it was a joke, she said: "I was disappointed I wasn't going to see Ronaldo but never mind."
+Belper Town FC play in the North Premier League Division One South - the eighth tier of the English football pyramid.
+One of the club's directors, Mike Matthews, said: "Our view as directors is that Real Madrid would merely be the warm-up game for the true match tomorrow against Kidsgrove Athletic.
+"We are expecting a big crowd."
+The match was advertised last Tuesday and by the morning of 1 April the club had received 15 phone calls asking for tickets.
+Three people also asked Mr Matthews for tickets directly - and two of those were serious.
+"They were completely unaware of the date and the sheer unlikelihood of the world's most prestigious club visiting Christchurch Meadow," he said.
+----------------------------------------
+Article text: Belper Town FC thought everyone would realise they were joking when they advertised their next match as being against the Spanish giants.
+But they received more than a dozen calls from people wanting tickets.
+Even the club's caterer was taken in and started panicking about what to cook the fictitious opponents.
+"I did have a bit of a panic myself because I thought 'blimey what can I feed these lads?" said Diane Collins.
+"They are all into carbs, protein and veg, not like pie and chips that our footballers get."
+After being told it was a joke, she said: "I was disappointed I wasn't going to see Ronaldo but never mind."
+Belper Town FC play in the North Premier League Division One South - the eighth tier of the English football pyramid.
+One of the club's directors, Mike Matthews, said: "Our view as directors is that Real Madrid would merely be the warm-up game for the true match tomorrow against Kidsgrove Athletic.
+"We are expecting a big crowd."
+The match was advertised last Tuesday and by the morning of 1 April the club had received 15 phone calls asking for tickets.
+Three people also asked Mr Matthews for tickets directly - and two of those were serious.
+"They were completely unaware of the date and the sheer unlikelihood of the world's most prestigious club visiting Christchurch Meadow," he said.
+----------------------------------------
+Ground truth Summary: A non-league football club has been left red faced after an April Fools' Day joke about playing Real Madrid went wrong.
+----------------------------------------
+Generated Summary: A football club in Derbyshire has been forced to cancel a match against Real Madrid after it was revealed it was a joke.
 ----------------------------------------
 ----------------------------------------
 ----------------------------------------

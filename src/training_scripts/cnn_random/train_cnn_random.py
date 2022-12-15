@@ -17,6 +17,7 @@ import numpy as np
 
 
 
+#dataset that starts from a random point in the article
 class PegasusCNNDatasetRandom(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)

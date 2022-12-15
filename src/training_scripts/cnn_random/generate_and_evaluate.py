@@ -29,7 +29,7 @@ def create_model(model_name, max_length):
     model.config.max_length = max_length
     return model
 
-
+#dataset that starts from a random point in the article
 class PegasusCNNDataset(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'Train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)

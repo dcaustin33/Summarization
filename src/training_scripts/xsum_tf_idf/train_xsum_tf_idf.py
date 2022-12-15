@@ -14,6 +14,8 @@ from torch.utils.checkpoint import checkpoint_sequential
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 
+
+#dataset that uses tf-idf to sample sentences
 class XSumDatasetTfIdf(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -28,6 +30,8 @@ class XSumDatasetTfIdf(torch.utils.data.Dataset):
         result = self.tfidf.transform(text)
         result = result.toarray()
         all_results = []
+
+        #goes through sentences and gets the tf-idf score for each word and then averages them
         for i, sentence in enumerate(text):
             total = [0]
             for j, word in enumerate(sentence.split()):
@@ -35,6 +39,8 @@ class XSumDatasetTfIdf(torch.utils.data.Dataset):
                     idx = self.tfidf.vocabulary_[word]
                 else: continue
                 total.append(result[i][idx])
+
+            #add .0001 to avoid 0s
             all_results.append(np.mean(total) + .0001)
         all_results = np.array(all_results)
         probabilities = all_results / np.sum(all_results)
@@ -49,27 +55,25 @@ class XSumDatasetTfIdf(torch.utils.data.Dataset):
         text = [i.strip() for i in text]
         probabilities = self.get_probabiiities(text)
 
+        #sample sentences
         max_idx = max(1, len(text))
         choices = np.random.choice(self.indexes[:len(probabilities)], max_idx, replace = False, p = probabilities)
 
         current_size = 0
         counter = 0
+
+        #sample the sentences while not exceeding the max length
         while current_size < self.max_length and counter < max_idx:
             current_size += len(text[choices[counter]])
             counter += 1
 
+        #sorts in order to maintain order before concatenating
         choices = sorted(choices[:counter])
         final = list(np.array(text)[choices])
         text = '. '.join(final)
 
         summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
-
-#create the model
-def create_model(model_name, max_length):
-    model = PegasusForConditionalGeneration.from_pretrained(model_name)
-    model.config.max_length = max_length
-    return model
 
 #create the model
 def create_model(model_name, max_length):

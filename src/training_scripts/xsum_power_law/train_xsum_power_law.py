@@ -13,6 +13,8 @@ from logger import log_metrics
 from torch.utils.checkpoint import checkpoint_sequential
 import numpy as np
 
+
+#Pegasus Power law model for CNN/Daily Mail dataset that has an exponentially decreasing probability of choosing a sentence as given by the divisor
 class XSumDatasetPowerLaw(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', divisor = 2):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -20,6 +22,8 @@ class XSumDatasetPowerLaw(torch.utils.data.Dataset):
         self.dataset = load_dataset("xsum", split = split)
         self.max_length = max_length
         self.probability = np.ones(1000) * 1000000
+
+        #creates probability but then normalizes within the __getitem__ function
         for i, val in enumerate(self.probability):
             if i == 0: continue
             self.probability[i] = self.probability[i-1] / divisor
@@ -33,10 +37,13 @@ class XSumDatasetPowerLaw(torch.utils.data.Dataset):
         text = text.split('.')
         
         max_idx = max(1, len(text))
+        #normalizes and chooses the sentences in a random order essentially equivalent to shuffle
         choices = np.random.choice(self.indexes[:max_idx], max_idx, replace = False, p = self.probability[:max_idx] / self.probability[:max_idx].sum())
 
         current_size = 0
         counter = 0
+
+        #chooses the first n sentences that fit within the max length
         while current_size < self.max_length and counter < max_idx:
             current_size += len(text[choices[counter]])
             counter += 1
@@ -47,12 +54,6 @@ class XSumDatasetPowerLaw(torch.utils.data.Dataset):
 
         summary_text = self.dataset[idx]['summary']
         return {'article_text':text, 'summary_text': summary_text}
-
-#create the model
-def create_model(model_name, max_length):
-    model = PegasusForConditionalGeneration.from_pretrained(model_name)
-    model.config.max_length = max_length
-    return model
 
 #create the model
 def create_model(model_name, max_length):

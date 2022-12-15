@@ -18,6 +18,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 
 
+#dataset that selects sentences based on tf-idf probability
 class CNNTfIdf(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train'):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -28,6 +29,7 @@ class CNNTfIdf(torch.utils.data.Dataset):
         self.tfidf.fit(self.dataset['article'])
         self.indexes = np.arange(1000)
 
+    #function to get the tf-idf probability of each sentence
     def get_probabiiities(self, text):
         result = self.tfidf.transform(text)
         result = result.toarray()
@@ -39,8 +41,11 @@ class CNNTfIdf(torch.utils.data.Dataset):
                     idx = self.tfidf.vocabulary_[word]
                 else: continue
                 total.append(result[i][idx])
+            #add a small number to avoid 0 probabilities
             all_results.append(np.mean(total) + .0001)
         all_results = np.array(all_results)
+
+        #normalize
         probabilities = all_results / np.sum(all_results)
         return probabilities
 
@@ -58,6 +63,8 @@ class CNNTfIdf(torch.utils.data.Dataset):
 
         current_size = 0
         counter = 0
+
+        #selects sentences until the max length is reached
         while current_size < self.max_length and counter < max_idx:
             current_size += len(text[choices[counter]])
             counter += 1

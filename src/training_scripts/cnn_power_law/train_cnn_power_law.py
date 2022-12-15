@@ -17,6 +17,7 @@ import numpy as np
 
 
 
+#Pegasus Power law model for CNN/Daily Mail dataset that has an exponentially decreasing probability of choosing a sentence as given by the divisor
 class PegasusCNNPowerLaw(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', divisor = 2):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -24,6 +25,8 @@ class PegasusCNNPowerLaw(torch.utils.data.Dataset):
         self.dataset = load_dataset('cnn_dailymail', '3.0.0', split = split)
         self.max_length = max_length
         self.probability = np.ones(1000) * 1000000
+
+        #creates probability but then normalizes within the __getitem__ function
         for i, val in enumerate(self.probability):
             if i == 0: continue
             self.probability[i] = self.probability[i-1] / divisor
@@ -37,6 +40,8 @@ class PegasusCNNPowerLaw(torch.utils.data.Dataset):
         text = text.split('. ')
         
         max_idx = max(1, len(text))
+
+        #does a normalization and then uses that as the probability
         choices = np.random.choice(self.indexes[:max_idx], max_idx, replace = False, p = self.probability[:max_idx] / self.probability[:max_idx].sum())
 
         current_size = 0

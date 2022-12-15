@@ -30,6 +30,7 @@ def create_model(model_name, max_length):
     return model
 
 
+#dataset that takes the first sentences based on the number of sentences specified in first_selection and then a random point in the article
 class XSumDatasetNRandom(torch.utils.data.Dataset):
     def __init__(self, model_name = 'google/pegasus-large', max_length=256, split = 'train', first_selection = 1):
         self.tokenizer = PegasusTokenizer.from_pretrained(model_name)
@@ -43,12 +44,13 @@ class XSumDatasetNRandom(torch.utils.data.Dataset):
 
     def __getitem__(self, idx):
         text = self.dataset[idx]['document']
-        text = text.split('. ')
+        text = text.split('.')
         
-        max_idx = max(1, len(text) - 3)
+        #max idx cannot be more than the length of text must have some other input
+        max_idx = max(1, len(text) - 1)
         final = text[:self.first_selection]
-        if args.first_selection < max_idx:
-            choice = np.random.randint(args.first_selection, max_idx)
+        if self.first_selection < max_idx:
+            choice = np.random.randint(self.first_selection, max_idx)
             final = final + text[choice:]
         text = '. '.join(final)
 
