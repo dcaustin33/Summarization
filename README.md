@@ -22,7 +22,7 @@ may be unclear. The training .py file implements a training step, validation ste
 those to the Trainer class which then runs the training step for the desired amount of steps (4k).
 
 ## Evaluating
-The generate_and_evaluate.py files are used to write generations to txt files for manual evaluation and record validation statistics and send
+The generate_and_evaluate.py files are used to write generations to .txt files for manual evaluation and record validation statistics and send
 them to Weights and Biases which are then reported in the paper. All that is needed is the data, loaded model and validation step which is then passed
 to the Evaluation wrapper which runs the validation step for the desired amount of steps (200).
 
