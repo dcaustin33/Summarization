@@ -19,7 +19,7 @@ export PYTHONPATH='../';
 #            --model_name google/pegasus-large \
 #            --batch_size 4 \
 #            --max_length 256 \
-#            --steps 2000 \
+#            --steps 4000 \
 #            --name Pegasus_CNN_BERT_256 \
 #            --log_n_train_steps 100 \
 #            --log_n_val_steps 400 \
@@ -34,7 +34,7 @@ export PYTHONPATH='../';
 #            --model_name google/pegasus-large \
 #            --batch_size 4 \
 #            --max_length 128 \
-#            --steps 2000 \
+#            --steps 4000 \
 #            --name Pegasus_CNN_BERT_128 \
 #            --log_n_train_steps 100 \
 #            --log_n_val_steps 400 \
