@@ -30,4 +30,4 @@ The .sh files are used for running consecutive scripts and contain the default a
 
 ## Data Downloading
 Data if not found on your local machine will be automatically downloaded when running the training scripts from the Hugging Face Libary and will
-be stored for future use.
+be stored for future use
